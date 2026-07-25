@@ -179,8 +179,11 @@ def render_license_summary(rows: list[dict]) -> str:
 
 
 def write_csv(path: Path, columns: list[str], rows: list[dict]) -> None:
+    # lineterminator="\n": the csv module defaults to CRLF per RFC 4180, but
+    # .gitattributes normalises *.csv to LF, so writing CRLF makes git warn on
+    # every commit. Emit LF directly instead.
     with path.open("w", newline="", encoding="utf-8") as fh:
-        writer = csv.DictWriter(fh, fieldnames=columns)
+        writer = csv.DictWriter(fh, fieldnames=columns, lineterminator="\n")
         writer.writeheader()
         for row in rows:
             flat = dict(row)

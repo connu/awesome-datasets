@@ -3,6 +3,7 @@
   "title": "Banking & Payments",
   "description": "Bank balance sheets, payment system volumes, interest rates, lending and financial stability indicators.",
   "countries": [
+    "br",
     "de",
     "us"
   ]

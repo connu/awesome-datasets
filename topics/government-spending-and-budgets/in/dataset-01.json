@@ -1,0 +1,21 @@
+{
+  "id": "union-budget-of-india",
+  "name": "Union Budget of India",
+  "topic": "government-spending-and-budgets",
+  "country": "in",
+  "url": "https://www.indiabudget.gov.in/",
+  "description": "The full annual union budget with demand-for-grants detail, expenditure profiles, receipts, subsidies and ministry-wise allocations in machine-readable form.",
+  "provider": "Ministry of Finance",
+  "formats": [
+    "PDF",
+    "XLSX",
+    "CSV"
+  ],
+  "size": "~2 GB per year",
+  "records": "Annual budgets with scheme-level allocations",
+  "license": "Government Open Data License - India",
+  "license_url": "https://www.data.gov.in/government-open-data-license-india",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Union Budget, Ministry of Finance, Government of India"
+}

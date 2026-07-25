@@ -1,0 +1,20 @@
+{
+  "id": "employment-tribunal-decisions",
+  "name": "Employment Tribunal Decisions",
+  "topic": "courts-and-legal",
+  "country": "gb",
+  "url": "https://www.gov.uk/employment-tribunal-decisions",
+  "description": "Full text of every published employment tribunal judgment, searchable by jurisdiction code, claimant, respondent and decision date.",
+  "provider": "HM Courts and Tribunals Service",
+  "formats": [
+    "PDF",
+    "HTML"
+  ],
+  "size": "~20 GB",
+  "records": "100,000+ published decisions since 2017",
+  "license": "Open Government Licence v3.0",
+  "license_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "HM Courts and Tribunals Service, Employment tribunal decisions"
+}

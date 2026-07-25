@@ -7,6 +7,7 @@ Part of [Awesome Datasets](../../README.md). Entries here are generated from the
 ## Contents
 
 - [Australia](#australia)
+- [United Kingdom](#united-kingdom)
 - [United States](#united-states)
 
 ## Australia
@@ -21,6 +22,19 @@ Part of [Awesome Datasets](../../README.md). Entries here are generated from the
   <br><sub>Bureau of Meteorology · CSV, WaterML 2.0, REST API · Multi-GB · 4,000+ monitoring sites · [CC BY 4.0](https://www.bom.gov.au/other/copyright.shtml) · Direct download · Commercial use permitted</sub>
 - [Digital Earth Australia](https://www.dea.ga.gov.au/) - Analysis-ready satellite imagery and derived products for the Australian continent, including surface reflectance, water observations and coastline change.
   <br><sub>Geoscience Australia · GeoTIFF, NetCDF, Zarr, STAC API · Petabyte-scale · Continental coverage from 1986 · [CC BY 4.0](https://www.ga.gov.au/copyright) · Direct download · Commercial use permitted</sub>
+
+## United Kingdom
+
+- [Met Office Data Services](https://www.metoffice.gov.uk/services/data) - The UK national weather service's data offering, including site-specific forecasts, atmospheric models, observations and climate averages.
+  <br><sub>Met Office · REST API, NetCDF, GRIB, CSV · Varies by product · National coverage with continuous updates · [Varies by product; open products under OGL v3.0](https://www.metoffice.gov.uk/policies/legal) · Free account required · Commercial use: check terms</sub>
+- [Met Office Hadley Centre Observations](https://www.metoffice.gov.uk/hadobs/) - The HadCRUT global temperature record, HadISST sea surface temperatures and related long-run climate datasets used in IPCC assessments.
+  <br><sub>Met Office Hadley Centre · NetCDF, ASCII, CSV · ~50 GB · Global series from 1850 · [Open Government Licence v3.0 for most datasets](https://www.metoffice.gov.uk/hadobs/) · Direct download · Commercial use: check terms</sub>
+- [CEDA Archive](https://archive.ceda.ac.uk/) - The UK's atmospheric and earth observation data centre, hosting MIDAS surface observations, radar, satellite products and climate model output.
+  <br><sub>Centre for Environmental Data Analysis · NetCDF, CSV, HDF, BADC-CSV · Multi-petabyte · Thousands of datasets including 100+ years of station data · [Varies by dataset; many under OGL v3.0](https://archive.ceda.ac.uk/) · Free account required · Commercial use: check terms</sub>
+- [Environment Agency Real Time Flood Monitoring API](https://environment.data.gov.uk/flood-monitoring/doc/reference) - Live river levels, rainfall and tidal readings from thousands of Environment Agency gauges, plus current flood warnings, through a free unauthenticated API.
+  <br><sub>Environment Agency · REST API, JSON, CSV, RDF · API with historical archive · 5,000+ measurement stations · [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) · Direct download · Commercial use permitted</sub>
+- [Met Office HadUK-Grid](https://www.metoffice.gov.uk/research/climate/maps-and-data/data/haduk-grid/haduk-grid) - Gridded UK climate observations at 1 km resolution covering temperature, rainfall, sunshine and wind, interpolated from the station network.
+  <br><sub>Met Office · NetCDF, CSV · ~20 GB · Monthly and daily grids from 1836 · [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) · Free account required · Commercial use permitted</sub>
 
 ## United States
 

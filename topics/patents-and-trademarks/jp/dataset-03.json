@@ -1,0 +1,21 @@
+{
+  "id": "inpit-ip-data-services",
+  "name": "INPIT IP Data Services",
+  "topic": "patents-and-trademarks",
+  "country": "jp",
+  "url": "https://www.inpit.go.jp/english/",
+  "description": "Bulk and API distribution of Japanese patent, design and trademark data for research and commercial IP analytics platforms.",
+  "provider": "National Center for Industrial Property Information and Training",
+  "formats": [
+    "XML",
+    "REST API",
+    "ZIP"
+  ],
+  "size": "Multi-TB",
+  "records": "Full Japanese IP corpus",
+  "license": "INPIT terms; some products require a paid agreement",
+  "license_url": "https://www.inpit.go.jp/english/",
+  "access": "registration",
+  "commercial_use": "check",
+  "cite": "INPIT, National Center for Industrial Property Information and Training"
+}

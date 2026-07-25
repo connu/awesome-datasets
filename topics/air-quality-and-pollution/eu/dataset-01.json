@@ -1,0 +1,21 @@
+{
+  "id": "eea-air-quality-data",
+  "name": "EEA Air Quality Data",
+  "topic": "air-quality-and-pollution",
+  "country": "eu",
+  "url": "https://www.eea.europa.eu/en/topics/in-depth/air-pollution",
+  "description": "Validated hourly and annual pollutant measurements reported by every EEA member country under the Air Quality Directive, with station metadata and exceedance statistics.",
+  "provider": "European Environment Agency",
+  "formats": [
+    "CSV",
+    "Parquet",
+    "REST API"
+  ],
+  "size": "~200 GB",
+  "records": "Billions of measurements from 5,000+ stations",
+  "license": "EEA open data policy, free reuse with attribution",
+  "license_url": "https://www.eea.europa.eu/en/legal-notice",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "European Environment Agency, Air Quality e-Reporting"
+}

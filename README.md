@@ -2,7 +2,7 @@
 
 > Curated public data for building and evaluating software, with license, size and access terms recorded for every entry.
 
-340 datasets: 40 global ones covering the domains software teams hit constantly — source code, defects, vulnerabilities, network traffic, logs, search, recommendations, forecasting — and 300 more split by country, because "car sales data" means something different in Delhi than in Detroit.
+Two catalogs. The **global** one covers domains software teams hit constantly — source code, defects, vulnerabilities, network traffic, logs, search, recommendations, forecasting. The **country** one splits those same domains by where the data comes from, because "car sales data" means something different in Delhi than in Detroit.
 
 Every entry is a dataset you can actually obtain. The link resolves, the provider is named, and the license and access requirements are stated up front so you can tell before downloading whether you are allowed to use it. This list links and describes; it redistributes no data.
 
@@ -13,7 +13,7 @@ Every entry is a dataset you can actually obtain. The link resolves, the provide
 This repository contains no data — only links and factual metadata about them. Nothing you do here binds you to anyone's terms. The moment you download a dataset, however, that dataset's license applies to you in full: how you may use it, whether you may redistribute it, and whether you may build a commercial product on it.
 
 <!-- BEGIN LICENSE-SUMMARY - generated, do not edit -->
-Of the 340 datasets listed here, **264 permit commercial use**, **23 are non-commercial only**, and **53 have mixed or unclear terms** that you have to check yourself. 279 are a direct download, 59 need a free account, and 2 need a signed agreement.
+Of the 489 datasets listed here, **382 permit commercial use**, **28 are non-commercial only**, and **79 have mixed or unclear terms** that you have to check yourself. 409 are a direct download, 78 need a free account, and 2 need a signed agreement.
 <!-- END LICENSE-SUMMARY -->
 
 So:
@@ -238,40 +238,40 @@ Trip records and transit schedules for routing, demand modelling and urban analy
 
 ## By country
 
-300 datasets across 30 topics and 12 countries, two countries per topic. Each topic links to its own page.
+449 datasets across 30 topics and 12 countries, two countries per topic. Each topic links to its own page.
 
 | Topic | Countries | Datasets |
 | --- | --- | --- |
-| [Addresses & Geocoding](topics/addresses-and-geocoding/) | France, United States | 10 |
-| [Agriculture & Crops](topics/agriculture-and-crops/) | India, United States | 10 |
-| [Air Quality & Pollution](topics/air-quality-and-pollution/) | India, United States | 10 |
-| [Aviation & Flights](topics/aviation-and-flights/) | European Union, United States | 10 |
-| [Banking & Payments](topics/banking-and-payments/) | Germany, United States | 10 |
-| [Census & Demographics](topics/census-and-demographics/) | India, United States | 10 |
-| [Company Registries](topics/company-registries/) | United Kingdom, India | 10 |
-| [Courts & Legal](topics/courts-and-legal/) | India, United States | 10 |
-| [Crime & Policing](topics/crime-and-policing/) | United Kingdom, United States | 10 |
-| [Earthquakes & Natural Hazards](topics/earthquakes-and-natural-hazards/) | Japan, United States | 10 |
-| [E-commerce & Retail](topics/ecommerce-and-retail/) | Brazil, United States | 10 |
-| [Education & Schools](topics/education-and-schools/) | India, United States | 10 |
-| [Elections & Voting](topics/elections-and-voting/) | India, United States | 10 |
-| [Energy & Electricity](topics/energy-and-electricity/) | Germany, United Kingdom | 10 |
-| [Financial Markets](topics/financial-markets/) | India, United States | 10 |
-| [Government Spending & Budgets](topics/government-spending-and-budgets/) | United Kingdom, United States | 10 |
-| [Labour & Employment](topics/labour-and-employment/) | Canada, United States | 10 |
-| [Patents & Trademarks](topics/patents-and-trademarks/) | European Union, United States | 10 |
-| [Public Health](topics/public-health/) | United Kingdom, United States | 10 |
-| [Public Transit](topics/public-transit/) | Germany, United States | 10 |
-| [Real Estate & Housing](topics/real-estate-and-housing/) | United Kingdom, United States | 10 |
-| [Road Safety & Accidents](topics/road-safety-and-accidents/) | United Kingdom, United States | 10 |
-| [Satellite & Earth Observation](topics/satellite-and-earth-observation/) | European Union, United States | 10 |
-| [Taxi & Ride-Hailing](topics/taxi-and-ride-hailing/) | Singapore, United States | 10 |
-| [Telecom & Broadband](topics/telecom-and-broadband/) | United Kingdom, United States | 10 |
-| [Tourism & Hospitality](topics/tourism-and-hospitality/) | Spain, United States | 10 |
-| [Trade & Customs](topics/trade-and-customs/) | India, United States | 10 |
-| [Vehicles & Car Sales](topics/vehicles-and-car-sales/) | India, United States | 10 |
-| [Water & Sanitation](topics/water-and-sanitation/) | India, United States | 10 |
-| [Weather & Climate](topics/weather-and-climate/) | Australia, United States | 10 |
+| [Addresses & Geocoding](topics/addresses-and-geocoding/) | Germany, France, United States | 15 |
+| [Agriculture & Crops](topics/agriculture-and-crops/) | Brazil, India, United States | 15 |
+| [Air Quality & Pollution](topics/air-quality-and-pollution/) | European Union, India, United States | 15 |
+| [Aviation & Flights](topics/aviation-and-flights/) | Australia, European Union, United States | 14 |
+| [Banking & Payments](topics/banking-and-payments/) | Brazil, Germany, United States | 15 |
+| [Census & Demographics](topics/census-and-demographics/) | United Kingdom, India, United States | 15 |
+| [Company Registries](topics/company-registries/) | Germany, United Kingdom, India | 15 |
+| [Courts & Legal](topics/courts-and-legal/) | United Kingdom, India, United States | 15 |
+| [Crime & Policing](topics/crime-and-policing/) | United Kingdom, India, United States | 15 |
+| [Earthquakes & Natural Hazards](topics/earthquakes-and-natural-hazards/) | European Union, Japan, United States | 15 |
+| [E-commerce & Retail](topics/ecommerce-and-retail/) | Brazil, United Kingdom, United States | 15 |
+| [Education & Schools](topics/education-and-schools/) | United Kingdom, India, United States | 15 |
+| [Elections & Voting](topics/elections-and-voting/) | United Kingdom, India, United States | 15 |
+| [Energy & Electricity](topics/energy-and-electricity/) | Germany, France, United Kingdom | 15 |
+| [Financial Markets](topics/financial-markets/) | United Kingdom, India, United States | 15 |
+| [Government Spending & Budgets](topics/government-spending-and-budgets/) | United Kingdom, India, United States | 15 |
+| [Labour & Employment](topics/labour-and-employment/) | Canada, United Kingdom, United States | 15 |
+| [Patents & Trademarks](topics/patents-and-trademarks/) | European Union, Japan, United States | 15 |
+| [Public Health](topics/public-health/) | United Kingdom, India, United States | 15 |
+| [Public Transit](topics/public-transit/) | Germany, France, United States | 15 |
+| [Real Estate & Housing](topics/real-estate-and-housing/) | Australia, United Kingdom, United States | 15 |
+| [Road Safety & Accidents](topics/road-safety-and-accidents/) | France, United Kingdom, United States | 15 |
+| [Satellite & Earth Observation](topics/satellite-and-earth-observation/) | European Union, Japan, United States | 15 |
+| [Taxi & Ride-Hailing](topics/taxi-and-ride-hailing/) | United Kingdom, Singapore, United States | 15 |
+| [Telecom & Broadband](topics/telecom-and-broadband/) | United Kingdom, India, United States | 15 |
+| [Tourism & Hospitality](topics/tourism-and-hospitality/) | Spain, Japan, United States | 15 |
+| [Trade & Customs](topics/trade-and-customs/) | European Union, India, United States | 15 |
+| [Vehicles & Car Sales](topics/vehicles-and-car-sales/) | United Kingdom, India, United States | 15 |
+| [Water & Sanitation](topics/water-and-sanitation/) | United Kingdom, India, United States | 15 |
+| [Weather & Climate](topics/weather-and-climate/) | Australia, United Kingdom, United States | 15 |
 
 <!-- END GENERATED -->
 

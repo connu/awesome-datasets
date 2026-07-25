@@ -1,0 +1,20 @@
+{
+  "id": "find-school-and-college-performance",
+  "name": "Find School and College Performance",
+  "topic": "education-and-schools",
+  "country": "gb",
+  "url": "https://www.compare-school-performance.service.gov.uk/",
+  "description": "Published performance tables with Progress 8, Attainment 8, phonics, key stage results, A level outcomes and pupil destinations for every English school.",
+  "provider": "Department for Education",
+  "formats": [
+    "CSV",
+    "XLSX"
+  ],
+  "size": "~2 GB",
+  "records": "Annual tables for 24,000+ schools",
+  "license": "Open Government Licence v3.0",
+  "license_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Department for Education, School and college performance tables"
+}

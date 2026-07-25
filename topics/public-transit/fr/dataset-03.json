@@ -1,0 +1,22 @@
+{
+  "id": "le-de-france-mobilit-s-open-data",
+  "name": "Île-de-France Mobilités Open Data",
+  "topic": "public-transit",
+  "country": "fr",
+  "url": "https://data.iledefrance-mobilites.fr/",
+  "description": "Timetables, network topology, real-time departures, accessibility and ridership counts for the Paris region's metro, RER, bus and tram network.",
+  "provider": "Île-de-France Mobilités",
+  "formats": [
+    "GTFS",
+    "GTFS-RT",
+    "CSV",
+    "REST API"
+  ],
+  "size": "~2 GB",
+  "records": "Paris region network with 12 million daily trips",
+  "license": "Licence Ouverte 2.0 and ODbL",
+  "license_url": "https://data.iledefrance-mobilites.fr/",
+  "access": "registration",
+  "commercial_use": "yes",
+  "cite": "Île-de-France Mobilités Open Data"
+}

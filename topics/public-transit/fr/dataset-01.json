@@ -1,0 +1,23 @@
+{
+  "id": "transport-data-gouv-fr",
+  "name": "transport.data.gouv.fr",
+  "topic": "public-transit",
+  "country": "fr",
+  "url": "https://transport.data.gouv.fr/",
+  "description": "France's national access point for mobility data, aggregating validated GTFS, GTFS-RT, GBFS and NeTEx feeds from every transit authority in the country.",
+  "provider": "DINUM and Ministère de la Transition écologique",
+  "formats": [
+    "GTFS",
+    "GTFS-RT",
+    "NeTEx",
+    "GBFS",
+    "REST API"
+  ],
+  "size": "Varies by feed",
+  "records": "400+ transit and shared mobility feeds",
+  "license": "Licence Ouverte 2.0 or ODbL depending on feed",
+  "license_url": "https://transport.data.gouv.fr/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "transport.data.gouv.fr, Point d'Accès National aux données de transport"
+}

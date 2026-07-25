@@ -1,0 +1,21 @@
+{
+  "id": "national-records-of-scotland-statistics",
+  "name": "National Records of Scotland Statistics",
+  "topic": "census-and-demographics",
+  "country": "gb",
+  "url": "https://www.nrscotland.gov.uk/statistics-and-data",
+  "description": "Scotland's census, vital events, migration and population projection statistics, published separately from the England and Wales census.",
+  "provider": "National Records of Scotland",
+  "formats": [
+    "CSV",
+    "XLSX",
+    "PDF"
+  ],
+  "size": "~2 GB",
+  "records": "Scottish census and annual vital statistics",
+  "license": "Open Government Licence v3.0",
+  "license_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "National Records of Scotland"
+}

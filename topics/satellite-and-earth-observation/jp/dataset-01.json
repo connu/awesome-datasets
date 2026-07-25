@@ -1,0 +1,21 @@
+{
+  "id": "jaxa-g-portal",
+  "name": "JAXA G-Portal",
+  "topic": "satellite-and-earth-observation",
+  "country": "jp",
+  "url": "https://gportal.jaxa.jp/gpr/",
+  "description": "JAXA's earth observation data portal distributing GCOM, GPM, ALOS and GOSAT products covering land, ocean, precipitation and greenhouse gases.",
+  "provider": "Japan Aerospace Exploration Agency",
+  "formats": [
+    "HDF5",
+    "NetCDF",
+    "GeoTIFF"
+  ],
+  "size": "Petabyte-scale",
+  "records": "Multiple missions with global coverage",
+  "license": "JAXA terms of use, free for research and commercial use with attribution",
+  "license_url": "https://gportal.jaxa.jp/gpr/",
+  "access": "registration",
+  "commercial_use": "check",
+  "cite": "Japan Aerospace Exploration Agency, G-Portal"
+}

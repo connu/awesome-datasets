@@ -1,0 +1,23 @@
+{
+  "id": "bkg-geodatenzentrum-open-data",
+  "name": "BKG Geodatenzentrum Open Data",
+  "topic": "addresses-and-geocoding",
+  "country": "de",
+  "url": "https://gdz.bkg.bund.de/",
+  "description": "Germany's national geodata centre distributing administrative boundaries, digital terrain models, topographic base data and gazetteers as free open data.",
+  "provider": "Bundesamt für Kartographie und Geodäsie",
+  "formats": [
+    "Shapefile",
+    "GeoPackage",
+    "GeoTIFF",
+    "WMS",
+    "WFS"
+  ],
+  "size": "Terabyte-scale",
+  "records": "National coverage of Germany",
+  "license": "DL-DE-BY-2.0 for open products",
+  "license_url": "https://www.govdata.de/dl-de/by-2-0",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Bundesamt für Kartographie und Geodäsie (BKG), Geodatenzentrum"
+}

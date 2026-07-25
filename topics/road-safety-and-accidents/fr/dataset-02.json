@@ -1,0 +1,19 @@
+{
+  "id": "bases-de-donn-es-accidents-corporels-baac",
+  "name": "Bases de données accidents corporels (BAAC)",
+  "topic": "road-safety-and-accidents",
+  "country": "fr",
+  "url": "https://www.data.gouv.fr/datasets/bases-de-donnees-annuelles-des-accidents-corporels-de-la-circulation-routiere-annees-de-2005-a-2023/",
+  "description": "Every injury road collision recorded by French police since 2005, in four linked tables covering the crash, location, vehicles and each person involved.",
+  "provider": "Ministère de l'Intérieur",
+  "formats": [
+    "CSV"
+  ],
+  "size": "~1 GB",
+  "records": "1 million+ collisions since 2005",
+  "license": "Licence Ouverte 2.0",
+  "license_url": "https://www.etalab.gouv.fr/licence-ouverte-open-licence/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Ministère de l'Intérieur, Bases de données annuelles des accidents corporels de la circulation routière"
+}

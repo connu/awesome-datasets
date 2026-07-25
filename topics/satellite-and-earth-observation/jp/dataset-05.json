@@ -1,0 +1,21 @@
+{
+  "id": "tellus-satellite-data-platform",
+  "name": "Tellus Satellite Data Platform",
+  "topic": "satellite-and-earth-observation",
+  "country": "jp",
+  "url": "https://www.tellusxdp.com/en/",
+  "description": "Japan's government-backed satellite data platform offering ALOS, ASNARO and Sentinel products with in-browser analysis and APIs.",
+  "provider": "Ministry of Economy, Trade and Industry and Sakura Internet",
+  "formats": [
+    "REST API",
+    "GeoTIFF",
+    "Jupyter"
+  ],
+  "size": "Multi-petabyte",
+  "records": "Japanese and international mission archives",
+  "license": "Tellus terms of use; free tier with registration",
+  "license_url": "https://www.tellusxdp.com/en/",
+  "access": "registration",
+  "commercial_use": "check",
+  "cite": "Tellus, METI and Sakura Internet"
+}

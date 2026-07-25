@@ -1,0 +1,21 @@
+{
+  "id": "nomis",
+  "name": "Nomis",
+  "topic": "census-and-demographics",
+  "country": "gb",
+  "url": "https://www.nomisweb.co.uk/",
+  "description": "The official query interface for UK census and labour market statistics, with a documented API and downloads at every geography from country to output area.",
+  "provider": "Office for National Statistics and Durham University",
+  "formats": [
+    "CSV",
+    "REST API",
+    "XLSX"
+  ],
+  "size": "Varies by query",
+  "records": "1,000+ datasets across census and labour market",
+  "license": "Open Government Licence v3.0",
+  "license_url": "https://www.nomisweb.co.uk/home/copyright.asp",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Nomis, official labour market statistics"
+}

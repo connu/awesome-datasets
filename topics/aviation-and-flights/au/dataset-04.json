@@ -1,0 +1,21 @@
+{
+  "id": "data-gov-au-transport-datasets",
+  "name": "data.gov.au Transport Datasets",
+  "topic": "aviation-and-flights",
+  "country": "au",
+  "url": "https://data.gov.au/",
+  "description": "Australia's federal open data catalogue, including BITRE aviation activity, airport movements and transport infrastructure datasets with a CKAN API.",
+  "provider": "Bureau of Infrastructure and Transport Research Economics",
+  "formats": [
+    "CSV",
+    "JSON",
+    "REST API"
+  ],
+  "size": "Varies by dataset",
+  "records": "Hundreds of transport datasets",
+  "license": "CC BY 4.0",
+  "license_url": "https://data.gov.au/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "data.gov.au, BITRE datasets"
+}

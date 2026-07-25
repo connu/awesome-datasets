@@ -1,0 +1,21 @@
+{
+  "id": "wto-stats",
+  "name": "WTO Stats",
+  "topic": "trade-and-customs",
+  "country": "eu",
+  "url": "https://stats.wto.org/",
+  "description": "Global merchandise and services trade statistics, tariff profiles and trade policy indicators for all WTO members, with a documented API.",
+  "provider": "World Trade Organization",
+  "formats": [
+    "CSV",
+    "REST API",
+    "XLSX"
+  ],
+  "size": "~50 GB",
+  "records": "Annual and quarterly series from 1948",
+  "license": "WTO terms of use, free with attribution",
+  "license_url": "https://www.wto.org/english/info_e/cpyrit_e.htm",
+  "access": "open",
+  "commercial_use": "check",
+  "cite": "World Trade Organization, WTO Stats"
+}

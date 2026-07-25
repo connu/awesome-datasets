@@ -1,0 +1,22 @@
+{
+  "id": "copernicus-emergency-management-service",
+  "name": "Copernicus Emergency Management Service",
+  "topic": "earthquakes-and-natural-hazards",
+  "country": "eu",
+  "url": "https://emergency.copernicus.eu/",
+  "description": "Rapid mapping and risk products for floods, wildfires, earthquakes and storms, with delineation and damage assessment layers for activated events.",
+  "provider": "European Commission and Copernicus",
+  "formats": [
+    "GeoTIFF",
+    "Shapefile",
+    "GeoJSON",
+    "PDF"
+  ],
+  "size": "Multi-TB",
+  "records": "700+ activations since 2012",
+  "license": "Copernicus open licence, free reuse with attribution",
+  "license_url": "https://emergency.copernicus.eu/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Copernicus Emergency Management Service, European Commission"
+}

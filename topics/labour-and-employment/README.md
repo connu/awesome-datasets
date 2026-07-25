@@ -7,6 +7,7 @@ Part of [Awesome Datasets](../../README.md). Entries here are generated from the
 ## Contents
 
 - [Canada](#canada)
+- [United Kingdom](#united-kingdom)
 - [United States](#united-states)
 
 ## Canada
@@ -21,6 +22,19 @@ Part of [Awesome Datasets](../../README.md). Entries here are generated from the
   <br><sub>Employment and Social Development Canada · CSV, XLSX, Web · Varies by product · 500+ occupations across regions · [Open Government Licence - Canada 2.0](https://open.canada.ca/en/open-government-licence-canada) · Direct download · Commercial use permitted</sub>
 - [National Occupational Classification](https://noc.esdc.gc.ca/) - Canada's official taxonomy of occupations with hierarchical codes, duties, employment requirements and example job titles used across immigration and labour policy.
   <br><sub>Employment and Social Development Canada and Statistics Canada · CSV, XLSX, Web · ~50 MB · 500+ unit groups, 30,000+ job titles · [Open Government Licence - Canada 2.0](https://open.canada.ca/en/open-government-licence-canada) · Direct download · Commercial use permitted</sub>
+
+## United Kingdom
+
+- [ONS Labour Market Statistics](https://www.ons.gov.uk/employmentandlabourmarket) - The UK's headline employment, unemployment, inactivity, vacancy and earnings statistics, published monthly with regional and industry detail.
+  <br><sub>Office for National Statistics · CSV, XLSX, REST API · Multi-GB · Monthly series from 1971 · [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) · Direct download · Commercial use permitted</sub>
+- [Annual Survey of Hours and Earnings](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours) - The authoritative UK earnings survey giving hourly and weekly pay distributions by occupation, industry, region, age and gender.
+  <br><sub>Office for National Statistics · XLSX, CSV · ~2 GB · ~180,000 employee records annually · [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) · Direct download · Commercial use permitted</sub>
+- [Gender Pay Gap Service Data](https://gender-pay-gap.service.gov.uk/) - Mandatory gender pay gap reports from every UK employer with 250 or more staff, with mean and median gaps, bonus gaps and quartile distributions.
+  <br><sub>Government Equalities Office · CSV, REST API · ~200 MB · 10,000+ employers reporting annually since 2017 · [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) · Direct download · Commercial use permitted</sub>
+- [Standard Occupational Classification](https://www.ons.gov.uk/methodology/classificationsandstandards/standardoccupationalclassificationsoc) - The UK's official occupation taxonomy with hierarchical codes, job title indexes and qualification levels, used across labour market and immigration policy.
+  <br><sub>Office for National Statistics · XLSX, CSV · ~50 MB · 400+ unit groups, 30,000+ job titles · [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) · Direct download · Commercial use permitted</sub>
+- [DWP Stat-Xplore](https://stat-xplore.dwp.gov.uk/) - Query and API access to benefit caseload statistics covering Universal Credit, disability benefits, pensions and jobseeker support by geography and claimant characteristic.
+  <br><sub>Department for Work and Pensions · REST API, CSV, XLSX · Multi-GB · Monthly caseloads for millions of claimants · [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) · Free account required · Commercial use permitted</sub>
 
 ## United States
 

@@ -1,0 +1,21 @@
+{
+  "id": "onisr-road-safety-data",
+  "name": "ONISR Road Safety Data",
+  "topic": "road-safety-and-accidents",
+  "country": "fr",
+  "url": "https://www.onisr.securite-routiere.gouv.fr/",
+  "description": "France's national road safety observatory, publishing annual casualty counts, risk factors, vehicle categories and long-run trend analysis.",
+  "provider": "Observatoire national interministériel de la sécurité routière",
+  "formats": [
+    "CSV",
+    "XLSX",
+    "PDF"
+  ],
+  "size": "~500 MB",
+  "records": "Annual series from 1970",
+  "license": "Licence Ouverte 2.0",
+  "license_url": "https://www.etalab.gouv.fr/licence-ouverte-open-licence/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "ONISR, Sécurité routière"
+}

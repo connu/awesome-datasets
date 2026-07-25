@@ -1,0 +1,21 @@
+{
+  "id": "uk-parliament-members-and-voting-api",
+  "name": "UK Parliament Members and Voting API",
+  "topic": "elections-and-voting",
+  "country": "gb",
+  "url": "https://developer.parliament.uk/",
+  "description": "APIs for MPs and Lords, their votes, written questions, committee membership, register of interests and Hansard debate transcripts.",
+  "provider": "UK Parliament",
+  "formats": [
+    "REST API",
+    "JSON",
+    "XML"
+  ],
+  "size": "API",
+  "records": "Full membership and division history",
+  "license": "Open Parliament Licence v3.0",
+  "license_url": "https://www.parliament.uk/site-information/copyright-parliament/open-parliament-licence/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "UK Parliament Developer Hub"
+}

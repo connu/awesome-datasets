@@ -1,0 +1,21 @@
+{
+  "id": "tfl-unified-api",
+  "name": "TfL Unified API",
+  "topic": "taxi-and-ride-hailing",
+  "country": "gb",
+  "url": "https://api-portal.tfl.gov.uk/",
+  "description": "Transport for London's single API covering journey planning, live arrivals, disruptions, cycle hire docking stations, road status and air quality.",
+  "provider": "Transport for London",
+  "formats": [
+    "REST API",
+    "JSON",
+    "XML"
+  ],
+  "size": "API",
+  "records": "All London transport modes in real time",
+  "license": "TfL Open Data Licence, based on OGL",
+  "license_url": "https://tfl.gov.uk/corporate/terms-and-conditions/transport-data-service",
+  "access": "registration",
+  "commercial_use": "yes",
+  "cite": "Transport for London Unified API"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "wipo-ip-statistics-data-center",
+  "name": "WIPO IP Statistics Data Center",
+  "topic": "patents-and-trademarks",
+  "country": "jp",
+  "url": "https://www.wipo.int/ipstats/en/",
+  "description": "Harmonised international IP filing, grant and validity statistics for Japan and every other member state, comparable across offices and decades.",
+  "provider": "World Intellectual Property Organization",
+  "formats": [
+    "CSV",
+    "XLSX",
+    "Web"
+  ],
+  "size": "~5 GB",
+  "records": "Annual series from 1980 for 200+ offices",
+  "license": "CC BY 3.0 IGO",
+  "license_url": "https://www.wipo.int/tools/en/disclaim.html",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "WIPO IP Statistics Data Center"
+}

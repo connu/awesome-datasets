@@ -1,0 +1,20 @@
+{
+  "id": "vca-car-fuel-and-emissions-data",
+  "name": "VCA Car Fuel and Emissions Data",
+  "topic": "vehicles-and-car-sales",
+  "country": "gb",
+  "url": "https://carfueldata.vehicle-certification-agency.gov.uk/",
+  "description": "Official type-approval fuel consumption and CO2, NOx and particulate emissions figures for every new car model sold in the UK.",
+  "provider": "Vehicle Certification Agency",
+  "formats": [
+    "CSV",
+    "XLSX"
+  ],
+  "size": "~100 MB",
+  "records": "Model-level data from 2000",
+  "license": "Open Government Licence v3.0",
+  "license_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Vehicle Certification Agency, Car Fuel Data"
+}

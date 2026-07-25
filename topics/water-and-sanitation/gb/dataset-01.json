@@ -1,0 +1,21 @@
+{
+  "id": "environment-agency-water-quality-archive",
+  "name": "Environment Agency Water Quality Archive",
+  "topic": "water-and-sanitation",
+  "country": "gb",
+  "url": "https://environment.data.gov.uk/",
+  "description": "Every water quality sample taken by the Environment Agency in England, with determinand, concentration, sampling point and purpose, served from the environment data hub.",
+  "provider": "Environment Agency",
+  "formats": [
+    "CSV",
+    "REST API",
+    "RDF"
+  ],
+  "size": "~20 GB",
+  "records": "60 million+ measurements",
+  "license": "Open Government Licence v3.0",
+  "license_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Environment Agency, Water Quality Archive"
+}

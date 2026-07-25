@@ -1,0 +1,22 @@
+{
+  "id": "environment-agency-real-time-flood-monitoring-api",
+  "name": "Environment Agency Real Time Flood Monitoring API",
+  "topic": "weather-and-climate",
+  "country": "gb",
+  "url": "https://environment.data.gov.uk/flood-monitoring/doc/reference",
+  "description": "Live river levels, rainfall and tidal readings from thousands of Environment Agency gauges, plus current flood warnings, through a free unauthenticated API.",
+  "provider": "Environment Agency",
+  "formats": [
+    "REST API",
+    "JSON",
+    "CSV",
+    "RDF"
+  ],
+  "size": "API with historical archive",
+  "records": "5,000+ measurement stations",
+  "license": "Open Government Licence v3.0",
+  "license_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Environment Agency, Real Time flood-monitoring API"
+}

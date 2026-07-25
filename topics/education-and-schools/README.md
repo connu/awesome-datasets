@@ -6,8 +6,22 @@ Part of [Awesome Datasets](../../README.md). Entries here are generated from the
 
 ## Contents
 
+- [United Kingdom](#united-kingdom)
 - [India](#india)
 - [United States](#united-states)
+
+## United Kingdom
+
+- [Explore Education Statistics](https://explore-education-statistics.service.gov.uk/) - The Department for Education's statistics platform covering attainment, absence, exclusions, school workforce, funding and destinations, with a public API.
+  <br><sub>Department for Education · CSV, REST API, XLSX · Multi-GB · Hundreds of releases with school and local authority detail · [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) · Direct download · Commercial use permitted</sub>
+- [Get Information About Schools](https://get-information-schools.service.gov.uk/) - The register of every school, college and trust in England with URN, phase, capacity, Ofsted rating, governance and full address history.
+  <br><sub>Department for Education · CSV, REST API · ~1 GB · 50,000+ establishments including closed ones · [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) · Direct download · Commercial use permitted</sub>
+- [Find School and College Performance](https://www.compare-school-performance.service.gov.uk/) - Published performance tables with Progress 8, Attainment 8, phonics, key stage results, A level outcomes and pupil destinations for every English school.
+  <br><sub>Department for Education · CSV, XLSX · ~2 GB · Annual tables for 24,000+ schools · [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) · Direct download · Commercial use permitted</sub>
+- [HESA Higher Education Statistics](https://www.hesa.ac.uk/data-and-analysis) - Student enrolments, qualifications, graduate outcomes, staff and finance data for every UK higher education provider.
+  <br><sub>Higher Education Statistics Agency / Jisc · CSV, XLSX · ~5 GB · 2.9 million students across 280+ providers · [Open Government Licence v3.0 for open tables; detailed data requires a licence](https://www.hesa.ac.uk/about/regulation/data-protection/copyright) · Direct download · Commercial use: check terms</sub>
+- [Ofsted Inspection Data](https://www.gov.uk/government/collections/maintained-schools-and-academies-inspections-and-outcomes-official-statistics) - Management information and official statistics on school inspection outcomes, judgement history and inspection dates for every English provider.
+  <br><sub>Ofsted · XLSX, CSV, ODS · ~500 MB · Monthly management information covering all inspections · [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) · Direct download · Commercial use permitted</sub>
 
 ## India
 

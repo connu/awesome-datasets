@@ -1,0 +1,20 @@
+{
+  "id": "japan-meteorological-agency-climate-data",
+  "name": "Japan Meteorological Agency Climate Data",
+  "topic": "tourism-and-hospitality",
+  "country": "jp",
+  "url": "https://www.data.jma.go.jp/stats/etrn/index.php",
+  "description": "Historical temperature, rainfall, snow depth and sunshine observations by station, widely joined against tourism demand and seasonality analysis.",
+  "provider": "Japan Meteorological Agency",
+  "formats": [
+    "CSV",
+    "Web"
+  ],
+  "size": "Multi-GB",
+  "records": "1,300+ AMeDAS stations with long historical series",
+  "license": "JMA terms of use, free reuse with attribution",
+  "license_url": "https://www.jma.go.jp/jma/en/copyright.html",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Japan Meteorological Agency, Climate Statistics"
+}

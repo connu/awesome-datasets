@@ -1,0 +1,22 @@
+{
+  "id": "data-gov-in-finance-sector",
+  "name": "data.gov.in Finance Sector",
+  "topic": "government-spending-and-budgets",
+  "country": "in",
+  "url": "https://www.data.gov.in/sector/finance",
+  "description": "Open government catalogue of fiscal datasets covering tax collections, scheme expenditure, grants to states and public sector finances.",
+  "provider": "National Informatics Centre",
+  "formats": [
+    "CSV",
+    "XLSX",
+    "JSON",
+    "REST API"
+  ],
+  "size": "Varies by resource",
+  "records": "4,000+ finance resources",
+  "license": "Government Open Data License - India",
+  "license_url": "https://www.data.gov.in/government-open-data-license-india",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Open Government Data Platform India"
+}

@@ -6,8 +6,22 @@ Part of [Awesome Datasets](../../README.md). Entries here are generated from the
 
 ## Contents
 
+- [United Kingdom](#united-kingdom)
 - [Singapore](#singapore)
 - [United States](#united-states)
+
+## United Kingdom
+
+- [TfL Unified API](https://api-portal.tfl.gov.uk/) - Transport for London's single API covering journey planning, live arrivals, disruptions, cycle hire docking stations, road status and air quality.
+  <br><sub>Transport for London · REST API, JSON, XML · API · All London transport modes in real time · [TfL Open Data Licence, based on OGL](https://tfl.gov.uk/corporate/terms-and-conditions/transport-data-service) · Free account required · Commercial use permitted</sub>
+- [TfL Open Data](https://tfl.gov.uk/info-for/open-data-users/) - Bulk London transport datasets including cycle hire journeys, bus route sequences, station entry and exit counts, and taxi and private hire licensing.
+  <br><sub>Transport for London · CSV, XML, GTFS, Shapefile · Multi-GB · Millions of cycle hire journeys and station counts · [TfL Open Data Licence, based on OGL](https://tfl.gov.uk/corporate/terms-and-conditions/transport-data-service) · Direct download · Commercial use permitted</sub>
+- [DfT Taxi and Private Hire Vehicle Statistics](https://www.gov.uk/government/collections/taxi-statistics) - Licensed taxi and private hire vehicle and driver counts by licensing authority, with wheelchair accessibility and licensing policy detail.
+  <br><sub>Department for Transport · ODS, CSV · ~100 MB · Biennial series covering all English licensing authorities · [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) · Direct download · Commercial use permitted</sub>
+- [London Datastore](https://data.london.gov.uk/) - The Greater London Authority's open data portal covering transport, housing, planning, demographics, economy and environment across the capital.
+  <br><sub>Greater London Authority · CSV, GeoJSON, XLSX, REST API · Multi-GB · 700+ datasets · [Open Government Licence v3.0 for most datasets](https://data.london.gov.uk/) · Direct download · Commercial use: check terms</sub>
+- [NaPTAN National Public Transport Access Nodes](https://beta-naptan.dft.gov.uk/) - The national register of every public transport access point in Great Britain, including bus stops, rail stations, taxi ranks and ferry terminals with coordinates.
+  <br><sub>Department for Transport · CSV, XML, GeoJSON · ~500 MB · 435,000+ access nodes · [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) · Direct download · Commercial use permitted</sub>
 
 ## Singapore
 

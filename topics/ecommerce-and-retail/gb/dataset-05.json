@@ -1,0 +1,20 @@
+{
+  "id": "defra-family-food-statistics",
+  "name": "DEFRA Family Food Statistics",
+  "topic": "ecommerce-and-retail",
+  "country": "gb",
+  "url": "https://www.gov.uk/government/collections/family-food-statistics",
+  "description": "Annual household purchases of food and drink by quantity, spend and nutrient content, broken down by income group, region and household composition.",
+  "provider": "Department for Environment, Food and Rural Affairs",
+  "formats": [
+    "ODS",
+    "CSV"
+  ],
+  "size": "~200 MB",
+  "records": "Annual series from 1974",
+  "license": "Open Government Licence v3.0",
+  "license_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "DEFRA, Family Food statistics"
+}

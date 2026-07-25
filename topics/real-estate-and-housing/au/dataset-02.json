@@ -1,0 +1,21 @@
+{
+  "id": "abs-building-approvals",
+  "name": "ABS Building Approvals",
+  "topic": "real-estate-and-housing",
+  "country": "au",
+  "url": "https://www.abs.gov.au/statistics/industry/building-and-construction",
+  "description": "Monthly counts and values of approved residential and non-residential building work by local government area, the leading indicator for Australian construction.",
+  "provider": "Australian Bureau of Statistics",
+  "formats": [
+    "XLSX",
+    "CSV",
+    "SDMX"
+  ],
+  "size": "~500 MB",
+  "records": "Monthly series from 1983",
+  "license": "CC BY 4.0",
+  "license_url": "https://www.abs.gov.au/website-privacy-copyright-and-disclaimer",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Australian Bureau of Statistics, Building Approvals"
+}

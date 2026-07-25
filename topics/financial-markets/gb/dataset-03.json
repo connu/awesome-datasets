@@ -1,0 +1,21 @@
+{
+  "id": "fca-national-storage-mechanism",
+  "name": "FCA National Storage Mechanism",
+  "topic": "financial-markets",
+  "country": "gb",
+  "url": "https://data.fca.org.uk/#/nsm/nationalstoragemechanism",
+  "description": "The official UK repository of regulated information from listed companies, including annual reports, prospectuses and major shareholding notifications.",
+  "provider": "Financial Conduct Authority",
+  "formats": [
+    "PDF",
+    "XHTML",
+    "REST API"
+  ],
+  "size": "Multi-TB",
+  "records": "Millions of regulatory filings",
+  "license": "Open Government Licence v3.0",
+  "license_url": "https://www.fca.org.uk/legal",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Financial Conduct Authority, National Storage Mechanism"
+}

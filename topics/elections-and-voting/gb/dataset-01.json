@@ -1,0 +1,21 @@
+{
+  "id": "electoral-commission-data",
+  "name": "Electoral Commission Data",
+  "topic": "elections-and-voting",
+  "country": "gb",
+  "url": "https://www.electoralcommission.org.uk/research-reports-and-data",
+  "description": "Official electoral data covering registration levels, turnout, party and campaigner finance, donations, loans and campaign spending returns.",
+  "provider": "The Electoral Commission",
+  "formats": [
+    "CSV",
+    "XLSX",
+    "REST API"
+  ],
+  "size": "~2 GB",
+  "records": "Donations and spending records since 2001",
+  "license": "Open Government Licence v3.0",
+  "license_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "The Electoral Commission"
+}

@@ -7,6 +7,7 @@ Part of [Awesome Datasets](../../README.md). Entries here are generated from the
 ## Contents
 
 - [United Kingdom](#united-kingdom)
+- [India](#india)
 - [United States](#united-states)
 
 ## United Kingdom
@@ -21,6 +22,19 @@ Part of [Awesome Datasets](../../README.md). Entries here are generated from the
   <br><sub>Home Office · CSV, ODS, XLSX · ~200 MB · Biannual series by force · [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) · Direct download · Commercial use permitted</sub>
 - [UK Data Service Crime Surveys](https://ukdataservice.ac.uk/) - Archive of deposited social survey microdata including the Crime Survey for England and Wales, Offending Crime and Justice Survey and police force data.
   <br><sub>UK Data Service · Stata, SPSS, CSV, Tab-delimited · Varies by study · 9,000+ archived data collections · [End User Licence; registration and agreement required](https://ukdataservice.ac.uk/app/uploads/cd137-enduserlicence.pdf) · Signed agreement required · Non-commercial only</sub>
+
+## India
+
+- [NCRB Crime in India](https://www.ncrb.gov.in/crime-in-india.html) - The annual national crime statistics report with state and city level counts by offence head, victim and accused demographics, and case disposal outcomes.
+  <br><sub>National Crime Records Bureau · PDF, XLSX, CSV · ~2 GB per edition · Annual editions from 1953 · [Government Open Data License - India](https://www.data.gov.in/government-open-data-license-india) · Direct download · Commercial use permitted</sub>
+- [India Justice Report](https://indiajusticereport.org/) - A cross-state ranking of police, judiciary, prisons and legal aid capacity, built from official budget, staffing, diversity and caseload returns.
+  <br><sub>India Justice Report consortium · PDF, XLSX, Web dashboard · ~500 MB · All states and union territories across four justice pillars · [Free for non-commercial use with attribution](https://indiajusticereport.org/) · Direct download · Non-commercial only</sub>
+- [NCRB Prison Statistics India](https://www.ncrb.gov.in/prison-statistics-india.html) - Annual prison census covering inmate population, undertrials, occupancy rates, demographics, escapes and prison staffing by state.
+  <br><sub>National Crime Records Bureau · PDF, XLSX · ~300 MB per edition · 1,300+ prisons, annual editions · [Government Open Data License - India](https://www.data.gov.in/government-open-data-license-india) · Direct download · Commercial use permitted</sub>
+- [data.gov.in Public Safety and Justice](https://www.data.gov.in/sector/public-safety-law-and-justice) - Open government catalogue of crime, policing and justice datasets covering registered cases, police strength, cyber crime and women's safety.
+  <br><sub>National Informatics Centre · CSV, XLSX, JSON, REST API · Varies by resource · 2,000+ public safety resources · [Government Open Data License - India](https://www.data.gov.in/government-open-data-license-india) · Direct download · Commercial use permitted</sub>
+- [Ministry of Home Affairs Publications](https://www.mha.gov.in/) - Annual reports and statistical publications on internal security, police modernisation, border management, disaster response and census administration.
+  <br><sub>Ministry of Home Affairs · PDF, XLSX · ~500 MB · Annual editions covering all state police forces · [Government Open Data License - India](https://www.data.gov.in/government-open-data-license-india) · Direct download · Commercial use permitted</sub>
 
 ## United States
 

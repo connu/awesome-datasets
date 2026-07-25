@@ -3,6 +3,7 @@
   "title": "Aviation & Flights",
   "description": "Flight schedules, on-time performance, aircraft registries, air traffic movements and safety records.",
   "countries": [
+    "au",
     "eu",
     "us"
   ]

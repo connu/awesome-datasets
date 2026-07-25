@@ -1,0 +1,22 @@
+{
+  "id": "london-datastore",
+  "name": "London Datastore",
+  "topic": "taxi-and-ride-hailing",
+  "country": "gb",
+  "url": "https://data.london.gov.uk/",
+  "description": "The Greater London Authority's open data portal covering transport, housing, planning, demographics, economy and environment across the capital.",
+  "provider": "Greater London Authority",
+  "formats": [
+    "CSV",
+    "GeoJSON",
+    "XLSX",
+    "REST API"
+  ],
+  "size": "Multi-GB",
+  "records": "700+ datasets",
+  "license": "Open Government Licence v3.0 for most datasets",
+  "license_url": "https://data.london.gov.uk/",
+  "access": "open",
+  "commercial_use": "check",
+  "cite": "London Datastore, Greater London Authority"
+}

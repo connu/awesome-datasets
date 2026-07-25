@@ -1,0 +1,22 @@
+{
+  "id": "bom-aviation-weather-services",
+  "name": "BOM Aviation Weather Services",
+  "topic": "aviation-and-flights",
+  "country": "au",
+  "url": "https://www.bom.gov.au/aviation/",
+  "description": "Aerodrome forecasts, METARs, SIGMETs, wind and temperature charts and volcanic ash advisories for Australian airspace.",
+  "provider": "Bureau of Meteorology",
+  "formats": [
+    "TAF",
+    "METAR",
+    "PDF",
+    "Web"
+  ],
+  "size": "Continuous feeds",
+  "records": "All Australian aerodromes and FIRs",
+  "license": "CC BY 4.0",
+  "license_url": "https://www.bom.gov.au/other/copyright.shtml",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Australian Bureau of Meteorology, Aviation Weather Services"
+}

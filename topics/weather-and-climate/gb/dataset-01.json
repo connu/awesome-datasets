@@ -1,0 +1,22 @@
+{
+  "id": "met-office-data-services",
+  "name": "Met Office Data Services",
+  "topic": "weather-and-climate",
+  "country": "gb",
+  "url": "https://www.metoffice.gov.uk/services/data",
+  "description": "The UK national weather service's data offering, including site-specific forecasts, atmospheric models, observations and climate averages.",
+  "provider": "Met Office",
+  "formats": [
+    "REST API",
+    "NetCDF",
+    "GRIB",
+    "CSV"
+  ],
+  "size": "Varies by product",
+  "records": "National coverage with continuous updates",
+  "license": "Varies by product; open products under OGL v3.0",
+  "license_url": "https://www.metoffice.gov.uk/policies/legal",
+  "access": "registration",
+  "commercial_use": "check",
+  "cite": "Met Office Data Services"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "banco-central-do-brasil-open-data-portal",
+  "name": "Banco Central do Brasil Open Data Portal",
+  "topic": "banking-and-payments",
+  "country": "br",
+  "url": "https://dadosabertos.bcb.gov.br/",
+  "description": "The Brazilian central bank's open data portal with APIs for exchange rates, interest rates, credit aggregates, bank rankings and payment system volumes.",
+  "provider": "Banco Central do Brasil",
+  "formats": [
+    "REST API",
+    "CSV",
+    "JSON",
+    "OData"
+  ],
+  "size": "Multi-GB",
+  "records": "Hundreds of datasets with daily updates",
+  "license": "Free reuse with attribution, Brazilian open data policy",
+  "license_url": "https://dadosabertos.bcb.gov.br/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Banco Central do Brasil, Portal de Dados Abertos"
+}

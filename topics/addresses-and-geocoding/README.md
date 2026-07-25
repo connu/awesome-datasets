@@ -6,8 +6,22 @@ Part of [Awesome Datasets](../../README.md). Entries here are generated from the
 
 ## Contents
 
+- [Germany](#germany)
 - [France](#france)
 - [United States](#united-states)
+
+## Germany
+
+- [BKG Geodatenzentrum Open Data](https://gdz.bkg.bund.de/) - Germany's national geodata centre distributing administrative boundaries, digital terrain models, topographic base data and gazetteers as free open data.
+  <br><sub>Bundesamt für Kartographie und Geodäsie · Shapefile, GeoPackage, GeoTIFF, WMS, WFS · Terabyte-scale · National coverage of Germany · [DL-DE-BY-2.0 for open products](https://www.govdata.de/dl-de/by-2-0) · Direct download · Commercial use permitted</sub>
+- [basemap.de](https://basemap.de/) - The official German web map service built from state survey data, offering raster and vector tiles for cartographic base layers.
+  <br><sub>Arbeitsgemeinschaft der Vermessungsverwaltungen (AdV) · Vector tiles, WMTS, WMS · Tile service · National coverage at all zoom levels · [DL-DE-BY-2.0](https://www.govdata.de/dl-de/by-2-0) · Direct download · Commercial use permitted</sub>
+- [OpenPLZ API](https://www.openplzapi.org/) - A free API resolving German, Austrian, Swiss and Liechtenstein postal codes to localities, districts, states and street lists.
+  <br><sub>OpenPLZ API project · REST API, JSON · API · Postal code and street coverage for four countries · [ODbL 1.0 (data from OpenStreetMap and official sources)](https://www.openplzapi.org/) · Direct download · Commercial use permitted</sub>
+- [Geoportal.de](https://www.geoportal.de/) - The federal spatial data infrastructure portal indexing geodata services from all German states and agencies, with INSPIRE-compliant metadata.
+  <br><sub>Bundesamt für Kartographie und Geodäsie · WMS, WFS, Atom, Metadata · Varies by service · 100,000+ registered geodata resources · [Varies by provider; commonly DL-DE-BY-2.0](https://www.geoportal.de/) · Direct download · Commercial use: check terms</sub>
+- [Destatis Regionalatlas](https://regionalatlas.statistikportal.de/) - Small-area German statistics mapped to administrative geographies, covering population, economy, labour, health and infrastructure indicators.
+  <br><sub>Statistische Ämter des Bundes und der Länder · CSV, XLSX, WMS · ~2 GB · 400+ indicators at district level · [DL-DE-BY-2.0](https://www.govdata.de/dl-de/by-2-0) · Direct download · Commercial use permitted</sub>
 
 ## France
 

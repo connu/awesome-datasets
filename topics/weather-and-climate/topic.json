@@ -4,6 +4,7 @@
   "description": "Station observations, gridded reanalysis, forecasts and long-run climate records.",
   "countries": [
     "au",
+    "gb",
     "us"
   ]
 }

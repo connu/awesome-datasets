@@ -1,0 +1,21 @@
+{
+  "id": "orfeus-eida-seismic-waveforms",
+  "name": "ORFEUS EIDA Seismic Waveforms",
+  "topic": "earthquakes-and-natural-hazards",
+  "country": "eu",
+  "url": "https://www.orfeus-eu.org/",
+  "description": "Federated access to continuous seismic waveform archives from European networks, with standard FDSN web services for stations and events.",
+  "provider": "ORFEUS and European seismic networks",
+  "formats": [
+    "miniSEED",
+    "StationXML",
+    "FDSN web services"
+  ],
+  "size": "Petabyte-scale",
+  "records": "Thousands of stations across Europe",
+  "license": "Mostly CC BY 4.0; varies by network",
+  "license_url": "https://www.orfeus-eu.org/",
+  "access": "open",
+  "commercial_use": "check",
+  "cite": "ORFEUS, Observatories and Research Facilities for European Seismology"
+}

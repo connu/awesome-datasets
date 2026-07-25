@@ -6,8 +6,22 @@ Part of [Awesome Datasets](../../README.md). Entries here are generated from the
 
 ## Contents
 
+- [United Kingdom](#united-kingdom)
 - [India](#india)
 - [United States](#united-states)
+
+## United Kingdom
+
+- [DfT Vehicle Licensing Statistics](https://www.gov.uk/government/statistical-data-sets/all-vehicles-veh01) - Quarterly counts of licensed and registered vehicles in Great Britain broken down by body type, fuel, make, model, keepership and local authority.
+  <br><sub>Department for Transport and DVLA · ODS, CSV · ~2 GB · Quarterly series from 1994 · [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) · Direct download · Commercial use permitted</sub>
+- [DVLA Developer Portal](https://developer-portal.driver-vehicle-licensing.api.gov.uk/) - Official APIs for vehicle enquiry and MOT history, returning make, model, fuel type, tax and MOT status from a registration number.
+  <br><sub>Driver and Vehicle Licensing Agency · REST API, JSON · API · 40 million+ licensed vehicles · [Open Government Licence v3.0 with API terms](https://developer-portal.driver-vehicle-licensing.api.gov.uk/) · Free account required · Commercial use permitted</sub>
+- [VCA Car Fuel and Emissions Data](https://carfueldata.vehicle-certification-agency.gov.uk/) - Official type-approval fuel consumption and CO2, NOx and particulate emissions figures for every new car model sold in the UK.
+  <br><sub>Vehicle Certification Agency · CSV, XLSX · ~100 MB · Model-level data from 2000 · [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) · Direct download · Commercial use permitted</sub>
+- [Electric Vehicle Charging Device Statistics](https://www.gov.uk/government/collections/electric-vehicle-charging-infrastructure-statistics) - Quarterly counts of public electric vehicle charging devices by local authority, speed rating and devices per head of population.
+  <br><sub>Department for Transport · ODS, CSV · ~50 MB · Quarterly series by local authority since 2019 · [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) · Direct download · Commercial use permitted</sub>
+- [SMMT Vehicle Data](https://www.smmt.co.uk/vehicle-data/) - Industry-body registration and production figures for UK cars, vans, trucks and buses, broken down by manufacturer, model and fuel type.
+  <br><sub>Society of Motor Manufacturers and Traders · XLSX, PDF, Web · Small tabular files · Monthly and annual series by segment · [Free for reference; redistribution requires permission](https://www.smmt.co.uk/) · Direct download · Non-commercial only</sub>
 
 ## India
 

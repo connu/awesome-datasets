@@ -1,0 +1,21 @@
+{
+  "id": "dwp-stat-xplore",
+  "name": "DWP Stat-Xplore",
+  "topic": "labour-and-employment",
+  "country": "gb",
+  "url": "https://stat-xplore.dwp.gov.uk/",
+  "description": "Query and API access to benefit caseload statistics covering Universal Credit, disability benefits, pensions and jobseeker support by geography and claimant characteristic.",
+  "provider": "Department for Work and Pensions",
+  "formats": [
+    "REST API",
+    "CSV",
+    "XLSX"
+  ],
+  "size": "Multi-GB",
+  "records": "Monthly caseloads for millions of claimants",
+  "license": "Open Government Licence v3.0",
+  "license_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "access": "registration",
+  "commercial_use": "yes",
+  "cite": "Department for Work and Pensions, Stat-Xplore"
+}

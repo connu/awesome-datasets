@@ -1,0 +1,21 @@
+{
+  "id": "trai-performance-indicator-reports",
+  "name": "TRAI Performance Indicator Reports",
+  "topic": "telecom-and-broadband",
+  "country": "in",
+  "url": "https://www.trai.gov.in/",
+  "description": "Quarterly telecom subscriber counts, teledensity, broadband penetration, ARPU, minutes of use and internet subscriber breakdowns by circle and operator.",
+  "provider": "Telecom Regulatory Authority of India",
+  "formats": [
+    "PDF",
+    "XLSX",
+    "CSV"
+  ],
+  "size": "~2 GB",
+  "records": "Quarterly series from 2005",
+  "license": "Government Open Data License - India",
+  "license_url": "https://www.data.gov.in/government-open-data-license-india",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Telecom Regulatory Authority of India, Performance Indicator Reports"
+}

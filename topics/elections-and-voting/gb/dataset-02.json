@@ -1,0 +1,20 @@
+{
+  "id": "house-of-commons-library-election-results",
+  "name": "House of Commons Library Election Results",
+  "topic": "elections-and-voting",
+  "country": "gb",
+  "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-8749/",
+  "description": "Constituency-level results for every UK general election, with candidate votes, party, turnout, majority and swing, cleaned for analysis.",
+  "provider": "House of Commons Library",
+  "formats": [
+    "XLSX",
+    "CSV"
+  ],
+  "size": "~200 MB",
+  "records": "650 constituencies across multiple elections",
+  "license": "Open Parliament Licence v3.0",
+  "license_url": "https://www.parliament.uk/site-information/copyright-parliament/open-parliament-licence/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "House of Commons Library, General election results"
+}

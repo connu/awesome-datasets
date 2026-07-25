@@ -6,8 +6,22 @@ Part of [Awesome Datasets](../../README.md). Entries here are generated from the
 
 ## Contents
 
+- [European Union](#european-union)
 - [Japan](#japan)
 - [United States](#united-states)
+
+## European Union
+
+- [EMSC Euro-Mediterranean Seismological Centre](https://www.emsc-csem.org/) - Real-time and archived earthquake locations for the Euro-Mediterranean region, with felt reports, moment tensors and a public API.
+  <br><sub>European-Mediterranean Seismological Centre · REST API, JSON, QuakeML, CSV · ~20 GB · Millions of located events · [Free for research and public use with attribution](https://www.emsc-csem.org/) · Direct download · Commercial use: check terms</sub>
+- [ORFEUS EIDA Seismic Waveforms](https://www.orfeus-eu.org/) - Federated access to continuous seismic waveform archives from European networks, with standard FDSN web services for stations and events.
+  <br><sub>ORFEUS and European seismic networks · miniSEED, StationXML, FDSN web services · Petabyte-scale · Thousands of stations across Europe · [Mostly CC BY 4.0; varies by network](https://www.orfeus-eu.org/) · Direct download · Commercial use: check terms</sub>
+- [Copernicus Emergency Management Service](https://emergency.copernicus.eu/) - Rapid mapping and risk products for floods, wildfires, earthquakes and storms, with delineation and damage assessment layers for activated events.
+  <br><sub>European Commission and Copernicus · GeoTIFF, Shapefile, GeoJSON, PDF · Multi-TB · 700+ activations since 2012 · [Copernicus open licence, free reuse with attribution](https://emergency.copernicus.eu/) · Direct download · Commercial use permitted</sub>
+- [European Flood Awareness System](https://www.efas.eu/) - Pan-European probabilistic flood forecasts, river discharge reanalysis and historical flood event data at continental scale.
+  <br><sub>Copernicus Emergency Management Service and JRC · NetCDF, GRIB, Web · ~50 TB · Continental coverage with daily forecasts · [Copernicus open licence, free reuse with attribution](https://www.efas.eu/) · Free account required · Commercial use permitted</sub>
+- [EFEHR European Seismic Hazard Model](https://www.efehr.org/) - The harmonised European seismic hazard and risk model with ground motion exceedance maps, fault databases and national hazard comparisons.
+  <br><sub>European Facilities for Earthquake Hazard and Risk · GeoTIFF, CSV, XML · ~20 GB · Pan-European hazard grids and fault catalogues · [CC BY 4.0](https://www.efehr.org/) · Direct download · Commercial use permitted</sub>
 
 ## Japan
 

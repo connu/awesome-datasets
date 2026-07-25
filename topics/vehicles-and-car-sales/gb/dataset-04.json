@@ -1,0 +1,20 @@
+{
+  "id": "electric-vehicle-charging-device-statistics",
+  "name": "Electric Vehicle Charging Device Statistics",
+  "topic": "vehicles-and-car-sales",
+  "country": "gb",
+  "url": "https://www.gov.uk/government/collections/electric-vehicle-charging-infrastructure-statistics",
+  "description": "Quarterly counts of public electric vehicle charging devices by local authority, speed rating and devices per head of population.",
+  "provider": "Department for Transport",
+  "formats": [
+    "ODS",
+    "CSV"
+  ],
+  "size": "~50 MB",
+  "records": "Quarterly series by local authority since 2019",
+  "license": "Open Government Licence v3.0",
+  "license_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Department for Transport, Electric Vehicle Charging Device Statistics"
+}

@@ -3,6 +3,7 @@
   "title": "Census & Demographics",
   "description": "Population counts, household composition, migration and small-area socioeconomic characteristics.",
   "countries": [
+    "gb",
     "in",
     "us"
   ]

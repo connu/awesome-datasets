@@ -1,0 +1,20 @@
+{
+  "id": "ncrb-prison-statistics-india",
+  "name": "NCRB Prison Statistics India",
+  "topic": "crime-and-policing",
+  "country": "in",
+  "url": "https://www.ncrb.gov.in/prison-statistics-india.html",
+  "description": "Annual prison census covering inmate population, undertrials, occupancy rates, demographics, escapes and prison staffing by state.",
+  "provider": "National Crime Records Bureau",
+  "formats": [
+    "PDF",
+    "XLSX"
+  ],
+  "size": "~300 MB per edition",
+  "records": "1,300+ prisons, annual editions",
+  "license": "Government Open Data License - India",
+  "license_url": "https://www.data.gov.in/government-open-data-license-india",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "National Crime Records Bureau, Prison Statistics India"
+}

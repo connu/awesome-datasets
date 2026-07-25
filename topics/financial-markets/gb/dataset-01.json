@@ -1,0 +1,21 @@
+{
+  "id": "bank-of-england-database",
+  "name": "Bank of England Database",
+  "topic": "financial-markets",
+  "country": "gb",
+  "url": "https://www.bankofengland.co.uk/boeapps/database/",
+  "description": "The central bank's statistical database covering interest rates, exchange rates, money and credit aggregates, lending, and bank balance sheets.",
+  "provider": "Bank of England",
+  "formats": [
+    "CSV",
+    "XLSX",
+    "REST API"
+  ],
+  "size": "Multi-GB",
+  "records": "40,000+ time series, some from 1694",
+  "license": "Open Government Licence v3.0",
+  "license_url": "https://www.bankofengland.co.uk/legal",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Bank of England, Statistical Interactive Database"
+}

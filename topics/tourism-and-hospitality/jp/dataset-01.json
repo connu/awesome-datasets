@@ -1,0 +1,21 @@
+{
+  "id": "japan-tourism-statistics",
+  "name": "Japan Tourism Statistics",
+  "topic": "tourism-and-hospitality",
+  "country": "jp",
+  "url": "https://statistics.jnto.go.jp/en/",
+  "description": "Monthly inbound visitor arrivals and outbound departures by nationality, purpose of visit and port of entry, with historical series back to 1964.",
+  "provider": "Japan National Tourism Organization",
+  "formats": [
+    "XLSX",
+    "CSV",
+    "PDF"
+  ],
+  "size": "~500 MB",
+  "records": "Monthly series from 1964",
+  "license": "Free reuse with attribution to JNTO",
+  "license_url": "https://statistics.jnto.go.jp/en/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Japan National Tourism Organization, Japan Tourism Statistics"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "standard-occupational-classification",
+  "name": "Standard Occupational Classification",
+  "topic": "labour-and-employment",
+  "country": "gb",
+  "url": "https://www.ons.gov.uk/methodology/classificationsandstandards/standardoccupationalclassificationsoc",
+  "description": "The UK's official occupation taxonomy with hierarchical codes, job title indexes and qualification levels, used across labour market and immigration policy.",
+  "provider": "Office for National Statistics",
+  "formats": [
+    "XLSX",
+    "CSV"
+  ],
+  "size": "~50 MB",
+  "records": "400+ unit groups, 30,000+ job titles",
+  "license": "Open Government Licence v3.0",
+  "license_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Office for National Statistics, Standard Occupational Classification"
+}

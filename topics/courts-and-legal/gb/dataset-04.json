@@ -1,0 +1,21 @@
+{
+  "id": "moj-court-statistics-quarterly",
+  "name": "MoJ Court Statistics Quarterly",
+  "topic": "courts-and-legal",
+  "country": "gb",
+  "url": "https://www.gov.uk/government/collections/civil-justice-statistics-quarterly",
+  "description": "Caseload, timeliness and outcome statistics for civil, family and administrative courts, with claim volumes, hearing delays and enforcement actions.",
+  "provider": "Ministry of Justice",
+  "formats": [
+    "ODS",
+    "CSV",
+    "XLSX"
+  ],
+  "size": "~1 GB",
+  "records": "Quarterly series from 2007",
+  "license": "Open Government Licence v3.0",
+  "license_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Ministry of Justice, Civil Justice Statistics Quarterly"
+}

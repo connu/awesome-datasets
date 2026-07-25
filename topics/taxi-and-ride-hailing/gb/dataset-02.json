@@ -1,0 +1,22 @@
+{
+  "id": "tfl-open-data",
+  "name": "TfL Open Data",
+  "topic": "taxi-and-ride-hailing",
+  "country": "gb",
+  "url": "https://tfl.gov.uk/info-for/open-data-users/",
+  "description": "Bulk London transport datasets including cycle hire journeys, bus route sequences, station entry and exit counts, and taxi and private hire licensing.",
+  "provider": "Transport for London",
+  "formats": [
+    "CSV",
+    "XML",
+    "GTFS",
+    "Shapefile"
+  ],
+  "size": "Multi-GB",
+  "records": "Millions of cycle hire journeys and station counts",
+  "license": "TfL Open Data Licence, based on OGL",
+  "license_url": "https://tfl.gov.uk/corporate/terms-and-conditions/transport-data-service",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Transport for London Open Data"
+}

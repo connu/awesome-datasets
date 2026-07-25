@@ -6,8 +6,20 @@ Part of [Awesome Datasets](../../README.md). Entries here are generated from the
 
 ## Contents
 
+- [Australia](#australia)
 - [European Union](#european-union)
 - [United States](#united-states)
+
+## Australia
+
+- [ABS Tourism and Transport Statistics](https://www.abs.gov.au/statistics/industry/tourism-and-transport) - Official Australian statistics on air and sea passenger movements, overseas arrivals and departures, and transport industry activity.
+  <br><sub>Australian Bureau of Statistics · XLSX, CSV, SDMX · ~1 GB · Monthly arrival and departure series · [CC BY 4.0](https://www.abs.gov.au/website-privacy-copyright-and-disclaimer) · Direct download · Commercial use permitted</sub>
+- [BOM Aviation Weather Services](https://www.bom.gov.au/aviation/) - Aerodrome forecasts, METARs, SIGMETs, wind and temperature charts and volcanic ash advisories for Australian airspace.
+  <br><sub>Bureau of Meteorology · TAF, METAR, PDF, Web · Continuous feeds · All Australian aerodromes and FIRs · [CC BY 4.0](https://www.bom.gov.au/other/copyright.shtml) · Direct download · Commercial use permitted</sub>
+- [Airservices Australia Data](https://www.airservicesaustralia.com/) - Air traffic management data including movement counts by airport, noise monitoring, flight paths and aeronautical information publications.
+  <br><sub>Airservices Australia · CSV, PDF, Web · Multi-GB · Movement and noise series across major airports · [CC BY 4.0 for most published data](https://www.airservicesaustralia.com/) · Direct download · Commercial use: check terms</sub>
+- [data.gov.au Transport Datasets](https://data.gov.au/) - Australia's federal open data catalogue, including BITRE aviation activity, airport movements and transport infrastructure datasets with a CKAN API.
+  <br><sub>Bureau of Infrastructure and Transport Research Economics · CSV, JSON, REST API · Varies by dataset · Hundreds of transport datasets · [CC BY 4.0](https://data.gov.au/) · Direct download · Commercial use permitted</sub>
 
 ## European Union
 

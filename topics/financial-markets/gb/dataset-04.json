@@ -1,0 +1,21 @@
+{
+  "id": "london-stock-exchange-statistics",
+  "name": "London Stock Exchange Statistics",
+  "topic": "financial-markets",
+  "country": "gb",
+  "url": "https://www.londonstockexchange.com/reports",
+  "description": "Monthly market reports covering listed company counts, market capitalisation, turnover, new issues and index constituents.",
+  "provider": "London Stock Exchange Group",
+  "formats": [
+    "XLSX",
+    "PDF",
+    "CSV"
+  ],
+  "size": "~500 MB",
+  "records": "Monthly series across main market and AIM",
+  "license": "LSEG terms of use; redistribution restricted",
+  "license_url": "https://www.londonstockexchange.com/",
+  "access": "open",
+  "commercial_use": "no",
+  "cite": "London Stock Exchange Group"
+}

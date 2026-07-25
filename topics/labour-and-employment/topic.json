@@ -4,6 +4,7 @@
   "description": "Employment levels, wages, job vacancies, occupational classifications and workforce demographics.",
   "countries": [
     "ca",
+    "gb",
     "us"
   ]
 }

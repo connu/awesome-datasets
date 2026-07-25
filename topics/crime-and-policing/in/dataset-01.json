@@ -1,0 +1,21 @@
+{
+  "id": "ncrb-crime-in-india",
+  "name": "NCRB Crime in India",
+  "topic": "crime-and-policing",
+  "country": "in",
+  "url": "https://www.ncrb.gov.in/crime-in-india.html",
+  "description": "The annual national crime statistics report with state and city level counts by offence head, victim and accused demographics, and case disposal outcomes.",
+  "provider": "National Crime Records Bureau",
+  "formats": [
+    "PDF",
+    "XLSX",
+    "CSV"
+  ],
+  "size": "~2 GB per edition",
+  "records": "Annual editions from 1953",
+  "license": "Government Open Data License - India",
+  "license_url": "https://www.data.gov.in/government-open-data-license-india",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "National Crime Records Bureau, Crime in India"
+}

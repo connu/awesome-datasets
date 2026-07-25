@@ -1,0 +1,20 @@
+{
+  "id": "comptroller-and-auditor-general-audit-reports",
+  "name": "Comptroller and Auditor General Audit Reports",
+  "topic": "government-spending-and-budgets",
+  "country": "in",
+  "url": "https://cag.gov.in/en/audit-report",
+  "description": "Statutory audit reports on union and state government accounts, covering financial irregularities, scheme performance and public sector undertakings.",
+  "provider": "Comptroller and Auditor General of India",
+  "formats": [
+    "PDF",
+    "XLSX"
+  ],
+  "size": "~10 GB",
+  "records": "Thousands of audit reports",
+  "license": "Government Open Data License - India",
+  "license_url": "https://www.data.gov.in/government-open-data-license-india",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Comptroller and Auditor General of India, Audit Reports"
+}

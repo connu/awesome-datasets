@@ -3,6 +3,7 @@
   "title": "Trade & Customs",
   "description": "Import and export flows, tariff schedules, commodity classifications and port activity.",
   "countries": [
+    "eu",
     "in",
     "us"
   ]

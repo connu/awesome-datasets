@@ -1,0 +1,22 @@
+{
+  "id": "japan-open-data-portal",
+  "name": "Japan Open Data Portal",
+  "topic": "tourism-and-hospitality",
+  "country": "jp",
+  "url": "https://www.data.go.jp/",
+  "description": "The national open data catalogue aggregating datasets from every ministry and many prefectures, including tourism, transport and regional economy data.",
+  "provider": "Digital Agency, Government of Japan",
+  "formats": [
+    "CSV",
+    "XLSX",
+    "JSON",
+    "REST API"
+  ],
+  "size": "Varies by dataset",
+  "records": "30,000+ datasets",
+  "license": "Japan Government Standard Terms of Use, CC BY compatible",
+  "license_url": "https://www.data.go.jp/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "data.go.jp, Digital Agency, Government of Japan"
+}

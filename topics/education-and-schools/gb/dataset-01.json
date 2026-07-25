@@ -1,0 +1,21 @@
+{
+  "id": "explore-education-statistics",
+  "name": "Explore Education Statistics",
+  "topic": "education-and-schools",
+  "country": "gb",
+  "url": "https://explore-education-statistics.service.gov.uk/",
+  "description": "The Department for Education's statistics platform covering attainment, absence, exclusions, school workforce, funding and destinations, with a public API.",
+  "provider": "Department for Education",
+  "formats": [
+    "CSV",
+    "REST API",
+    "XLSX"
+  ],
+  "size": "Multi-GB",
+  "records": "Hundreds of releases with school and local authority detail",
+  "license": "Open Government Licence v3.0",
+  "license_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Department for Education, Explore Education Statistics"
+}

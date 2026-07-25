@@ -1,0 +1,20 @@
+{
+  "id": "ea-catchment-data-explorer",
+  "name": "EA Catchment Data Explorer",
+  "topic": "water-and-sanitation",
+  "country": "gb",
+  "url": "https://environment.data.gov.uk/catchment-planning/",
+  "description": "Water Framework Directive classification results for every English river, lake, groundwater and coastal water body, with reasons for not achieving good status.",
+  "provider": "Environment Agency",
+  "formats": [
+    "CSV",
+    "REST API"
+  ],
+  "size": "~5 GB",
+  "records": "5,000+ water bodies with annual classifications",
+  "license": "Open Government Licence v3.0",
+  "license_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Environment Agency, Catchment Data Explorer"
+}

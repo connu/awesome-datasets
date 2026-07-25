@@ -1,0 +1,21 @@
+{
+  "id": "meity-digital-india-statistics",
+  "name": "MeitY Digital India Statistics",
+  "topic": "telecom-and-broadband",
+  "country": "in",
+  "url": "https://www.meity.gov.in/",
+  "description": "Digital infrastructure and adoption statistics covering common service centres, digital payments volumes, internet penetration and electronics manufacturing.",
+  "provider": "Ministry of Electronics and Information Technology",
+  "formats": [
+    "PDF",
+    "XLSX",
+    "Web dashboard"
+  ],
+  "size": "Varies by report",
+  "records": "National and state-level digital adoption series",
+  "license": "Government Open Data License - India",
+  "license_url": "https://www.data.gov.in/government-open-data-license-india",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Ministry of Electronics and Information Technology, Government of India"
+}

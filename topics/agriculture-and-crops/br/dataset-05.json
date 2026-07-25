@@ -1,0 +1,22 @@
+{
+  "id": "inpe-prodes-and-deter-deforestation-data",
+  "name": "INPE PRODES and DETER Deforestation Data",
+  "topic": "agriculture-and-crops",
+  "country": "br",
+  "url": "https://terrabrasilis.dpi.inpe.br/",
+  "description": "Official satellite monitoring of Amazon and Cerrado deforestation, with annual clear-cut polygons and near-real-time alerts.",
+  "provider": "Instituto Nacional de Pesquisas Espaciais",
+  "formats": [
+    "Shapefile",
+    "GeoJSON",
+    "WFS",
+    "REST API"
+  ],
+  "size": "~50 GB",
+  "records": "Annual deforestation polygons since 1988",
+  "license": "Free use with attribution to INPE",
+  "license_url": "https://terrabrasilis.dpi.inpe.br/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "INPE, TerraBrasilis PRODES and DETER"
+}

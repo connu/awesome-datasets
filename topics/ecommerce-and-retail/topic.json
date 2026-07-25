@@ -4,6 +4,7 @@
   "description": "Order histories, product catalogues, retail sales aggregates and consumer price observations.",
   "countries": [
     "br",
+    "gb",
     "us"
   ]
 }

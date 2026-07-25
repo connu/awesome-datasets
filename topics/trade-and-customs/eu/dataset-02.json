@@ -1,0 +1,21 @@
+{
+  "id": "eu-customs-tariff-taric",
+  "name": "EU Customs Tariff (TARIC)",
+  "topic": "trade-and-customs",
+  "country": "eu",
+  "url": "https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/eu-customs-tariff-taric_en",
+  "description": "The integrated tariff of the European Union with duty rates, quotas, suspensions, anti-dumping measures and prohibitions by commodity code and origin.",
+  "provider": "European Commission Directorate-General for Taxation and Customs Union",
+  "formats": [
+    "XML",
+    "REST API",
+    "Web"
+  ],
+  "size": "~10 GB",
+  "records": "20,000+ commodity codes with daily measure updates",
+  "license": "European Commission reuse decision, free with attribution",
+  "license_url": "https://taxation-customs.ec.europa.eu/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "European Commission, TARIC integrated tariff"
+}

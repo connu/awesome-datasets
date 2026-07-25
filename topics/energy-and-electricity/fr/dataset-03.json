@@ -1,0 +1,21 @@
+{
+  "id": "rte-services-data-portal",
+  "name": "RTE Services Data Portal",
+  "topic": "energy-and-electricity",
+  "country": "fr",
+  "url": "https://www.services-rte.com/",
+  "description": "The French transmission system operator's API portal for real-time generation, consumption forecasts, cross-border exchanges and balancing data.",
+  "provider": "Réseau de Transport d'Électricité",
+  "formats": [
+    "REST API",
+    "JSON",
+    "CSV"
+  ],
+  "size": "API",
+  "records": "Continuous national grid telemetry",
+  "license": "RTE open data terms, free reuse with attribution",
+  "license_url": "https://www.services-rte.com/",
+  "access": "registration",
+  "commercial_use": "yes",
+  "cite": "RTE, Services portal"
+}

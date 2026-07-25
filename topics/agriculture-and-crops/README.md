@@ -6,8 +6,22 @@ Part of [Awesome Datasets](../../README.md). Entries here are generated from the
 
 ## Contents
 
+- [Brazil](#brazil)
 - [India](#india)
 - [United States](#united-states)
+
+## Brazil
+
+- [IBGE Agricultural Production Statistics](https://www.ibge.gov.br/estatisticas/economicas/agricultura-e-pecuaria.html) - Official Brazilian crop and livestock statistics covering planted area, production, yield and value by municipality and crop.
+  <br><sub>Instituto Brasileiro de Geografia e Estatística · XLSX, CSV, REST API · Multi-GB · 5,570 municipalities, annual and monthly series · [Free use with attribution to IBGE](https://www.ibge.gov.br/acesso-informacao/institucional/copyright.html) · Direct download · Commercial use permitted</sub>
+- [CONAB Crop Monitoring](https://www.conab.gov.br/info-agro/safras) - Monthly national crop surveys with area, productivity and production forecasts for soybeans, maize, cotton, rice and other major Brazilian crops.
+  <br><sub>Companhia Nacional de Abastecimento · XLSX, PDF, CSV · ~1 GB · Monthly surveys by state and crop since 1976 · [Free use with attribution](https://www.conab.gov.br/) · Direct download · Commercial use permitted</sub>
+- [Embrapa Agricultural Research Data](https://www.embrapa.br/) - Agricultural research datasets covering soils, climate zoning, crop trials, satellite land use monitoring and livestock productivity.
+  <br><sub>Empresa Brasileira de Pesquisa Agropecuária · CSV, Shapefile, GeoTIFF, PDF · Multi-TB · Hundreds of research datasets and geospatial layers · [Varies by dataset; many CC BY](https://www.embrapa.br/) · Direct download · Commercial use: check terms</sub>
+- [MapBiomas](https://brasil.mapbiomas.org/) - Annual 30-metre land cover and land use maps for Brazil from 1985 onward, with deforestation, pasture, agriculture and water surface classifications.
+  <br><sub>MapBiomas initiative · GeoTIFF, Google Earth Engine, CSV · ~5 TB · Annual national coverage since 1985 · [CC BY-SA 4.0](https://brasil.mapbiomas.org/) · Direct download · Commercial use permitted</sub>
+- [INPE PRODES and DETER Deforestation Data](https://terrabrasilis.dpi.inpe.br/) - Official satellite monitoring of Amazon and Cerrado deforestation, with annual clear-cut polygons and near-real-time alerts.
+  <br><sub>Instituto Nacional de Pesquisas Espaciais · Shapefile, GeoJSON, WFS, REST API · ~50 GB · Annual deforestation polygons since 1988 · [Free use with attribution to INPE](https://terrabrasilis.dpi.inpe.br/) · Direct download · Commercial use permitted</sub>
 
 ## India
 

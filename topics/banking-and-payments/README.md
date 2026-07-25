@@ -6,8 +6,22 @@ Part of [Awesome Datasets](../../README.md). Entries here are generated from the
 
 ## Contents
 
+- [Brazil](#brazil)
 - [Germany](#germany)
 - [United States](#united-states)
+
+## Brazil
+
+- [Banco Central do Brasil Open Data Portal](https://dadosabertos.bcb.gov.br/) - The Brazilian central bank's open data portal with APIs for exchange rates, interest rates, credit aggregates, bank rankings and payment system volumes.
+  <br><sub>Banco Central do Brasil · REST API, CSV, JSON, OData · Multi-GB · Hundreds of datasets with daily updates · [Free reuse with attribution, Brazilian open data policy](https://dadosabertos.bcb.gov.br/) · Direct download · Commercial use permitted</sub>
+- [BCB Pix Statistics](https://www.bcb.gov.br/estabilidadefinanceira/estatisticaspix) - Transaction volumes, values, user counts and settlement statistics for Pix, Brazil's instant payment system and one of the most-adopted in the world.
+  <br><sub>Banco Central do Brasil · CSV, XLSX, REST API · ~5 GB · Monthly and quarterly series since 2020 · [Free reuse with attribution, Brazilian open data policy](https://www.bcb.gov.br/) · Direct download · Commercial use permitted</sub>
+- [BCB SGS Time Series Management System](https://www.bcb.gov.br/estatisticas) - The central bank's statistical series system covering monetary policy, credit, balance of payments, fiscal indicators and market expectations.
+  <br><sub>Banco Central do Brasil · CSV, XLSX, REST API, OData · Multi-GB · 20,000+ economic time series · [Free reuse with attribution, Brazilian open data policy](https://www.bcb.gov.br/) · Direct download · Commercial use permitted</sub>
+- [CVM Open Data](https://dados.cvm.gov.br/) - Brazilian securities regulator data covering listed company filings, investment fund daily returns and holdings, and registered intermediaries.
+  <br><sub>Comissão de Valores Mobiliários · CSV, ZIP · ~100 GB · Daily fund data for 30,000+ funds · [Free reuse with attribution, Brazilian open data policy](https://dados.cvm.gov.br/) · Direct download · Commercial use permitted</sub>
+- [Open Finance Brasil](https://openfinancebrasil.org.br/) - The technical standards, participant directory and public APIs for Brazil's open banking regime, including product and channel reference data.
+  <br><sub>Open Finance Brasil governance structure · REST API, JSON, OpenAPI · API · 800+ participating institutions · [Open specifications; participant data under regime rules](https://openfinancebrasil.org.br/) · Direct download · Commercial use: check terms</sub>
 
 ## Germany
 

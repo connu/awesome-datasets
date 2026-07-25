@@ -6,8 +6,22 @@ Part of [Awesome Datasets](../../README.md). Entries here are generated from the
 
 ## Contents
 
+- [European Union](#european-union)
 - [India](#india)
 - [United States](#united-states)
+
+## European Union
+
+- [EEA Air Quality Data](https://www.eea.europa.eu/en/topics/in-depth/air-pollution) - Validated hourly and annual pollutant measurements reported by every EEA member country under the Air Quality Directive, with station metadata and exceedance statistics.
+  <br><sub>European Environment Agency · CSV, Parquet, REST API · ~200 GB · Billions of measurements from 5,000+ stations · [EEA open data policy, free reuse with attribution](https://www.eea.europa.eu/en/legal-notice) · Direct download · Commercial use permitted</sub>
+- [Copernicus Atmosphere Monitoring Service](https://atmosphere.copernicus.eu/) - Global and European reanalysis and forecasts of atmospheric composition covering ozone, aerosols, greenhouse gases, pollen and UV index.
+  <br><sub>ECMWF and Copernicus · NetCDF, GRIB, Python API · Petabyte-scale · Global coverage, hourly forecasts and reanalysis from 2003 · [Copernicus licence, free reuse with attribution](https://atmosphere.copernicus.eu/) · Free account required · Commercial use permitted</sub>
+- [EDGAR Emissions Database](https://edgar.jrc.ec.europa.eu/) - Gridded global inventory of greenhouse gas and air pollutant emissions by country, sector and year, independent of national reporting.
+  <br><sub>European Commission Joint Research Centre · CSV, NetCDF, XLSX · ~50 GB · Global grids and country series from 1970 · [CC BY 4.0](https://edgar.jrc.ec.europa.eu/) · Direct download · Commercial use permitted</sub>
+- [EEA Industrial Emissions Portal](https://industry.eea.europa.eu/) - Facility-level pollutant releases and transfers reported by large European industrial installations, with permit, sector and location detail.
+  <br><sub>European Environment Agency · CSV, REST API · ~10 GB · 60,000+ industrial facilities · [EEA open data policy, free reuse with attribution](https://www.eea.europa.eu/en/legal-notice) · Direct download · Commercial use permitted</sub>
+- [Eurostat Environment Database](https://ec.europa.eu/eurostat/web/environment/database) - Harmonised European environmental accounts covering air emissions by economic activity, waste, water use, and environmental taxes.
+  <br><sub>Eurostat · TSV, SDMX, REST API · ~5 GB · Annual series for all EU member states · [Eurostat reuse policy, free with attribution](https://ec.europa.eu/eurostat/web/main/help/copyright-notice) · Direct download · Commercial use permitted</sub>
 
 ## India
 

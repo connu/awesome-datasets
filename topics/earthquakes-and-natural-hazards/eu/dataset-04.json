@@ -1,0 +1,21 @@
+{
+  "id": "european-flood-awareness-system",
+  "name": "European Flood Awareness System",
+  "topic": "earthquakes-and-natural-hazards",
+  "country": "eu",
+  "url": "https://www.efas.eu/",
+  "description": "Pan-European probabilistic flood forecasts, river discharge reanalysis and historical flood event data at continental scale.",
+  "provider": "Copernicus Emergency Management Service and JRC",
+  "formats": [
+    "NetCDF",
+    "GRIB",
+    "Web"
+  ],
+  "size": "~50 TB",
+  "records": "Continental coverage with daily forecasts",
+  "license": "Copernicus open licence, free reuse with attribution",
+  "license_url": "https://www.efas.eu/",
+  "access": "registration",
+  "commercial_use": "yes",
+  "cite": "European Flood Awareness System (EFAS), Copernicus EMS"
+}

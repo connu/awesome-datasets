@@ -1,0 +1,21 @@
+{
+  "id": "aihw-housing-assistance-data",
+  "name": "AIHW Housing Assistance Data",
+  "topic": "real-estate-and-housing",
+  "country": "au",
+  "url": "https://www.aihw.gov.au/reports-data/health-welfare-services/housing-assistance",
+  "description": "National social housing, homelessness services and rent assistance statistics with waiting lists, tenant demographics and service outcomes.",
+  "provider": "Australian Institute of Health and Welfare",
+  "formats": [
+    "XLSX",
+    "CSV",
+    "PDF"
+  ],
+  "size": "~1 GB",
+  "records": "Annual national collections",
+  "license": "CC BY 4.0",
+  "license_url": "https://www.aihw.gov.au/copyright",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Australian Institute of Health and Welfare, Housing Assistance"
+}

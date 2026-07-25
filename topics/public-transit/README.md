@@ -7,6 +7,7 @@ Part of [Awesome Datasets](../../README.md). Entries here are generated from the
 ## Contents
 
 - [Germany](#germany)
+- [France](#france)
 - [United States](#united-states)
 
 ## Germany
@@ -21,6 +22,19 @@ Part of [Awesome Datasets](../../README.md). Entries here are generated from the
   <br><sub>Bundesministerium des Innern · CSV, JSON, XML, WMS · Varies by dataset · 100,000+ datasets · [Varies; commonly DL-DE-BY-2.0 or CC BY 4.0](https://www.govdata.de/informationen/lizenzen) · Direct download · Commercial use: check terms</sub>
 - [VBB Open Data](https://unternehmen.vbb.de/en/digital-services/datasets/) - Berlin and Brandenburg transport association data covering GTFS timetables, fare zones, stop registers and a departure-monitor API.
   <br><sub>Verkehrsverbund Berlin-Brandenburg · GTFS, CSV, REST API · ~200 MB · 13,000+ stops across Berlin-Brandenburg · [CC BY 4.0 (Datenlizenz Deutschland Namensnennung)](https://unternehmen.vbb.de/en/digital-services/datasets/) · Free account required · Commercial use permitted</sub>
+
+## France
+
+- [transport.data.gouv.fr](https://transport.data.gouv.fr/) - France's national access point for mobility data, aggregating validated GTFS, GTFS-RT, GBFS and NeTEx feeds from every transit authority in the country.
+  <br><sub>DINUM and Ministère de la Transition écologique · GTFS, GTFS-RT, NeTEx, GBFS, REST API · Varies by feed · 400+ transit and shared mobility feeds · [Licence Ouverte 2.0 or ODbL depending on feed](https://transport.data.gouv.fr/) · Direct download · Commercial use permitted</sub>
+- [SNCF Open Data](https://ressources.data.sncf.com/) - French national rail data covering timetables, real-time arrivals, punctuality by route, station facilities, passenger counts and ticket prices.
+  <br><sub>SNCF · CSV, JSON, GeoJSON, REST API · Multi-GB · 200+ datasets across the rail network · [Licence Ouverte 2.0 and ODbL depending on dataset](https://ressources.data.sncf.com/) · Direct download · Commercial use permitted</sub>
+- [Île-de-France Mobilités Open Data](https://data.iledefrance-mobilites.fr/) - Timetables, network topology, real-time departures, accessibility and ridership counts for the Paris region's metro, RER, bus and tram network.
+  <br><sub>Île-de-France Mobilités · GTFS, GTFS-RT, CSV, REST API · ~2 GB · Paris region network with 12 million daily trips · [Licence Ouverte 2.0 and ODbL](https://data.iledefrance-mobilites.fr/) · Free account required · Commercial use permitted</sub>
+- [RATP Open Data](https://data.ratp.fr/) - Paris operator data covering station and line geometry, lift and escalator status, traffic by station, air quality in the metro and cycle parking.
+  <br><sub>RATP · CSV, JSON, GeoJSON, REST API · ~1 GB · 300+ metro stations and the full bus network · [Licence Ouverte 2.0 and ODbL](https://data.ratp.fr/) · Direct download · Commercial use permitted</sub>
+- [Navitia API](https://www.navitia.io/) - Open journey-planning API over the aggregated French and international transit feeds, exposing routing, isochrones, stop schedules and disruptions.
+  <br><sub>Kisio Digital / Hove · REST API, JSON · API · Coverage of France plus dozens of other regions · [AGPL-3.0 (engine); data under source feed licenses](https://www.navitia.io/) · Free account required · Commercial use: check terms</sub>
 
 ## United States
 

@@ -1,0 +1,21 @@
+{
+  "id": "j-platpat",
+  "name": "J-PlatPat",
+  "topic": "patents-and-trademarks",
+  "country": "jp",
+  "url": "https://www.j-platpat.inpit.go.jp/",
+  "description": "The Japan Patent Office's public search platform for patents, utility models, designs and trademarks, with full text, legal status and family information.",
+  "provider": "INPIT and Japan Patent Office",
+  "formats": [
+    "Web",
+    "PDF",
+    "XML"
+  ],
+  "size": "Varies by query",
+  "records": "100 million+ IP documents",
+  "license": "JPO terms of use, free reuse with attribution",
+  "license_url": "https://www.j-platpat.inpit.go.jp/",
+  "access": "open",
+  "commercial_use": "check",
+  "cite": "J-PlatPat, INPIT and Japan Patent Office"
+}

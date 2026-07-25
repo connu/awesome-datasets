@@ -1,0 +1,21 @@
+{
+  "id": "jpo-statistics-and-annual-reports",
+  "name": "JPO Statistics and Annual Reports",
+  "topic": "patents-and-trademarks",
+  "country": "jp",
+  "url": "https://www.jpo.go.jp/e/resources/statistics/",
+  "description": "Official Japanese IP statistics covering applications, grants, examination pendency, appeals and international filings by technology field.",
+  "provider": "Japan Patent Office",
+  "formats": [
+    "XLSX",
+    "PDF",
+    "CSV"
+  ],
+  "size": "~500 MB",
+  "records": "Annual series with long historical coverage",
+  "license": "Japan Government Standard Terms of Use, CC BY compatible",
+  "license_url": "https://www.jpo.go.jp/e/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Japan Patent Office, Statistics and Annual Reports"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "radars-automatiques-open-data",
+  "name": "Radars automatiques Open Data",
+  "topic": "road-safety-and-accidents",
+  "country": "fr",
+  "url": "https://www.data.gouv.fr/datasets/radars-automatiques/",
+  "description": "Location, type, direction and speed threshold of every automated speed camera in France, with installation dates.",
+  "provider": "Ministère de l'Intérieur",
+  "formats": [
+    "CSV",
+    "JSON",
+    "GeoJSON"
+  ],
+  "size": "~10 MB",
+  "records": "4,000+ speed cameras",
+  "license": "Licence Ouverte 2.0",
+  "license_url": "https://www.etalab.gouv.fr/licence-ouverte-open-licence/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Ministère de l'Intérieur, Radars automatiques"
+}

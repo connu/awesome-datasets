@@ -1,0 +1,21 @@
+{
+  "id": "abs-census-of-population-and-housing",
+  "name": "ABS Census of Population and Housing",
+  "topic": "real-estate-and-housing",
+  "country": "au",
+  "url": "https://www.abs.gov.au/census",
+  "description": "Five-yearly census tables on dwelling structure, tenure, mortgage and rent payments, household composition and occupancy down to statistical area level 1.",
+  "provider": "Australian Bureau of Statistics",
+  "formats": [
+    "CSV",
+    "XLSX",
+    "TableBuilder"
+  ],
+  "size": "Multi-GB",
+  "records": "26 million+ people, 11 million+ dwellings",
+  "license": "CC BY 4.0",
+  "license_url": "https://www.abs.gov.au/website-privacy-copyright-and-disclaimer",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Australian Bureau of Statistics, Census of Population and Housing"
+}

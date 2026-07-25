@@ -6,8 +6,22 @@ Part of [Awesome Datasets](../../README.md). Entries here are generated from the
 
 ## Contents
 
+- [United Kingdom](#united-kingdom)
 - [India](#india)
 - [United States](#united-states)
+
+## United Kingdom
+
+- [ONS Census 2021](https://www.ons.gov.uk/census) - The full England and Wales census outputs covering population, ethnicity, religion, health, employment, housing and travel to work down to output area level.
+  <br><sub>Office for National Statistics · CSV, XLSX, REST API · Multi-GB · 59.6 million people, 24.8 million households · [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) · Direct download · Commercial use permitted</sub>
+- [Nomis](https://www.nomisweb.co.uk/) - The official query interface for UK census and labour market statistics, with a documented API and downloads at every geography from country to output area.
+  <br><sub>Office for National Statistics and Durham University · CSV, REST API, XLSX · Varies by query · 1,000+ datasets across census and labour market · [Open Government Licence v3.0](https://www.nomisweb.co.uk/home/copyright.asp) · Direct download · Commercial use permitted</sub>
+- [ONS Open Geography Portal](https://geoportal.statistics.gov.uk/) - Boundary files, lookups and postcode directories for every UK statistical geography, the join keys behind all small-area analysis.
+  <br><sub>Office for National Statistics · Shapefile, GeoJSON, CSV, REST API · ~20 GB · All UK statistical geographies with historical versions · [Open Government Licence v3.0 with OS attribution](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) · Direct download · Commercial use permitted</sub>
+- [National Records of Scotland Statistics](https://www.nrscotland.gov.uk/statistics-and-data) - Scotland's census, vital events, migration and population projection statistics, published separately from the England and Wales census.
+  <br><sub>National Records of Scotland · CSV, XLSX, PDF · ~2 GB · Scottish census and annual vital statistics · [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) · Direct download · Commercial use permitted</sub>
+- [ONS Developer Hub](https://developer.ons.gov.uk/) - Programmatic access to ONS published datasets and time series, returning census tables, economic indicators and population estimates as JSON.
+  <br><sub>Office for National Statistics · REST API, JSON, CSV · API · Hundreds of datasets and thousands of series · [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) · Direct download · Commercial use permitted</sub>
 
 ## India
 

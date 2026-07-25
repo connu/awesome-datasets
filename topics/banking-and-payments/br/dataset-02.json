@@ -1,0 +1,21 @@
+{
+  "id": "bcb-pix-statistics",
+  "name": "BCB Pix Statistics",
+  "topic": "banking-and-payments",
+  "country": "br",
+  "url": "https://www.bcb.gov.br/estabilidadefinanceira/estatisticaspix",
+  "description": "Transaction volumes, values, user counts and settlement statistics for Pix, Brazil's instant payment system and one of the most-adopted in the world.",
+  "provider": "Banco Central do Brasil",
+  "formats": [
+    "CSV",
+    "XLSX",
+    "REST API"
+  ],
+  "size": "~5 GB",
+  "records": "Monthly and quarterly series since 2020",
+  "license": "Free reuse with attribution, Brazilian open data policy",
+  "license_url": "https://www.bcb.gov.br/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Banco Central do Brasil, Estatísticas do Pix"
+}

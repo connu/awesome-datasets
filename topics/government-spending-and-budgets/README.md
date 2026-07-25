@@ -7,6 +7,7 @@ Part of [Awesome Datasets](../../README.md). Entries here are generated from the
 ## Contents
 
 - [United Kingdom](#united-kingdom)
+- [India](#india)
 - [United States](#united-states)
 
 ## United Kingdom
@@ -21,6 +22,19 @@ Part of [Awesome Datasets](../../README.md). Entries here are generated from the
   <br><sub>Office for Budget Responsibility · XLSX, CSV · ~500 MB · Long-run fiscal series with forecast vintages · [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) · Direct download · Commercial use permitted</sub>
 - [Find a Tender Service](https://www.find-tender.service.gov.uk/Search) - High-value public procurement notices published under UK procurement regulations, the post-Brexit successor to the EU tenders journal.
   <br><sub>Cabinet Office · OCDS JSON, REST API, CSV · Multi-GB · Notices from 2021 onward · [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) · Direct download · Commercial use permitted</sub>
+
+## India
+
+- [Union Budget of India](https://www.indiabudget.gov.in/) - The full annual union budget with demand-for-grants detail, expenditure profiles, receipts, subsidies and ministry-wise allocations in machine-readable form.
+  <br><sub>Ministry of Finance · PDF, XLSX, CSV · ~2 GB per year · Annual budgets with scheme-level allocations · [Government Open Data License - India](https://www.data.gov.in/government-open-data-license-india) · Direct download · Commercial use permitted</sub>
+- [Central Public Procurement Portal](https://eprocure.gov.in/cppp/) - Tender notices, bid documents and award-of-contract details published by central ministries, PSUs and autonomous bodies.
+  <br><sub>National Informatics Centre · PDF, XLSX, Web · Multi-GB · Millions of tenders since 2012 · [Government Open Data License - India](https://www.data.gov.in/government-open-data-license-india) · Direct download · Commercial use permitted</sub>
+- [Comptroller and Auditor General Audit Reports](https://cag.gov.in/en/audit-report) - Statutory audit reports on union and state government accounts, covering financial irregularities, scheme performance and public sector undertakings.
+  <br><sub>Comptroller and Auditor General of India · PDF, XLSX · ~10 GB · Thousands of audit reports · [Government Open Data License - India](https://www.data.gov.in/government-open-data-license-india) · Direct download · Commercial use permitted</sub>
+- [RBI State Finances Study](https://www.rbi.org.in/Scripts/AnnualPublications.aspx?head=State+Finances+%3A+A+Study+of+Budgets) - The annual comparative study of all Indian state budgets, with receipts, expenditure, deficits, debt and outstanding liabilities by state.
+  <br><sub>Reserve Bank of India · PDF, XLSX · ~500 MB · Annual editions covering all states and union territories · [Free reuse with attribution to RBI](https://www.rbi.org.in/Scripts/Copyright.aspx) · Direct download · Commercial use permitted</sub>
+- [data.gov.in Finance Sector](https://www.data.gov.in/sector/finance) - Open government catalogue of fiscal datasets covering tax collections, scheme expenditure, grants to states and public sector finances.
+  <br><sub>National Informatics Centre · CSV, XLSX, JSON, REST API · Varies by resource · 4,000+ finance resources · [Government Open Data License - India](https://www.data.gov.in/government-open-data-license-india) · Direct download · Commercial use permitted</sub>
 
 ## United States
 

@@ -4,6 +4,7 @@
   "description": "Timetables, network topology, real-time vehicle positions and ridership counts for public transport.",
   "countries": [
     "de",
+    "fr",
     "us"
   ]
 }

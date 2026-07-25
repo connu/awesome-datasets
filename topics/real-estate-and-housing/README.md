@@ -6,8 +6,22 @@ Part of [Awesome Datasets](../../README.md). Entries here are generated from the
 
 ## Contents
 
+- [Australia](#australia)
 - [United Kingdom](#united-kingdom)
 - [United States](#united-states)
+
+## Australia
+
+- [ABS Residential Property Price Indexes](https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation) - Official quarterly house and attached dwelling price indexes for the eight Australian capital cities, with total value of the dwelling stock.
+  <br><sub>Australian Bureau of Statistics · XLSX, CSV, SDMX · ~200 MB · Quarterly series from 2003 · [CC BY 4.0](https://www.abs.gov.au/website-privacy-copyright-and-disclaimer) · Direct download · Commercial use permitted</sub>
+- [ABS Building Approvals](https://www.abs.gov.au/statistics/industry/building-and-construction) - Monthly counts and values of approved residential and non-residential building work by local government area, the leading indicator for Australian construction.
+  <br><sub>Australian Bureau of Statistics · XLSX, CSV, SDMX · ~500 MB · Monthly series from 1983 · [CC BY 4.0](https://www.abs.gov.au/website-privacy-copyright-and-disclaimer) · Direct download · Commercial use permitted</sub>
+- [NSW Property Sales Information](https://valuation.property.nsw.gov.au/embed/propertySalesInformation) - Weekly and annual dumps of every property sale registered in New South Wales, with address, price, contract date, area and zoning.
+  <br><sub>NSW Valuer General · DAT, ZIP, CSV · ~5 GB · Millions of sales since 1990 · [CC BY 4.0](https://www.nsw.gov.au/copyright) · Direct download · Commercial use permitted</sub>
+- [AIHW Housing Assistance Data](https://www.aihw.gov.au/reports-data/health-welfare-services/housing-assistance) - National social housing, homelessness services and rent assistance statistics with waiting lists, tenant demographics and service outcomes.
+  <br><sub>Australian Institute of Health and Welfare · XLSX, CSV, PDF · ~1 GB · Annual national collections · [CC BY 4.0](https://www.aihw.gov.au/copyright) · Direct download · Commercial use permitted</sub>
+- [ABS Census of Population and Housing](https://www.abs.gov.au/census) - Five-yearly census tables on dwelling structure, tenure, mortgage and rent payments, household composition and occupancy down to statistical area level 1.
+  <br><sub>Australian Bureau of Statistics · CSV, XLSX, TableBuilder · Multi-GB · 26 million+ people, 11 million+ dwellings · [CC BY 4.0](https://www.abs.gov.au/website-privacy-copyright-and-disclaimer) · Direct download · Commercial use permitted</sub>
 
 ## United Kingdom
 

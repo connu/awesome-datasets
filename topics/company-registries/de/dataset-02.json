@@ -1,0 +1,21 @@
+{
+  "id": "govdata-company-and-economy-datasets",
+  "name": "GovData Company and Economy Datasets",
+  "topic": "company-registries",
+  "country": "de",
+  "url": "https://www.govdata.de/",
+  "description": "Federal open data portal section covering business registers, trade statistics, insolvencies and economic indicators from all sixteen German states.",
+  "provider": "Bundesministerium des Innern",
+  "formats": [
+    "XML",
+    "PDF",
+    "Web"
+  ],
+  "size": "Multi-TB",
+  "records": "5 million+ register entries",
+  "license": "Varies; commonly DL-DE-BY-2.0 or CC BY 4.0",
+  "license_url": "https://www.govdata.de/informationen/lizenzen",
+  "access": "open",
+  "commercial_use": "check",
+  "cite": "GovData, Datenportal für Deutschland"
+}

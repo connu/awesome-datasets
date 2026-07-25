@@ -1,0 +1,21 @@
+{
+  "id": "conab-crop-monitoring",
+  "name": "CONAB Crop Monitoring",
+  "topic": "agriculture-and-crops",
+  "country": "br",
+  "url": "https://www.conab.gov.br/info-agro/safras",
+  "description": "Monthly national crop surveys with area, productivity and production forecasts for soybeans, maize, cotton, rice and other major Brazilian crops.",
+  "provider": "Companhia Nacional de Abastecimento",
+  "formats": [
+    "XLSX",
+    "PDF",
+    "CSV"
+  ],
+  "size": "~1 GB",
+  "records": "Monthly surveys by state and crop since 1976",
+  "license": "Free use with attribution",
+  "license_url": "https://www.conab.gov.br/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "CONAB, Acompanhamento da Safra Brasileira"
+}

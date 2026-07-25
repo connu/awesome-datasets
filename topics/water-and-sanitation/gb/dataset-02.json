@@ -1,0 +1,21 @@
+{
+  "id": "ea-hydrology-data-explorer",
+  "name": "EA Hydrology Data Explorer",
+  "topic": "water-and-sanitation",
+  "country": "gb",
+  "url": "https://environment.data.gov.uk/hydrology/explore",
+  "description": "River flow, groundwater level and rainfall time series from Environment Agency monitoring stations across England, downloadable per station or via API.",
+  "provider": "Environment Agency",
+  "formats": [
+    "CSV",
+    "REST API",
+    "JSON"
+  ],
+  "size": "~50 GB",
+  "records": "8,000+ hydrology monitoring stations",
+  "license": "Open Government Licence v3.0",
+  "license_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Environment Agency, Hydrology Data Explorer"
+}

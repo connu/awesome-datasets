@@ -1,0 +1,21 @@
+{
+  "id": "agence-ore-open-data",
+  "name": "Agence ORE Open Data",
+  "topic": "energy-and-electricity",
+  "country": "fr",
+  "url": "https://opendata.agenceore.fr/",
+  "description": "Consolidated French distribution network data covering electricity and gas consumption by commune, connected renewable capacity and network operator coverage.",
+  "provider": "Agence ORE",
+  "formats": [
+    "CSV",
+    "JSON",
+    "REST API"
+  ],
+  "size": "Multi-GB",
+  "records": "Commune-level series across all French DSOs",
+  "license": "Licence Ouverte 2.0",
+  "license_url": "https://www.etalab.gouv.fr/licence-ouverte-open-licence/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Agence ORE, Opérateurs de Réseaux d'Énergie"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "democracy-club-data",
+  "name": "Democracy Club Data",
+  "topic": "elections-and-voting",
+  "country": "gb",
+  "url": "https://democracyclub.org.uk/projects/",
+  "description": "Community-built open data on UK candidates, polling stations, elections and results, covering local and devolved elections that official sources publish inconsistently.",
+  "provider": "Democracy Club",
+  "formats": [
+    "CSV",
+    "REST API",
+    "JSON"
+  ],
+  "size": "~500 MB",
+  "records": "Hundreds of thousands of candidate and polling station records",
+  "license": "CC BY-SA 4.0 and ODbL depending on dataset",
+  "license_url": "https://democracyclub.org.uk/",
+  "access": "open",
+  "commercial_use": "check",
+  "cite": "Democracy Club"
+}

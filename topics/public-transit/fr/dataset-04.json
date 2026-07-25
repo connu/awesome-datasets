@@ -1,0 +1,22 @@
+{
+  "id": "ratp-open-data",
+  "name": "RATP Open Data",
+  "topic": "public-transit",
+  "country": "fr",
+  "url": "https://data.ratp.fr/",
+  "description": "Paris operator data covering station and line geometry, lift and escalator status, traffic by station, air quality in the metro and cycle parking.",
+  "provider": "RATP",
+  "formats": [
+    "CSV",
+    "JSON",
+    "GeoJSON",
+    "REST API"
+  ],
+  "size": "~1 GB",
+  "records": "300+ metro stations and the full bus network",
+  "license": "Licence Ouverte 2.0 and ODbL",
+  "license_url": "https://data.ratp.fr/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "RATP Open Data"
+}

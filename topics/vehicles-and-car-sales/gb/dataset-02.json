@@ -1,0 +1,20 @@
+{
+  "id": "dvla-developer-portal",
+  "name": "DVLA Developer Portal",
+  "topic": "vehicles-and-car-sales",
+  "country": "gb",
+  "url": "https://developer-portal.driver-vehicle-licensing.api.gov.uk/",
+  "description": "Official APIs for vehicle enquiry and MOT history, returning make, model, fuel type, tax and MOT status from a registration number.",
+  "provider": "Driver and Vehicle Licensing Agency",
+  "formats": [
+    "REST API",
+    "JSON"
+  ],
+  "size": "API",
+  "records": "40 million+ licensed vehicles",
+  "license": "Open Government Licence v3.0 with API terms",
+  "license_url": "https://developer-portal.driver-vehicle-licensing.api.gov.uk/",
+  "access": "registration",
+  "commercial_use": "yes",
+  "cite": "DVLA Developer Portal"
+}

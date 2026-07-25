@@ -1,0 +1,21 @@
+{
+  "id": "nsw-property-sales-information",
+  "name": "NSW Property Sales Information",
+  "topic": "real-estate-and-housing",
+  "country": "au",
+  "url": "https://valuation.property.nsw.gov.au/embed/propertySalesInformation",
+  "description": "Weekly and annual dumps of every property sale registered in New South Wales, with address, price, contract date, area and zoning.",
+  "provider": "NSW Valuer General",
+  "formats": [
+    "DAT",
+    "ZIP",
+    "CSV"
+  ],
+  "size": "~5 GB",
+  "records": "Millions of sales since 1990",
+  "license": "CC BY 4.0",
+  "license_url": "https://www.nsw.gov.au/copyright",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "NSW Valuer General, Property Sales Information"
+}

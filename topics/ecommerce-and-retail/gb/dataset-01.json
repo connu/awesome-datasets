@@ -1,0 +1,21 @@
+{
+  "id": "ons-retail-sales-index",
+  "name": "ONS Retail Sales Index",
+  "topic": "ecommerce-and-retail",
+  "country": "gb",
+  "url": "https://www.ons.gov.uk/businessindustryandtrade/retailindustry",
+  "description": "Monthly volume and value of retail sales by store type, with the internet sales share of total retail, the UK's headline consumer spending indicator.",
+  "provider": "Office for National Statistics",
+  "formats": [
+    "CSV",
+    "XLSX",
+    "REST API"
+  ],
+  "size": "~200 MB",
+  "records": "Monthly series from 1988",
+  "license": "Open Government Licence v3.0",
+  "license_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Office for National Statistics, Retail Sales Index"
+}

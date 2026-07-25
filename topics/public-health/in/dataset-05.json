@@ -1,0 +1,20 @@
+{
+  "id": "global-burden-of-disease-india-results",
+  "name": "Global Burden of Disease India Results",
+  "topic": "public-health",
+  "country": "in",
+  "url": "https://vizhub.healthdata.org/gbd-results/",
+  "description": "Modelled mortality, morbidity and risk factor estimates for India and its states, comparable across 200+ countries and back to 1990.",
+  "provider": "Institute for Health Metrics and Evaluation",
+  "formats": [
+    "CSV",
+    "REST API"
+  ],
+  "size": "~50 GB",
+  "records": "370+ diseases and injuries, 88 risk factors",
+  "license": "IHME Free-of-Charge Non-commercial User Agreement",
+  "license_url": "https://www.healthdata.org/Data-tools-practices/data-practices/ihme-free-charge-non-commercial-user-agreement",
+  "access": "registration",
+  "commercial_use": "no",
+  "cite": "Institute for Health Metrics and Evaluation, Global Burden of Disease Study"
+}

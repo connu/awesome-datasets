@@ -1,0 +1,21 @@
+{
+  "id": "ofsted-inspection-data",
+  "name": "Ofsted Inspection Data",
+  "topic": "education-and-schools",
+  "country": "gb",
+  "url": "https://www.gov.uk/government/collections/maintained-schools-and-academies-inspections-and-outcomes-official-statistics",
+  "description": "Management information and official statistics on school inspection outcomes, judgement history and inspection dates for every English provider.",
+  "provider": "Ofsted",
+  "formats": [
+    "XLSX",
+    "CSV",
+    "ODS"
+  ],
+  "size": "~500 MB",
+  "records": "Monthly management information covering all inspections",
+  "license": "Open Government Licence v3.0",
+  "license_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Ofsted, Inspections and outcomes official statistics"
+}

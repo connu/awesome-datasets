@@ -1,0 +1,21 @@
+{
+  "id": "destatis-business-statistics",
+  "name": "Destatis Business Statistics",
+  "topic": "company-registries",
+  "country": "de",
+  "url": "https://www.destatis.de/EN/Themes/Economic-Sectors-Enterprises/_node.html",
+  "description": "Official German business demography covering enterprise counts, births and deaths, turnover size classes, insolvencies and sector structure.",
+  "provider": "Statistisches Bundesamt",
+  "formats": [
+    "CSV",
+    "XLSX",
+    "REST API"
+  ],
+  "size": "Multi-GB",
+  "records": "Annual series across all economic sectors",
+  "license": "DL-DE-BY-2.0",
+  "license_url": "https://www.govdata.de/dl-de/by-2-0",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Statistisches Bundesamt (Destatis), Economic sectors and enterprises"
+}

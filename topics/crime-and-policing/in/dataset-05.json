@@ -1,0 +1,20 @@
+{
+  "id": "ministry-of-home-affairs-publications",
+  "name": "Ministry of Home Affairs Publications",
+  "topic": "crime-and-policing",
+  "country": "in",
+  "url": "https://www.mha.gov.in/",
+  "description": "Annual reports and statistical publications on internal security, police modernisation, border management, disaster response and census administration.",
+  "provider": "Ministry of Home Affairs",
+  "formats": [
+    "PDF",
+    "XLSX"
+  ],
+  "size": "~500 MB",
+  "records": "Annual editions covering all state police forces",
+  "license": "Government Open Data License - India",
+  "license_url": "https://www.data.gov.in/government-open-data-license-india",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Ministry of Home Affairs, Government of India"
+}

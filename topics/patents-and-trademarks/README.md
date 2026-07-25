@@ -7,6 +7,7 @@ Part of [Awesome Datasets](../../README.md). Entries here are generated from the
 ## Contents
 
 - [European Union](#european-union)
+- [Japan](#japan)
 - [United States](#united-states)
 
 ## European Union
@@ -21,6 +22,19 @@ Part of [Awesome Datasets](../../README.md). Entries here are generated from the
   <br><sub>Publications Office of the European Union · CSV, JSON, RDF, SPARQL, REST API · Varies by dataset · 1.7 million+ datasets · [Varies; commonly CC BY 4.0](https://data.europa.eu/en) · Direct download · Commercial use: check terms</sub>
 - [Espacenet Bulk and Linked Data](https://worldwide.espacenet.com/) - The EPO's public patent search covering worldwide collections with full-text, family and legal-status views, backed by downloadable result sets.
   <br><sub>European Patent Office · XML, CSV, PDF · Varies by query · 150 million+ patent documents · [EPO terms of use](https://www.epo.org/en) · Direct download · Commercial use: check terms</sub>
+
+## Japan
+
+- [J-PlatPat](https://www.j-platpat.inpit.go.jp/) - The Japan Patent Office's public search platform for patents, utility models, designs and trademarks, with full text, legal status and family information.
+  <br><sub>INPIT and Japan Patent Office · Web, PDF, XML · Varies by query · 100 million+ IP documents · [JPO terms of use, free reuse with attribution](https://www.j-platpat.inpit.go.jp/) · Direct download · Commercial use: check terms</sub>
+- [JPO Statistics and Annual Reports](https://www.jpo.go.jp/e/resources/statistics/) - Official Japanese IP statistics covering applications, grants, examination pendency, appeals and international filings by technology field.
+  <br><sub>Japan Patent Office · XLSX, PDF, CSV · ~500 MB · Annual series with long historical coverage · [Japan Government Standard Terms of Use, CC BY compatible](https://www.jpo.go.jp/e/) · Direct download · Commercial use permitted</sub>
+- [INPIT IP Data Services](https://www.inpit.go.jp/english/) - Bulk and API distribution of Japanese patent, design and trademark data for research and commercial IP analytics platforms.
+  <br><sub>National Center for Industrial Property Information and Training · XML, REST API, ZIP · Multi-TB · Full Japanese IP corpus · [INPIT terms; some products require a paid agreement](https://www.inpit.go.jp/english/) · Free account required · Commercial use: check terms</sub>
+- [WIPO IP Statistics Data Center](https://www.wipo.int/ipstats/en/) - Harmonised international IP filing, grant and validity statistics for Japan and every other member state, comparable across offices and decades.
+  <br><sub>World Intellectual Property Organization · CSV, XLSX, Web · ~5 GB · Annual series from 1980 for 200+ offices · [CC BY 3.0 IGO](https://www.wipo.int/tools/en/disclaim.html) · Direct download · Commercial use permitted</sub>
+- [Japan Open Data Portal IP Datasets](https://www.data.go.jp/) - The national open data catalogue including METI and JPO datasets on industrial property, standards, and innovation indicators.
+  <br><sub>Digital Agency, Government of Japan · CSV, XLSX, JSON, REST API · Varies by dataset · 30,000+ datasets · [Japan Government Standard Terms of Use, CC BY compatible](https://www.data.go.jp/) · Direct download · Commercial use permitted</sub>
 
 ## United States
 

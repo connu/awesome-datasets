@@ -1,0 +1,20 @@
+{
+  "id": "fichier-des-immatriculations-et-contr-le-technique",
+  "name": "Fichier des immatriculations et contrôle technique",
+  "topic": "road-safety-and-accidents",
+  "country": "fr",
+  "url": "https://www.data.gouv.fr/datasets/?q=controle+technique",
+  "description": "Open datasets on the French vehicle fleet and periodic roadworthiness testing, covering pass rates, defect categories and fleet age.",
+  "provider": "Ministère de la Transition écologique",
+  "formats": [
+    "CSV",
+    "XLSX"
+  ],
+  "size": "~2 GB",
+  "records": "Millions of test records",
+  "license": "Licence Ouverte 2.0",
+  "license_url": "https://www.etalab.gouv.fr/licence-ouverte-open-licence/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "data.gouv.fr, contrôle technique des véhicules"
+}

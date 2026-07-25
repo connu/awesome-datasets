@@ -1,0 +1,21 @@
+{
+  "id": "airservices-australia-data",
+  "name": "Airservices Australia Data",
+  "topic": "aviation-and-flights",
+  "country": "au",
+  "url": "https://www.airservicesaustralia.com/",
+  "description": "Air traffic management data including movement counts by airport, noise monitoring, flight paths and aeronautical information publications.",
+  "provider": "Airservices Australia",
+  "formats": [
+    "CSV",
+    "PDF",
+    "Web"
+  ],
+  "size": "Multi-GB",
+  "records": "Movement and noise series across major airports",
+  "license": "CC BY 4.0 for most published data",
+  "license_url": "https://www.airservicesaustralia.com/",
+  "access": "open",
+  "commercial_use": "check",
+  "cite": "Airservices Australia"
+}

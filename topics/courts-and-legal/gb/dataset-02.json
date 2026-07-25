@@ -1,0 +1,20 @@
+{
+  "id": "bailii",
+  "name": "BAILII",
+  "topic": "courts-and-legal",
+  "country": "gb",
+  "url": "https://www.bailii.org/",
+  "description": "Free access to British and Irish primary legal materials including case law, legislation and law commission reports going back several centuries.",
+  "provider": "British and Irish Legal Information Institute",
+  "formats": [
+    "HTML",
+    "PDF"
+  ],
+  "size": "~100 GB",
+  "records": "Millions of judgments and legislative documents",
+  "license": "Free for personal and non-commercial use; bulk reuse requires permission",
+  "license_url": "https://www.bailii.org/bailii/copyright.html",
+  "access": "open",
+  "commercial_use": "no",
+  "cite": "British and Irish Legal Information Institute (BAILII)"
+}

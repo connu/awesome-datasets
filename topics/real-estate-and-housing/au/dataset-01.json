@@ -1,0 +1,21 @@
+{
+  "id": "abs-residential-property-price-indexes",
+  "name": "ABS Residential Property Price Indexes",
+  "topic": "real-estate-and-housing",
+  "country": "au",
+  "url": "https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation",
+  "description": "Official quarterly house and attached dwelling price indexes for the eight Australian capital cities, with total value of the dwelling stock.",
+  "provider": "Australian Bureau of Statistics",
+  "formats": [
+    "XLSX",
+    "CSV",
+    "SDMX"
+  ],
+  "size": "~200 MB",
+  "records": "Quarterly series from 2003",
+  "license": "CC BY 4.0",
+  "license_url": "https://www.abs.gov.au/website-privacy-copyright-and-disclaimer",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Australian Bureau of Statistics, Residential Property Price Indexes"
+}

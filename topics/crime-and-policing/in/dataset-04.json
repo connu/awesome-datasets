@@ -1,0 +1,22 @@
+{
+  "id": "data-gov-in-public-safety-and-justice",
+  "name": "data.gov.in Public Safety and Justice",
+  "topic": "crime-and-policing",
+  "country": "in",
+  "url": "https://www.data.gov.in/sector/public-safety-law-and-justice",
+  "description": "Open government catalogue of crime, policing and justice datasets covering registered cases, police strength, cyber crime and women's safety.",
+  "provider": "National Informatics Centre",
+  "formats": [
+    "CSV",
+    "XLSX",
+    "JSON",
+    "REST API"
+  ],
+  "size": "Varies by resource",
+  "records": "2,000+ public safety resources",
+  "license": "Government Open Data License - India",
+  "license_url": "https://www.data.gov.in/government-open-data-license-india",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Open Government Data Platform India"
+}

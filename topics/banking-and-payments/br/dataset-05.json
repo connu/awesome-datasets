@@ -1,0 +1,21 @@
+{
+  "id": "open-finance-brasil",
+  "name": "Open Finance Brasil",
+  "topic": "banking-and-payments",
+  "country": "br",
+  "url": "https://openfinancebrasil.org.br/",
+  "description": "The technical standards, participant directory and public APIs for Brazil's open banking regime, including product and channel reference data.",
+  "provider": "Open Finance Brasil governance structure",
+  "formats": [
+    "REST API",
+    "JSON",
+    "OpenAPI"
+  ],
+  "size": "API",
+  "records": "800+ participating institutions",
+  "license": "Open specifications; participant data under regime rules",
+  "license_url": "https://openfinancebrasil.org.br/",
+  "access": "open",
+  "commercial_use": "check",
+  "cite": "Open Finance Brasil"
+}

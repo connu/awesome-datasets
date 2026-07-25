@@ -1,0 +1,22 @@
+{
+  "id": "ons-open-geography-portal",
+  "name": "ONS Open Geography Portal",
+  "topic": "census-and-demographics",
+  "country": "gb",
+  "url": "https://geoportal.statistics.gov.uk/",
+  "description": "Boundary files, lookups and postcode directories for every UK statistical geography, the join keys behind all small-area analysis.",
+  "provider": "Office for National Statistics",
+  "formats": [
+    "Shapefile",
+    "GeoJSON",
+    "CSV",
+    "REST API"
+  ],
+  "size": "~20 GB",
+  "records": "All UK statistical geographies with historical versions",
+  "license": "Open Government Licence v3.0 with OS attribution",
+  "license_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "ONS Open Geography Portal"
+}

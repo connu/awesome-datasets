@@ -1,0 +1,21 @@
+{
+  "id": "jaxa-earth-api",
+  "name": "JAXA Earth API",
+  "topic": "satellite-and-earth-observation",
+  "country": "jp",
+  "url": "https://data.earth.jaxa.jp/",
+  "description": "Analysis-ready JAXA earth observation datasets served through a modern API and Python client, with harmonised grids for land cover, temperature and vegetation.",
+  "provider": "Japan Aerospace Exploration Agency",
+  "formats": [
+    "REST API",
+    "GeoTIFF",
+    "Python client"
+  ],
+  "size": "Multi-TB",
+  "records": "Dozens of harmonised global products",
+  "license": "JAXA terms of use, free with attribution",
+  "license_url": "https://data.earth.jaxa.jp/",
+  "access": "open",
+  "commercial_use": "check",
+  "cite": "JAXA Earth API, Japan Aerospace Exploration Agency"
+}

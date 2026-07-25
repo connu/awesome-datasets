@@ -1,0 +1,21 @@
+{
+  "id": "national-health-authority-public-dashboards",
+  "name": "National Health Authority Public Dashboards",
+  "topic": "public-health",
+  "country": "in",
+  "url": "https://nha.gov.in/",
+  "description": "Public reporting for India's national health insurance scheme and digital health mission, covering hospital admissions, empanelled hospitals, claims and ABDM adoption.",
+  "provider": "National Health Authority",
+  "formats": [
+    "Web dashboard",
+    "XLSX",
+    "CSV"
+  ],
+  "size": "Varies by query",
+  "records": "70 million+ hospital admissions",
+  "license": "Government Open Data License - India",
+  "license_url": "https://www.data.gov.in/government-open-data-license-india",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "National Health Authority, Government of India"
+}

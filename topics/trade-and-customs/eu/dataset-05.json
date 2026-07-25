@@ -1,0 +1,21 @@
+{
+  "id": "eu-trade-defence-measures",
+  "name": "EU Trade Defence Measures",
+  "topic": "trade-and-customs",
+  "country": "eu",
+  "url": "https://tron.trade.ec.europa.eu/investigations/",
+  "description": "Register of EU anti-dumping, anti-subsidy and safeguard investigations and measures, with product scope, countries concerned and duty levels.",
+  "provider": "European Commission Directorate-General for Trade",
+  "formats": [
+    "Web",
+    "PDF",
+    "CSV"
+  ],
+  "size": "~2 GB",
+  "records": "Hundreds of active and historical cases",
+  "license": "European Commission reuse decision, free with attribution",
+  "license_url": "https://trade.ec.europa.eu/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "European Commission, Trade defence investigations"
+}

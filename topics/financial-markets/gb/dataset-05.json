@@ -1,0 +1,20 @@
+{
+  "id": "uk-debt-management-office-data",
+  "name": "UK Debt Management Office Data",
+  "topic": "financial-markets",
+  "country": "gb",
+  "url": "https://www.dmo.gov.uk/data/",
+  "description": "Gilt and Treasury bill issuance, auction results, outstanding stock, redemption profiles and daily reference prices for UK government debt.",
+  "provider": "UK Debt Management Office",
+  "formats": [
+    "XLSX",
+    "CSV"
+  ],
+  "size": "~500 MB",
+  "records": "Daily and auction-level series from 1998",
+  "license": "Open Government Licence v3.0",
+  "license_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "UK Debt Management Office"
+}

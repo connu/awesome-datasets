@@ -1,0 +1,21 @@
+{
+  "id": "naptan-national-public-transport-access-nodes",
+  "name": "NaPTAN National Public Transport Access Nodes",
+  "topic": "taxi-and-ride-hailing",
+  "country": "gb",
+  "url": "https://beta-naptan.dft.gov.uk/",
+  "description": "The national register of every public transport access point in Great Britain, including bus stops, rail stations, taxi ranks and ferry terminals with coordinates.",
+  "provider": "Department for Transport",
+  "formats": [
+    "CSV",
+    "XML",
+    "GeoJSON"
+  ],
+  "size": "~500 MB",
+  "records": "435,000+ access nodes",
+  "license": "Open Government Licence v3.0",
+  "license_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Department for Transport, NaPTAN"
+}

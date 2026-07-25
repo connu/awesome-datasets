@@ -1,0 +1,21 @@
+{
+  "id": "food-hygiene-rating-scheme-open-data",
+  "name": "Food Hygiene Rating Scheme Open Data",
+  "topic": "ecommerce-and-retail",
+  "country": "gb",
+  "url": "https://ratings.food.gov.uk/open-data",
+  "description": "Hygiene inspection ratings, addresses, coordinates and business types for every food business in the UK, refreshed daily as open XML and JSON.",
+  "provider": "Food Standards Agency",
+  "formats": [
+    "XML",
+    "JSON",
+    "REST API"
+  ],
+  "size": "~500 MB",
+  "records": "600,000+ food businesses",
+  "license": "Open Government Licence v3.0",
+  "license_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Food Standards Agency, Food Hygiene Rating Scheme open data"
+}

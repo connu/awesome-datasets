@@ -1,0 +1,21 @@
+{
+  "id": "fca-financial-services-register",
+  "name": "FCA Financial Services Register",
+  "topic": "financial-markets",
+  "country": "gb",
+  "url": "https://register.fca.org.uk/",
+  "description": "The public register of every firm and individual authorised to conduct regulated financial business in the UK, with permissions, status and disciplinary history.",
+  "provider": "Financial Conduct Authority",
+  "formats": [
+    "REST API",
+    "CSV",
+    "JSON"
+  ],
+  "size": "~2 GB",
+  "records": "50,000+ authorised firms",
+  "license": "Open Government Licence v3.0 with API terms",
+  "license_url": "https://www.fca.org.uk/legal",
+  "access": "registration",
+  "commercial_use": "yes",
+  "cite": "Financial Conduct Authority, Financial Services Register"
+}

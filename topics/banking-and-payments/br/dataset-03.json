@@ -1,0 +1,22 @@
+{
+  "id": "bcb-sgs-time-series-management-system",
+  "name": "BCB SGS Time Series Management System",
+  "topic": "banking-and-payments",
+  "country": "br",
+  "url": "https://www.bcb.gov.br/estatisticas",
+  "description": "The central bank's statistical series system covering monetary policy, credit, balance of payments, fiscal indicators and market expectations.",
+  "provider": "Banco Central do Brasil",
+  "formats": [
+    "CSV",
+    "XLSX",
+    "REST API",
+    "OData"
+  ],
+  "size": "Multi-GB",
+  "records": "20,000+ economic time series",
+  "license": "Free reuse with attribution, Brazilian open data policy",
+  "license_url": "https://www.bcb.gov.br/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Banco Central do Brasil, Sistema Gerenciador de Séries Temporais"
+}

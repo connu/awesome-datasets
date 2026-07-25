@@ -1,0 +1,21 @@
+{
+  "id": "theyworkforyou",
+  "name": "TheyWorkForYou",
+  "topic": "elections-and-voting",
+  "country": "gb",
+  "url": "https://www.theyworkforyou.com/api/",
+  "description": "Structured parliamentary records including debates, voting records, MP profiles and constituency lookups, derived from Hansard and official registers.",
+  "provider": "mySociety",
+  "formats": [
+    "REST API",
+    "JSON",
+    "XML"
+  ],
+  "size": "Multi-GB",
+  "records": "Hansard from 1919 onward",
+  "license": "CC BY-SA 3.0 with Open Parliament Licence for source material",
+  "license_url": "https://www.theyworkforyou.com/api/",
+  "access": "registration",
+  "commercial_use": "check",
+  "cite": "TheyWorkForYou, mySociety"
+}

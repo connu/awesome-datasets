@@ -1,0 +1,22 @@
+{
+  "id": "geoportal-de",
+  "name": "Geoportal.de",
+  "topic": "addresses-and-geocoding",
+  "country": "de",
+  "url": "https://www.geoportal.de/",
+  "description": "The federal spatial data infrastructure portal indexing geodata services from all German states and agencies, with INSPIRE-compliant metadata.",
+  "provider": "Bundesamt für Kartographie und Geodäsie",
+  "formats": [
+    "WMS",
+    "WFS",
+    "Atom",
+    "Metadata"
+  ],
+  "size": "Varies by service",
+  "records": "100,000+ registered geodata resources",
+  "license": "Varies by provider; commonly DL-DE-BY-2.0",
+  "license_url": "https://www.geoportal.de/",
+  "access": "open",
+  "commercial_use": "check",
+  "cite": "Geoportal.de, Geodateninfrastruktur Deutschland"
+}

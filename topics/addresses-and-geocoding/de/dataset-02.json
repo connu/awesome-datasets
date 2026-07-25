@@ -1,0 +1,21 @@
+{
+  "id": "basemap-de",
+  "name": "basemap.de",
+  "topic": "addresses-and-geocoding",
+  "country": "de",
+  "url": "https://basemap.de/",
+  "description": "The official German web map service built from state survey data, offering raster and vector tiles for cartographic base layers.",
+  "provider": "Arbeitsgemeinschaft der Vermessungsverwaltungen (AdV)",
+  "formats": [
+    "Vector tiles",
+    "WMTS",
+    "WMS"
+  ],
+  "size": "Tile service",
+  "records": "National coverage at all zoom levels",
+  "license": "DL-DE-BY-2.0",
+  "license_url": "https://www.govdata.de/dl-de/by-2-0",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "basemap.de, AdV"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "drinking-water-inspectorate-data",
+  "name": "Drinking Water Inspectorate Data",
+  "topic": "water-and-sanitation",
+  "country": "gb",
+  "url": "https://www.dwi.gov.uk/",
+  "description": "Drinking water quality compliance results, enforcement actions and consumer complaint statistics for every English and Welsh water supplier.",
+  "provider": "Drinking Water Inspectorate",
+  "formats": [
+    "XLSX",
+    "CSV",
+    "PDF"
+  ],
+  "size": "~500 MB",
+  "records": "Annual compliance reporting by water supply zone",
+  "license": "Open Government Licence v3.0",
+  "license_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Drinking Water Inspectorate"
+}

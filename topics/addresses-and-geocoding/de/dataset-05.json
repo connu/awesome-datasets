@@ -1,0 +1,21 @@
+{
+  "id": "destatis-regionalatlas",
+  "name": "Destatis Regionalatlas",
+  "topic": "addresses-and-geocoding",
+  "country": "de",
+  "url": "https://regionalatlas.statistikportal.de/",
+  "description": "Small-area German statistics mapped to administrative geographies, covering population, economy, labour, health and infrastructure indicators.",
+  "provider": "Statistische Ämter des Bundes und der Länder",
+  "formats": [
+    "CSV",
+    "XLSX",
+    "WMS"
+  ],
+  "size": "~2 GB",
+  "records": "400+ indicators at district level",
+  "license": "DL-DE-BY-2.0",
+  "license_url": "https://www.govdata.de/dl-de/by-2-0",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Statistische Ämter des Bundes und der Länder, Regionalatlas Deutschland"
+}

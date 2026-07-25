@@ -1,0 +1,21 @@
+{
+  "id": "mapbiomas",
+  "name": "MapBiomas",
+  "topic": "agriculture-and-crops",
+  "country": "br",
+  "url": "https://brasil.mapbiomas.org/",
+  "description": "Annual 30-metre land cover and land use maps for Brazil from 1985 onward, with deforestation, pasture, agriculture and water surface classifications.",
+  "provider": "MapBiomas initiative",
+  "formats": [
+    "GeoTIFF",
+    "Google Earth Engine",
+    "CSV"
+  ],
+  "size": "~5 TB",
+  "records": "Annual national coverage since 1985",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://brasil.mapbiomas.org/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "MapBiomas Project, Annual Land Use and Land Cover Maps of Brazil"
+}

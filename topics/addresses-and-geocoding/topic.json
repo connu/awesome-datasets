@@ -3,6 +3,7 @@
   "title": "Addresses & Geocoding",
   "description": "Authoritative address points, postcode registers, administrative boundaries and geocoding services.",
   "countries": [
+    "de",
     "fr",
     "us"
   ]

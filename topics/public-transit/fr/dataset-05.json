@@ -1,0 +1,20 @@
+{
+  "id": "navitia-api",
+  "name": "Navitia API",
+  "topic": "public-transit",
+  "country": "fr",
+  "url": "https://www.navitia.io/",
+  "description": "Open journey-planning API over the aggregated French and international transit feeds, exposing routing, isochrones, stop schedules and disruptions.",
+  "provider": "Kisio Digital / Hove",
+  "formats": [
+    "REST API",
+    "JSON"
+  ],
+  "size": "API",
+  "records": "Coverage of France plus dozens of other regions",
+  "license": "AGPL-3.0 (engine); data under source feed licenses",
+  "license_url": "https://www.navitia.io/",
+  "access": "registration",
+  "commercial_use": "check",
+  "cite": "Navitia.io, Hove"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "dft-vehicle-licensing-statistics",
+  "name": "DfT Vehicle Licensing Statistics",
+  "topic": "vehicles-and-car-sales",
+  "country": "gb",
+  "url": "https://www.gov.uk/government/statistical-data-sets/all-vehicles-veh01",
+  "description": "Quarterly counts of licensed and registered vehicles in Great Britain broken down by body type, fuel, make, model, keepership and local authority.",
+  "provider": "Department for Transport and DVLA",
+  "formats": [
+    "ODS",
+    "CSV"
+  ],
+  "size": "~2 GB",
+  "records": "Quarterly series from 1994",
+  "license": "Open Government Licence v3.0",
+  "license_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Department for Transport, Vehicle Licensing Statistics"
+}

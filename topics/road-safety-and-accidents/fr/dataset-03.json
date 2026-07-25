@@ -1,0 +1,21 @@
+{
+  "id": "cerema-road-and-mobility-data",
+  "name": "Cerema Road and Mobility Data",
+  "topic": "road-safety-and-accidents",
+  "country": "fr",
+  "url": "https://www.cerema.fr/fr",
+  "description": "Technical research data on road infrastructure, traffic modelling, cycling networks and road safety engineering across the French network.",
+  "provider": "Cerema",
+  "formats": [
+    "CSV",
+    "Shapefile",
+    "PDF"
+  ],
+  "size": "Varies by dataset",
+  "records": "Hundreds of studies and datasets",
+  "license": "Licence Ouverte 2.0 for open publications",
+  "license_url": "https://www.etalab.gouv.fr/licence-ouverte-open-licence/",
+  "access": "open",
+  "commercial_use": "check",
+  "cite": "Cerema, Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement"
+}

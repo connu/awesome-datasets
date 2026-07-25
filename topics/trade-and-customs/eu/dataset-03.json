@@ -1,0 +1,21 @@
+{
+  "id": "access2markets",
+  "name": "Access2Markets",
+  "topic": "trade-and-customs",
+  "country": "eu",
+  "url": "https://trade.ec.europa.eu/access-to-markets/en/home",
+  "description": "Tariffs, rules of origin, trade barriers, statistics and procedures for exporting from and importing into the EU, searchable by product and market.",
+  "provider": "European Commission Directorate-General for Trade",
+  "formats": [
+    "Web",
+    "REST API",
+    "CSV"
+  ],
+  "size": "Varies by query",
+  "records": "Coverage of 120+ export markets",
+  "license": "European Commission reuse decision, free with attribution",
+  "license_url": "https://trade.ec.europa.eu/access-to-markets/en/home",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "European Commission, Access2Markets"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "data-gov-in-communication-sector",
+  "name": "data.gov.in Communication Sector",
+  "topic": "telecom-and-broadband",
+  "country": "in",
+  "url": "https://www.data.gov.in/sector/communication",
+  "description": "Open government catalogue of telecom datasets covering subscriber bases, spectrum allocation, tower infrastructure, rural connectivity and postal services.",
+  "provider": "National Informatics Centre",
+  "formats": [
+    "CSV",
+    "XLSX",
+    "JSON",
+    "REST API"
+  ],
+  "size": "Varies by resource",
+  "records": "1,500+ communication resources",
+  "license": "Government Open Data License - India",
+  "license_url": "https://www.data.gov.in/government-open-data-license-india",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Open Government Data Platform India"
+}

@@ -6,8 +6,22 @@ Part of [Awesome Datasets](../../README.md). Entries here are generated from the
 
 ## Contents
 
+- [European Union](#european-union)
 - [India](#india)
 - [United States](#united-states)
+
+## European Union
+
+- [Eurostat Comext](https://ec.europa.eu/eurostat/web/international-trade-in-goods) - Detailed EU external and intra-EU trade in goods by product code, partner country, member state and transport mode, at monthly frequency.
+  <br><sub>Eurostat · TSV, SDMX, REST API, CSV · ~500 GB · Billions of trade flow records since 1988 · [Eurostat reuse policy, free with attribution](https://ec.europa.eu/eurostat/web/main/help/copyright-notice) · Direct download · Commercial use permitted</sub>
+- [EU Customs Tariff (TARIC)](https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/eu-customs-tariff-taric_en) - The integrated tariff of the European Union with duty rates, quotas, suspensions, anti-dumping measures and prohibitions by commodity code and origin.
+  <br><sub>European Commission Directorate-General for Taxation and Customs Union · XML, REST API, Web · ~10 GB · 20,000+ commodity codes with daily measure updates · [European Commission reuse decision, free with attribution](https://taxation-customs.ec.europa.eu/) · Direct download · Commercial use permitted</sub>
+- [Access2Markets](https://trade.ec.europa.eu/access-to-markets/en/home) - Tariffs, rules of origin, trade barriers, statistics and procedures for exporting from and importing into the EU, searchable by product and market.
+  <br><sub>European Commission Directorate-General for Trade · Web, REST API, CSV · Varies by query · Coverage of 120+ export markets · [European Commission reuse decision, free with attribution](https://trade.ec.europa.eu/access-to-markets/en/home) · Direct download · Commercial use permitted</sub>
+- [WTO Stats](https://stats.wto.org/) - Global merchandise and services trade statistics, tariff profiles and trade policy indicators for all WTO members, with a documented API.
+  <br><sub>World Trade Organization · CSV, REST API, XLSX · ~50 GB · Annual and quarterly series from 1948 · [WTO terms of use, free with attribution](https://www.wto.org/english/info_e/cpyrit_e.htm) · Direct download · Commercial use: check terms</sub>
+- [EU Trade Defence Measures](https://tron.trade.ec.europa.eu/investigations/) - Register of EU anti-dumping, anti-subsidy and safeguard investigations and measures, with product scope, countries concerned and duty levels.
+  <br><sub>European Commission Directorate-General for Trade · Web, PDF, CSV · ~2 GB · Hundreds of active and historical cases · [European Commission reuse decision, free with attribution](https://trade.ec.europa.eu/) · Direct download · Commercial use permitted</sub>
 
 ## India
 

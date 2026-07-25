@@ -1,0 +1,21 @@
+{
+  "id": "abs-tourism-and-transport-statistics",
+  "name": "ABS Tourism and Transport Statistics",
+  "topic": "aviation-and-flights",
+  "country": "au",
+  "url": "https://www.abs.gov.au/statistics/industry/tourism-and-transport",
+  "description": "Official Australian statistics on air and sea passenger movements, overseas arrivals and departures, and transport industry activity.",
+  "provider": "Australian Bureau of Statistics",
+  "formats": [
+    "XLSX",
+    "CSV",
+    "SDMX"
+  ],
+  "size": "~1 GB",
+  "records": "Monthly arrival and departure series",
+  "license": "CC BY 4.0",
+  "license_url": "https://www.abs.gov.au/website-privacy-copyright-and-disclaimer",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Australian Bureau of Statistics, Tourism and transport"
+}

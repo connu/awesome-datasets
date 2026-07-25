@@ -7,6 +7,7 @@ Part of [Awesome Datasets](../../README.md). Entries here are generated from the
 ## Contents
 
 - [European Union](#european-union)
+- [Japan](#japan)
 - [United States](#united-states)
 
 ## European Union
@@ -21,6 +22,19 @@ Part of [Awesome Datasets](../../README.md). Entries here are generated from the
   <br><sub>European Environment Agency · CSV, GeoPackage, REST API, SPARQL · Multi-TB · Hundreds of environmental datasets · [EEA open data policy, CC BY 4.0 for most datasets](https://www.eea.europa.eu/en/legal-notice) · Direct download · Commercial use permitted</sub>
 - [ESA Earth Online](https://earth.esa.int/eogateway) - ESA's catalogue of heritage and third-party mission data including ERS, Envisat, Proba and commercial missions available under research licences.
   <br><sub>European Space Agency · GeoTIFF, HDF, NetCDF, SAFE · Petabyte-scale · Decades of Earth observation missions · [ESA data policy; varies from free to project-restricted](https://earth.esa.int/eogateway) · Free account required · Commercial use: check terms</sub>
+
+## Japan
+
+- [JAXA G-Portal](https://gportal.jaxa.jp/gpr/) - JAXA's earth observation data portal distributing GCOM, GPM, ALOS and GOSAT products covering land, ocean, precipitation and greenhouse gases.
+  <br><sub>Japan Aerospace Exploration Agency · HDF5, NetCDF, GeoTIFF · Petabyte-scale · Multiple missions with global coverage · [JAXA terms of use, free for research and commercial use with attribution](https://gportal.jaxa.jp/gpr/) · Free account required · Commercial use: check terms</sub>
+- [JAXA Earth API](https://data.earth.jaxa.jp/) - Analysis-ready JAXA earth observation datasets served through a modern API and Python client, with harmonised grids for land cover, temperature and vegetation.
+  <br><sub>Japan Aerospace Exploration Agency · REST API, GeoTIFF, Python client · Multi-TB · Dozens of harmonised global products · [JAXA terms of use, free with attribution](https://data.earth.jaxa.jp/) · Direct download · Commercial use: check terms</sub>
+- [JAXA ALOS Science Data](https://www.eorc.jaxa.jp/ALOS/en/) - Products from the ALOS and ALOS-2 missions including the global 30-metre digital surface model and PALSAR L-band radar mosaics.
+  <br><sub>JAXA Earth Observation Research Center · GeoTIFF, CEOS, HDF · ~500 TB · Global DSM and annual radar mosaics · [Free for research with registration; commercial terms vary](https://www.eorc.jaxa.jp/ALOS/en/) · Free account required · Commercial use: check terms</sub>
+- [Himawari Geostationary Satellite Data](https://www.data.jma.go.jp/mscweb/data/himawari/) - Full-disk imagery from the Himawari geostationary satellites covering East Asia and the western Pacific at 10-minute intervals across 16 bands.
+  <br><sub>Japan Meteorological Agency · NetCDF, HSD, PNG · Petabyte-scale · Continuous imagery since 2015 · [JMA terms of use, free reuse with attribution](https://www.jma.go.jp/jma/en/copyright.html) · Direct download · Commercial use permitted</sub>
+- [Tellus Satellite Data Platform](https://www.tellusxdp.com/en/) - Japan's government-backed satellite data platform offering ALOS, ASNARO and Sentinel products with in-browser analysis and APIs.
+  <br><sub>Ministry of Economy, Trade and Industry and Sakura Internet · REST API, GeoTIFF, Jupyter · Multi-petabyte · Japanese and international mission archives · [Tellus terms of use; free tier with registration](https://www.tellusxdp.com/en/) · Free account required · Commercial use: check terms</sub>
 
 ## United States
 

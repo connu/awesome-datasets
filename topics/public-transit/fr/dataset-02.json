@@ -1,0 +1,22 @@
+{
+  "id": "sncf-open-data",
+  "name": "SNCF Open Data",
+  "topic": "public-transit",
+  "country": "fr",
+  "url": "https://ressources.data.sncf.com/",
+  "description": "French national rail data covering timetables, real-time arrivals, punctuality by route, station facilities, passenger counts and ticket prices.",
+  "provider": "SNCF",
+  "formats": [
+    "CSV",
+    "JSON",
+    "GeoJSON",
+    "REST API"
+  ],
+  "size": "Multi-GB",
+  "records": "200+ datasets across the rail network",
+  "license": "Licence Ouverte 2.0 and ODbL depending on dataset",
+  "license_url": "https://ressources.data.sncf.com/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "SNCF Open Data"
+}

@@ -7,6 +7,7 @@ Part of [Awesome Datasets](../../README.md). Entries here are generated from the
 ## Contents
 
 - [Brazil](#brazil)
+- [United Kingdom](#united-kingdom)
 - [United States](#united-states)
 
 ## Brazil
@@ -21,6 +22,19 @@ Part of [Awesome Datasets](../../README.md). Entries here are generated from the
   <br><sub>Government of Brazil · CSV, JSON, XML, REST API · Varies by dataset · 10,000+ datasets · [Varies by publisher; commonly CC BY](https://dados.gov.br/) · Direct download · Commercial use: check terms</sub>
 - [Consumidor.gov.br Complaint Data](https://www.consumidor.gov.br/pages/dadosabertos/externo/) - Every consumer complaint filed against registered companies, with sector, problem type, company response, resolution status and satisfaction rating.
   <br><sub>Secretaria Nacional do Consumidor · CSV · ~2 GB · Millions of complaints since 2014 · [Open government data, attribution requested](https://www.consumidor.gov.br/) · Direct download · Commercial use permitted</sub>
+
+## United Kingdom
+
+- [ONS Retail Sales Index](https://www.ons.gov.uk/businessindustryandtrade/retailindustry) - Monthly volume and value of retail sales by store type, with the internet sales share of total retail, the UK's headline consumer spending indicator.
+  <br><sub>Office for National Statistics · CSV, XLSX, REST API · ~200 MB · Monthly series from 1988 · [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) · Direct download · Commercial use permitted</sub>
+- [ONS E-commerce and ICT Activity](https://www.ons.gov.uk/businessindustryandtrade/itandinternetindustry) - Annual survey of business internet use, e-commerce sales value, website functionality, cloud adoption and broadband connectivity by industry and size band.
+  <br><sub>Office for National Statistics · CSV, XLSX · ~100 MB · Annual series from 2008 · [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) · Direct download · Commercial use permitted</sub>
+- [Food Hygiene Rating Scheme Open Data](https://ratings.food.gov.uk/open-data) - Hygiene inspection ratings, addresses, coordinates and business types for every food business in the UK, refreshed daily as open XML and JSON.
+  <br><sub>Food Standards Agency · XML, JSON, REST API · ~500 MB · 600,000+ food businesses · [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) · Direct download · Commercial use permitted</sub>
+- [ONS Consumer Price Inflation](https://www.ons.gov.uk/economy/inflationandpriceindices) - Item-level consumer price indices and the underlying price quotes collected in shops and online, published monthly with full item and region detail.
+  <br><sub>Office for National Statistics · CSV, XLSX, REST API · ~2 GB · 180,000+ price quotes collected monthly · [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) · Direct download · Commercial use permitted</sub>
+- [DEFRA Family Food Statistics](https://www.gov.uk/government/collections/family-food-statistics) - Annual household purchases of food and drink by quantity, spend and nutrient content, broken down by income group, region and household composition.
+  <br><sub>Department for Environment, Food and Rural Affairs · ODS, CSV · ~200 MB · Annual series from 1974 · [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) · Direct download · Commercial use permitted</sub>
 
 ## United States
 

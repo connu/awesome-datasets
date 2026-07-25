@@ -1,0 +1,20 @@
+{
+  "id": "trai-myspeed-analytics",
+  "name": "TRAI MySpeed Analytics",
+  "topic": "telecom-and-broadband",
+  "country": "in",
+  "url": "https://myspeed.trai.gov.in/",
+  "description": "Crowd-sourced mobile broadband speed measurements from the regulator's app, reporting download, upload and latency by operator, technology and state.",
+  "provider": "Telecom Regulatory Authority of India",
+  "formats": [
+    "CSV",
+    "Web dashboard"
+  ],
+  "size": "~5 GB",
+  "records": "Millions of speed tests since 2016",
+  "license": "Government Open Data License - India",
+  "license_url": "https://www.data.gov.in/government-open-data-license-india",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "TRAI MySpeed portal"
+}

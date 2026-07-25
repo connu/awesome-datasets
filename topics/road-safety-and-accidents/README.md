@@ -6,8 +6,22 @@ Part of [Awesome Datasets](../../README.md). Entries here are generated from the
 
 ## Contents
 
+- [France](#france)
 - [United Kingdom](#united-kingdom)
 - [United States](#united-states)
+
+## France
+
+- [ONISR Road Safety Data](https://www.onisr.securite-routiere.gouv.fr/) - France's national road safety observatory, publishing annual casualty counts, risk factors, vehicle categories and long-run trend analysis.
+  <br><sub>Observatoire national interministériel de la sécurité routière · CSV, XLSX, PDF · ~500 MB · Annual series from 1970 · [Licence Ouverte 2.0](https://www.etalab.gouv.fr/licence-ouverte-open-licence/) · Direct download · Commercial use permitted</sub>
+- [Bases de données accidents corporels (BAAC)](https://www.data.gouv.fr/datasets/bases-de-donnees-annuelles-des-accidents-corporels-de-la-circulation-routiere-annees-de-2005-a-2023/) - Every injury road collision recorded by French police since 2005, in four linked tables covering the crash, location, vehicles and each person involved.
+  <br><sub>Ministère de l'Intérieur · CSV · ~1 GB · 1 million+ collisions since 2005 · [Licence Ouverte 2.0](https://www.etalab.gouv.fr/licence-ouverte-open-licence/) · Direct download · Commercial use permitted</sub>
+- [Cerema Road and Mobility Data](https://www.cerema.fr/fr) - Technical research data on road infrastructure, traffic modelling, cycling networks and road safety engineering across the French network.
+  <br><sub>Cerema · CSV, Shapefile, PDF · Varies by dataset · Hundreds of studies and datasets · [Licence Ouverte 2.0 for open publications](https://www.etalab.gouv.fr/licence-ouverte-open-licence/) · Direct download · Commercial use: check terms</sub>
+- [Radars automatiques Open Data](https://www.data.gouv.fr/datasets/radars-automatiques/) - Location, type, direction and speed threshold of every automated speed camera in France, with installation dates.
+  <br><sub>Ministère de l'Intérieur · CSV, JSON, GeoJSON · ~10 MB · 4,000+ speed cameras · [Licence Ouverte 2.0](https://www.etalab.gouv.fr/licence-ouverte-open-licence/) · Direct download · Commercial use permitted</sub>
+- [Fichier des immatriculations et contrôle technique](https://www.data.gouv.fr/datasets/?q=controle+technique) - Open datasets on the French vehicle fleet and periodic roadworthiness testing, covering pass rates, defect categories and fleet age.
+  <br><sub>Ministère de la Transition écologique · CSV, XLSX · ~2 GB · Millions of test records · [Licence Ouverte 2.0](https://www.etalab.gouv.fr/licence-ouverte-open-licence/) · Direct download · Commercial use permitted</sub>
 
 ## United Kingdom
 

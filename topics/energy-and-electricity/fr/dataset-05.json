@@ -1,0 +1,21 @@
+{
+  "id": "ademe-open-data",
+  "name": "ADEME Open Data",
+  "topic": "energy-and-electricity",
+  "country": "fr",
+  "url": "https://data.ademe.fr/",
+  "description": "Environment and energy agency datasets covering building energy diagnostics, carbon footprints by product, waste flows and emission factors.",
+  "provider": "Agence de la transition écologique",
+  "formats": [
+    "CSV",
+    "JSON",
+    "REST API"
+  ],
+  "size": "~10 GB",
+  "records": "Millions of DPE energy performance records",
+  "license": "Licence Ouverte 2.0",
+  "license_url": "https://data.ademe.fr/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "ADEME, Agence de la transition écologique"
+}

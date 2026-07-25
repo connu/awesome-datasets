@@ -1,0 +1,21 @@
+{
+  "id": "ofwat-company-performance-data",
+  "name": "Ofwat Company Performance Data",
+  "topic": "water-and-sanitation",
+  "country": "gb",
+  "url": "https://www.ofwat.gov.uk/regulated-companies/company-obligations/performance/",
+  "description": "Regulatory performance data for English and Welsh water companies covering leakage, supply interruptions, pollution incidents, sewer flooding and customer satisfaction.",
+  "provider": "Ofwat",
+  "formats": [
+    "XLSX",
+    "CSV",
+    "PDF"
+  ],
+  "size": "~1 GB",
+  "records": "Annual reporting for 17 water companies",
+  "license": "Open Government Licence v3.0",
+  "license_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Ofwat, Company performance data"
+}

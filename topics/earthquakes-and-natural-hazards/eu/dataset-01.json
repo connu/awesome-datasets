@@ -1,0 +1,22 @@
+{
+  "id": "emsc-euro-mediterranean-seismological-centre",
+  "name": "EMSC Euro-Mediterranean Seismological Centre",
+  "topic": "earthquakes-and-natural-hazards",
+  "country": "eu",
+  "url": "https://www.emsc-csem.org/",
+  "description": "Real-time and archived earthquake locations for the Euro-Mediterranean region, with felt reports, moment tensors and a public API.",
+  "provider": "European-Mediterranean Seismological Centre",
+  "formats": [
+    "REST API",
+    "JSON",
+    "QuakeML",
+    "CSV"
+  ],
+  "size": "~20 GB",
+  "records": "Millions of located events",
+  "license": "Free for research and public use with attribution",
+  "license_url": "https://www.emsc-csem.org/",
+  "access": "open",
+  "commercial_use": "check",
+  "cite": "European-Mediterranean Seismological Centre (EMSC)"
+}

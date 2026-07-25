@@ -1,0 +1,21 @@
+{
+  "id": "bundesanzeiger",
+  "name": "Bundesanzeiger",
+  "topic": "company-registries",
+  "country": "de",
+  "url": "https://www.bundesanzeiger.de/",
+  "description": "The federal gazette publishing statutory company disclosures including annual financial statements, capital measures and liquidation notices.",
+  "provider": "Bundesanzeiger Verlag",
+  "formats": [
+    "XML",
+    "PDF",
+    "Web"
+  ],
+  "size": "Multi-TB",
+  "records": "Millions of statutory publications",
+  "license": "Free access; systematic reuse subject to terms",
+  "license_url": "https://www.bundesanzeiger.de/",
+  "access": "open",
+  "commercial_use": "check",
+  "cite": "Bundesanzeiger, Bundesanzeiger Verlag"
+}

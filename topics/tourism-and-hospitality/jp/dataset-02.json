@@ -1,0 +1,21 @@
+{
+  "id": "japan-tourism-agency-statistics",
+  "name": "Japan Tourism Agency Statistics",
+  "topic": "tourism-and-hospitality",
+  "country": "jp",
+  "url": "https://www.mlit.go.jp/kankocho/en/siryou/toukei/index.html",
+  "description": "Official surveys of accommodation occupancy, inbound traveller consumption, domestic travel spending and regional visitor distribution.",
+  "provider": "Japan Tourism Agency",
+  "formats": [
+    "XLSX",
+    "CSV",
+    "PDF"
+  ],
+  "size": "~1 GB",
+  "records": "Quarterly and monthly national surveys",
+  "license": "Japan Government Standard Terms of Use, CC BY compatible",
+  "license_url": "https://www.mlit.go.jp/en/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Japan Tourism Agency, Ministry of Land, Infrastructure, Transport and Tourism"
+}

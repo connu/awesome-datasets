@@ -1,0 +1,20 @@
+{
+  "id": "get-information-about-schools",
+  "name": "Get Information About Schools",
+  "topic": "education-and-schools",
+  "country": "gb",
+  "url": "https://get-information-schools.service.gov.uk/",
+  "description": "The register of every school, college and trust in England with URN, phase, capacity, Ofsted rating, governance and full address history.",
+  "provider": "Department for Education",
+  "formats": [
+    "CSV",
+    "REST API"
+  ],
+  "size": "~1 GB",
+  "records": "50,000+ establishments including closed ones",
+  "license": "Open Government Licence v3.0",
+  "license_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Department for Education, Get Information About Schools"
+}

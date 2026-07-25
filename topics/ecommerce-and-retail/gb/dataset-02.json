@@ -1,0 +1,20 @@
+{
+  "id": "ons-e-commerce-and-ict-activity",
+  "name": "ONS E-commerce and ICT Activity",
+  "topic": "ecommerce-and-retail",
+  "country": "gb",
+  "url": "https://www.ons.gov.uk/businessindustryandtrade/itandinternetindustry",
+  "description": "Annual survey of business internet use, e-commerce sales value, website functionality, cloud adoption and broadband connectivity by industry and size band.",
+  "provider": "Office for National Statistics",
+  "formats": [
+    "CSV",
+    "XLSX"
+  ],
+  "size": "~100 MB",
+  "records": "Annual series from 2008",
+  "license": "Open Government Licence v3.0",
+  "license_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Office for National Statistics, E-commerce and ICT activity"
+}

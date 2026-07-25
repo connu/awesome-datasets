@@ -1,0 +1,21 @@
+{
+  "id": "efehr-european-seismic-hazard-model",
+  "name": "EFEHR European Seismic Hazard Model",
+  "topic": "earthquakes-and-natural-hazards",
+  "country": "eu",
+  "url": "https://www.efehr.org/",
+  "description": "The harmonised European seismic hazard and risk model with ground motion exceedance maps, fault databases and national hazard comparisons.",
+  "provider": "European Facilities for Earthquake Hazard and Risk",
+  "formats": [
+    "GeoTIFF",
+    "CSV",
+    "XML"
+  ],
+  "size": "~20 GB",
+  "records": "Pan-European hazard grids and fault catalogues",
+  "license": "CC BY 4.0",
+  "license_url": "https://www.efehr.org/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "EFEHR, European Seismic Hazard Model"
+}

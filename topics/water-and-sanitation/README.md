@@ -6,8 +6,22 @@ Part of [Awesome Datasets](../../README.md). Entries here are generated from the
 
 ## Contents
 
+- [United Kingdom](#united-kingdom)
 - [India](#india)
 - [United States](#united-states)
+
+## United Kingdom
+
+- [Environment Agency Water Quality Archive](https://environment.data.gov.uk/) - Every water quality sample taken by the Environment Agency in England, with determinand, concentration, sampling point and purpose, served from the environment data hub.
+  <br><sub>Environment Agency · CSV, REST API, RDF · ~20 GB · 60 million+ measurements · [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) · Direct download · Commercial use permitted</sub>
+- [EA Hydrology Data Explorer](https://environment.data.gov.uk/hydrology/explore) - River flow, groundwater level and rainfall time series from Environment Agency monitoring stations across England, downloadable per station or via API.
+  <br><sub>Environment Agency · CSV, REST API, JSON · ~50 GB · 8,000+ hydrology monitoring stations · [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) · Direct download · Commercial use permitted</sub>
+- [EA Catchment Data Explorer](https://environment.data.gov.uk/catchment-planning/) - Water Framework Directive classification results for every English river, lake, groundwater and coastal water body, with reasons for not achieving good status.
+  <br><sub>Environment Agency · CSV, REST API · ~5 GB · 5,000+ water bodies with annual classifications · [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) · Direct download · Commercial use permitted</sub>
+- [Ofwat Company Performance Data](https://www.ofwat.gov.uk/regulated-companies/company-obligations/performance/) - Regulatory performance data for English and Welsh water companies covering leakage, supply interruptions, pollution incidents, sewer flooding and customer satisfaction.
+  <br><sub>Ofwat · XLSX, CSV, PDF · ~1 GB · Annual reporting for 17 water companies · [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) · Direct download · Commercial use permitted</sub>
+- [Drinking Water Inspectorate Data](https://www.dwi.gov.uk/) - Drinking water quality compliance results, enforcement actions and consumer complaint statistics for every English and Welsh water supplier.
+  <br><sub>Drinking Water Inspectorate · XLSX, CSV, PDF · ~500 MB · Annual compliance reporting by water supply zone · [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) · Direct download · Commercial use permitted</sub>
 
 ## India
 

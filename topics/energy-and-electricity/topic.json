@@ -4,6 +4,7 @@
   "description": "Generation mix, grid demand, wholesale prices, network capacity and household consumption.",
   "countries": [
     "de",
+    "fr",
     "gb"
   ]
 }

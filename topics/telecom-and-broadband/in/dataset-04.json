@@ -1,0 +1,20 @@
+{
+  "id": "department-of-telecommunications-annual-report",
+  "name": "Department of Telecommunications Annual Report",
+  "topic": "telecom-and-broadband",
+  "country": "in",
+  "url": "https://dot.gov.in/reportsstatistics",
+  "description": "National telecom statistics on network expansion, BharatNet rural fibre rollout, spectrum auctions, licensing and universal service obligation funding.",
+  "provider": "Department of Telecommunications",
+  "formats": [
+    "PDF",
+    "XLSX"
+  ],
+  "size": "~1 GB",
+  "records": "Annual reports with state-level infrastructure tables",
+  "license": "Government Open Data License - India",
+  "license_url": "https://www.data.gov.in/government-open-data-license-india",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Department of Telecommunications, Ministry of Communications"
+}

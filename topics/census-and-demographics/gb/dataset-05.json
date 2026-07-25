@@ -1,0 +1,21 @@
+{
+  "id": "ons-developer-hub",
+  "name": "ONS Developer Hub",
+  "topic": "census-and-demographics",
+  "country": "gb",
+  "url": "https://developer.ons.gov.uk/",
+  "description": "Programmatic access to ONS published datasets and time series, returning census tables, economic indicators and population estimates as JSON.",
+  "provider": "Office for National Statistics",
+  "formats": [
+    "REST API",
+    "JSON",
+    "CSV"
+  ],
+  "size": "API",
+  "records": "Hundreds of datasets and thousands of series",
+  "license": "Open Government Licence v3.0",
+  "license_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "ONS Developer Hub"
+}

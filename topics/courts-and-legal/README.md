@@ -6,8 +6,22 @@ Part of [Awesome Datasets](../../README.md). Entries here are generated from the
 
 ## Contents
 
+- [United Kingdom](#united-kingdom)
 - [India](#india)
 - [United States](#united-states)
+
+## United Kingdom
+
+- [Find Case Law](https://caselaw.nationalarchives.gov.uk/) - The official archive of UK court and tribunal judgments as structured XML, with a documented API and bulk access for computational analysis.
+  <br><sub>The National Archives · XML, REST API, Atom · ~50 GB · 100,000+ judgments from 2001 onward · [Open Justice Licence and OGL v3.0](https://caselaw.nationalarchives.gov.uk/about-this-service) · Direct download · Commercial use: check terms</sub>
+- [BAILII](https://www.bailii.org/) - Free access to British and Irish primary legal materials including case law, legislation and law commission reports going back several centuries.
+  <br><sub>British and Irish Legal Information Institute · HTML, PDF · ~100 GB · Millions of judgments and legislative documents · [Free for personal and non-commercial use; bulk reuse requires permission](https://www.bailii.org/bailii/copyright.html) · Direct download · Non-commercial only</sub>
+- [legislation.gov.uk](https://www.legislation.gov.uk/) - The official database of UK legislation with full amended text, point-in-time versions and a comprehensive API returning Akoma Ntoso XML and RDF.
+  <br><sub>The National Archives · XML, RDF, REST API, HTML · ~20 GB · All UK primary and secondary legislation from 1267 · [Open Government Licence v3.0](https://www.legislation.gov.uk/help) · Direct download · Commercial use permitted</sub>
+- [MoJ Court Statistics Quarterly](https://www.gov.uk/government/collections/civil-justice-statistics-quarterly) - Caseload, timeliness and outcome statistics for civil, family and administrative courts, with claim volumes, hearing delays and enforcement actions.
+  <br><sub>Ministry of Justice · ODS, CSV, XLSX · ~1 GB · Quarterly series from 2007 · [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) · Direct download · Commercial use permitted</sub>
+- [Employment Tribunal Decisions](https://www.gov.uk/employment-tribunal-decisions) - Full text of every published employment tribunal judgment, searchable by jurisdiction code, claimant, respondent and decision date.
+  <br><sub>HM Courts and Tribunals Service · PDF, HTML · ~20 GB · 100,000+ published decisions since 2017 · [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) · Direct download · Commercial use permitted</sub>
 
 ## India
 

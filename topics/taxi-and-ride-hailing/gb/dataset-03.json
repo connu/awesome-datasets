@@ -1,0 +1,20 @@
+{
+  "id": "dft-taxi-and-private-hire-vehicle-statistics",
+  "name": "DfT Taxi and Private Hire Vehicle Statistics",
+  "topic": "taxi-and-ride-hailing",
+  "country": "gb",
+  "url": "https://www.gov.uk/government/collections/taxi-statistics",
+  "description": "Licensed taxi and private hire vehicle and driver counts by licensing authority, with wheelchair accessibility and licensing policy detail.",
+  "provider": "Department for Transport",
+  "formats": [
+    "ODS",
+    "CSV"
+  ],
+  "size": "~100 MB",
+  "records": "Biennial series covering all English licensing authorities",
+  "license": "Open Government Licence v3.0",
+  "license_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Department for Transport, Taxi and private hire vehicle statistics"
+}

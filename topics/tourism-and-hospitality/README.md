@@ -7,6 +7,7 @@ Part of [Awesome Datasets](../../README.md). Entries here are generated from the
 ## Contents
 
 - [Spain](#spain)
+- [Japan](#japan)
 - [United States](#united-states)
 
 ## Spain
@@ -21,6 +22,19 @@ Part of [Awesome Datasets](../../README.md). Entries here are generated from the
   <br><sub>Eurostat · TSV, SDMX, REST API · ~5 GB · Monthly and annual series for all EU countries · [Eurostat reuse policy, free with attribution](https://ec.europa.eu/eurostat/web/main/help/copyright-notice) · Direct download · Commercial use permitted</sub>
 - [AEMET OpenData](https://www.aemet.es/en/datos_abiertos/AEMET_OpenData) - Spanish meteorological agency open data with station observations, forecasts, beach and mountain conditions, widely combined with tourism demand modelling.
   <br><sub>Agencia Estatal de Meteorología · REST API, JSON, CSV · Varies by product · Hundreds of stations, continuous updates · [AEMET reuse licence, attribution required](https://www.aemet.es/en/nota_legal) · Free account required · Commercial use permitted</sub>
+
+## Japan
+
+- [Japan Tourism Statistics](https://statistics.jnto.go.jp/en/) - Monthly inbound visitor arrivals and outbound departures by nationality, purpose of visit and port of entry, with historical series back to 1964.
+  <br><sub>Japan National Tourism Organization · XLSX, CSV, PDF · ~500 MB · Monthly series from 1964 · [Free reuse with attribution to JNTO](https://statistics.jnto.go.jp/en/) · Direct download · Commercial use permitted</sub>
+- [Japan Tourism Agency Statistics](https://www.mlit.go.jp/kankocho/en/siryou/toukei/index.html) - Official surveys of accommodation occupancy, inbound traveller consumption, domestic travel spending and regional visitor distribution.
+  <br><sub>Japan Tourism Agency · XLSX, CSV, PDF · ~1 GB · Quarterly and monthly national surveys · [Japan Government Standard Terms of Use, CC BY compatible](https://www.mlit.go.jp/en/) · Direct download · Commercial use permitted</sub>
+- [e-Stat Tourism and Accommodation Tables](https://www.e-stat.go.jp/en/stat-search) - Japan's unified statistics portal search covering accommodation surveys, prefecture-level visitor counts and hospitality industry economics, with a documented API.
+  <br><sub>Statistics Bureau of Japan · CSV, XLSX, REST API · Varies by table · Hundreds of thousands of statistical tables · [Japan Government Standard Terms of Use, CC BY compatible](https://www.e-stat.go.jp/en/terms-of-use) · Free account required · Commercial use permitted</sub>
+- [Japan Meteorological Agency Climate Data](https://www.data.jma.go.jp/stats/etrn/index.php) - Historical temperature, rainfall, snow depth and sunshine observations by station, widely joined against tourism demand and seasonality analysis.
+  <br><sub>Japan Meteorological Agency · CSV, Web · Multi-GB · 1,300+ AMeDAS stations with long historical series · [JMA terms of use, free reuse with attribution](https://www.jma.go.jp/jma/en/copyright.html) · Direct download · Commercial use permitted</sub>
+- [Japan Open Data Portal](https://www.data.go.jp/) - The national open data catalogue aggregating datasets from every ministry and many prefectures, including tourism, transport and regional economy data.
+  <br><sub>Digital Agency, Government of Japan · CSV, XLSX, JSON, REST API · Varies by dataset · 30,000+ datasets · [Japan Government Standard Terms of Use, CC BY compatible](https://www.data.go.jp/) · Direct download · Commercial use permitted</sub>
 
 ## United States
 

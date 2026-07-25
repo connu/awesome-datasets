@@ -7,6 +7,7 @@ Part of [Awesome Datasets](../../README.md). Entries here are generated from the
 ## Contents
 
 - [United Kingdom](#united-kingdom)
+- [India](#india)
 - [United States](#united-states)
 
 ## United Kingdom
@@ -21,6 +22,19 @@ Part of [Awesome Datasets](../../README.md). Entries here are generated from the
   <br><sub>Office for National Statistics · CSV, XLSX · Varies by series · Annual series · [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) · Direct download · Commercial use permitted</sub>
 - [RIPE Atlas Measurements](https://atlas.ripe.net/) - Global network of hardware and software probes running continuous ping, traceroute, DNS and TLS measurements, with strong UK and European coverage and full API access.
   <br><sub>RIPE NCC · REST API, JSON · TB-scale archive · 12,000+ active probes worldwide · [CC BY-SA 4.0 for measurement results](https://atlas.ripe.net/legal/terms-conditions/) · Free account required · Commercial use permitted</sub>
+
+## India
+
+- [TRAI Performance Indicator Reports](https://www.trai.gov.in/) - Quarterly telecom subscriber counts, teledensity, broadband penetration, ARPU, minutes of use and internet subscriber breakdowns by circle and operator.
+  <br><sub>Telecom Regulatory Authority of India · PDF, XLSX, CSV · ~2 GB · Quarterly series from 2005 · [Government Open Data License - India](https://www.data.gov.in/government-open-data-license-india) · Direct download · Commercial use permitted</sub>
+- [TRAI MySpeed Analytics](https://myspeed.trai.gov.in/) - Crowd-sourced mobile broadband speed measurements from the regulator's app, reporting download, upload and latency by operator, technology and state.
+  <br><sub>Telecom Regulatory Authority of India · CSV, Web dashboard · ~5 GB · Millions of speed tests since 2016 · [Government Open Data License - India](https://www.data.gov.in/government-open-data-license-india) · Direct download · Commercial use permitted</sub>
+- [data.gov.in Communication Sector](https://www.data.gov.in/sector/communication) - Open government catalogue of telecom datasets covering subscriber bases, spectrum allocation, tower infrastructure, rural connectivity and postal services.
+  <br><sub>National Informatics Centre · CSV, XLSX, JSON, REST API · Varies by resource · 1,500+ communication resources · [Government Open Data License - India](https://www.data.gov.in/government-open-data-license-india) · Direct download · Commercial use permitted</sub>
+- [Department of Telecommunications Annual Report](https://dot.gov.in/reportsstatistics) - National telecom statistics on network expansion, BharatNet rural fibre rollout, spectrum auctions, licensing and universal service obligation funding.
+  <br><sub>Department of Telecommunications · PDF, XLSX · ~1 GB · Annual reports with state-level infrastructure tables · [Government Open Data License - India](https://www.data.gov.in/government-open-data-license-india) · Direct download · Commercial use permitted</sub>
+- [MeitY Digital India Statistics](https://www.meity.gov.in/) - Digital infrastructure and adoption statistics covering common service centres, digital payments volumes, internet penetration and electronics manufacturing.
+  <br><sub>Ministry of Electronics and Information Technology · PDF, XLSX, Web dashboard · Varies by report · National and state-level digital adoption series · [Government Open Data License - India](https://www.data.gov.in/government-open-data-license-india) · Direct download · Commercial use permitted</sub>
 
 ## United States
 

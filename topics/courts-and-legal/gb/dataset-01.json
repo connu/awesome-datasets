@@ -1,0 +1,21 @@
+{
+  "id": "find-case-law",
+  "name": "Find Case Law",
+  "topic": "courts-and-legal",
+  "country": "gb",
+  "url": "https://caselaw.nationalarchives.gov.uk/",
+  "description": "The official archive of UK court and tribunal judgments as structured XML, with a documented API and bulk access for computational analysis.",
+  "provider": "The National Archives",
+  "formats": [
+    "XML",
+    "REST API",
+    "Atom"
+  ],
+  "size": "~50 GB",
+  "records": "100,000+ judgments from 2001 onward",
+  "license": "Open Justice Licence and OGL v3.0",
+  "license_url": "https://caselaw.nationalarchives.gov.uk/about-this-service",
+  "access": "open",
+  "commercial_use": "check",
+  "cite": "Find Case Law, The National Archives"
+}

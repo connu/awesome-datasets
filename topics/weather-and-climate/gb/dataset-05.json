@@ -1,0 +1,20 @@
+{
+  "id": "met-office-haduk-grid",
+  "name": "Met Office HadUK-Grid",
+  "topic": "weather-and-climate",
+  "country": "gb",
+  "url": "https://www.metoffice.gov.uk/research/climate/maps-and-data/data/haduk-grid/haduk-grid",
+  "description": "Gridded UK climate observations at 1 km resolution covering temperature, rainfall, sunshine and wind, interpolated from the station network.",
+  "provider": "Met Office",
+  "formats": [
+    "NetCDF",
+    "CSV"
+  ],
+  "size": "~20 GB",
+  "records": "Monthly and daily grids from 1836",
+  "license": "Open Government Licence v3.0",
+  "license_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "access": "registration",
+  "commercial_use": "yes",
+  "cite": "Met Office, HadUK-Grid gridded climate observations"
+}

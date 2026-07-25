@@ -1,0 +1,21 @@
+{
+  "id": "offeneregister",
+  "name": "OffeneRegister",
+  "topic": "company-registries",
+  "country": "de",
+  "url": "https://offeneregister.de/",
+  "description": "A civil society extraction of the German commercial register into bulk-downloadable structured data, with companies, officers and addresses as CSV and SQLite.",
+  "provider": "Open Knowledge Foundation Deutschland",
+  "formats": [
+    "CSV",
+    "SQLite",
+    "JSON"
+  ],
+  "size": "~5 GB",
+  "records": "5 million+ companies and officers",
+  "license": "ODbL 1.0",
+  "license_url": "https://offeneregister.de/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "OffeneRegister.de, Open Knowledge Foundation Deutschland"
+}

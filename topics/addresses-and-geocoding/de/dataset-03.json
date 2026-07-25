@@ -1,0 +1,20 @@
+{
+  "id": "openplz-api",
+  "name": "OpenPLZ API",
+  "topic": "addresses-and-geocoding",
+  "country": "de",
+  "url": "https://www.openplzapi.org/",
+  "description": "A free API resolving German, Austrian, Swiss and Liechtenstein postal codes to localities, districts, states and street lists.",
+  "provider": "OpenPLZ API project",
+  "formats": [
+    "REST API",
+    "JSON"
+  ],
+  "size": "API",
+  "records": "Postal code and street coverage for four countries",
+  "license": "ODbL 1.0 (data from OpenStreetMap and official sources)",
+  "license_url": "https://www.openplzapi.org/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "OpenPLZ API"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ibge-agricultural-production-statistics",
+  "name": "IBGE Agricultural Production Statistics",
+  "topic": "agriculture-and-crops",
+  "country": "br",
+  "url": "https://www.ibge.gov.br/estatisticas/economicas/agricultura-e-pecuaria.html",
+  "description": "Official Brazilian crop and livestock statistics covering planted area, production, yield and value by municipality and crop.",
+  "provider": "Instituto Brasileiro de Geografia e Estatística",
+  "formats": [
+    "XLSX",
+    "CSV",
+    "REST API"
+  ],
+  "size": "Multi-GB",
+  "records": "5,570 municipalities, annual and monthly series",
+  "license": "Free use with attribution to IBGE",
+  "license_url": "https://www.ibge.gov.br/acesso-informacao/institucional/copyright.html",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "IBGE, Produção Agrícola Municipal"
+}

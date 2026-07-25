@@ -1,0 +1,21 @@
+{
+  "id": "e-stat-tourism-and-accommodation-tables",
+  "name": "e-Stat Tourism and Accommodation Tables",
+  "topic": "tourism-and-hospitality",
+  "country": "jp",
+  "url": "https://www.e-stat.go.jp/en/stat-search",
+  "description": "Japan's unified statistics portal search covering accommodation surveys, prefecture-level visitor counts and hospitality industry economics, with a documented API.",
+  "provider": "Statistics Bureau of Japan",
+  "formats": [
+    "CSV",
+    "XLSX",
+    "REST API"
+  ],
+  "size": "Varies by table",
+  "records": "Hundreds of thousands of statistical tables",
+  "license": "Japan Government Standard Terms of Use, CC BY compatible",
+  "license_url": "https://www.e-stat.go.jp/en/terms-of-use",
+  "access": "registration",
+  "commercial_use": "yes",
+  "cite": "e-Stat, Statistics Bureau of Japan"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "national-health-mission-hmis",
+  "name": "National Health Mission HMIS",
+  "topic": "public-health",
+  "country": "in",
+  "url": "https://hmis.mohfw.gov.in/",
+  "description": "Monthly facility-level reporting on institutional deliveries, immunisation, antenatal care, outpatient load and disease programmes across every district.",
+  "provider": "Ministry of Health and Family Welfare",
+  "formats": [
+    "XLSX",
+    "PDF",
+    "Web dashboard"
+  ],
+  "size": "Multi-GB",
+  "records": "200,000+ reporting health facilities",
+  "license": "Government Open Data License - India",
+  "license_url": "https://www.data.gov.in/government-open-data-license-india",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Health Management Information System, Ministry of Health and Family Welfare"
+}

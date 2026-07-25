@@ -6,8 +6,22 @@ Part of [Awesome Datasets](../../README.md). Entries here are generated from the
 
 ## Contents
 
+- [United Kingdom](#united-kingdom)
 - [India](#india)
 - [United States](#united-states)
+
+## United Kingdom
+
+- [Bank of England Database](https://www.bankofengland.co.uk/boeapps/database/) - The central bank's statistical database covering interest rates, exchange rates, money and credit aggregates, lending, and bank balance sheets.
+  <br><sub>Bank of England · CSV, XLSX, REST API · Multi-GB · 40,000+ time series, some from 1694 · [Open Government Licence v3.0](https://www.bankofengland.co.uk/legal) · Direct download · Commercial use permitted</sub>
+- [FCA Financial Services Register](https://register.fca.org.uk/) - The public register of every firm and individual authorised to conduct regulated financial business in the UK, with permissions, status and disciplinary history.
+  <br><sub>Financial Conduct Authority · REST API, CSV, JSON · ~2 GB · 50,000+ authorised firms · [Open Government Licence v3.0 with API terms](https://www.fca.org.uk/legal) · Free account required · Commercial use permitted</sub>
+- [FCA National Storage Mechanism](https://data.fca.org.uk/#/nsm/nationalstoragemechanism) - The official UK repository of regulated information from listed companies, including annual reports, prospectuses and major shareholding notifications.
+  <br><sub>Financial Conduct Authority · PDF, XHTML, REST API · Multi-TB · Millions of regulatory filings · [Open Government Licence v3.0](https://www.fca.org.uk/legal) · Direct download · Commercial use permitted</sub>
+- [London Stock Exchange Statistics](https://www.londonstockexchange.com/reports) - Monthly market reports covering listed company counts, market capitalisation, turnover, new issues and index constituents.
+  <br><sub>London Stock Exchange Group · XLSX, PDF, CSV · ~500 MB · Monthly series across main market and AIM · [LSEG terms of use; redistribution restricted](https://www.londonstockexchange.com/) · Direct download · Non-commercial only</sub>
+- [UK Debt Management Office Data](https://www.dmo.gov.uk/data/) - Gilt and Treasury bill issuance, auction results, outstanding stock, redemption profiles and daily reference prices for UK government debt.
+  <br><sub>UK Debt Management Office · XLSX, CSV · ~500 MB · Daily and auction-level series from 1998 · [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) · Direct download · Commercial use permitted</sub>
 
 ## India
 

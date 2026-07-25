@@ -1,0 +1,21 @@
+{
+  "id": "met-office-hadley-centre-observations",
+  "name": "Met Office Hadley Centre Observations",
+  "topic": "weather-and-climate",
+  "country": "gb",
+  "url": "https://www.metoffice.gov.uk/hadobs/",
+  "description": "The HadCRUT global temperature record, HadISST sea surface temperatures and related long-run climate datasets used in IPCC assessments.",
+  "provider": "Met Office Hadley Centre",
+  "formats": [
+    "NetCDF",
+    "ASCII",
+    "CSV"
+  ],
+  "size": "~50 GB",
+  "records": "Global series from 1850",
+  "license": "Open Government Licence v3.0 for most datasets",
+  "license_url": "https://www.metoffice.gov.uk/hadobs/",
+  "access": "open",
+  "commercial_use": "check",
+  "cite": "Met Office Hadley Centre observations datasets"
+}

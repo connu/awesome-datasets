@@ -7,6 +7,7 @@ Part of [Awesome Datasets](../../README.md). Entries here are generated from the
 ## Contents
 
 - [Germany](#germany)
+- [France](#france)
 - [United Kingdom](#united-kingdom)
 
 ## Germany
@@ -21,6 +22,19 @@ Part of [Awesome Datasets](../../README.md). Entries here are generated from the
   <br><sub>European Network of Transmission System Operators for Electricity · REST API, CSV, XML · Multi-TB archive · All European bidding zones since 2015 · [ENTSO-E Transparency Platform terms, free reuse with attribution](https://transparency.entsoe.eu/) · Free account required · Commercial use permitted</sub>
 - [Energy-Charts](https://www.energy-charts.info/) - Interactive and downloadable German and European electricity production, price and emissions data maintained by a public research institute.
   <br><sub>Fraunhofer Institute for Solar Energy Systems ISE · CSV, JSON, REST API · Varies by series · Hourly series from 2002 · [CC BY 4.0](https://www.energy-charts.info/) · Direct download · Commercial use permitted</sub>
+
+## France
+
+- [Open Data Réseaux Énergies](https://opendata.reseaux-energies.fr/) - The French grid operators' shared platform publishing half-hourly consumption, generation by source, éCO2mix balances and regional energy indicators.
+  <br><sub>RTE and partner network operators · CSV, JSON, REST API · Multi-GB · Half-hourly national and regional series since 2012 · [Licence Ouverte 2.0](https://www.etalab.gouv.fr/licence-ouverte-open-licence/) · Direct download · Commercial use permitted</sub>
+- [Enedis Open Data](https://data.enedis.fr/) - Distribution network data covering consumption and production by postcode, connected renewable capacity, smart meter aggregates and network incidents.
+  <br><sub>Enedis · CSV, JSON, GeoJSON, REST API · Multi-GB · 37 million+ connection points aggregated · [Licence Ouverte 2.0](https://data.enedis.fr/) · Direct download · Commercial use permitted</sub>
+- [RTE Services Data Portal](https://www.services-rte.com/) - The French transmission system operator's API portal for real-time generation, consumption forecasts, cross-border exchanges and balancing data.
+  <br><sub>Réseau de Transport d'Électricité · REST API, JSON, CSV · API · Continuous national grid telemetry · [RTE open data terms, free reuse with attribution](https://www.services-rte.com/) · Free account required · Commercial use permitted</sub>
+- [Agence ORE Open Data](https://opendata.agenceore.fr/) - Consolidated French distribution network data covering electricity and gas consumption by commune, connected renewable capacity and network operator coverage.
+  <br><sub>Agence ORE · CSV, JSON, REST API · Multi-GB · Commune-level series across all French DSOs · [Licence Ouverte 2.0](https://www.etalab.gouv.fr/licence-ouverte-open-licence/) · Direct download · Commercial use permitted</sub>
+- [ADEME Open Data](https://data.ademe.fr/) - Environment and energy agency datasets covering building energy diagnostics, carbon footprints by product, waste flows and emission factors.
+  <br><sub>Agence de la transition écologique · CSV, JSON, REST API · ~10 GB · Millions of DPE energy performance records · [Licence Ouverte 2.0](https://data.ademe.fr/) · Direct download · Commercial use permitted</sub>
 
 ## United Kingdom
 

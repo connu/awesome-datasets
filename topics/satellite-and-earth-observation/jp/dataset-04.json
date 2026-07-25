@@ -1,0 +1,21 @@
+{
+  "id": "himawari-geostationary-satellite-data",
+  "name": "Himawari Geostationary Satellite Data",
+  "topic": "satellite-and-earth-observation",
+  "country": "jp",
+  "url": "https://www.data.jma.go.jp/mscweb/data/himawari/",
+  "description": "Full-disk imagery from the Himawari geostationary satellites covering East Asia and the western Pacific at 10-minute intervals across 16 bands.",
+  "provider": "Japan Meteorological Agency",
+  "formats": [
+    "NetCDF",
+    "HSD",
+    "PNG"
+  ],
+  "size": "Petabyte-scale",
+  "records": "Continuous imagery since 2015",
+  "license": "JMA terms of use, free reuse with attribution",
+  "license_url": "https://www.jma.go.jp/jma/en/copyright.html",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Japan Meteorological Agency, Himawari satellite data"
+}

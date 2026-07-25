@@ -3,6 +3,7 @@
   "title": "Vehicles & Car Sales",
   "description": "Vehicle registrations, sales volumes, specifications, fuel economy and recall records.",
   "countries": [
+    "gb",
     "in",
     "us"
   ]

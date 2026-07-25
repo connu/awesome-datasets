@@ -1,0 +1,22 @@
+{
+  "id": "ceda-archive",
+  "name": "CEDA Archive",
+  "topic": "weather-and-climate",
+  "country": "gb",
+  "url": "https://archive.ceda.ac.uk/",
+  "description": "The UK's atmospheric and earth observation data centre, hosting MIDAS surface observations, radar, satellite products and climate model output.",
+  "provider": "Centre for Environmental Data Analysis",
+  "formats": [
+    "NetCDF",
+    "CSV",
+    "HDF",
+    "BADC-CSV"
+  ],
+  "size": "Multi-petabyte",
+  "records": "Thousands of datasets including 100+ years of station data",
+  "license": "Varies by dataset; many under OGL v3.0",
+  "license_url": "https://archive.ceda.ac.uk/",
+  "access": "registration",
+  "commercial_use": "check",
+  "cite": "Centre for Environmental Data Analysis (CEDA) Archive"
+}

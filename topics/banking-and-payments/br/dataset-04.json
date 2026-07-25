@@ -1,0 +1,20 @@
+{
+  "id": "cvm-open-data",
+  "name": "CVM Open Data",
+  "topic": "banking-and-payments",
+  "country": "br",
+  "url": "https://dados.cvm.gov.br/",
+  "description": "Brazilian securities regulator data covering listed company filings, investment fund daily returns and holdings, and registered intermediaries.",
+  "provider": "Comissão de Valores Mobiliários",
+  "formats": [
+    "CSV",
+    "ZIP"
+  ],
+  "size": "~100 GB",
+  "records": "Daily fund data for 30,000+ funds",
+  "license": "Free reuse with attribution, Brazilian open data policy",
+  "license_url": "https://dados.cvm.gov.br/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Comissão de Valores Mobiliários, Dados Abertos"
+}

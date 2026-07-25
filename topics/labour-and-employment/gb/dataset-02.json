@@ -1,0 +1,20 @@
+{
+  "id": "annual-survey-of-hours-and-earnings",
+  "name": "Annual Survey of Hours and Earnings",
+  "topic": "labour-and-employment",
+  "country": "gb",
+  "url": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours",
+  "description": "The authoritative UK earnings survey giving hourly and weekly pay distributions by occupation, industry, region, age and gender.",
+  "provider": "Office for National Statistics",
+  "formats": [
+    "XLSX",
+    "CSV"
+  ],
+  "size": "~2 GB",
+  "records": "~180,000 employee records annually",
+  "license": "Open Government Licence v3.0",
+  "license_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Office for National Statistics, Annual Survey of Hours and Earnings"
+}

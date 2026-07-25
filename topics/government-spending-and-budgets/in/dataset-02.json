@@ -1,0 +1,21 @@
+{
+  "id": "central-public-procurement-portal",
+  "name": "Central Public Procurement Portal",
+  "topic": "government-spending-and-budgets",
+  "country": "in",
+  "url": "https://eprocure.gov.in/cppp/",
+  "description": "Tender notices, bid documents and award-of-contract details published by central ministries, PSUs and autonomous bodies.",
+  "provider": "National Informatics Centre",
+  "formats": [
+    "PDF",
+    "XLSX",
+    "Web"
+  ],
+  "size": "Multi-GB",
+  "records": "Millions of tenders since 2012",
+  "license": "Government Open Data License - India",
+  "license_url": "https://www.data.gov.in/government-open-data-license-india",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Central Public Procurement Portal, Government of India"
+}

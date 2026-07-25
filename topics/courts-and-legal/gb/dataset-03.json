@@ -1,0 +1,22 @@
+{
+  "id": "legislation-gov-uk",
+  "name": "legislation.gov.uk",
+  "topic": "courts-and-legal",
+  "country": "gb",
+  "url": "https://www.legislation.gov.uk/",
+  "description": "The official database of UK legislation with full amended text, point-in-time versions and a comprehensive API returning Akoma Ntoso XML and RDF.",
+  "provider": "The National Archives",
+  "formats": [
+    "XML",
+    "RDF",
+    "REST API",
+    "HTML"
+  ],
+  "size": "~20 GB",
+  "records": "All UK primary and secondary legislation from 1267",
+  "license": "Open Government Licence v3.0",
+  "license_url": "https://www.legislation.gov.uk/help",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "legislation.gov.uk, The National Archives"
+}

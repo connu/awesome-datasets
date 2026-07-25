@@ -3,6 +3,7 @@
   "title": "Taxi & Ride-Hailing",
   "description": "Trip records, vehicle availability, fares and licensing for taxis and for-hire vehicles.",
   "countries": [
+    "gb",
     "sg",
     "us"
   ]

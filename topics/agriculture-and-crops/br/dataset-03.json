@@ -1,0 +1,22 @@
+{
+  "id": "embrapa-agricultural-research-data",
+  "name": "Embrapa Agricultural Research Data",
+  "topic": "agriculture-and-crops",
+  "country": "br",
+  "url": "https://www.embrapa.br/",
+  "description": "Agricultural research datasets covering soils, climate zoning, crop trials, satellite land use monitoring and livestock productivity.",
+  "provider": "Empresa Brasileira de Pesquisa Agropecuária",
+  "formats": [
+    "CSV",
+    "Shapefile",
+    "GeoTIFF",
+    "PDF"
+  ],
+  "size": "Multi-TB",
+  "records": "Hundreds of research datasets and geospatial layers",
+  "license": "Varies by dataset; many CC BY",
+  "license_url": "https://www.embrapa.br/",
+  "access": "open",
+  "commercial_use": "check",
+  "cite": "Embrapa, Empresa Brasileira de Pesquisa Agropecuária"
+}

@@ -68,8 +68,16 @@ def check_url(url: str, _retry: bool = True) -> tuple[str, str]:
         # Slow origin, not a dead link. Give it one more chance before failing.
         return check_url(url, _retry=False) if _retry else (url, "WARN (timeout twice)")
     except urllib.error.HTTPError as exc:
-        # 403 from a live page is anti-bot filtering, not link rot.
-        return url, "WARN (403 anti-bot)" if exc.code == 403 else f"HTTP {exc.code}"
+        # 403 and 418 from a live page are anti-bot filtering, not link rot.
+        if exc.code in (403, 418):
+            return url, f"WARN ({exc.code} anti-bot)"
+        # Rate limiting and transient server errors: retry once before failing,
+        # so a weekly cron does not raise false alarms on a momentary blip.
+        if exc.code in (429, 500, 502, 503, 504):
+            if _retry:
+                return check_url(url, _retry=False)
+            return url, f"WARN ({exc.code} transient, twice)"
+        return url, f"HTTP {exc.code}"
     except urllib.error.URLError as exc:
         # A self-signed cert in the chain means TLS interception on the local
         # machine, not a broken link. Warn instead of failing the run.

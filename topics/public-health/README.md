@@ -7,6 +7,7 @@ Part of [Awesome Datasets](../../README.md). Entries here are generated from the
 ## Contents
 
 - [United Kingdom](#united-kingdom)
+- [India](#india)
 - [United States](#united-states)
 
 ## United Kingdom
@@ -21,6 +22,19 @@ Part of [Awesome Datasets](../../README.md). Entries here are generated from the
   <br><sub>Office for National Statistics · CSV, XLSX, REST API · Varies by series · Hundreds of published series · [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) · Direct download · Commercial use permitted</sub>
 - [OpenPrescribing](https://openprescribing.net/) - A searchable analytics layer over English primary care prescribing with standardised measures, practice comparisons and a public API.
   <br><sub>Bennett Institute for Applied Data Science, University of Oxford · REST API, CSV, JSON · Varies by query · Monthly data for 6,000+ GP practices · [MIT (code); prescribing data under OGL v3.0](https://openprescribing.net/about/) · Direct download · Commercial use permitted</sub>
+
+## India
+
+- [data.gov.in Health Sector](https://www.data.gov.in/sector/health-and-family-welfare) - Open government catalogue of health datasets covering hospital infrastructure, disease incidence, immunisation coverage, blood banks and medical colleges.
+  <br><sub>National Informatics Centre · CSV, XLSX, JSON, REST API · Varies by resource · 8,000+ health resources · [Government Open Data License - India](https://www.data.gov.in/government-open-data-license-india) · Direct download · Commercial use permitted</sub>
+- [National Health Mission HMIS](https://hmis.mohfw.gov.in/) - Monthly facility-level reporting on institutional deliveries, immunisation, antenatal care, outpatient load and disease programmes across every district.
+  <br><sub>Ministry of Health and Family Welfare · XLSX, PDF, Web dashboard · Multi-GB · 200,000+ reporting health facilities · [Government Open Data License - India](https://www.data.gov.in/government-open-data-license-india) · Direct download · Commercial use permitted</sub>
+- [National Health Profile](https://cbhidghs.mohfw.gov.in/) - The annual national compendium of demographic, socioeconomic, health status, health finance and health infrastructure indicators by state.
+  <br><sub>Central Bureau of Health Intelligence · PDF, XLSX · ~200 MB per edition · Annual editions with state-level tables · [Government Open Data License - India](https://www.data.gov.in/government-open-data-license-india) · Direct download · Commercial use permitted</sub>
+- [National Health Authority Public Dashboards](https://nha.gov.in/) - Public reporting for India's national health insurance scheme and digital health mission, covering hospital admissions, empanelled hospitals, claims and ABDM adoption.
+  <br><sub>National Health Authority · Web dashboard, XLSX, CSV · Varies by query · 70 million+ hospital admissions · [Government Open Data License - India](https://www.data.gov.in/government-open-data-license-india) · Direct download · Commercial use permitted</sub>
+- [Global Burden of Disease India Results](https://vizhub.healthdata.org/gbd-results/) - Modelled mortality, morbidity and risk factor estimates for India and its states, comparable across 200+ countries and back to 1990.
+  <br><sub>Institute for Health Metrics and Evaluation · CSV, REST API · ~50 GB · 370+ diseases and injuries, 88 risk factors · [IHME Free-of-Charge Non-commercial User Agreement](https://www.healthdata.org/Data-tools-practices/data-practices/ihme-free-charge-non-commercial-user-agreement) · Free account required · Non-commercial only</sub>
 
 ## United States
 

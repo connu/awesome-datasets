@@ -3,6 +3,7 @@
   "title": "Water & Sanitation",
   "description": "Streamflow, groundwater levels, water quality, drinking water compliance and sanitation coverage.",
   "countries": [
+    "gb",
     "in",
     "us"
   ]

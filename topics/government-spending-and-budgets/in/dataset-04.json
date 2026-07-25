@@ -1,0 +1,20 @@
+{
+  "id": "rbi-state-finances-study",
+  "name": "RBI State Finances Study",
+  "topic": "government-spending-and-budgets",
+  "country": "in",
+  "url": "https://www.rbi.org.in/Scripts/AnnualPublications.aspx?head=State+Finances+%3A+A+Study+of+Budgets",
+  "description": "The annual comparative study of all Indian state budgets, with receipts, expenditure, deficits, debt and outstanding liabilities by state.",
+  "provider": "Reserve Bank of India",
+  "formats": [
+    "PDF",
+    "XLSX"
+  ],
+  "size": "~500 MB",
+  "records": "Annual editions covering all states and union territories",
+  "license": "Free reuse with attribution to RBI",
+  "license_url": "https://www.rbi.org.in/Scripts/Copyright.aspx",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Reserve Bank of India, State Finances: A Study of Budgets"
+}

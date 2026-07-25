@@ -6,8 +6,22 @@ Part of [Awesome Datasets](../../README.md). Entries here are generated from the
 
 ## Contents
 
+- [United Kingdom](#united-kingdom)
 - [India](#india)
 - [United States](#united-states)
+
+## United Kingdom
+
+- [Electoral Commission Data](https://www.electoralcommission.org.uk/research-reports-and-data) - Official electoral data covering registration levels, turnout, party and campaigner finance, donations, loans and campaign spending returns.
+  <br><sub>The Electoral Commission · CSV, XLSX, REST API · ~2 GB · Donations and spending records since 2001 · [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) · Direct download · Commercial use permitted</sub>
+- [House of Commons Library Election Results](https://commonslibrary.parliament.uk/research-briefings/cbp-8749/) - Constituency-level results for every UK general election, with candidate votes, party, turnout, majority and swing, cleaned for analysis.
+  <br><sub>House of Commons Library · XLSX, CSV · ~200 MB · 650 constituencies across multiple elections · [Open Parliament Licence v3.0](https://www.parliament.uk/site-information/copyright-parliament/open-parliament-licence/) · Direct download · Commercial use permitted</sub>
+- [Democracy Club Data](https://democracyclub.org.uk/projects/) - Community-built open data on UK candidates, polling stations, elections and results, covering local and devolved elections that official sources publish inconsistently.
+  <br><sub>Democracy Club · CSV, REST API, JSON · ~500 MB · Hundreds of thousands of candidate and polling station records · [CC BY-SA 4.0 and ODbL depending on dataset](https://democracyclub.org.uk/) · Direct download · Commercial use: check terms</sub>
+- [UK Parliament Members and Voting API](https://developer.parliament.uk/) - APIs for MPs and Lords, their votes, written questions, committee membership, register of interests and Hansard debate transcripts.
+  <br><sub>UK Parliament · REST API, JSON, XML · API · Full membership and division history · [Open Parliament Licence v3.0](https://www.parliament.uk/site-information/copyright-parliament/open-parliament-licence/) · Direct download · Commercial use permitted</sub>
+- [TheyWorkForYou](https://www.theyworkforyou.com/api/) - Structured parliamentary records including debates, voting records, MP profiles and constituency lookups, derived from Hansard and official registers.
+  <br><sub>mySociety · REST API, JSON, XML · Multi-GB · Hansard from 1919 onward · [CC BY-SA 3.0 with Open Parliament Licence for source material](https://www.theyworkforyou.com/api/) · Free account required · Commercial use: check terms</sub>
 
 ## India
 

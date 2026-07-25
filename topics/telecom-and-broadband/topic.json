@@ -4,6 +4,7 @@
   "description": "Network coverage, connection speeds, spectrum allocation, subscriber counts and service pricing.",
   "countries": [
     "gb",
+    "in",
     "us"
   ]
 }

@@ -1,0 +1,21 @@
+{
+  "id": "smmt-vehicle-data",
+  "name": "SMMT Vehicle Data",
+  "topic": "vehicles-and-car-sales",
+  "country": "gb",
+  "url": "https://www.smmt.co.uk/vehicle-data/",
+  "description": "Industry-body registration and production figures for UK cars, vans, trucks and buses, broken down by manufacturer, model and fuel type.",
+  "provider": "Society of Motor Manufacturers and Traders",
+  "formats": [
+    "XLSX",
+    "PDF",
+    "Web"
+  ],
+  "size": "Small tabular files",
+  "records": "Monthly and annual series by segment",
+  "license": "Free for reference; redistribution requires permission",
+  "license_url": "https://www.smmt.co.uk/",
+  "access": "open",
+  "commercial_use": "no",
+  "cite": "Society of Motor Manufacturers and Traders, Vehicle Data"
+}

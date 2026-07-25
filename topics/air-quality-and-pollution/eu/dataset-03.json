@@ -1,0 +1,21 @@
+{
+  "id": "edgar-emissions-database",
+  "name": "EDGAR Emissions Database",
+  "topic": "air-quality-and-pollution",
+  "country": "eu",
+  "url": "https://edgar.jrc.ec.europa.eu/",
+  "description": "Gridded global inventory of greenhouse gas and air pollutant emissions by country, sector and year, independent of national reporting.",
+  "provider": "European Commission Joint Research Centre",
+  "formats": [
+    "CSV",
+    "NetCDF",
+    "XLSX"
+  ],
+  "size": "~50 GB",
+  "records": "Global grids and country series from 1970",
+  "license": "CC BY 4.0",
+  "license_url": "https://edgar.jrc.ec.europa.eu/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Crippa et al., EDGAR Emissions Database for Global Atmospheric Research, European Commission JRC"
+}

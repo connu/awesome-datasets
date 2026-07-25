@@ -6,8 +6,22 @@ Part of [Awesome Datasets](../../README.md). Entries here are generated from the
 
 ## Contents
 
+- [Germany](#germany)
 - [United Kingdom](#united-kingdom)
 - [India](#india)
+
+## Germany
+
+- [Unternehmensregister](https://www.unternehmensregister.de/) - The central German company register aggregating commercial register entries, published annual accounts, capital market disclosures and insolvency notices.
+  <br><sub>Bundesanzeiger Verlag on behalf of the Federal Ministry of Justice · XML, PDF, Web · Multi-TB · 3 million+ registered entities · [Free access; bulk reuse subject to Bundesanzeiger terms](https://www.unternehmensregister.de/) · Direct download · Commercial use: check terms</sub>
+- [GovData Company and Economy Datasets](https://www.govdata.de/) - Federal open data portal section covering business registers, trade statistics, insolvencies and economic indicators from all sixteen German states.
+  <br><sub>Bundesministerium des Innern · XML, PDF, Web · Multi-TB · 5 million+ register entries · [Varies; commonly DL-DE-BY-2.0 or CC BY 4.0](https://www.govdata.de/informationen/lizenzen) · Direct download · Commercial use: check terms</sub>
+- [OffeneRegister](https://offeneregister.de/) - A civil society extraction of the German commercial register into bulk-downloadable structured data, with companies, officers and addresses as CSV and SQLite.
+  <br><sub>Open Knowledge Foundation Deutschland · CSV, SQLite, JSON · ~5 GB · 5 million+ companies and officers · [ODbL 1.0](https://offeneregister.de/) · Direct download · Commercial use permitted</sub>
+- [Bundesanzeiger](https://www.bundesanzeiger.de/) - The federal gazette publishing statutory company disclosures including annual financial statements, capital measures and liquidation notices.
+  <br><sub>Bundesanzeiger Verlag · XML, PDF, Web · Multi-TB · Millions of statutory publications · [Free access; systematic reuse subject to terms](https://www.bundesanzeiger.de/) · Direct download · Commercial use: check terms</sub>
+- [Destatis Business Statistics](https://www.destatis.de/EN/Themes/Economic-Sectors-Enterprises/_node.html) - Official German business demography covering enterprise counts, births and deaths, turnover size classes, insolvencies and sector structure.
+  <br><sub>Statistisches Bundesamt · CSV, XLSX, REST API · Multi-GB · Annual series across all economic sectors · [DL-DE-BY-2.0](https://www.govdata.de/dl-de/by-2-0) · Direct download · Commercial use permitted</sub>
 
 ## United Kingdom
 

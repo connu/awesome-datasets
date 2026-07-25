@@ -1,0 +1,21 @@
+{
+  "id": "copernicus-atmosphere-monitoring-service",
+  "name": "Copernicus Atmosphere Monitoring Service",
+  "topic": "air-quality-and-pollution",
+  "country": "eu",
+  "url": "https://atmosphere.copernicus.eu/",
+  "description": "Global and European reanalysis and forecasts of atmospheric composition covering ozone, aerosols, greenhouse gases, pollen and UV index.",
+  "provider": "ECMWF and Copernicus",
+  "formats": [
+    "NetCDF",
+    "GRIB",
+    "Python API"
+  ],
+  "size": "Petabyte-scale",
+  "records": "Global coverage, hourly forecasts and reanalysis from 2003",
+  "license": "Copernicus licence, free reuse with attribution",
+  "license_url": "https://atmosphere.copernicus.eu/",
+  "access": "registration",
+  "commercial_use": "yes",
+  "cite": "Copernicus Atmosphere Monitoring Service (CAMS), ECMWF"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ons-consumer-price-inflation",
+  "name": "ONS Consumer Price Inflation",
+  "topic": "ecommerce-and-retail",
+  "country": "gb",
+  "url": "https://www.ons.gov.uk/economy/inflationandpriceindices",
+  "description": "Item-level consumer price indices and the underlying price quotes collected in shops and online, published monthly with full item and region detail.",
+  "provider": "Office for National Statistics",
+  "formats": [
+    "CSV",
+    "XLSX",
+    "REST API"
+  ],
+  "size": "~2 GB",
+  "records": "180,000+ price quotes collected monthly",
+  "license": "Open Government Licence v3.0",
+  "license_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Office for National Statistics, Consumer price inflation"
+}

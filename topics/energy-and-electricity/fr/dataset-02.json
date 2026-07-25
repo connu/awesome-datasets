@@ -1,0 +1,22 @@
+{
+  "id": "enedis-open-data",
+  "name": "Enedis Open Data",
+  "topic": "energy-and-electricity",
+  "country": "fr",
+  "url": "https://data.enedis.fr/",
+  "description": "Distribution network data covering consumption and production by postcode, connected renewable capacity, smart meter aggregates and network incidents.",
+  "provider": "Enedis",
+  "formats": [
+    "CSV",
+    "JSON",
+    "GeoJSON",
+    "REST API"
+  ],
+  "size": "Multi-GB",
+  "records": "37 million+ connection points aggregated",
+  "license": "Licence Ouverte 2.0",
+  "license_url": "https://data.enedis.fr/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Enedis Open Data"
+}

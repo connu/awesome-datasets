@@ -1,0 +1,20 @@
+{
+  "id": "national-health-profile",
+  "name": "National Health Profile",
+  "topic": "public-health",
+  "country": "in",
+  "url": "https://cbhidghs.mohfw.gov.in/",
+  "description": "The annual national compendium of demographic, socioeconomic, health status, health finance and health infrastructure indicators by state.",
+  "provider": "Central Bureau of Health Intelligence",
+  "formats": [
+    "PDF",
+    "XLSX"
+  ],
+  "size": "~200 MB per edition",
+  "records": "Annual editions with state-level tables",
+  "license": "Government Open Data License - India",
+  "license_url": "https://www.data.gov.in/government-open-data-license-india",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Central Bureau of Health Intelligence, National Health Profile"
+}

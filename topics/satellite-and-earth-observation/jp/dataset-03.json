@@ -1,0 +1,21 @@
+{
+  "id": "jaxa-alos-science-data",
+  "name": "JAXA ALOS Science Data",
+  "topic": "satellite-and-earth-observation",
+  "country": "jp",
+  "url": "https://www.eorc.jaxa.jp/ALOS/en/",
+  "description": "Products from the ALOS and ALOS-2 missions including the global 30-metre digital surface model and PALSAR L-band radar mosaics.",
+  "provider": "JAXA Earth Observation Research Center",
+  "formats": [
+    "GeoTIFF",
+    "CEOS",
+    "HDF"
+  ],
+  "size": "~500 TB",
+  "records": "Global DSM and annual radar mosaics",
+  "license": "Free for research with registration; commercial terms vary",
+  "license_url": "https://www.eorc.jaxa.jp/ALOS/en/",
+  "access": "registration",
+  "commercial_use": "check",
+  "cite": "JAXA EORC, ALOS and ALOS-2"
+}

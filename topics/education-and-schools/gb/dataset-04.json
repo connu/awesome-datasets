@@ -1,0 +1,20 @@
+{
+  "id": "hesa-higher-education-statistics",
+  "name": "HESA Higher Education Statistics",
+  "topic": "education-and-schools",
+  "country": "gb",
+  "url": "https://www.hesa.ac.uk/data-and-analysis",
+  "description": "Student enrolments, qualifications, graduate outcomes, staff and finance data for every UK higher education provider.",
+  "provider": "Higher Education Statistics Agency / Jisc",
+  "formats": [
+    "CSV",
+    "XLSX"
+  ],
+  "size": "~5 GB",
+  "records": "2.9 million students across 280+ providers",
+  "license": "Open Government Licence v3.0 for open tables; detailed data requires a licence",
+  "license_url": "https://www.hesa.ac.uk/about/regulation/data-protection/copyright",
+  "access": "open",
+  "commercial_use": "check",
+  "cite": "Higher Education Statistics Agency (HESA)"
+}
