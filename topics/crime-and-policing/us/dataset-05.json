@@ -1,0 +1,22 @@
+{
+  "id": "national-archive-of-criminal-justice-data",
+  "name": "National Archive of Criminal Justice Data",
+  "topic": "crime-and-policing",
+  "country": "us",
+  "url": "https://www.icpsr.umich.edu/web/pages/NACJD/index.html",
+  "description": "Archive of thousands of criminal justice research datasets with documentation, spanning policing experiments, sentencing, corrections and victimisation studies.",
+  "provider": "ICPSR, University of Michigan",
+  "formats": [
+    "Stata",
+    "SPSS",
+    "SAS",
+    "CSV"
+  ],
+  "size": "Varies by study",
+  "records": "3,000+ archived studies",
+  "license": "Varies by study; many require free registration",
+  "license_url": "https://www.icpsr.umich.edu/web/pages/datamanagement/confidentiality/conf-terms.html",
+  "access": "registration",
+  "commercial_use": "check",
+  "cite": "National Archive of Criminal Justice Data, ICPSR"
+}

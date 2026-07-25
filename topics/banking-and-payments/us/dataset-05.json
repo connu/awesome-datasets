@@ -1,0 +1,21 @@
+{
+  "id": "ncua-credit-union-call-report-data",
+  "name": "NCUA Credit Union Call Report Data",
+  "topic": "banking-and-payments",
+  "country": "us",
+  "url": "https://ncua.gov/analysis/credit-union-corporate-call-report-data",
+  "description": "Quarterly financial and statistical filings from every federally insured credit union, with balance sheet, membership and delinquency detail.",
+  "provider": "National Credit Union Administration",
+  "formats": [
+    "CSV",
+    "Access DB",
+    "ZIP"
+  ],
+  "size": "~20 GB",
+  "records": "4,500+ credit unions filing quarterly",
+  "license": "US Government public domain",
+  "license_url": "https://ncua.gov/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "National Credit Union Administration, Call Report Data"
+}

@@ -1,0 +1,85 @@
+name: Suggest a dataset
+description: Propose a dataset to add, without opening a pull request yourself.
+title: "[dataset] "
+labels: ["new dataset"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        If you are comfortable opening a pull request, that is faster — see
+        [contributing.md](../blob/main/contributing.md). Otherwise fill this in
+        and someone will pick it up.
+
+  - type: input
+    id: name
+    attributes:
+      label: Dataset name
+      placeholder: Vahan Dashboard
+    validations:
+      required: true
+
+  - type: input
+    id: url
+    attributes:
+      label: URL
+      description: Must be https, and must be the page a person would actually start from.
+      placeholder: https://vahan.parivahan.gov.in/vahan4dashboard/
+    validations:
+      required: true
+
+  - type: input
+    id: topic
+    attributes:
+      label: Topic
+      description: An existing topic slug, or a proposal for a new one.
+      placeholder: vehicles-and-car-sales
+    validations:
+      required: true
+
+  - type: input
+    id: country
+    attributes:
+      label: Country
+      description: Two-letter lowercase code, or "global" if it is not country-specific.
+      placeholder: in
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: What is in it?
+      description: One or two sentences on what the data actually contains.
+    validations:
+      required: true
+
+  - type: input
+    id: license
+    attributes:
+      label: License
+      description: The actual license or terms, and a link if you have one.
+      placeholder: Government Open Data License - India
+    validations:
+      required: true
+
+  - type: dropdown
+    id: access
+    attributes:
+      label: How do you get it?
+      options:
+        - Direct download, no account
+        - Free account required
+        - Signed agreement required
+        - Identity or ethics vetting required
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Confirmations
+      options:
+        - label: I have opened this URL myself and the data is really there.
+          required: true
+        - label: The host has the right to publish this data.
+          required: true

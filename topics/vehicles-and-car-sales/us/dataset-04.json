@@ -1,0 +1,21 @@
+{
+  "id": "fhwa-highway-statistics-series",
+  "name": "FHWA Highway Statistics Series",
+  "topic": "vehicles-and-car-sales",
+  "country": "us",
+  "url": "https://www.fhwa.dot.gov/policyinformation/statistics.cfm",
+  "description": "Annual state-level tables of registered vehicles, licensed drivers, fuel consumption, road mileage and highway finance going back decades.",
+  "provider": "Federal Highway Administration",
+  "formats": [
+    "XLSX",
+    "CSV",
+    "PDF"
+  ],
+  "size": "~500 MB for the full archive",
+  "records": "Annual series by state from 1945",
+  "license": "US Government public domain",
+  "license_url": "https://www.fhwa.dot.gov/policyinformation/statistics.cfm",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "FHWA Highway Statistics Series"
+}

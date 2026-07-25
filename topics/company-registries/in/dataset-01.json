@@ -1,0 +1,20 @@
+{
+  "id": "mca-company-master-data",
+  "name": "MCA Company Master Data",
+  "topic": "company-registries",
+  "country": "in",
+  "url": "https://www.mca.gov.in/content/mca/global/en/data-and-reports/company-llp-data/company-llp-master-data.html",
+  "description": "Registry extracts of every registered Indian company and LLP with CIN, incorporation date, registered state, class, category, authorised capital and status.",
+  "provider": "Ministry of Corporate Affairs",
+  "formats": [
+    "CSV",
+    "XLSX"
+  ],
+  "size": "~2 GB",
+  "records": "2 million+ registered entities",
+  "license": "Government Open Data License - India",
+  "license_url": "https://www.data.gov.in/government-open-data-license-india",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Ministry of Corporate Affairs, Company and LLP Master Data"
+}

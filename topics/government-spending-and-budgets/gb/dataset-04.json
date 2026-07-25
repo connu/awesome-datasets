@@ -1,0 +1,20 @@
+{
+  "id": "office-for-budget-responsibility-databank",
+  "name": "Office for Budget Responsibility Databank",
+  "topic": "government-spending-and-budgets",
+  "country": "gb",
+  "url": "https://obr.uk/data/",
+  "description": "Historical and forecast public finance series underlying official fiscal projections, covering receipts, spending, borrowing and debt.",
+  "provider": "Office for Budget Responsibility",
+  "formats": [
+    "XLSX",
+    "CSV"
+  ],
+  "size": "~500 MB",
+  "records": "Long-run fiscal series with forecast vintages",
+  "license": "Open Government Licence v3.0",
+  "license_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Office for Budget Responsibility, Public finances databank"
+}

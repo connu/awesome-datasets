@@ -1,0 +1,21 @@
+{
+  "id": "sebi-reports-and-statistics",
+  "name": "SEBI Reports and Statistics",
+  "topic": "financial-markets",
+  "country": "in",
+  "url": "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=5&ssid=22&smid=0",
+  "description": "Regulator statistics on market turnover, mutual fund flows, foreign portfolio investment, IPO activity and registered intermediaries.",
+  "provider": "Securities and Exchange Board of India",
+  "formats": [
+    "XLSX",
+    "PDF",
+    "CSV"
+  ],
+  "size": "~1 GB",
+  "records": "Monthly and annual series",
+  "license": "Free reuse with attribution to SEBI",
+  "license_url": "https://www.sebi.gov.in/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Securities and Exchange Board of India"
+}

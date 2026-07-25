@@ -1,0 +1,21 @@
+{
+  "id": "udyam-registration-msme-data",
+  "name": "Udyam Registration MSME Data",
+  "topic": "company-registries",
+  "country": "in",
+  "url": "https://udyamregistration.gov.in/",
+  "description": "The national register of micro, small and medium enterprises with sector, investment band, employment and state distribution statistics.",
+  "provider": "Ministry of Micro, Small and Medium Enterprises",
+  "formats": [
+    "Web dashboard",
+    "XLSX",
+    "PDF"
+  ],
+  "size": "Varies by report",
+  "records": "50 million+ registered enterprises",
+  "license": "Government Open Data License - India",
+  "license_url": "https://www.data.gov.in/government-open-data-license-india",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Udyam Registration, Ministry of MSME"
+}

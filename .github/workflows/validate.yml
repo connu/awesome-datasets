@@ -1,0 +1,47 @@
+name: validate
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  schedule:
+    # Weekly link rot check.
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  catalog:
+    name: Structure and generated files
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Validate catalogs
+        run: python3 scripts/validate.py
+
+      - name: Check generated files are in sync
+        run: |
+          python3 scripts/build.py
+          if ! git diff --exit-code -- README.md 'topics/**/README.md' data/datasets.csv data/country-datasets.csv; then
+            echo "::error::Generated files are stale. Run 'python3 scripts/build.py' and commit the result."
+            exit 1
+          fi
+
+  links:
+    name: Link check
+    # Only on pull requests and the weekly schedule - too slow for every push.
+    if: github.event_name != 'push'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Check every dataset and license URL resolves
+        run: python3 scripts/validate.py --links

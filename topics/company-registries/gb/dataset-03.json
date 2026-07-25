@@ -1,0 +1,20 @@
+{
+  "id": "companies-house-persons-with-significant-control",
+  "name": "Companies House Persons with Significant Control",
+  "topic": "company-registries",
+  "country": "gb",
+  "url": "https://download.companieshouse.gov.uk/en_pscdata.html",
+  "description": "The beneficial ownership register naming individuals and entities controlling UK companies, with nature of control and ownership percentage bands.",
+  "provider": "Companies House",
+  "formats": [
+    "JSONL",
+    "ZIP"
+  ],
+  "size": "~3 GB",
+  "records": "10 million+ PSC statements",
+  "license": "Open Government Licence v3.0",
+  "license_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Companies House, Persons with Significant Control snapshot"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "demandes-de-valeurs-fonci-res",
+  "name": "Demandes de Valeurs Foncières",
+  "topic": "addresses-and-geocoding",
+  "country": "fr",
+  "url": "https://www.data.gouv.fr/datasets/demandes-de-valeurs-foncieres",
+  "description": "Every French property transaction registered by the tax administration, with price, date, surface area, parcel reference and property type.",
+  "provider": "Direction générale des finances publiques",
+  "formats": [
+    "CSV",
+    "TXT"
+  ],
+  "size": "~5 GB",
+  "records": "20 million+ transactions since 2014",
+  "license": "Licence Ouverte 2.0",
+  "license_url": "https://www.etalab.gouv.fr/licence-ouverte-open-licence/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "DGFiP, Demandes de valeurs foncières"
+}

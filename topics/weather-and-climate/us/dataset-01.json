@@ -1,0 +1,21 @@
+{
+  "id": "noaa-global-historical-climatology-network-daily",
+  "name": "NOAA Global Historical Climatology Network Daily",
+  "topic": "weather-and-climate",
+  "country": "us",
+  "url": "https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily",
+  "description": "Daily temperature, precipitation, snowfall and wind observations from land surface stations worldwide, quality-controlled and dating back to the 1700s at some sites.",
+  "provider": "NOAA National Centers for Environmental Information",
+  "formats": [
+    "CSV",
+    "Fixed-width",
+    "NetCDF"
+  ],
+  "size": "~30 GB",
+  "records": "100,000+ stations, billions of observations",
+  "license": "US Government public domain",
+  "license_url": "https://www.ncei.noaa.gov/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Menne et al., NOAA GHCN-Daily"
+}

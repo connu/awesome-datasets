@@ -1,0 +1,21 @@
+{
+  "id": "purpleair-real-time-data",
+  "name": "PurpleAir Real-Time Data",
+  "topic": "air-quality-and-pollution",
+  "country": "us",
+  "url": "https://api.purpleair.com/",
+  "description": "Readings from a global network of low-cost consumer PM sensors, giving far denser spatial coverage than regulatory monitors at lower accuracy.",
+  "provider": "PurpleAir",
+  "formats": [
+    "REST API",
+    "JSON",
+    "CSV"
+  ],
+  "size": "API",
+  "records": "30,000+ sensors worldwide",
+  "license": "PurpleAir API terms; free tier for non-commercial use",
+  "license_url": "https://www2.purpleair.com/policies/terms-of-service",
+  "access": "registration",
+  "commercial_use": "check",
+  "cite": "PurpleAir, Inc."
+}

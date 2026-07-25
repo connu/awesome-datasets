@@ -1,0 +1,21 @@
+{
+  "id": "euipo-open-data",
+  "name": "EUIPO Open Data",
+  "topic": "patents-and-trademarks",
+  "country": "eu",
+  "url": "https://www.euipo.europa.eu/en/open-data",
+  "description": "Bulk and API access to EU trade mark and registered Community design registers, including applicant, classification, status and opposition history.",
+  "provider": "European Union Intellectual Property Office",
+  "formats": [
+    "XML",
+    "CSV",
+    "REST API"
+  ],
+  "size": "~100 GB",
+  "records": "2 million+ EU trade marks and 1.7 million designs",
+  "license": "EUIPO open data terms, free reuse with attribution",
+  "license_url": "https://www.euipo.europa.eu/en/open-data",
+  "access": "registration",
+  "commercial_use": "yes",
+  "cite": "European Union Intellectual Property Office, Open Data"
+}

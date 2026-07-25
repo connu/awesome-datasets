@@ -1,0 +1,21 @@
+{
+  "id": "census-monthly-retail-trade-survey",
+  "name": "Census Monthly Retail Trade Survey",
+  "topic": "ecommerce-and-retail",
+  "country": "us",
+  "url": "https://www.census.gov/retail/index.html",
+  "description": "Official monthly retail and food services sales, inventories and e-commerce share by NAICS category, the headline US consumer spending indicator.",
+  "provider": "US Census Bureau",
+  "formats": [
+    "CSV",
+    "XLSX",
+    "REST API"
+  ],
+  "size": "~50 MB",
+  "records": "Monthly series from 1992",
+  "license": "US Government public domain",
+  "license_url": "https://www.census.gov/about/policies/open-gov.html",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "US Census Bureau, Monthly Retail Trade Survey"
+}

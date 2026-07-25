@@ -1,0 +1,20 @@
+{
+  "id": "mrlc-national-land-cover-database",
+  "name": "MRLC National Land Cover Database",
+  "topic": "satellite-and-earth-observation",
+  "country": "us",
+  "url": "https://www.mrlc.gov/",
+  "description": "Thirty-metre land cover, impervious surface and tree canopy rasters for the United States, updated on a consistent classification scheme since 2001.",
+  "provider": "Multi-Resolution Land Characteristics Consortium",
+  "formats": [
+    "GeoTIFF",
+    "IMG"
+  ],
+  "size": "~100 GB",
+  "records": "Conterminous US coverage, multiple epochs",
+  "license": "US Government public domain",
+  "license_url": "https://www.mrlc.gov/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Multi-Resolution Land Characteristics Consortium, National Land Cover Database"
+}

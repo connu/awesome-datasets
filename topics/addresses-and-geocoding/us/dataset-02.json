@@ -1,0 +1,21 @@
+{
+  "id": "national-address-database",
+  "name": "National Address Database",
+  "topic": "addresses-and-geocoding",
+  "country": "us",
+  "url": "https://www.transportation.gov/gis/national-address-database",
+  "description": "A federal aggregation of state and local authoritative address points with coordinates, address components and jurisdiction identifiers.",
+  "provider": "US Department of Transportation",
+  "formats": [
+    "CSV",
+    "Geodatabase",
+    "Shapefile"
+  ],
+  "size": "~10 GB",
+  "records": "80 million+ address points",
+  "license": "US Government public domain and contributing agency terms",
+  "license_url": "https://www.transportation.gov/gis/national-address-database",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "US DOT, National Address Database"
+}

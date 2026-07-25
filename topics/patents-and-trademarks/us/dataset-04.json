@@ -1,0 +1,21 @@
+{
+  "id": "uspto-trademark-case-files-dataset",
+  "name": "USPTO Trademark Case Files Dataset",
+  "topic": "patents-and-trademarks",
+  "country": "us",
+  "url": "https://www.uspto.gov/ip-policy/economic-research/research-datasets",
+  "description": "Research-grade extracts of trademark applications and registrations with owner, mark text, classification, prosecution events and outcomes.",
+  "provider": "USPTO Office of the Chief Economist",
+  "formats": [
+    "CSV",
+    "Stata",
+    "ZIP"
+  ],
+  "size": "~20 GB",
+  "records": "12 million+ trademark case files since 1870",
+  "license": "US Government public domain",
+  "license_url": "https://www.uspto.gov/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "USPTO Office of the Chief Economist, Trademark Case Files Dataset"
+}

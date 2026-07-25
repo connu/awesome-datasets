@@ -1,0 +1,21 @@
+{
+  "id": "bea-travel-and-tourism-satellite-accounts",
+  "name": "BEA Travel and Tourism Satellite Accounts",
+  "topic": "tourism-and-hospitality",
+  "country": "us",
+  "url": "https://www.bea.gov/data/special-topics/travel-and-tourism",
+  "description": "Economic accounts isolating tourism's contribution to GDP, employment and output by commodity and industry, consistent with the national accounts.",
+  "provider": "Bureau of Economic Analysis",
+  "formats": [
+    "CSV",
+    "XLSX",
+    "REST API"
+  ],
+  "size": "~500 MB",
+  "records": "Quarterly and annual series from 1998",
+  "license": "US Government public domain",
+  "license_url": "https://www.bea.gov/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Bureau of Economic Analysis, Travel and Tourism Satellite Accounts"
+}

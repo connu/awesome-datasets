@@ -1,0 +1,20 @@
+{
+  "id": "carbon-intensity-api",
+  "name": "Carbon Intensity API",
+  "topic": "energy-and-electricity",
+  "country": "gb",
+  "url": "https://carbonintensity.org.uk/",
+  "description": "Half-hourly actual and forecast carbon intensity of GB electricity, nationally and by region, with generation mix breakdown and a free unauthenticated API.",
+  "provider": "National Grid ESO and University of Oxford",
+  "formats": [
+    "REST API",
+    "JSON"
+  ],
+  "size": "API",
+  "records": "Half-hourly series from 2017",
+  "license": "CC BY 4.0",
+  "license_url": "https://github.com/carbon-intensity/terms",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "National Grid ESO Carbon Intensity API"
+}

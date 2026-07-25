@@ -1,0 +1,21 @@
+{
+  "id": "swachh-bharat-mission-data",
+  "name": "Swachh Bharat Mission Data",
+  "topic": "water-and-sanitation",
+  "country": "in",
+  "url": "https://sbm.gov.in/",
+  "description": "Sanitation coverage data including household toilet construction, open-defecation-free status and solid waste management progress by district.",
+  "provider": "Ministry of Jal Shakti and Ministry of Housing and Urban Affairs",
+  "formats": [
+    "Web dashboard",
+    "XLSX",
+    "CSV"
+  ],
+  "size": "Varies by report",
+  "records": "National coverage by district and village",
+  "license": "Government Open Data License - India",
+  "license_url": "https://www.data.gov.in/government-open-data-license-india",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Swachh Bharat Mission, Government of India"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "courtlistener-and-recap-archive",
+  "name": "CourtListener and RECAP Archive",
+  "topic": "courts-and-legal",
+  "country": "us",
+  "url": "https://www.courtlistener.com/help/api/",
+  "description": "Millions of federal and state court opinions, oral argument audio, judge profiles and PACER dockets, with bulk downloads and a full REST API.",
+  "provider": "Free Law Project",
+  "formats": [
+    "REST API",
+    "JSON",
+    "CSV",
+    "XML"
+  ],
+  "size": "~500 GB",
+  "records": "10 million+ opinions and dockets",
+  "license": "Public domain opinions; CC BY-SA for annotations",
+  "license_url": "https://www.courtlistener.com/terms/",
+  "access": "registration",
+  "commercial_use": "yes",
+  "cite": "Free Law Project, CourtListener"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "japan-meteorological-agency-earthquake-information",
+  "name": "Japan Meteorological Agency Earthquake Information",
+  "topic": "earthquakes-and-natural-hazards",
+  "country": "jp",
+  "url": "https://www.jma.go.jp/jma/en/Activities/earthquake.html",
+  "description": "Official Japanese seismic monitoring products including hypocentre catalogues, seismic intensity observations and tsunami warnings.",
+  "provider": "Japan Meteorological Agency",
+  "formats": [
+    "CSV",
+    "XML",
+    "PDF"
+  ],
+  "size": "Varies by product",
+  "records": "Catalogues spanning over a century",
+  "license": "JMA terms of use, free reuse with attribution",
+  "license_url": "https://www.jma.go.jp/jma/en/copyright.html",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Japan Meteorological Agency"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "harvard-dataverse-elections-collections",
+  "name": "Harvard Dataverse Elections Collections",
+  "topic": "elections-and-voting",
+  "country": "us",
+  "url": "https://dataverse.harvard.edu/",
+  "description": "Open repository hosting thousands of deposited political science datasets including election returns, survey waves, redistricting plans and polling archives.",
+  "provider": "Harvard University",
+  "formats": [
+    "CSV",
+    "Stata",
+    "R",
+    "TAB"
+  ],
+  "size": "Varies by deposit",
+  "records": "100,000+ datasets across disciplines",
+  "license": "Varies by deposit; commonly CC0",
+  "license_url": "https://dataverse.org/best-practices/dataverse-community-norms",
+  "access": "open",
+  "commercial_use": "check",
+  "cite": "Harvard Dataverse"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "dft-road-traffic-statistics",
+  "name": "DfT Road Traffic Statistics",
+  "topic": "road-safety-and-accidents",
+  "country": "gb",
+  "url": "https://roadtraffic.dft.gov.uk/",
+  "description": "Annual average daily traffic counts by vehicle type at tens of thousands of count points on the British road network, downloadable per region or road.",
+  "provider": "Department for Transport",
+  "formats": [
+    "CSV",
+    "REST API"
+  ],
+  "size": "~1 GB",
+  "records": "Count points from 1993 onwards",
+  "license": "Open Government Licence v3.0",
+  "license_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Department for Transport, Road Traffic Statistics"
+}

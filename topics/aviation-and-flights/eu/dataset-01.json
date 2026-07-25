@@ -1,0 +1,20 @@
+{
+  "id": "eurocontrol-aviation-data-for-research",
+  "name": "EUROCONTROL Aviation Data for Research",
+  "topic": "aviation-and-flights",
+  "country": "eu",
+  "url": "https://www.eurocontrol.int/dashboard/rnd-data-archive",
+  "description": "Four-dimensional flight trajectories, flight plans and airport operational data for European airspace, released specifically for research use.",
+  "provider": "EUROCONTROL",
+  "formats": [
+    "CSV",
+    "ZIP"
+  ],
+  "size": "~100 GB",
+  "records": "Millions of flights across sample months",
+  "license": "EUROCONTROL research data terms, free with registration",
+  "license_url": "https://www.eurocontrol.int/dashboard/rnd-data-archive",
+  "access": "registration",
+  "commercial_use": "no",
+  "cite": "EUROCONTROL R&D Data Archive"
+}

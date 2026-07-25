@@ -1,0 +1,21 @@
+{
+  "id": "m-lab-open-internet-measurement-data",
+  "name": "M-Lab Open Internet Measurement Data",
+  "topic": "telecom-and-broadband",
+  "country": "us",
+  "url": "https://www.measurementlab.net/data/",
+  "description": "The largest open collection of internet performance tests, with per-test throughput, latency and traceroute data queryable in BigQuery.",
+  "provider": "Measurement Lab",
+  "formats": [
+    "BigQuery",
+    "JSON",
+    "Parquet"
+  ],
+  "size": "Petabyte-scale",
+  "records": "Billions of tests since 2009",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://www.measurementlab.net/data/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Measurement Lab, M-Lab open data"
+}

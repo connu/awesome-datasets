@@ -1,0 +1,21 @@
+{
+  "id": "bls-consumer-price-index",
+  "name": "BLS Consumer Price Index",
+  "topic": "ecommerce-and-retail",
+  "country": "us",
+  "url": "https://www.bls.gov/cpi/data.htm",
+  "description": "Item-level price indices across hundreds of consumer goods and services categories, by region and metro area, with full historical revisions.",
+  "provider": "Bureau of Labor Statistics",
+  "formats": [
+    "TXT",
+    "CSV",
+    "REST API"
+  ],
+  "size": "~1 GB flat files",
+  "records": "Monthly series from 1913",
+  "license": "US Government public domain",
+  "license_url": "https://www.bls.gov/bls/linksite.htm",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "US Bureau of Labor Statistics, Consumer Price Index"
+}

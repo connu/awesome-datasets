@@ -1,0 +1,20 @@
+{
+  "id": "bse-india-historical-data",
+  "name": "BSE India Historical Data",
+  "topic": "financial-markets",
+  "country": "in",
+  "url": "https://www.bseindia.com/markets/MarketInfo/BhavCopy.aspx",
+  "description": "Daily bhavcopy files with open, high, low, close, volume and turnover for every scrip listed on the Bombay Stock Exchange.",
+  "provider": "BSE Limited",
+  "formats": [
+    "CSV",
+    "ZIP"
+  ],
+  "size": "Multi-GB archive",
+  "records": "Daily records for 5,000+ listed securities",
+  "license": "BSE terms of use; redistribution restricted",
+  "license_url": "https://www.bseindia.com/",
+  "access": "open",
+  "commercial_use": "no",
+  "cite": "BSE Limited"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "base-adresse-nationale",
+  "name": "Base Adresse Nationale",
+  "topic": "addresses-and-geocoding",
+  "country": "fr",
+  "url": "https://adresse.data.gouv.fr/",
+  "description": "France's authoritative address database with geolocated address points, street names and INSEE codes, plus a free geocoding and reverse-geocoding API.",
+  "provider": "DINUM and IGN",
+  "formats": [
+    "CSV",
+    "GeoJSON",
+    "REST API"
+  ],
+  "size": "~2 GB",
+  "records": "26 million+ addresses",
+  "license": "Licence Ouverte 2.0",
+  "license_url": "https://www.etalab.gouv.fr/licence-ouverte-open-licence/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Base Adresse Nationale, DINUM"
+}

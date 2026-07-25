@@ -1,0 +1,21 @@
+{
+  "id": "lta-statistics-in-brief",
+  "name": "LTA Statistics in Brief",
+  "topic": "taxi-and-ride-hailing",
+  "country": "sg",
+  "url": "https://www.lta.gov.sg/content/ltagov/en/who_we_are/statistics_and_publications/statistics.html",
+  "description": "Annual transport statistics covering taxi and private hire fleet size, vehicle population, public transport ridership and road network length.",
+  "provider": "Land Transport Authority",
+  "formats": [
+    "PDF",
+    "XLSX",
+    "CSV"
+  ],
+  "size": "~100 MB",
+  "records": "Annual series with historical tables",
+  "license": "Singapore Open Data Licence",
+  "license_url": "https://data.gov.sg/open-data-licence",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Land Transport Authority, Statistics in Brief"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ecourts-services",
+  "name": "eCourts Services",
+  "topic": "courts-and-legal",
+  "country": "in",
+  "url": "https://ecourts.gov.in/ecourts_home/",
+  "description": "Case status, cause lists, orders and judgments for district and taluka courts nationwide, the primary source behind Indian legal-tech datasets.",
+  "provider": "eCommittee, Supreme Court of India",
+  "formats": [
+    "Web",
+    "PDF",
+    "REST API"
+  ],
+  "size": "Varies by query",
+  "records": "20,000+ courts covered",
+  "license": "Government Open Data License - India",
+  "license_url": "https://www.data.gov.in/government-open-data-license-india",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "eCourts Services, eCommittee Supreme Court of India"
+}

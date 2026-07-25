@@ -1,0 +1,9 @@
+{
+  "slug": "aviation-and-flights",
+  "title": "Aviation & Flights",
+  "description": "Flight schedules, on-time performance, aircraft registries, air traffic movements and safety records.",
+  "countries": [
+    "eu",
+    "us"
+  ]
+}

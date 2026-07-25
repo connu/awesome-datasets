@@ -1,0 +1,21 @@
+{
+  "id": "national-family-health-survey",
+  "name": "National Family Health Survey",
+  "topic": "census-and-demographics",
+  "country": "in",
+  "url": "https://dhsprogram.com/data/available-datasets.cfm",
+  "description": "Large-scale household survey of health, nutrition, fertility, anaemia and women's empowerment indicators, reported down to district level.",
+  "provider": "International Institute for Population Sciences and The DHS Program",
+  "formats": [
+    "PDF",
+    "XLSX",
+    "Stata"
+  ],
+  "size": "~5 GB",
+  "records": "600,000+ households in NFHS-5",
+  "license": "Free for research; DHS data access terms apply",
+  "license_url": "https://dhsprogram.com/data/available-datasets.cfm",
+  "access": "registration",
+  "commercial_use": "no",
+  "cite": "International Institute for Population Sciences, National Family Health Survey"
+}

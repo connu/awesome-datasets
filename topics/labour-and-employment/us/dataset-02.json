@@ -1,0 +1,21 @@
+{
+  "id": "current-population-survey",
+  "name": "Current Population Survey",
+  "topic": "labour-and-employment",
+  "country": "us",
+  "url": "https://www.census.gov/programs-surveys/cps.html",
+  "description": "The monthly household survey behind the official unemployment rate, with microdata on labour force status, hours, earnings and demographics.",
+  "provider": "US Census Bureau and BLS",
+  "formats": [
+    "CSV",
+    "Fixed-width",
+    "SAS"
+  ],
+  "size": "~20 GB",
+  "records": "60,000 households surveyed monthly since 1940",
+  "license": "US Government public domain",
+  "license_url": "https://www.census.gov/about/policies/open-gov.html",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "US Census Bureau and BLS, Current Population Survey"
+}

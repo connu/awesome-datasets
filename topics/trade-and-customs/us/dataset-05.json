@@ -1,0 +1,21 @@
+{
+  "id": "un-comtrade",
+  "name": "UN Comtrade",
+  "topic": "trade-and-customs",
+  "country": "us",
+  "url": "https://comtradeplus.un.org/",
+  "description": "The global reference database of bilateral merchandise and services trade flows reported by nearly every country, harmonised to HS and SITC classifications.",
+  "provider": "United Nations Statistics Division",
+  "formats": [
+    "CSV",
+    "REST API",
+    "JSON"
+  ],
+  "size": "~1 TB",
+  "records": "5 billion+ trade records since 1962",
+  "license": "UN Comtrade terms; free tier with limits, premium for bulk",
+  "license_url": "https://comtradeplus.un.org/",
+  "access": "registration",
+  "commercial_use": "check",
+  "cite": "United Nations Comtrade Database"
+}

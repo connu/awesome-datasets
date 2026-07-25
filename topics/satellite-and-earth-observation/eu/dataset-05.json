@@ -1,0 +1,22 @@
+{
+  "id": "esa-earth-online",
+  "name": "ESA Earth Online",
+  "topic": "satellite-and-earth-observation",
+  "country": "eu",
+  "url": "https://earth.esa.int/eogateway",
+  "description": "ESA's catalogue of heritage and third-party mission data including ERS, Envisat, Proba and commercial missions available under research licences.",
+  "provider": "European Space Agency",
+  "formats": [
+    "GeoTIFF",
+    "HDF",
+    "NetCDF",
+    "SAFE"
+  ],
+  "size": "Petabyte-scale",
+  "records": "Decades of Earth observation missions",
+  "license": "ESA data policy; varies from free to project-restricted",
+  "license_url": "https://earth.esa.int/eogateway",
+  "access": "registration",
+  "commercial_use": "check",
+  "cite": "European Space Agency, Earth Online"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "consumidor-gov-br-complaint-data",
+  "name": "Consumidor.gov.br Complaint Data",
+  "topic": "ecommerce-and-retail",
+  "country": "br",
+  "url": "https://www.consumidor.gov.br/pages/dadosabertos/externo/",
+  "description": "Every consumer complaint filed against registered companies, with sector, problem type, company response, resolution status and satisfaction rating.",
+  "provider": "Secretaria Nacional do Consumidor",
+  "formats": [
+    "CSV"
+  ],
+  "size": "~2 GB",
+  "records": "Millions of complaints since 2014",
+  "license": "Open government data, attribution requested",
+  "license_url": "https://www.consumidor.gov.br/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Consumidor.gov.br, Senacon"
+}

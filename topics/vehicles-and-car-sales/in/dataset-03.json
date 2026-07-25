@@ -1,0 +1,20 @@
+{
+  "id": "morth-road-transport-year-book",
+  "name": "MoRTH Road Transport Year Book",
+  "topic": "vehicles-and-car-sales",
+  "country": "in",
+  "url": "https://morth.nic.in/road-transport-year-books",
+  "description": "Annual national compendium of registered motor vehicles by state and category, along with fleet composition and transport revenue.",
+  "provider": "Ministry of Road Transport and Highways",
+  "formats": [
+    "PDF",
+    "XLSX"
+  ],
+  "size": "~50 MB per edition",
+  "records": "Annual editions with state-level tables",
+  "license": "Government Open Data License - India",
+  "license_url": "https://www.data.gov.in/government-open-data-license-india",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "MoRTH Road Transport Year Book"
+}

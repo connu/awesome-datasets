@@ -1,0 +1,20 @@
+{
+  "id": "bureau-of-meteorology-climate-data-online",
+  "name": "Bureau of Meteorology Climate Data Online",
+  "topic": "weather-and-climate",
+  "country": "au",
+  "url": "https://www.bom.gov.au/climate/data/",
+  "description": "Daily and monthly rainfall, temperature and solar exposure observations from Australian weather stations, some with records exceeding a century.",
+  "provider": "Bureau of Meteorology",
+  "formats": [
+    "CSV",
+    "TXT"
+  ],
+  "size": "Varies by station",
+  "records": "20,000+ stations",
+  "license": "CC BY 4.0",
+  "license_url": "https://www.bom.gov.au/other/copyright.shtml",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Australian Bureau of Meteorology, Climate Data Online"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "bts-national-transportation-statistics",
+  "name": "BTS National Transportation Statistics",
+  "topic": "vehicles-and-car-sales",
+  "country": "us",
+  "url": "https://www.bts.gov/topics/national-transportation-statistics",
+  "description": "Cross-modal reference tables including new and used vehicle sales, fleet size, average vehicle age, and cost of owning and operating a car.",
+  "provider": "Bureau of Transportation Statistics",
+  "formats": [
+    "XLSX",
+    "CSV"
+  ],
+  "size": "~200 MB",
+  "records": "260+ statistical tables",
+  "license": "US Government public domain",
+  "license_url": "https://www.bts.gov/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Bureau of Transportation Statistics, National Transportation Statistics"
+}

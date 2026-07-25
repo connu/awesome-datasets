@@ -1,0 +1,20 @@
+{
+  "id": "quarterly-census-of-employment-and-wages",
+  "name": "Quarterly Census of Employment and Wages",
+  "topic": "labour-and-employment",
+  "country": "us",
+  "url": "https://www.bls.gov/cew/",
+  "description": "A near-census of employment and wages from unemployment insurance filings, available by county, industry and ownership at monthly frequency.",
+  "provider": "Bureau of Labor Statistics",
+  "formats": [
+    "CSV",
+    "REST API"
+  ],
+  "size": "~20 GB",
+  "records": "12 million+ establishments covered",
+  "license": "US Government public domain",
+  "license_url": "https://www.bls.gov/bls/linksite.htm",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "US Bureau of Labor Statistics, Quarterly Census of Employment and Wages"
+}

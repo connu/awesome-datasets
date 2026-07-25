@@ -1,0 +1,22 @@
+{
+  "id": "noaa-open-data-dissemination-on-aws",
+  "name": "NOAA Open Data Dissemination on AWS",
+  "topic": "weather-and-climate",
+  "country": "us",
+  "url": "https://registry.opendata.aws/collab/noaa/",
+  "description": "NOAA's operational model output, radar and satellite archives staged on cloud object storage, including GFS, HRRR, NEXRAD and GOES imagery.",
+  "provider": "NOAA and AWS Open Data",
+  "formats": [
+    "GRIB2",
+    "NetCDF",
+    "Zarr",
+    "Parquet"
+  ],
+  "size": "Petabyte-scale",
+  "records": "Dozens of operational products",
+  "license": "US Government public domain",
+  "license_url": "https://www.noaa.gov/information-technology/open-data-dissemination",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "NOAA Open Data Dissemination Program"
+}

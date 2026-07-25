@@ -1,0 +1,21 @@
+{
+  "id": "fbi-crime-data-explorer",
+  "name": "FBI Crime Data Explorer",
+  "topic": "crime-and-policing",
+  "country": "us",
+  "url": "https://cde.ucr.cjis.gov/",
+  "description": "National incident-based and summary crime statistics from participating law enforcement agencies, covering offences, arrests, clearances, hate crime and use of force.",
+  "provider": "Federal Bureau of Investigation",
+  "formats": [
+    "CSV",
+    "REST API",
+    "JSON"
+  ],
+  "size": "~20 GB",
+  "records": "Millions of incidents per year from 18,000+ agencies",
+  "license": "US Government public domain",
+  "license_url": "https://cde.ucr.cjis.gov/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "FBI Crime Data Explorer, Uniform Crime Reporting Program"
+}

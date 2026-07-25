@@ -1,0 +1,21 @@
+{
+  "id": "transitfeeds-gtfs-archive",
+  "name": "TransitFeeds GTFS Archive",
+  "topic": "public-transit",
+  "country": "us",
+  "url": "https://transitfeeds.com/",
+  "description": "Historical archive of GTFS schedule feeds from agencies worldwide, letting you reconstruct what a transit network looked like on any past date.",
+  "provider": "TransitFeeds / MobilityData",
+  "formats": [
+    "GTFS",
+    "ZIP",
+    "REST API"
+  ],
+  "size": "Hundreds of GB",
+  "records": "1,000+ agencies with historical snapshots",
+  "license": "Feeds carry their agency licenses",
+  "license_url": "https://transitfeeds.com/",
+  "access": "open",
+  "commercial_use": "check",
+  "cite": "TransitFeeds, now maintained by MobilityData"
+}

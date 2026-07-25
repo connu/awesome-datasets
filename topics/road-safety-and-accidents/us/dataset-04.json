@@ -1,0 +1,22 @@
+{
+  "id": "nyc-motor-vehicle-collisions",
+  "name": "NYC Motor Vehicle Collisions",
+  "topic": "road-safety-and-accidents",
+  "country": "us",
+  "url": "https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95",
+  "description": "Every police-reported New York City collision since 2012 with coordinates, contributing factors, vehicle types and injury counts by road user type.",
+  "provider": "NYC Police Department",
+  "formats": [
+    "CSV",
+    "JSON",
+    "GeoJSON",
+    "REST API"
+  ],
+  "size": "~500 MB",
+  "records": "2 million+ collisions since 2012",
+  "license": "NYC Open Data Terms of Use",
+  "license_url": "https://opendata.cityofnewyork.us/overview/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "NYC Open Data, Motor Vehicle Collisions - Crashes"
+}

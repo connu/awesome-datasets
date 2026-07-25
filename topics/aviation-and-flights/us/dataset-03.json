@@ -1,0 +1,21 @@
+{
+  "id": "faa-aviation-safety-information-analysis-and-sharing",
+  "name": "FAA Aviation Safety Information Analysis and Sharing",
+  "topic": "aviation-and-flights",
+  "country": "us",
+  "url": "https://www.asias.faa.gov/",
+  "description": "Aviation safety data covering accidents, incidents, runway incursions, near midair collisions and service difficulty reports.",
+  "provider": "Federal Aviation Administration",
+  "formats": [
+    "CSV",
+    "XLSX",
+    "Web query"
+  ],
+  "size": "Multi-GB",
+  "records": "Decades of safety event records",
+  "license": "US Government public domain",
+  "license_url": "https://www.faa.gov/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "FAA Aviation Safety Information Analysis and Sharing (ASIAS)"
+}

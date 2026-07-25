@@ -1,0 +1,19 @@
+{
+  "id": "nyc-tlc-trip-record-data",
+  "name": "NYC TLC Trip Record Data",
+  "topic": "taxi-and-ride-hailing",
+  "country": "us",
+  "url": "https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page",
+  "description": "Every yellow taxi, green taxi and high-volume for-hire trip in New York City since 2009, with timestamps, pickup and dropoff zones, distance and fare breakdown.",
+  "provider": "NYC Taxi and Limousine Commission",
+  "formats": [
+    "Parquet"
+  ],
+  "size": "~50 GB",
+  "records": "Billions of trips since 2009",
+  "license": "NYC Open Data Terms of Use",
+  "license_url": "https://www.nyc.gov/home/terms-of-use.page",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "NYC Taxi and Limousine Commission, TLC Trip Record Data"
+}

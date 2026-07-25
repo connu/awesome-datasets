@@ -1,0 +1,20 @@
+{
+  "id": "ookla-open-data",
+  "name": "Ookla Open Data",
+  "topic": "telecom-and-broadband",
+  "country": "us",
+  "url": "https://registry.opendata.aws/speedtest-global-performance/",
+  "description": "Quarterly aggregated fixed and mobile speed test results tiled to web mercator zoom level 16, giving global download, upload and latency coverage.",
+  "provider": "Ookla",
+  "formats": [
+    "Parquet",
+    "Shapefile"
+  ],
+  "size": "~50 GB",
+  "records": "Global tiles, quarterly since 2019",
+  "license": "CC BY-NC-SA 4.0",
+  "license_url": "https://github.com/teamookla/ookla-open-data",
+  "access": "open",
+  "commercial_use": "no",
+  "cite": "Ookla Speedtest Global Performance open data"
+}

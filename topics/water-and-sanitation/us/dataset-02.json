@@ -1,0 +1,20 @@
+{
+  "id": "epa-safe-drinking-water-information-system",
+  "name": "EPA Safe Drinking Water Information System",
+  "topic": "water-and-sanitation",
+  "country": "us",
+  "url": "https://www.epa.gov/ground-water-and-drinking-water/safe-drinking-water-information-system-sdwis-federal-reporting",
+  "description": "Compliance and violation records for every public water system in the country, with contaminant, enforcement action and population served.",
+  "provider": "US Environmental Protection Agency",
+  "formats": [
+    "CSV",
+    "REST API"
+  ],
+  "size": "~10 GB",
+  "records": "150,000+ public water systems",
+  "license": "US Government public domain",
+  "license_url": "https://www.epa.gov/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "US EPA, Safe Drinking Water Information System"
+}

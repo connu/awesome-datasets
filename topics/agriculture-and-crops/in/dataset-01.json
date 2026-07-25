@@ -1,0 +1,21 @@
+{
+  "id": "agmarknet-commodity-prices",
+  "name": "Agmarknet Commodity Prices",
+  "topic": "agriculture-and-crops",
+  "country": "in",
+  "url": "https://agmarknet.gov.in/",
+  "description": "Daily arrival volumes and minimum, maximum and modal prices for hundreds of commodities across thousands of regulated agricultural markets.",
+  "provider": "Directorate of Marketing and Inspection, Ministry of Agriculture",
+  "formats": [
+    "CSV",
+    "Web",
+    "REST API"
+  ],
+  "size": "Multi-GB archive",
+  "records": "3,000+ markets, daily since 2001",
+  "license": "Government Open Data License - India",
+  "license_url": "https://www.data.gov.in/government-open-data-license-india",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Agmarknet, Directorate of Marketing and Inspection"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ons-health-and-life-expectancy",
+  "name": "ONS Health and Life Expectancy",
+  "topic": "public-health",
+  "country": "gb",
+  "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare",
+  "description": "Official statistics on mortality, life expectancy, cause of death, disability, health inequality and avoidable deaths, down to local authority level.",
+  "provider": "Office for National Statistics",
+  "formats": [
+    "CSV",
+    "XLSX",
+    "REST API"
+  ],
+  "size": "Varies by series",
+  "records": "Hundreds of published series",
+  "license": "Open Government Licence v3.0",
+  "license_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Office for National Statistics, Health and Social Care"
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "financial-markets",
+  "title": "Financial Markets",
+  "description": "Securities prices, corporate filings, exchange reference data and market microstructure records.",
+  "countries": [
+    "in",
+    "us"
+  ]
+}

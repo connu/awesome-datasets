@@ -1,0 +1,21 @@
+{
+  "id": "airnow-api",
+  "name": "AirNow API",
+  "topic": "air-quality-and-pollution",
+  "country": "us",
+  "url": "https://docs.airnowapi.org/",
+  "description": "Real-time and forecast Air Quality Index observations by ZIP code, city or bounding box, the feed behind most US air quality apps.",
+  "provider": "US EPA and partner agencies",
+  "formats": [
+    "REST API",
+    "JSON",
+    "CSV"
+  ],
+  "size": "API",
+  "records": "2,000+ reporting stations",
+  "license": "US Government public domain; API key required",
+  "license_url": "https://docs.airnowapi.org/faq",
+  "access": "registration",
+  "commercial_use": "yes",
+  "cite": "AirNow, US EPA"
+}

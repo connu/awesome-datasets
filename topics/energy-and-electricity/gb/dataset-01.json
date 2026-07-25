@@ -1,0 +1,21 @@
+{
+  "id": "elexon-bmrs-insights",
+  "name": "Elexon BMRS Insights",
+  "topic": "energy-and-electricity",
+  "country": "gb",
+  "url": "https://bmrs.elexon.co.uk/",
+  "description": "Half-hourly balancing mechanism data for the GB electricity market, covering generation by fuel type, demand, imbalance prices and unit-level bids and offers.",
+  "provider": "Elexon",
+  "formats": [
+    "REST API",
+    "CSV",
+    "XML"
+  ],
+  "size": "Multi-GB archive",
+  "records": "Half-hourly settlement periods since 2001",
+  "license": "Elexon open data terms, free reuse with attribution",
+  "license_url": "https://bmrs.elexon.co.uk/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Elexon, Balancing Mechanism Reporting Service"
+}

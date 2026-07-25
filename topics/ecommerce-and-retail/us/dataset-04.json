@@ -1,0 +1,20 @@
+{
+  "id": "census-annual-retail-trade-survey",
+  "name": "Census Annual Retail Trade Survey",
+  "topic": "ecommerce-and-retail",
+  "country": "us",
+  "url": "https://www.census.gov/programs-surveys/arts.html",
+  "description": "Annual sales, e-commerce sales, inventories, purchases and gross margins for retail firms broken out by detailed industry.",
+  "provider": "US Census Bureau",
+  "formats": [
+    "CSV",
+    "XLSX"
+  ],
+  "size": "~100 MB",
+  "records": "Annual series from 1951",
+  "license": "US Government public domain",
+  "license_url": "https://www.census.gov/about/policies/open-gov.html",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "US Census Bureau, Annual Retail Trade Survey"
+}

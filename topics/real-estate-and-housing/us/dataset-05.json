@@ -1,0 +1,20 @@
+{
+  "id": "census-building-permits-survey",
+  "name": "Census Building Permits Survey",
+  "topic": "real-estate-and-housing",
+  "country": "us",
+  "url": "https://www.census.gov/construction/bps/",
+  "description": "Monthly and annual counts of new residential construction permits by place, county and metro area, a standard leading indicator for housing supply.",
+  "provider": "US Census Bureau",
+  "formats": [
+    "CSV",
+    "TXT"
+  ],
+  "size": "~500 MB",
+  "records": "Monthly series from 1959",
+  "license": "US Government public domain",
+  "license_url": "https://www.census.gov/about/policies/open-gov.html",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "US Census Bureau, Building Permits Survey"
+}

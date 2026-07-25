@@ -1,0 +1,21 @@
+{
+  "id": "india-water-resources-information-system",
+  "name": "India Water Resources Information System",
+  "topic": "water-and-sanitation",
+  "country": "in",
+  "url": "https://indiawris.gov.in/wris/",
+  "description": "National water portal integrating rainfall, reservoir storage, river discharge, groundwater levels and water quality across states and basins.",
+  "provider": "Ministry of Jal Shakti",
+  "formats": [
+    "CSV",
+    "REST API",
+    "Web dashboard"
+  ],
+  "size": "Multi-GB",
+  "records": "Thousands of stations across all major basins",
+  "license": "Government Open Data License - India",
+  "license_url": "https://www.data.gov.in/government-open-data-license-india",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "India Water Resources Information System (India-WRIS), Ministry of Jal Shakti"
+}

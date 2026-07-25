@@ -1,0 +1,21 @@
+{
+  "id": "uk-dale-household-electricity-demand",
+  "name": "UK-DALE Household Electricity Demand",
+  "topic": "energy-and-electricity",
+  "country": "gb",
+  "url": "https://jack-kelly.com/data/",
+  "description": "Appliance-level and whole-house electricity demand recorded at up to 16 kHz in five UK homes, the reference dataset for non-intrusive load monitoring.",
+  "provider": "Jack Kelly and William Knottenbelt, Imperial College London",
+  "formats": [
+    "HDF5",
+    "CSV",
+    "FLAC"
+  ],
+  "size": "~800 GB (full), ~5 GB (6-second)",
+  "records": "5 households over up to 4.3 years",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Kelly & Knottenbelt (2015), The UK-DALE dataset. Scientific Data 2:150007"
+}

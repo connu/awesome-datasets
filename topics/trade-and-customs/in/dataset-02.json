@@ -1,0 +1,21 @@
+{
+  "id": "indian-customs-icegate",
+  "name": "Indian Customs ICEGATE",
+  "topic": "trade-and-customs",
+  "country": "in",
+  "url": "https://www.icegate.gov.in/",
+  "description": "Customs electronic gateway providing tariff enquiry, exchange rate notifications, trade guides and consignment tracking for Indian imports and exports.",
+  "provider": "Central Board of Indirect Taxes and Customs",
+  "formats": [
+    "Web",
+    "PDF",
+    "REST API"
+  ],
+  "size": "Varies by service",
+  "records": "National customs coverage",
+  "license": "Government terms of use",
+  "license_url": "https://www.icegate.gov.in/",
+  "access": "registration",
+  "commercial_use": "check",
+  "cite": "ICEGATE, Central Board of Indirect Taxes and Customs"
+}

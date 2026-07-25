@@ -1,0 +1,21 @@
+{
+  "id": "census-of-agriculture",
+  "name": "Census of Agriculture",
+  "topic": "agriculture-and-crops",
+  "country": "us",
+  "url": "https://www.nass.usda.gov/AgCensus/",
+  "description": "The quinquennial census of every US farm operation, reporting land use, production, sales, expenses, machinery, operator demographics and practices.",
+  "provider": "USDA National Agricultural Statistics Service",
+  "formats": [
+    "CSV",
+    "PDF",
+    "REST API"
+  ],
+  "size": "~5 GB",
+  "records": "1.9 million farms enumerated",
+  "license": "US Government public domain",
+  "license_url": "https://www.nass.usda.gov/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "USDA Census of Agriculture"
+}

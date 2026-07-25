@@ -1,0 +1,21 @@
+{
+  "id": "federal-reserve-h-15-and-data-download-program",
+  "name": "Federal Reserve H.15 and Data Download Program",
+  "topic": "financial-markets",
+  "country": "us",
+  "url": "https://www.federalreserve.gov/datadownload/",
+  "description": "Official interest rates, exchange rates, money stock, industrial production and bank assets published directly by the Federal Reserve Board.",
+  "provider": "Board of Governors of the Federal Reserve System",
+  "formats": [
+    "CSV",
+    "XML",
+    "SDMX"
+  ],
+  "size": "Varies by series",
+  "records": "Thousands of series, many daily since 1962",
+  "license": "US Government public domain",
+  "license_url": "https://www.federalreserve.gov/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Board of Governors of the Federal Reserve System, Data Download Program"
+}

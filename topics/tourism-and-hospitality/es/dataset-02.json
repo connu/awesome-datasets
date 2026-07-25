@@ -1,0 +1,23 @@
+{
+  "id": "datos-gob-es",
+  "name": "datos.gob.es",
+  "topic": "tourism-and-hospitality",
+  "country": "es",
+  "url": "https://datos.gob.es/en",
+  "description": "Spain's national open data catalogue aggregating datasets from central, regional and municipal government, including tourism, transport and environment.",
+  "provider": "Government of Spain",
+  "formats": [
+    "CSV",
+    "JSON",
+    "XML",
+    "RDF",
+    "REST API"
+  ],
+  "size": "Varies by dataset",
+  "records": "80,000+ datasets",
+  "license": "Varies; commonly CC BY 4.0",
+  "license_url": "https://datos.gob.es/en",
+  "access": "open",
+  "commercial_use": "check",
+  "cite": "datos.gob.es, Government of Spain"
+}

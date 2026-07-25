@@ -1,0 +1,20 @@
+{
+  "id": "supreme-court-of-india-judgments",
+  "name": "Supreme Court of India Judgments",
+  "topic": "courts-and-legal",
+  "country": "in",
+  "url": "https://www.sci.gov.in/judgements-judgement-date/",
+  "description": "Full-text judgments and orders of the Supreme Court of India, searchable by date, bench, petitioner and subject.",
+  "provider": "Supreme Court of India",
+  "formats": [
+    "PDF",
+    "HTML"
+  ],
+  "size": "~50 GB",
+  "records": "Judgments from 1950 onward",
+  "license": "Government Open Data License - India",
+  "license_url": "https://www.data.gov.in/government-open-data-license-india",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Supreme Court of India"
+}

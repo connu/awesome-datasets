@@ -1,0 +1,22 @@
+{
+  "id": "copernicus-data-space-ecosystem",
+  "name": "Copernicus Data Space Ecosystem",
+  "topic": "satellite-and-earth-observation",
+  "country": "eu",
+  "url": "https://dataspace.copernicus.eu/",
+  "description": "Free full-archive access to Sentinel-1 radar, Sentinel-2 optical, Sentinel-3 and Sentinel-5P imagery with STAC catalogues, S3 access and processing APIs.",
+  "provider": "European Space Agency and European Commission",
+  "formats": [
+    "SAFE",
+    "GeoTIFF",
+    "NetCDF",
+    "STAC API"
+  ],
+  "size": "Tens of petabytes",
+  "records": "Global coverage, Sentinel-2 revisit every 5 days",
+  "license": "Copernicus open licence, free and full reuse",
+  "license_url": "https://dataspace.copernicus.eu/terms-and-conditions",
+  "access": "registration",
+  "commercial_use": "yes",
+  "cite": "Copernicus Data Space Ecosystem, European Union"
+}

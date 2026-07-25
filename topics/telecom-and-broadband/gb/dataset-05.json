@@ -1,0 +1,20 @@
+{
+  "id": "ripe-atlas-measurements",
+  "name": "RIPE Atlas Measurements",
+  "topic": "telecom-and-broadband",
+  "country": "gb",
+  "url": "https://atlas.ripe.net/",
+  "description": "Global network of hardware and software probes running continuous ping, traceroute, DNS and TLS measurements, with strong UK and European coverage and full API access.",
+  "provider": "RIPE NCC",
+  "formats": [
+    "REST API",
+    "JSON"
+  ],
+  "size": "TB-scale archive",
+  "records": "12,000+ active probes worldwide",
+  "license": "CC BY-SA 4.0 for measurement results",
+  "license_url": "https://atlas.ripe.net/legal/terms-conditions/",
+  "access": "registration",
+  "commercial_use": "yes",
+  "cite": "RIPE NCC, RIPE Atlas"
+}

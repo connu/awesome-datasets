@@ -1,0 +1,23 @@
+{
+  "id": "eu-open-data-portal",
+  "name": "EU Open Data Portal",
+  "topic": "patents-and-trademarks",
+  "country": "eu",
+  "url": "https://data.europa.eu/en",
+  "description": "The official portal for European open data, federating datasets from EU institutions and all member state national portals under one search and API.",
+  "provider": "Publications Office of the European Union",
+  "formats": [
+    "CSV",
+    "JSON",
+    "RDF",
+    "SPARQL",
+    "REST API"
+  ],
+  "size": "Varies by dataset",
+  "records": "1.7 million+ datasets",
+  "license": "Varies; commonly CC BY 4.0",
+  "license_url": "https://data.europa.eu/en",
+  "access": "open",
+  "commercial_use": "check",
+  "cite": "data.europa.eu, Publications Office of the European Union"
+}

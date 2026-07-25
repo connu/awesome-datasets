@@ -1,0 +1,21 @@
+{
+  "id": "india-code",
+  "name": "India Code",
+  "topic": "courts-and-legal",
+  "country": "in",
+  "url": "https://www.indiacode.nic.in/",
+  "description": "The official digital repository of all central and state acts with amendments, subordinate legislation and section-level text.",
+  "provider": "Ministry of Law and Justice",
+  "formats": [
+    "PDF",
+    "HTML",
+    "XML"
+  ],
+  "size": "~20 GB",
+  "records": "800+ central acts and thousands of state acts",
+  "license": "Government Open Data License - India",
+  "license_url": "https://www.data.gov.in/government-open-data-license-india",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "India Code, Ministry of Law and Justice"
+}

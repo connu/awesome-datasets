@@ -1,0 +1,22 @@
+{
+  "id": "european-environment-agency-datahub",
+  "name": "European Environment Agency Datahub",
+  "topic": "satellite-and-earth-observation",
+  "country": "eu",
+  "url": "https://www.eea.europa.eu/en/datahub",
+  "description": "Environmental datasets on air quality, greenhouse gas emissions, water, biodiversity, noise and protected areas for all EEA member countries.",
+  "provider": "European Environment Agency",
+  "formats": [
+    "CSV",
+    "GeoPackage",
+    "REST API",
+    "SPARQL"
+  ],
+  "size": "Multi-TB",
+  "records": "Hundreds of environmental datasets",
+  "license": "EEA open data policy, CC BY 4.0 for most datasets",
+  "license_url": "https://www.eea.europa.eu/en/legal-notice",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "European Environment Agency Datahub"
+}

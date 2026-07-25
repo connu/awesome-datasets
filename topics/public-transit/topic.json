@@ -1,0 +1,9 @@
+{
+  "slug": "public-transit",
+  "title": "Public Transit",
+  "description": "Timetables, network topology, real-time vehicle positions and ridership counts for public transport.",
+  "countries": [
+    "de",
+    "us"
+  ]
+}

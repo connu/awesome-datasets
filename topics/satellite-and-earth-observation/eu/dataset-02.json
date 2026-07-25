@@ -1,0 +1,21 @@
+{
+  "id": "copernicus-climate-data-store",
+  "name": "Copernicus Climate Data Store",
+  "topic": "satellite-and-earth-observation",
+  "country": "eu",
+  "url": "https://cds.climate.copernicus.eu/",
+  "description": "Climate reanalysis, seasonal forecast and observation datasets including ERA5, the most widely used global hourly atmospheric reanalysis.",
+  "provider": "ECMWF and Copernicus Climate Change Service",
+  "formats": [
+    "NetCDF",
+    "GRIB",
+    "Python API"
+  ],
+  "size": "Petabyte-scale",
+  "records": "ERA5 hourly global data from 1940",
+  "license": "Copernicus licence, free reuse with attribution",
+  "license_url": "https://cds.climate.copernicus.eu/",
+  "access": "registration",
+  "commercial_use": "yes",
+  "cite": "Hersbach et al. (2020), The ERA5 global reanalysis. QJRMS 146(730)"
+}

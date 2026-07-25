@@ -1,0 +1,9 @@
+{
+  "slug": "energy-and-electricity",
+  "title": "Energy & Electricity",
+  "description": "Generation mix, grid demand, wholesale prices, network capacity and household consumption.",
+  "countries": [
+    "de",
+    "gb"
+  ]
+}

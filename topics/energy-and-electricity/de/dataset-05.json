@@ -1,0 +1,21 @@
+{
+  "id": "energy-charts",
+  "name": "Energy-Charts",
+  "topic": "energy-and-electricity",
+  "country": "de",
+  "url": "https://www.energy-charts.info/",
+  "description": "Interactive and downloadable German and European electricity production, price and emissions data maintained by a public research institute.",
+  "provider": "Fraunhofer Institute for Solar Energy Systems ISE",
+  "formats": [
+    "CSV",
+    "JSON",
+    "REST API"
+  ],
+  "size": "Varies by series",
+  "records": "Hourly series from 2002",
+  "license": "CC BY 4.0",
+  "license_url": "https://www.energy-charts.info/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Fraunhofer ISE, Energy-Charts"
+}

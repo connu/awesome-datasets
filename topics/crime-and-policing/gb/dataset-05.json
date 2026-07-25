@@ -1,0 +1,22 @@
+{
+  "id": "uk-data-service-crime-surveys",
+  "name": "UK Data Service Crime Surveys",
+  "topic": "crime-and-policing",
+  "country": "gb",
+  "url": "https://ukdataservice.ac.uk/",
+  "description": "Archive of deposited social survey microdata including the Crime Survey for England and Wales, Offending Crime and Justice Survey and police force data.",
+  "provider": "UK Data Service",
+  "formats": [
+    "Stata",
+    "SPSS",
+    "CSV",
+    "Tab-delimited"
+  ],
+  "size": "Varies by study",
+  "records": "9,000+ archived data collections",
+  "license": "End User Licence; registration and agreement required",
+  "license_url": "https://ukdataservice.ac.uk/app/uploads/cd137-enduserlicence.pdf",
+  "access": "agreement",
+  "commercial_use": "no",
+  "cite": "UK Data Service"
+}

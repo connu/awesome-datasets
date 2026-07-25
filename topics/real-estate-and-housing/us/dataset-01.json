@@ -1,0 +1,20 @@
+{
+  "id": "fhfa-house-price-index",
+  "name": "FHFA House Price Index",
+  "topic": "real-estate-and-housing",
+  "country": "us",
+  "url": "https://www.fhfa.gov/data/hpi",
+  "description": "Repeat-sales house price indices for the nation, states, metros and ZIP codes, built from conforming mortgage transactions since 1975.",
+  "provider": "Federal Housing Finance Agency",
+  "formats": [
+    "CSV",
+    "XLSX"
+  ],
+  "size": "~100 MB",
+  "records": "Quarterly and monthly series from 1975",
+  "license": "US Government public domain",
+  "license_url": "https://www.fhfa.gov/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "FHFA House Price Index"
+}

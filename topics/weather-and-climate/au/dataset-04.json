@@ -1,0 +1,21 @@
+{
+  "id": "bureau-of-meteorology-water-data-online",
+  "name": "Bureau of Meteorology Water Data Online",
+  "topic": "weather-and-climate",
+  "country": "au",
+  "url": "https://www.bom.gov.au/waterdata/",
+  "description": "Streamflow, water level, storage volume and water quality time series from thousands of gauging stations across Australian catchments.",
+  "provider": "Bureau of Meteorology",
+  "formats": [
+    "CSV",
+    "WaterML 2.0",
+    "REST API"
+  ],
+  "size": "Multi-GB",
+  "records": "4,000+ monitoring sites",
+  "license": "CC BY 4.0",
+  "license_url": "https://www.bom.gov.au/other/copyright.shtml",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Bureau of Meteorology, Water Data Online"
+}

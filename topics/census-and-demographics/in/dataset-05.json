@@ -1,0 +1,22 @@
+{
+  "id": "ipums-international-india-samples",
+  "name": "IPUMS International India Samples",
+  "topic": "census-and-demographics",
+  "country": "in",
+  "url": "https://international.ipums.org/international/",
+  "description": "Harmonised census microdata samples for India alongside 100 other countries, with consistent variable definitions enabling cross-national comparison.",
+  "provider": "IPUMS, University of Minnesota",
+  "formats": [
+    "CSV",
+    "Stata",
+    "SPSS",
+    "SAS"
+  ],
+  "size": "Varies by extract",
+  "records": "Millions of person records per sample",
+  "license": "Free for research; redistribution prohibited",
+  "license_url": "https://international.ipums.org/international/citation.shtml",
+  "access": "registration",
+  "commercial_use": "no",
+  "cite": "Minnesota Population Center, IPUMS International"
+}

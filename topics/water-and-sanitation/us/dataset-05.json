@@ -1,0 +1,20 @@
+{
+  "id": "usgs-water-use-data",
+  "name": "USGS Water Use Data",
+  "topic": "water-and-sanitation",
+  "country": "us",
+  "url": "https://www.usgs.gov/mission-areas/water-resources/science/water-use-united-states",
+  "description": "Five-yearly estimates of water withdrawals by county and category covering public supply, irrigation, thermoelectric, industrial and domestic use.",
+  "provider": "US Geological Survey",
+  "formats": [
+    "CSV",
+    "XLSX"
+  ],
+  "size": "~1 GB",
+  "records": "County estimates every five years since 1950",
+  "license": "US Government public domain",
+  "license_url": "https://www.usgs.gov/information-policies-and-instructions/copyrights-and-credits",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "US Geological Survey, Water Use in the United States"
+}

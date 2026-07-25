@@ -1,0 +1,21 @@
+{
+  "id": "cfpb-consumer-complaint-database",
+  "name": "CFPB Consumer Complaint Database",
+  "topic": "banking-and-payments",
+  "country": "us",
+  "url": "https://www.consumerfinance.gov/data-research/consumer-complaints/",
+  "description": "Consumer complaints about financial products with product, issue, company, state, narrative text and company response, updated daily.",
+  "provider": "Consumer Financial Protection Bureau",
+  "formats": [
+    "CSV",
+    "JSON",
+    "REST API"
+  ],
+  "size": "~3 GB",
+  "records": "6 million+ complaints since 2011",
+  "license": "US Government public domain",
+  "license_url": "https://www.consumerfinance.gov/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Consumer Financial Protection Bureau, Consumer Complaint Database"
+}

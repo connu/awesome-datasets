@@ -1,0 +1,20 @@
+{
+  "id": "nhtsa-crash-report-sampling-system",
+  "name": "NHTSA Crash Report Sampling System",
+  "topic": "road-safety-and-accidents",
+  "country": "us",
+  "url": "https://www.nhtsa.gov/crash-data-systems/crash-report-sampling-system",
+  "description": "A nationally representative probability sample of police-reported crashes of all severities, used to estimate total injuries and property damage.",
+  "provider": "National Highway Traffic Safety Administration",
+  "formats": [
+    "CSV",
+    "SAS"
+  ],
+  "size": "~2 GB",
+  "records": "~50,000 sampled crashes per year",
+  "license": "US Government public domain",
+  "license_url": "https://www.nhtsa.gov/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "NHTSA, Crash Report Sampling System"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "opensky-network",
+  "name": "OpenSky Network",
+  "topic": "aviation-and-flights",
+  "country": "us",
+  "url": "https://opensky-network.org/",
+  "description": "Crowd-sourced ADS-B and Mode S air traffic surveillance data with raw and decoded state vectors, covering global flight trajectories at second-level resolution.",
+  "provider": "OpenSky Network",
+  "formats": [
+    "REST API",
+    "Impala",
+    "CSV",
+    "Parquet"
+  ],
+  "size": "Petabyte-scale",
+  "records": "Trillions of state vectors since 2013",
+  "license": "Free for non-commercial research; CC BY-SA for published datasets",
+  "license_url": "https://opensky-network.org/about/terms-of-use",
+  "access": "registration",
+  "commercial_use": "no",
+  "cite": "Schäfer et al. (2014), Bringing Up OpenSky. IPSN 2014"
+}

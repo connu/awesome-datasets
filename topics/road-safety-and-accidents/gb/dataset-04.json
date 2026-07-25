@@ -1,0 +1,21 @@
+{
+  "id": "dft-statistics-collections",
+  "name": "DfT Statistics Collections",
+  "topic": "road-safety-and-accidents",
+  "country": "gb",
+  "url": "https://www.gov.uk/government/organisations/department-for-transport/about/statistics",
+  "description": "Official transport statistics collections covering road casualties, vehicle licensing, walking and cycling, freight and public transport usage.",
+  "provider": "Department for Transport",
+  "formats": [
+    "CSV",
+    "XLSX",
+    "ODS"
+  ],
+  "size": "Varies by collection",
+  "records": "Hundreds of statistical series",
+  "license": "Open Government Licence v3.0",
+  "license_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Department for Transport statistics"
+}

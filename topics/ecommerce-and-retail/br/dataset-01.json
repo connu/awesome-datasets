@@ -1,0 +1,19 @@
+{
+  "id": "olist-brazilian-e-commerce-public-dataset",
+  "name": "Olist Brazilian E-Commerce Public Dataset",
+  "topic": "ecommerce-and-retail",
+  "country": "br",
+  "url": "https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce",
+  "description": "Real anonymised orders from a Brazilian marketplace with items, payments, freight, delivery timestamps, geolocation and customer review scores across nine relational tables.",
+  "provider": "Olist",
+  "formats": [
+    "CSV"
+  ],
+  "size": "~120 MB",
+  "records": "100,000 orders (2016-2018)",
+  "license": "CC BY-NC-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "access": "registration",
+  "commercial_use": "no",
+  "cite": "Olist and André Sionek, Brazilian E-Commerce Public Dataset by Olist, Kaggle"
+}

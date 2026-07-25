@@ -1,0 +1,21 @@
+{
+  "id": "census-congressional-district-boundaries",
+  "name": "Census Congressional District Boundaries",
+  "topic": "elections-and-voting",
+  "country": "us",
+  "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/cartographic-boundary.html",
+  "description": "Cartographic boundary files for congressional districts, state legislative districts and voting districts, generalised for mapping and analysis.",
+  "provider": "US Census Bureau",
+  "formats": [
+    "Shapefile",
+    "GeoJSON",
+    "KML"
+  ],
+  "size": "~5 GB",
+  "records": "All districts across congresses",
+  "license": "US Government public domain",
+  "license_url": "https://www.census.gov/about/policies/open-gov.html",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "US Census Bureau, Cartographic Boundary Files"
+}

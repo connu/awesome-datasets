@@ -1,0 +1,21 @@
+{
+  "id": "national-grid-eso-data-portal",
+  "name": "National Grid ESO Data Portal",
+  "topic": "energy-and-electricity",
+  "country": "gb",
+  "url": "https://www.neso.energy/data-portal",
+  "description": "Great Britain's system operator data covering carbon intensity, embedded generation forecasts, demand forecasts, constraint costs and historic outturn.",
+  "provider": "National Energy System Operator",
+  "formats": [
+    "CSV",
+    "JSON",
+    "REST API"
+  ],
+  "size": "Varies by dataset",
+  "records": "200+ published datasets",
+  "license": "NESO Open Data Licence, based on OGL",
+  "license_url": "https://www.neso.energy/data-portal",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "National Energy System Operator (NESO) Data Portal"
+}

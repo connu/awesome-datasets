@@ -1,0 +1,23 @@
+{
+  "id": "open-government-canada",
+  "name": "Open Government Canada",
+  "topic": "labour-and-employment",
+  "country": "ca",
+  "url": "https://open.canada.ca/en/open-data",
+  "description": "Federal open data portal covering employment programmes, immigration, procurement, geospatial data and departmental performance.",
+  "provider": "Government of Canada",
+  "formats": [
+    "CSV",
+    "JSON",
+    "XML",
+    "Shapefile",
+    "REST API"
+  ],
+  "size": "Varies by dataset",
+  "records": "40,000+ datasets",
+  "license": "Open Government Licence - Canada 2.0",
+  "license_url": "https://open.canada.ca/en/open-government-licence-canada",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Open Government Portal, Government of Canada"
+}

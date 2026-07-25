@@ -1,0 +1,21 @@
+{
+  "id": "fcc-national-broadband-map",
+  "name": "FCC National Broadband Map",
+  "topic": "telecom-and-broadband",
+  "country": "us",
+  "url": "https://broadbandmap.fcc.gov/",
+  "description": "Location-level reported availability of fixed and mobile broadband by provider, technology and advertised speed, with challenge-process corrections.",
+  "provider": "Federal Communications Commission",
+  "formats": [
+    "CSV",
+    "GeoPackage",
+    "REST API"
+  ],
+  "size": "~100 GB",
+  "records": "114 million+ serviceable locations",
+  "license": "US Government public domain",
+  "license_url": "https://www.fcc.gov/",
+  "access": "registration",
+  "commercial_use": "yes",
+  "cite": "FCC National Broadband Map"
+}

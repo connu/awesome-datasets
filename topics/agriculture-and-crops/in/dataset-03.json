@@ -1,0 +1,20 @@
+{
+  "id": "ministry-of-agriculture-agricultural-statistics-at-a-glance",
+  "name": "Ministry of Agriculture Agricultural Statistics at a Glance",
+  "topic": "agriculture-and-crops",
+  "country": "in",
+  "url": "https://agriwelfare.gov.in/en/Agricultural_Statistics_at_a_Glance",
+  "description": "The annual national compendium of crop area, production, yield, prices, credit, machinery and land holdings by state and crop.",
+  "provider": "Ministry of Agriculture and Farmers Welfare",
+  "formats": [
+    "PDF",
+    "XLSX"
+  ],
+  "size": "~100 MB per edition",
+  "records": "Annual editions with long historical series",
+  "license": "Government Open Data License - India",
+  "license_url": "https://www.data.gov.in/government-open-data-license-india",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Ministry of Agriculture and Farmers Welfare, Agricultural Statistics at a Glance"
+}

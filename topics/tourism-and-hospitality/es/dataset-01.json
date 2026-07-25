@@ -1,0 +1,22 @@
+{
+  "id": "ine-tourism-statistics",
+  "name": "INE Tourism Statistics",
+  "topic": "tourism-and-hospitality",
+  "country": "es",
+  "url": "https://www.ine.es/dyngs/INEbase/en/categoria.htm?c=Estadistica_P&cid=1254735576863",
+  "description": "Official Spanish tourism statistics covering visitor arrivals, tourist expenditure, hotel occupancy, rural and campsite accommodation by province.",
+  "provider": "Instituto Nacional de Estadística",
+  "formats": [
+    "CSV",
+    "XLSX",
+    "JSON",
+    "REST API"
+  ],
+  "size": "Multi-GB",
+  "records": "Monthly series by province and country of origin",
+  "license": "Free reuse with attribution to INE",
+  "license_url": "https://www.ine.es/ss/Satellite?L=en_GB&c=Page&cid=1254735849170&p=1254735849170&pagename=Ayuda%2FINELayout",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Instituto Nacional de Estadística, Spain"
+}

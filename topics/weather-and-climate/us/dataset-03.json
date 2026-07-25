@@ -1,0 +1,20 @@
+{
+  "id": "noaa-storm-events-database",
+  "name": "NOAA Storm Events Database",
+  "topic": "weather-and-climate",
+  "country": "us",
+  "url": "https://www.ncdc.noaa.gov/stormevents/",
+  "description": "Every recorded severe weather event in the US since 1950, with type, location, timing, fatalities, injuries and property damage estimates.",
+  "provider": "NOAA NCEI",
+  "formats": [
+    "CSV",
+    "GZIP"
+  ],
+  "size": "~2 GB",
+  "records": "1.6 million+ events since 1950",
+  "license": "US Government public domain",
+  "license_url": "https://www.ncei.noaa.gov/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "NOAA National Centers for Environmental Information, Storm Events Database"
+}

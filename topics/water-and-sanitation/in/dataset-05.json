@@ -1,0 +1,21 @@
+{
+  "id": "data-gov-in-water-resources-sector",
+  "name": "data.gov.in Water Resources Sector",
+  "topic": "water-and-sanitation",
+  "country": "in",
+  "url": "https://www.data.gov.in/sector/water-resources",
+  "description": "Open government catalogue of water datasets covering river and groundwater quality monitoring, reservoir levels, rainfall and irrigation coverage.",
+  "provider": "National Informatics Centre",
+  "formats": [
+    "PDF",
+    "XLSX",
+    "CSV"
+  ],
+  "size": "~2 GB",
+  "records": "4,000+ monitoring stations",
+  "license": "Government Open Data License - India",
+  "license_url": "https://www.data.gov.in/government-open-data-license-india",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Open Government Data Platform India"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "job-bank-labour-market-information",
+  "name": "Job Bank Labour Market Information",
+  "topic": "labour-and-employment",
+  "country": "ca",
+  "url": "https://www.jobbank.gc.ca/trend-analysis",
+  "description": "Occupational outlooks, wage ranges by region, and in-demand skill profiles derived from job postings and administrative labour market data.",
+  "provider": "Employment and Social Development Canada",
+  "formats": [
+    "CSV",
+    "XLSX",
+    "Web"
+  ],
+  "size": "Varies by product",
+  "records": "500+ occupations across regions",
+  "license": "Open Government Licence - Canada 2.0",
+  "license_url": "https://open.canada.ca/en/open-government-licence-canada",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Job Bank, Employment and Social Development Canada"
+}

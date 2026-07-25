@@ -1,0 +1,21 @@
+{
+  "id": "entso-e-transparency-platform",
+  "name": "ENTSO-E Transparency Platform",
+  "topic": "energy-and-electricity",
+  "country": "de",
+  "url": "https://transparency.entsoe.eu/",
+  "description": "Pan-European electricity data mandated by EU regulation, covering load, generation, transmission capacity, outages and day-ahead prices for every bidding zone.",
+  "provider": "European Network of Transmission System Operators for Electricity",
+  "formats": [
+    "REST API",
+    "CSV",
+    "XML"
+  ],
+  "size": "Multi-TB archive",
+  "records": "All European bidding zones since 2015",
+  "license": "ENTSO-E Transparency Platform terms, free reuse with attribution",
+  "license_url": "https://transparency.entsoe.eu/",
+  "access": "registration",
+  "commercial_use": "yes",
+  "cite": "ENTSO-E Transparency Platform"
+}

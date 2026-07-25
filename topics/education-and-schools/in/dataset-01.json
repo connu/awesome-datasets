@@ -1,0 +1,21 @@
+{
+  "id": "udise-school-education-statistics",
+  "name": "UDISE+ School Education Statistics",
+  "topic": "education-and-schools",
+  "country": "in",
+  "url": "https://udiseplus.gov.in/",
+  "description": "India's unified school information system with enrolment, teachers, infrastructure, drinking water, toilets and electricity for every recognised school.",
+  "provider": "Ministry of Education",
+  "formats": [
+    "XLSX",
+    "PDF",
+    "Web dashboard"
+  ],
+  "size": "Multi-GB",
+  "records": "1.5 million+ schools, 250 million+ students",
+  "license": "Government Open Data License - India",
+  "license_url": "https://www.data.gov.in/government-open-data-license-india",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "UDISE+, Ministry of Education, Government of India"
+}

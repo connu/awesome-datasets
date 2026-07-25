@@ -1,0 +1,21 @@
+{
+  "id": "healthdata-gov",
+  "name": "HealthData.gov",
+  "topic": "public-health",
+  "country": "us",
+  "url": "https://healthdata.gov/",
+  "description": "Federal catalogue of health datasets from HHS agencies, covering hospital capacity, provider directories, community health and public health surveillance.",
+  "provider": "US Department of Health and Human Services",
+  "formats": [
+    "CSV",
+    "JSON",
+    "REST API"
+  ],
+  "size": "Varies by dataset",
+  "records": "3,000+ datasets",
+  "license": "US Government public domain",
+  "license_url": "https://healthdata.gov/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "HealthData.gov, US Department of Health and Human Services"
+}

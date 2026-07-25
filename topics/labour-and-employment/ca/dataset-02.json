@@ -1,0 +1,21 @@
+{
+  "id": "labour-force-survey-canada",
+  "name": "Labour Force Survey (Canada)",
+  "topic": "labour-and-employment",
+  "country": "ca",
+  "url": "https://www.statcan.gc.ca/en/survey/household/3701",
+  "description": "Monthly survey producing Canada's official unemployment rate, with detail by province, industry, occupation, age, gender and full or part-time status.",
+  "provider": "Statistics Canada",
+  "formats": [
+    "CSV",
+    "SDMX",
+    "PDF"
+  ],
+  "size": "Multi-GB",
+  "records": "56,000 households surveyed monthly",
+  "license": "Statistics Canada Open Licence",
+  "license_url": "https://www.statcan.gc.ca/en/reference/licence",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Statistics Canada, Labour Force Survey"
+}

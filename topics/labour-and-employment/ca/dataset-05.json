@@ -1,0 +1,21 @@
+{
+  "id": "national-occupational-classification",
+  "name": "National Occupational Classification",
+  "topic": "labour-and-employment",
+  "country": "ca",
+  "url": "https://noc.esdc.gc.ca/",
+  "description": "Canada's official taxonomy of occupations with hierarchical codes, duties, employment requirements and example job titles used across immigration and labour policy.",
+  "provider": "Employment and Social Development Canada and Statistics Canada",
+  "formats": [
+    "CSV",
+    "XLSX",
+    "Web"
+  ],
+  "size": "~50 MB",
+  "records": "500+ unit groups, 30,000+ job titles",
+  "license": "Open Government Licence - Canada 2.0",
+  "license_url": "https://open.canada.ca/en/open-government-licence-canada",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "National Occupational Classification, ESDC and Statistics Canada"
+}

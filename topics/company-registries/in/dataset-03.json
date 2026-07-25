@@ -1,0 +1,22 @@
+{
+  "id": "data-gov-in-industries-sector",
+  "name": "data.gov.in Industries Sector",
+  "topic": "company-registries",
+  "country": "in",
+  "url": "https://www.data.gov.in/sector/industries",
+  "description": "Open government catalogue of industrial and corporate datasets covering company registrations, MSME statistics, industrial production and factory data.",
+  "provider": "National Informatics Centre",
+  "formats": [
+    "CSV",
+    "XLSX",
+    "JSON",
+    "REST API"
+  ],
+  "size": "Varies by resource",
+  "records": "5,000+ industry resources",
+  "license": "Government Open Data License - India",
+  "license_url": "https://www.data.gov.in/government-open-data-license-india",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Open Government Data Platform India"
+}

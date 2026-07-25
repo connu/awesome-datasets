@@ -1,0 +1,21 @@
+{
+  "id": "easa-safety-data-and-publications",
+  "name": "EASA Safety Data and Publications",
+  "topic": "aviation-and-flights",
+  "country": "eu",
+  "url": "https://www.easa.europa.eu/en/domains/safety-management",
+  "description": "European aviation safety statistics, occurrence analysis, annual safety reviews and certification data for aircraft and operators.",
+  "provider": "European Union Aviation Safety Agency",
+  "formats": [
+    "PDF",
+    "XLSX",
+    "CSV"
+  ],
+  "size": "~1 GB",
+  "records": "Annual safety datasets and occurrence summaries",
+  "license": "EASA reuse terms, free with attribution",
+  "license_url": "https://www.easa.europa.eu/en",
+  "access": "open",
+  "commercial_use": "check",
+  "cite": "European Union Aviation Safety Agency"
+}

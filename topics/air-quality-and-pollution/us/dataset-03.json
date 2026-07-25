@@ -1,0 +1,20 @@
+{
+  "id": "epa-national-emissions-inventory",
+  "name": "EPA National Emissions Inventory",
+  "topic": "air-quality-and-pollution",
+  "country": "us",
+  "url": "https://www.epa.gov/air-emissions-inventories/national-emissions-inventory-nei",
+  "description": "Triennial bottom-up inventory of criteria and hazardous air pollutant emissions from point, mobile, area and biogenic sources, resolved to county and facility level.",
+  "provider": "US Environmental Protection Agency",
+  "formats": [
+    "CSV",
+    "Access DB"
+  ],
+  "size": "~10 GB",
+  "records": "Millions of emission source records",
+  "license": "US Government public domain",
+  "license_url": "https://www.epa.gov/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "US EPA, National Emissions Inventory"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "noaa-billion-dollar-weather-and-climate-disasters",
+  "name": "NOAA Billion-Dollar Weather and Climate Disasters",
+  "topic": "earthquakes-and-natural-hazards",
+  "country": "us",
+  "url": "https://www.ncei.noaa.gov/access/billions/",
+  "description": "A curated record of US weather and climate disasters exceeding one billion dollars in damage, with CPI-adjusted cost, deaths and event geography since 1980.",
+  "provider": "NOAA NCEI",
+  "formats": [
+    "CSV",
+    "JSON"
+  ],
+  "size": "~50 MB",
+  "records": "400+ billion-dollar events since 1980",
+  "license": "US Government public domain",
+  "license_url": "https://www.ncei.noaa.gov/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "NOAA National Centers for Environmental Information, Billion-Dollar Weather and Climate Disasters"
+}

@@ -1,0 +1,10 @@
+# NOTE: GitHub requires absolute URLs here — relative paths are not supported.
+# Replace YOUR-USERNAME with your GitHub account before pushing.
+blank_issues_enabled: true
+contact_links:
+  - name: How to contribute
+    url: https://github.com/YOUR-USERNAME/awesome-datasets/blob/main/contributing.md
+    about: Field conventions, what belongs here, and how to run the build.
+  - name: Code of conduct
+    url: https://github.com/YOUR-USERNAME/awesome-datasets/blob/main/code-of-conduct.md
+    about: Expected behaviour and how to report a problem.

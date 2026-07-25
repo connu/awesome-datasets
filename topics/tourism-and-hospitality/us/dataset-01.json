@@ -1,0 +1,21 @@
+{
+  "id": "national-travel-and-tourism-office-data",
+  "name": "National Travel and Tourism Office Data",
+  "topic": "tourism-and-hospitality",
+  "country": "us",
+  "url": "https://www.trade.gov/national-travel-and-tourism-office",
+  "description": "Official statistics on international visitor arrivals to the US, traveller characteristics, spending and outbound US travel by destination.",
+  "provider": "International Trade Administration",
+  "formats": [
+    "CSV",
+    "XLSX",
+    "REST API"
+  ],
+  "size": "~1 GB",
+  "records": "Monthly arrival and spending series",
+  "license": "US Government public domain",
+  "license_url": "https://www.trade.gov/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "National Travel and Tourism Office, International Trade Administration"
+}

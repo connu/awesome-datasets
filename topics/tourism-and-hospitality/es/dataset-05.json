@@ -1,0 +1,21 @@
+{
+  "id": "aemet-opendata",
+  "name": "AEMET OpenData",
+  "topic": "tourism-and-hospitality",
+  "country": "es",
+  "url": "https://www.aemet.es/en/datos_abiertos/AEMET_OpenData",
+  "description": "Spanish meteorological agency open data with station observations, forecasts, beach and mountain conditions, widely combined with tourism demand modelling.",
+  "provider": "Agencia Estatal de Meteorología",
+  "formats": [
+    "REST API",
+    "JSON",
+    "CSV"
+  ],
+  "size": "Varies by product",
+  "records": "Hundreds of stations, continuous updates",
+  "license": "AEMET reuse licence, attribution required",
+  "license_url": "https://www.aemet.es/en/nota_legal",
+  "access": "registration",
+  "commercial_use": "yes",
+  "cite": "Agencia Estatal de Meteorología, AEMET OpenData"
+}

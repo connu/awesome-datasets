@@ -1,0 +1,22 @@
+{
+  "id": "usgs-national-map",
+  "name": "USGS National Map",
+  "topic": "addresses-and-geocoding",
+  "country": "us",
+  "url": "https://www.usgs.gov/programs/national-geospatial-program/national-map",
+  "description": "Authoritative national geospatial layers covering elevation, hydrography, transportation, boundaries, structures and land cover.",
+  "provider": "US Geological Survey",
+  "formats": [
+    "GeoTIFF",
+    "Shapefile",
+    "GeoPackage",
+    "REST API"
+  ],
+  "size": "Petabyte-scale",
+  "records": "National coverage across 8 data themes",
+  "license": "US Government public domain",
+  "license_url": "https://www.usgs.gov/information-policies-and-instructions/copyrights-and-credits",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "US Geological Survey, The National Map"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "american-community-survey",
+  "name": "American Community Survey",
+  "topic": "census-and-demographics",
+  "country": "us",
+  "url": "https://www.census.gov/programs-surveys/acs",
+  "description": "Annual rolling survey of income, education, employment, housing, commuting, language and ancestry, the richest small-area socioeconomic source in the US.",
+  "provider": "US Census Bureau",
+  "formats": [
+    "CSV",
+    "REST API",
+    "SAS"
+  ],
+  "size": "~50 GB with microdata",
+  "records": "3.5 million households surveyed per year",
+  "license": "US Government public domain",
+  "license_url": "https://www.census.gov/about/policies/open-gov.html",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "US Census Bureau, American Community Survey"
+}

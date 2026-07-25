@@ -1,0 +1,128 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Awesome Datasets catalogs",
+  "description": "Defines both catalogs. `globalCatalog` validates data/datasets.json. `countryDataset` validates each topics/<topic>/<country>/dataset-NN.json. `topic` validates each topics/<topic>/topic.json.",
+  "$defs": {
+    "url": {
+      "type": "string",
+      "format": "uri",
+      "pattern": "^https://",
+      "description": "Must be https. Plain http entries are rejected by scripts/validate.py."
+    },
+    "slug": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9.]+)*$" },
+    "countryCode": {
+      "type": "string",
+      "pattern": "^[a-z]{2}$",
+      "description": "ISO 3166-1 alpha-2, lowercase. Must be listed in data/countries.json. `eu` is used for European Union-wide sources."
+    },
+    "description": {
+      "type": "string",
+      "minLength": 40,
+      "description": "One sentence. Starts uppercase, ends with a period, no line breaks. Says what the data is, not that it is useful."
+    },
+    "access": {
+      "enum": ["open", "registration", "agreement", "credentialed"],
+      "description": "open = direct download; registration = free account; agreement = signed terms; credentialed = identity or ethics vetting."
+    },
+    "commercialUse": {
+      "enum": ["yes", "no", "check"],
+      "description": "check = mixed or unclear terms; read the license before commercial use. Do not guess yes."
+    },
+    "datasetFields": {
+      "type": "object",
+      "properties": {
+        "id": { "$ref": "#/$defs/slug" },
+        "name": { "type": "string", "minLength": 2 },
+        "topic": { "$ref": "#/$defs/slug" },
+        "url": { "$ref": "#/$defs/url" },
+        "description": { "$ref": "#/$defs/description" },
+        "provider": { "type": "string", "minLength": 2 },
+        "formats": { "type": "array", "minItems": 1, "items": { "type": "string" } },
+        "size": { "type": "string", "description": "Approximate and human-readable, e.g. \"~20 GB\"." },
+        "records": { "type": "string", "description": "Approximate and human-readable, e.g. \"2,000,000 functions\"." },
+        "license": { "type": "string", "minLength": 3, "description": "Name the actual license, including awkward cases." },
+        "license_url": { "$ref": "#/$defs/url" },
+        "access": { "$ref": "#/$defs/access" },
+        "commercial_use": { "$ref": "#/$defs/commercialUse" },
+        "cite": { "type": "string", "minLength": 5, "description": "The attribution the authors ask for." }
+      },
+      "required": [
+        "id", "name", "topic", "url", "description", "provider", "formats",
+        "size", "records", "license", "license_url", "access", "commercial_use", "cite"
+      ]
+    },
+    "countryDataset": {
+      "title": "topics/<topic>/<country>/dataset-NN.json",
+      "allOf": [{ "$ref": "#/$defs/datasetFields" }],
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "id": true, "name": true, "topic": true, "url": true, "description": true,
+        "provider": true, "formats": true, "size": true, "records": true,
+        "license": true, "license_url": true, "access": true, "commercial_use": true,
+        "cite": true,
+        "country": { "$ref": "#/$defs/countryCode" }
+      },
+      "required": ["country"]
+    },
+    "topic": {
+      "title": "topics/<topic>/topic.json",
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["slug", "title", "description", "countries"],
+      "properties": {
+        "slug": { "$ref": "#/$defs/slug", "description": "Must equal the directory name." },
+        "title": { "type": "string", "minLength": 3 },
+        "description": { "$ref": "#/$defs/description" },
+        "countries": {
+          "type": "array",
+          "minItems": 2,
+          "description": "Must match the country subdirectories exactly.",
+          "items": { "$ref": "#/$defs/countryCode" }
+        }
+      }
+    },
+    "globalCatalog": {
+      "title": "data/datasets.json",
+      "type": "object",
+      "required": ["version", "updated", "topics", "datasets"],
+      "additionalProperties": false,
+      "properties": {
+        "$schema": { "type": "string" },
+        "version": { "type": "string", "pattern": "^\\d+\\.\\d+\\.\\d+$" },
+        "updated": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
+        "topics": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "object",
+            "required": ["slug", "title", "description"],
+            "additionalProperties": false,
+            "properties": {
+              "slug": { "$ref": "#/$defs/slug" },
+              "title": { "type": "string", "minLength": 3 },
+              "description": { "$ref": "#/$defs/description" }
+            }
+          }
+        },
+        "datasets": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "allOf": [{ "$ref": "#/$defs/datasetFields" }],
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+              "id": true, "name": true, "topic": true, "url": true, "description": true,
+              "provider": true, "formats": true, "size": true, "records": true,
+              "license": true, "license_url": true, "access": true, "commercial_use": true,
+              "cite": true,
+              "languages": { "type": "array", "items": { "type": "string" } }
+            }
+          }
+        }
+      }
+    }
+  },
+  "$ref": "#/$defs/globalCatalog"
+}

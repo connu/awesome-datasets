@@ -1,0 +1,22 @@
+{
+  "id": "usgs-shakemap-and-ground-motion",
+  "name": "USGS ShakeMap and Ground Motion",
+  "topic": "earthquakes-and-natural-hazards",
+  "country": "us",
+  "url": "https://earthquake.usgs.gov/data/shakemap/",
+  "description": "Near-real-time maps of ground shaking intensity, peak acceleration and velocity generated for significant earthquakes, with grid downloads for loss modelling.",
+  "provider": "US Geological Survey",
+  "formats": [
+    "GeoTIFF",
+    "XML",
+    "GeoJSON",
+    "KML"
+  ],
+  "size": "Varies by event",
+  "records": "Thousands of mapped events",
+  "license": "US Government public domain",
+  "license_url": "https://www.usgs.gov/information-policies-and-instructions/copyrights-and-credits",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "US Geological Survey, ShakeMap"
+}

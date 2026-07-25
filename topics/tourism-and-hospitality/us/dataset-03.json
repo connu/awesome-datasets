@@ -1,0 +1,21 @@
+{
+  "id": "national-park-service-visitor-use-statistics",
+  "name": "National Park Service Visitor Use Statistics",
+  "topic": "tourism-and-hospitality",
+  "country": "us",
+  "url": "https://irma.nps.gov/Stats/",
+  "description": "Monthly recreation visits, overnight stays and traffic counts for every unit of the National Park System, going back to 1904 for some parks.",
+  "provider": "National Park Service",
+  "formats": [
+    "CSV",
+    "XLSX",
+    "REST API"
+  ],
+  "size": "~500 MB",
+  "records": "400+ park units with monthly series",
+  "license": "US Government public domain",
+  "license_url": "https://www.nps.gov/aboutus/disclaimer.htm",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "National Park Service, Visitor Use Statistics"
+}

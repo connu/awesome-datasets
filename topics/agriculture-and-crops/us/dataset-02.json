@@ -1,0 +1,20 @@
+{
+  "id": "usda-cropland-data-layer",
+  "name": "USDA Cropland Data Layer",
+  "topic": "agriculture-and-crops",
+  "country": "us",
+  "url": "https://www.nass.usda.gov/Research_and_Science/Cropland/SARS1a.php",
+  "description": "Annual 30-metre raster classification of crop type across the continental United States, derived from satellite imagery and ground truth.",
+  "provider": "USDA National Agricultural Statistics Service",
+  "formats": [
+    "GeoTIFF",
+    "Web service"
+  ],
+  "size": "~10 GB per year",
+  "records": "Continental US coverage from 1997",
+  "license": "US Government public domain",
+  "license_url": "https://www.nass.usda.gov/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "USDA NASS Cropland Data Layer"
+}

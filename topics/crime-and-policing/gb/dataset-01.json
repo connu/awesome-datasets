@@ -1,0 +1,21 @@
+{
+  "id": "data-police-uk",
+  "name": "data.police.uk",
+  "topic": "crime-and-policing",
+  "country": "gb",
+  "url": "https://data.police.uk/data/",
+  "description": "Street-level crime and outcome data for every police force in England, Wales and Northern Ireland, published monthly with anonymised coordinates and a free API.",
+  "provider": "Home Office",
+  "formats": [
+    "CSV",
+    "REST API",
+    "JSON"
+  ],
+  "size": "~10 GB full archive",
+  "records": "60 million+ crimes since 2010",
+  "license": "Open Government Licence v3.0",
+  "license_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "data.police.uk, Home Office"
+}

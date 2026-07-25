@@ -1,0 +1,9 @@
+{
+  "slug": "telecom-and-broadband",
+  "title": "Telecom & Broadband",
+  "description": "Network coverage, connection speeds, spectrum allocation, subscriber counts and service pricing.",
+  "countries": [
+    "gb",
+    "us"
+  ]
+}

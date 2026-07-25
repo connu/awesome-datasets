@@ -1,0 +1,20 @@
+{
+  "id": "ons-internet-access-and-usage",
+  "name": "ONS Internet Access and Usage",
+  "topic": "telecom-and-broadband",
+  "country": "gb",
+  "url": "https://www.ons.gov.uk/businessindustryandtrade/itandinternetindustry",
+  "description": "Official statistics on household internet access, e-commerce activity, digital skills and ICT use by businesses.",
+  "provider": "Office for National Statistics",
+  "formats": [
+    "CSV",
+    "XLSX"
+  ],
+  "size": "Varies by series",
+  "records": "Annual series",
+  "license": "Open Government Licence v3.0",
+  "license_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Office for National Statistics, IT and internet industry"
+}

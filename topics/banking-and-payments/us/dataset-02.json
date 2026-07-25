@@ -1,0 +1,21 @@
+{
+  "id": "fdic-bankfind-suite-and-api",
+  "name": "FDIC BankFind Suite and API",
+  "topic": "banking-and-payments",
+  "country": "us",
+  "url": "https://banks.data.fdic.gov/docs/",
+  "description": "Institution directory, financial summaries, branch locations, failure history and merger records for every FDIC-insured bank.",
+  "provider": "Federal Deposit Insurance Corporation",
+  "formats": [
+    "REST API",
+    "CSV",
+    "JSON"
+  ],
+  "size": "Multi-GB",
+  "records": "Institution data from 1934",
+  "license": "US Government public domain",
+  "license_url": "https://www.fdic.gov/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "FDIC BankFind Suite API"
+}

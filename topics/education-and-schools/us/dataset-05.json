@@ -1,0 +1,20 @@
+{
+  "id": "stanford-education-data-archive",
+  "name": "Stanford Education Data Archive",
+  "topic": "education-and-schools",
+  "country": "us",
+  "url": "https://edopportunity.org/",
+  "description": "Test scores from every US school district placed on a single national scale, enabling like-for-like comparison of achievement and growth across states.",
+  "provider": "Stanford University",
+  "formats": [
+    "CSV",
+    "Stata"
+  ],
+  "size": "~2 GB",
+  "records": "13,000+ districts, 2009 onward",
+  "license": "CC BY-NC-SA 4.0",
+  "license_url": "https://edopportunity.org/get-the-data/",
+  "access": "registration",
+  "commercial_use": "no",
+  "cite": "Reardon et al., Stanford Education Data Archive"
+}

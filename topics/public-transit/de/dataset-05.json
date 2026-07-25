@@ -1,0 +1,21 @@
+{
+  "id": "vbb-open-data",
+  "name": "VBB Open Data",
+  "topic": "public-transit",
+  "country": "de",
+  "url": "https://unternehmen.vbb.de/en/digital-services/datasets/",
+  "description": "Berlin and Brandenburg transport association data covering GTFS timetables, fare zones, stop registers and a departure-monitor API.",
+  "provider": "Verkehrsverbund Berlin-Brandenburg",
+  "formats": [
+    "GTFS",
+    "CSV",
+    "REST API"
+  ],
+  "size": "~200 MB",
+  "records": "13,000+ stops across Berlin-Brandenburg",
+  "license": "CC BY 4.0 (Datenlizenz Deutschland Namensnennung)",
+  "license_url": "https://unternehmen.vbb.de/en/digital-services/datasets/",
+  "access": "registration",
+  "commercial_use": "yes",
+  "cite": "Verkehrsverbund Berlin-Brandenburg (VBB) Open Data"
+}

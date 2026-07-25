@@ -1,0 +1,21 @@
+{
+  "id": "usda-branded-food-products-database",
+  "name": "USDA Branded Food Products Database",
+  "topic": "ecommerce-and-retail",
+  "country": "us",
+  "url": "https://fdc.nal.usda.gov/download-datasets",
+  "description": "Label data for hundreds of thousands of branded grocery products including ingredients, serving sizes, nutrients, UPC codes and brand owner.",
+  "provider": "USDA Agricultural Research Service",
+  "formats": [
+    "CSV",
+    "JSON",
+    "REST API"
+  ],
+  "size": "~2 GB",
+  "records": "1.9 million+ food products",
+  "license": "US Government public domain",
+  "license_url": "https://fdc.nal.usda.gov/api-guide.html",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "USDA FoodData Central"
+}

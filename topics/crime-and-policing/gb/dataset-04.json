@@ -1,0 +1,21 @@
+{
+  "id": "home-office-police-workforce-statistics",
+  "name": "Home Office Police Workforce Statistics",
+  "topic": "crime-and-policing",
+  "country": "gb",
+  "url": "https://www.gov.uk/government/collections/police-workforce-england-and-wales",
+  "description": "Officer and staff headcounts by force, rank, function, ethnicity and gender, alongside joiners, leavers and diversity breakdowns.",
+  "provider": "Home Office",
+  "formats": [
+    "CSV",
+    "ODS",
+    "XLSX"
+  ],
+  "size": "~200 MB",
+  "records": "Biannual series by force",
+  "license": "Open Government Licence v3.0",
+  "license_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Home Office, Police workforce England and Wales"
+}

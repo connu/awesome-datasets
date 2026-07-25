@@ -1,0 +1,21 @@
+{
+  "id": "nhs-digital-data-catalogue",
+  "name": "NHS Digital Data Catalogue",
+  "topic": "public-health",
+  "country": "gb",
+  "url": "https://digital.nhs.uk/data-and-information/data-collections-and-data-sets",
+  "description": "Catalogue of national health data collections including Hospital Episode Statistics, mental health services, maternity and community services datasets.",
+  "provider": "NHS England Digital",
+  "formats": [
+    "CSV",
+    "XLSX",
+    "PDF"
+  ],
+  "size": "Varies by collection",
+  "records": "Hundreds of national collections",
+  "license": "Open Government Licence v3.0 for published statistics",
+  "license_url": "https://digital.nhs.uk/about-nhs-digital/terms-and-conditions",
+  "access": "open",
+  "commercial_use": "check",
+  "cite": "NHS England Digital, Data Collections and Data Sets"
+}

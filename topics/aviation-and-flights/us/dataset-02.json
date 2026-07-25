@@ -1,0 +1,20 @@
+{
+  "id": "faa-aircraft-registry",
+  "name": "FAA Aircraft Registry",
+  "topic": "aviation-and-flights",
+  "country": "us",
+  "url": "https://www.faa.gov/licenses_certificates/aircraft_certification/aircraft_registry/releasable_aircraft_download",
+  "description": "The releasable database of every US-registered civil aircraft with N-number, serial, make, model, engine, owner and airworthiness status.",
+  "provider": "Federal Aviation Administration",
+  "formats": [
+    "CSV",
+    "ZIP"
+  ],
+  "size": "~200 MB",
+  "records": "300,000+ registered aircraft",
+  "license": "US Government public domain",
+  "license_url": "https://www.faa.gov/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "FAA Aircraft Registry, Releasable Aircraft Database"
+}

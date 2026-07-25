@@ -1,0 +1,21 @@
+{
+  "id": "find-a-tender-service",
+  "name": "Find a Tender Service",
+  "topic": "government-spending-and-budgets",
+  "country": "gb",
+  "url": "https://www.find-tender.service.gov.uk/Search",
+  "description": "High-value public procurement notices published under UK procurement regulations, the post-Brexit successor to the EU tenders journal.",
+  "provider": "Cabinet Office",
+  "formats": [
+    "OCDS JSON",
+    "REST API",
+    "CSV"
+  ],
+  "size": "Multi-GB",
+  "records": "Notices from 2021 onward",
+  "license": "Open Government Licence v3.0",
+  "license_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Find a Tender Service, Cabinet Office"
+}

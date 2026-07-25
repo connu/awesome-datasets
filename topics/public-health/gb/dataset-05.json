@@ -1,0 +1,21 @@
+{
+  "id": "openprescribing",
+  "name": "OpenPrescribing",
+  "topic": "public-health",
+  "country": "gb",
+  "url": "https://openprescribing.net/",
+  "description": "A searchable analytics layer over English primary care prescribing with standardised measures, practice comparisons and a public API.",
+  "provider": "Bennett Institute for Applied Data Science, University of Oxford",
+  "formats": [
+    "REST API",
+    "CSV",
+    "JSON"
+  ],
+  "size": "Varies by query",
+  "records": "Monthly data for 6,000+ GP practices",
+  "license": "MIT (code); prescribing data under OGL v3.0",
+  "license_url": "https://openprescribing.net/about/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "OpenPrescribing.net, Bennett Institute for Applied Data Science, University of Oxford"
+}

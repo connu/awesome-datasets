@@ -1,0 +1,20 @@
+{
+  "id": "usda-nass-quick-stats",
+  "name": "USDA NASS Quick Stats",
+  "topic": "agriculture-and-crops",
+  "country": "us",
+  "url": "https://quickstats.nass.usda.gov/",
+  "description": "The full agricultural census and survey database with crop and livestock production, acreage, yield, price and farm economics down to county level.",
+  "provider": "USDA National Agricultural Statistics Service",
+  "formats": [
+    "CSV",
+    "REST API"
+  ],
+  "size": "~40 GB",
+  "records": "70 million+ observations since 1866",
+  "license": "US Government public domain",
+  "license_url": "https://www.nass.usda.gov/",
+  "access": "registration",
+  "commercial_use": "yes",
+  "cite": "USDA National Agricultural Statistics Service, Quick Stats"
+}

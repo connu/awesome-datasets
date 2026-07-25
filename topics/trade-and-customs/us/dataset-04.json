@@ -1,0 +1,20 @@
+{
+  "id": "bts-border-crossing-entry-data",
+  "name": "BTS Border Crossing Entry Data",
+  "topic": "trade-and-customs",
+  "country": "us",
+  "url": "https://www.bts.gov/browse-statistical-products-and-data/border-crossing-data/border-crossingentry-data",
+  "description": "Monthly counts of vehicles, containers, passengers and pedestrians entering the US at Canadian and Mexican border ports.",
+  "provider": "Bureau of Transportation Statistics",
+  "formats": [
+    "CSV",
+    "REST API"
+  ],
+  "size": "~200 MB",
+  "records": "Monthly series by port since 1996",
+  "license": "US Government public domain",
+  "license_url": "https://www.bts.gov/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Bureau of Transportation Statistics, Border Crossing/Entry Data"
+}

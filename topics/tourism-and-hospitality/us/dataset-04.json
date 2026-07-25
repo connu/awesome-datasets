@@ -1,0 +1,20 @@
+{
+  "id": "inside-airbnb-us-cities",
+  "name": "Inside Airbnb US Cities",
+  "topic": "tourism-and-hospitality",
+  "country": "us",
+  "url": "https://insideairbnb.com/get-the-data/",
+  "description": "Listing-level snapshots for New York, Los Angeles, Chicago, Austin and other US markets with nightly price, minimum stay, host portfolio size and review history.",
+  "provider": "Inside Airbnb",
+  "formats": [
+    "CSV",
+    "GeoJSON"
+  ],
+  "size": "~10 GB across cities",
+  "records": "Millions of listing snapshots",
+  "license": "CC0 1.0",
+  "license_url": "https://insideairbnb.com/data-policies/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Inside Airbnb, http://insideairbnb.com/"
+}

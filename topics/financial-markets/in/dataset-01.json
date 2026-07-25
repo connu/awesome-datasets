@@ -1,0 +1,21 @@
+{
+  "id": "nse-india-historical-data",
+  "name": "NSE India Historical Data",
+  "topic": "financial-markets",
+  "country": "in",
+  "url": "https://www.nseindia.com/reports-indices-historical-index-data",
+  "description": "Historical index values, bhavcopy end-of-day quotes, derivatives contract data and securities reference information for India's largest exchange.",
+  "provider": "National Stock Exchange of India",
+  "formats": [
+    "CSV",
+    "XLSX",
+    "ZIP"
+  ],
+  "size": "Multi-GB archive",
+  "records": "Daily records since 1994",
+  "license": "NSE terms of use; redistribution restricted",
+  "license_url": "https://www.nseindia.com/",
+  "access": "open",
+  "commercial_use": "no",
+  "cite": "National Stock Exchange of India Limited"
+}

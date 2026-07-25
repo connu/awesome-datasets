@@ -1,0 +1,21 @@
+{
+  "id": "ibge-sidra-api",
+  "name": "IBGE SIDRA API",
+  "topic": "ecommerce-and-retail",
+  "country": "br",
+  "url": "https://sidra.ibge.gov.br/",
+  "description": "Query interface and API over every IBGE aggregate table, covering retail, prices, production and services down to municipality level.",
+  "provider": "Instituto Brasileiro de Geografia e Estatística",
+  "formats": [
+    "REST API",
+    "CSV",
+    "XLSX"
+  ],
+  "size": "Varies by table",
+  "records": "8,000+ aggregate tables",
+  "license": "Free use with attribution to IBGE",
+  "license_url": "https://www.ibge.gov.br/acesso-informacao/institucional/copyright.html",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "IBGE, Sistema IBGE de Recuperação Automática (SIDRA)"
+}

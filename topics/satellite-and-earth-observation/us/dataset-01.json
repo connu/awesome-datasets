@@ -1,0 +1,21 @@
+{
+  "id": "usgs-earthexplorer",
+  "name": "USGS EarthExplorer",
+  "topic": "satellite-and-earth-observation",
+  "country": "us",
+  "url": "https://earthexplorer.usgs.gov/",
+  "description": "The primary access point for the full Landsat archive plus aerial photography, digital elevation and declassified satellite imagery going back to 1972.",
+  "provider": "US Geological Survey",
+  "formats": [
+    "GeoTIFF",
+    "HDF",
+    "JPEG2000"
+  ],
+  "size": "Multiple petabytes",
+  "records": "10 million+ Landsat scenes since 1972",
+  "license": "US Government public domain",
+  "license_url": "https://www.usgs.gov/information-policies-and-instructions/copyrights-and-credits",
+  "access": "registration",
+  "commercial_use": "yes",
+  "cite": "US Geological Survey, EarthExplorer"
+}

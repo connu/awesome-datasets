@@ -1,0 +1,21 @@
+{
+  "id": "noaa-national-weather-service-api",
+  "name": "NOAA National Weather Service API",
+  "topic": "weather-and-climate",
+  "country": "us",
+  "url": "https://www.weather.gov/documentation/services-web-api",
+  "description": "Official forecasts, active alerts, observations and gridded forecast data for the United States, free and without an API key.",
+  "provider": "National Weather Service",
+  "formats": [
+    "REST API",
+    "GeoJSON",
+    "JSON-LD"
+  ],
+  "size": "API",
+  "records": "National coverage, updated continuously",
+  "license": "US Government public domain",
+  "license_url": "https://www.weather.gov/disclaimer",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "NOAA National Weather Service API"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "us-treasury-fiscal-data-api",
+  "name": "US Treasury Fiscal Data API",
+  "topic": "financial-markets",
+  "country": "us",
+  "url": "https://fiscaldata.treasury.gov/api-documentation/",
+  "description": "Machine-readable federal financial data covering debt outstanding, auction results, interest rates, exchange rates and daily Treasury statements.",
+  "provider": "US Department of the Treasury",
+  "formats": [
+    "REST API",
+    "JSON",
+    "CSV",
+    "XML"
+  ],
+  "size": "API",
+  "records": "80+ datasets with daily updates",
+  "license": "US Government public domain",
+  "license_url": "https://fiscaldata.treasury.gov/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "US Department of the Treasury, Fiscal Data"
+}

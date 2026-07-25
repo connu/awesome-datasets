@@ -1,0 +1,23 @@
+{
+  "id": "data-gov-au-climate-and-environment",
+  "name": "data.gov.au Climate and Environment",
+  "topic": "weather-and-climate",
+  "country": "au",
+  "url": "https://data.gov.au/",
+  "description": "Australia's federal open data catalogue, covering weather, water, bushfire, land use and environmental monitoring published by Commonwealth and state agencies.",
+  "provider": "Australian Government",
+  "formats": [
+    "CSV",
+    "JSON",
+    "GeoJSON",
+    "WMS",
+    "REST API"
+  ],
+  "size": "Varies by dataset",
+  "records": "80,000+ datasets",
+  "license": "Commonly CC BY 4.0; varies by publisher",
+  "license_url": "https://data.gov.au/",
+  "access": "open",
+  "commercial_use": "check",
+  "cite": "data.gov.au, Australian Government open data"
+}

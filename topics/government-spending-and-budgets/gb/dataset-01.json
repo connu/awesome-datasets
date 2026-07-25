@@ -1,0 +1,21 @@
+{
+  "id": "contracts-finder",
+  "name": "Contracts Finder",
+  "topic": "government-spending-and-budgets",
+  "country": "gb",
+  "url": "https://www.contractsfinder.service.gov.uk/Search",
+  "description": "Public sector procurement notices and awarded contracts above threshold, with supplier, value, dates and CPV classification, available as OCDS-formatted data.",
+  "provider": "Cabinet Office",
+  "formats": [
+    "OCDS JSON",
+    "CSV",
+    "REST API"
+  ],
+  "size": "Multi-GB",
+  "records": "Millions of notices and awards",
+  "license": "Open Government Licence v3.0",
+  "license_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Contracts Finder, Cabinet Office"
+}

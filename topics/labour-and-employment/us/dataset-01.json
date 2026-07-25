@@ -1,0 +1,21 @@
+{
+  "id": "bls-public-data-api",
+  "name": "BLS Public Data API",
+  "topic": "labour-and-employment",
+  "country": "us",
+  "url": "https://www.bls.gov/developers/",
+  "description": "Programmatic access to every published BLS series including unemployment, payroll employment, wages, productivity and price indices.",
+  "provider": "Bureau of Labor Statistics",
+  "formats": [
+    "REST API",
+    "JSON",
+    "TXT"
+  ],
+  "size": "API",
+  "records": "500,000+ time series",
+  "license": "US Government public domain",
+  "license_url": "https://www.bls.gov/bls/linksite.htm",
+  "access": "registration",
+  "commercial_use": "yes",
+  "cite": "US Bureau of Labor Statistics Public Data API"
+}

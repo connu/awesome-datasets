@@ -1,0 +1,21 @@
+{
+  "id": "nied-k-net-and-kik-net-strong-motion",
+  "name": "NIED K-NET and KiK-net Strong Motion",
+  "topic": "earthquakes-and-natural-hazards",
+  "country": "jp",
+  "url": "https://www.kyoshin.bosai.go.jp/",
+  "description": "Strong-motion accelerograms from over a thousand nationwide seismographs, the reference ground motion dataset for earthquake engineering research.",
+  "provider": "National Research Institute for Earth Science and Disaster Resilience",
+  "formats": [
+    "ASCII",
+    "SAC",
+    "ZIP"
+  ],
+  "size": "Multi-TB",
+  "records": "1,000+ stations recording since 1996",
+  "license": "Free for research with registration and attribution",
+  "license_url": "https://www.kyoshin.bosai.go.jp/",
+  "access": "registration",
+  "commercial_use": "check",
+  "cite": "National Research Institute for Earth Science and Disaster Resilience, K-NET and KiK-net"
+}

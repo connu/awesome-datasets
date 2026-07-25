@@ -1,0 +1,21 @@
+{
+  "id": "nied-hi-net-high-sensitivity-seismograph-network",
+  "name": "NIED Hi-net High Sensitivity Seismograph Network",
+  "topic": "earthquakes-and-natural-hazards",
+  "country": "jp",
+  "url": "https://www.hinet.bosai.go.jp/",
+  "description": "Continuous waveform data and automatic hypocentre determinations from Japan's dense high-sensitivity borehole seismometer network.",
+  "provider": "National Research Institute for Earth Science and Disaster Resilience",
+  "formats": [
+    "WIN32",
+    "SEED",
+    "CSV"
+  ],
+  "size": "Petabyte-scale",
+  "records": "800+ stations with continuous recording",
+  "license": "Free for research with registration and attribution",
+  "license_url": "https://www.hinet.bosai.go.jp/",
+  "access": "registration",
+  "commercial_use": "check",
+  "cite": "NIED Hi-net, National Research Institute for Earth Science and Disaster Resilience"
+}

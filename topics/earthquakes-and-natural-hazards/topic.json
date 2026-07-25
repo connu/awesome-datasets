@@ -1,0 +1,9 @@
+{
+  "slug": "earthquakes-and-natural-hazards",
+  "title": "Earthquakes & Natural Hazards",
+  "description": "Seismic catalogues, ground motion records, flood and wildfire extents and disaster loss databases.",
+  "countries": [
+    "jp",
+    "us"
+  ]
+}

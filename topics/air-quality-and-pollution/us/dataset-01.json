@@ -1,0 +1,20 @@
+{
+  "id": "epa-air-quality-system-aqs",
+  "name": "EPA Air Quality System (AQS)",
+  "topic": "air-quality-and-pollution",
+  "country": "us",
+  "url": "https://www.epa.gov/aqs",
+  "description": "The federal repository of ambient air monitoring data, holding validated hourly, daily and annual pollutant measurements from thousands of state and local monitors.",
+  "provider": "US Environmental Protection Agency",
+  "formats": [
+    "CSV",
+    "REST API"
+  ],
+  "size": "~50 GB",
+  "records": "Billions of measurements since 1957",
+  "license": "US Government public domain",
+  "license_url": "https://www.epa.gov/",
+  "access": "registration",
+  "commercial_use": "yes",
+  "cite": "US EPA, Air Quality System"
+}

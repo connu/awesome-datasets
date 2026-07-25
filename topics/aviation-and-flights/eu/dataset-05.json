@@ -1,0 +1,21 @@
+{
+  "id": "opensky-network-european-coverage",
+  "name": "OpenSky Network European Coverage",
+  "topic": "aviation-and-flights",
+  "country": "eu",
+  "url": "https://opensky-network.org/datasets/",
+  "description": "Curated public datasets derived from the OpenSky sensor network, including COVID-19 flight impact, aircraft database and state vector samples with dense European coverage.",
+  "provider": "OpenSky Network",
+  "formats": [
+    "CSV",
+    "Parquet",
+    "GZIP"
+  ],
+  "size": "~500 GB",
+  "records": "Curated multi-year flight datasets",
+  "license": "CC BY 4.0 for published datasets",
+  "license_url": "https://opensky-network.org/about/terms-of-use",
+  "access": "open",
+  "commercial_use": "check",
+  "cite": "Strohmeier et al. (2021), Crowdsourced Air Traffic Data from the OpenSky Network. Earth System Science Data"
+}

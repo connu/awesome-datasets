@@ -1,0 +1,21 @@
+{
+  "id": "ofcom-data-and-research",
+  "name": "Ofcom Data and Research",
+  "topic": "telecom-and-broadband",
+  "country": "gb",
+  "url": "https://www.ofcom.org.uk/research-and-data",
+  "description": "Communications market research covering telecoms, broadcasting, post and online, including consumer usage, pricing and market share statistics.",
+  "provider": "Ofcom",
+  "formats": [
+    "CSV",
+    "XLSX",
+    "PDF"
+  ],
+  "size": "Varies by publication",
+  "records": "Hundreds of research outputs",
+  "license": "Open Government Licence v3.0",
+  "license_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Ofcom research and data"
+}

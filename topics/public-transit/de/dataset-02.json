@@ -1,0 +1,22 @@
+{
+  "id": "deutsche-bahn-open-data",
+  "name": "Deutsche Bahn Open Data",
+  "topic": "public-transit",
+  "country": "de",
+  "url": "https://data.deutschebahn.com/",
+  "description": "Rail network and station data including station facilities, platform geometry, lifts and escalators, parking, and travel centre locations.",
+  "provider": "Deutsche Bahn AG",
+  "formats": [
+    "CSV",
+    "JSON",
+    "GeoJSON",
+    "REST API"
+  ],
+  "size": "Varies by dataset",
+  "records": "100+ datasets covering 5,400 stations",
+  "license": "CC BY 4.0 and Deutsche Bahn Datenlizenz",
+  "license_url": "https://data.deutschebahn.com/",
+  "access": "open",
+  "commercial_use": "check",
+  "cite": "Deutsche Bahn Open-Data-Portal"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "lok-dhaba",
+  "name": "Lok Dhaba",
+  "topic": "elections-and-voting",
+  "country": "in",
+  "url": "https://lokdhaba.ashoka.edu.in/",
+  "description": "Cleaned and machine-readable constituency-level results for Indian national and state elections, with candidate names, parties, votes and normalised party codes.",
+  "provider": "Trivedi Centre for Political Data, Ashoka University",
+  "formats": [
+    "CSV",
+    "REST API"
+  ],
+  "size": "~500 MB",
+  "records": "All general and assembly elections since 1962",
+  "license": "CC BY-NC-SA 4.0",
+  "license_url": "https://lokdhaba.ashoka.edu.in/",
+  "access": "open",
+  "commercial_use": "no",
+  "cite": "Trivedi Centre for Political Data, Lok Dhaba, Ashoka University"
+}

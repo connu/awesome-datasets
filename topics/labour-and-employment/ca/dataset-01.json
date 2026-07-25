@@ -1,0 +1,22 @@
+{
+  "id": "statistics-canada-web-data-service",
+  "name": "Statistics Canada Web Data Service",
+  "topic": "labour-and-employment",
+  "country": "ca",
+  "url": "https://www.statcan.gc.ca/en/developers",
+  "description": "REST API and bulk downloads for every Statistics Canada table, covering labour force, income, demographics, trade and industry.",
+  "provider": "Statistics Canada",
+  "formats": [
+    "REST API",
+    "CSV",
+    "JSON",
+    "SDMX"
+  ],
+  "size": "Varies by table",
+  "records": "8,000+ data tables",
+  "license": "Statistics Canada Open Licence",
+  "license_url": "https://www.statcan.gc.ca/en/reference/licence",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Statistics Canada Web Data Service"
+}

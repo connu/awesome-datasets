@@ -1,0 +1,21 @@
+{
+  "id": "opensecrets-bulk-data",
+  "name": "OpenSecrets Bulk Data",
+  "topic": "elections-and-voting",
+  "country": "us",
+  "url": "https://www.opensecrets.org/open-data/bulk-data",
+  "description": "Campaign finance records enriched with industry and sector classification, lobbying registrations, personal financial disclosures and revolving-door tracking.",
+  "provider": "OpenSecrets",
+  "formats": [
+    "CSV",
+    "TXT",
+    "REST API"
+  ],
+  "size": "~20 GB",
+  "records": "Federal campaign and lobbying records since 1989",
+  "license": "Free for academic and non-commercial use; commercial licence required",
+  "license_url": "https://www.opensecrets.org/open-data/api-terms",
+  "access": "registration",
+  "commercial_use": "no",
+  "cite": "OpenSecrets.org, Center for Responsive Politics"
+}

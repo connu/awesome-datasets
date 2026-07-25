@@ -1,0 +1,22 @@
+{
+  "id": "usgs-national-water-information-system",
+  "name": "USGS National Water Information System",
+  "topic": "water-and-sanitation",
+  "country": "us",
+  "url": "https://waterdata.usgs.gov/nwis",
+  "description": "Real-time and historical streamflow, gauge height, groundwater level, water quality and sediment data from hundreds of thousands of monitoring sites.",
+  "provider": "US Geological Survey",
+  "formats": [
+    "CSV",
+    "JSON",
+    "WaterML",
+    "REST API"
+  ],
+  "size": "Multi-TB",
+  "records": "1.9 million+ sites, records from 1889",
+  "license": "US Government public domain",
+  "license_url": "https://www.usgs.gov/information-policies-and-instructions/copyrights-and-credits",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "US Geological Survey, National Water Information System"
+}

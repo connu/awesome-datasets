@@ -1,0 +1,21 @@
+{
+  "id": "ffiec-call-reports",
+  "name": "FFIEC Call Reports",
+  "topic": "banking-and-payments",
+  "country": "us",
+  "url": "https://cdr.ffiec.gov/public/",
+  "description": "Quarterly regulatory filings from every US bank with full balance sheet, income statement, loan composition, capital ratios and credit quality detail.",
+  "provider": "Federal Financial Institutions Examination Council",
+  "formats": [
+    "CSV",
+    "XBRL",
+    "TXT"
+  ],
+  "size": "~100 GB",
+  "records": "4,500+ banks filing quarterly since 1976",
+  "license": "US Government public domain",
+  "license_url": "https://cdr.ffiec.gov/public/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "FFIEC Central Data Repository, Call Reports"
+}

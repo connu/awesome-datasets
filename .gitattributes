@@ -1,0 +1,13 @@
+* text=auto eol=lf
+
+*.json text
+*.csv  text
+*.md   text
+*.py   text
+*.yml  text
+
+# Generated - collapse in pull request diffs so reviewers see the JSON change.
+README.md            linguist-generated=true
+topics/**/README.md  linguist-generated=true
+data/datasets.csv         linguist-generated=true
+data/country-datasets.csv linguist-generated=true

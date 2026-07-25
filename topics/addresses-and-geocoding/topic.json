@@ -1,0 +1,9 @@
+{
+  "slug": "addresses-and-geocoding",
+  "title": "Addresses & Geocoding",
+  "description": "Authoritative address points, postcode registers, administrative boundaries and geocoding services.",
+  "countries": [
+    "fr",
+    "us"
+  ]
+}

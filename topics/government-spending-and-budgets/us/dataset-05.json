@@ -1,0 +1,21 @@
+{
+  "id": "federal-audit-clearinghouse",
+  "name": "Federal Audit Clearinghouse",
+  "topic": "government-spending-and-budgets",
+  "country": "us",
+  "url": "https://www.fac.gov/",
+  "description": "Single audit reports for every entity spending federal award money above the threshold, with findings, questioned costs and auditee financial detail.",
+  "provider": "US General Services Administration",
+  "formats": [
+    "CSV",
+    "REST API",
+    "PDF"
+  ],
+  "size": "~20 GB",
+  "records": "40,000+ audits per year since 1997",
+  "license": "US Government public domain",
+  "license_url": "https://www.fac.gov/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Federal Audit Clearinghouse, US General Services Administration"
+}

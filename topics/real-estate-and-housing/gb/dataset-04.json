@@ -1,0 +1,21 @@
+{
+  "id": "ons-housing-statistics",
+  "name": "ONS Housing Statistics",
+  "topic": "real-estate-and-housing",
+  "country": "gb",
+  "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing",
+  "description": "National statistics on housing affordability, private rental prices, dwelling stock, second homes and household composition.",
+  "provider": "Office for National Statistics",
+  "formats": [
+    "CSV",
+    "XLSX",
+    "REST API"
+  ],
+  "size": "Varies by series",
+  "records": "Hundreds of published series",
+  "license": "Open Government Licence v3.0",
+  "license_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Office for National Statistics, Housing"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "marktstammdatenregister",
+  "name": "Marktstammdatenregister",
+  "topic": "energy-and-electricity",
+  "country": "de",
+  "url": "https://www.marktstammdatenregister.de/MaStR",
+  "description": "The statutory register of every electricity and gas generating unit in Germany, down to individual rooftop solar installations, with capacity, location and commissioning date.",
+  "provider": "Bundesnetzagentur",
+  "formats": [
+    "XML",
+    "CSV",
+    "REST API"
+  ],
+  "size": "~15 GB",
+  "records": "5 million+ registered units",
+  "license": "Datenlizenz Deutschland Namensnennung 2.0",
+  "license_url": "https://www.govdata.de/dl-de/by-2-0",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Bundesnetzagentur, Marktstammdatenregister"
+}

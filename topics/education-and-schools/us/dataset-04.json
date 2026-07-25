@@ -1,0 +1,19 @@
+{
+  "id": "civil-rights-data-collection",
+  "name": "Civil Rights Data Collection",
+  "topic": "education-and-schools",
+  "country": "us",
+  "url": "https://civilrightsdata.ed.gov/",
+  "description": "School-level data on discipline, restraint, course access, chronic absenteeism and teacher experience, broken out by race, sex, disability and English learner status.",
+  "provider": "US Department of Education Office for Civil Rights",
+  "formats": [
+    "CSV"
+  ],
+  "size": "~5 GB",
+  "records": "17,000+ districts, 97,000+ schools",
+  "license": "US Government public domain",
+  "license_url": "https://civilrightsdata.ed.gov/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "US Department of Education, Civil Rights Data Collection"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "chicago-transportation-network-providers-trips",
+  "name": "Chicago Transportation Network Providers Trips",
+  "topic": "taxi-and-ride-hailing",
+  "country": "us",
+  "url": "https://data.cityofchicago.org/Transportation/Transportation-Network-Providers-Trips-2023-/n26f-ihde",
+  "description": "Ride-hailing trips reported by Uber, Lyft and Via in Chicago with pickup and dropoff tracts, fare, tip, shared-trip flag and trip duration.",
+  "provider": "City of Chicago",
+  "formats": [
+    "CSV",
+    "JSON",
+    "REST API"
+  ],
+  "size": "~50 GB",
+  "records": "300 million+ ride-hailing trips",
+  "license": "City of Chicago open data terms",
+  "license_url": "https://www.chicago.gov/city/en/narr/foia/data_disclaimer.html",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Chicago Data Portal, Transportation Network Providers Trips"
+}

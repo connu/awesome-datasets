@@ -1,0 +1,22 @@
+{
+  "id": "fema-openfema",
+  "name": "FEMA OpenFEMA",
+  "topic": "earthquakes-and-natural-hazards",
+  "country": "us",
+  "url": "https://www.fema.gov/about/openfema/data-sets",
+  "description": "Disaster declarations, individual and public assistance awards, flood insurance claims and policy records published as open datasets with an API.",
+  "provider": "Federal Emergency Management Agency",
+  "formats": [
+    "CSV",
+    "JSON",
+    "Parquet",
+    "REST API"
+  ],
+  "size": "~50 GB",
+  "records": "Millions of claims and assistance records",
+  "license": "US Government public domain",
+  "license_url": "https://www.fema.gov/about/openfema/terms-conditions",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "OpenFEMA, Federal Emergency Management Agency"
+}

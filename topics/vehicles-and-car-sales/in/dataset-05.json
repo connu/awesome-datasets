@@ -1,0 +1,21 @@
+{
+  "id": "parivahan-analytics-and-reports",
+  "name": "Parivahan Analytics and Reports",
+  "topic": "vehicles-and-car-sales",
+  "country": "in",
+  "url": "https://parivahan.gov.in/parivahan/",
+  "description": "National transport portal exposing registration, permit, fitness and driving licence statistics from the Vahan and Sarathi systems.",
+  "provider": "Ministry of Road Transport and Highways",
+  "formats": [
+    "Web dashboard",
+    "PDF",
+    "XLSX"
+  ],
+  "size": "Varies by report",
+  "records": "National coverage across 1,300+ RTOs",
+  "license": "Government Open Data License - India",
+  "license_url": "https://www.data.gov.in/government-open-data-license-india",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Parivahan Sewa, Ministry of Road Transport and Highways"
+}

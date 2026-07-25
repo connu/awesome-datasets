@@ -1,0 +1,21 @@
+{
+  "id": "eurocontrol-aviation-intelligence-portal",
+  "name": "EUROCONTROL Aviation Intelligence Portal",
+  "topic": "aviation-and-flights",
+  "country": "eu",
+  "url": "https://www.eurocontrol.int/our-data",
+  "description": "Pan-European air traffic statistics covering daily traffic counts, delays, punctuality, airport throughput and network performance.",
+  "provider": "EUROCONTROL",
+  "formats": [
+    "CSV",
+    "XLSX",
+    "Dashboard"
+  ],
+  "size": "Multi-GB",
+  "records": "Daily series across European airports and states",
+  "license": "EUROCONTROL terms, free reuse with attribution",
+  "license_url": "https://www.eurocontrol.int/our-data",
+  "access": "open",
+  "commercial_use": "check",
+  "cite": "EUROCONTROL Aviation Intelligence Unit"
+}

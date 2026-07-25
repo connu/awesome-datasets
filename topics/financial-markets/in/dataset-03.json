@@ -1,0 +1,21 @@
+{
+  "id": "rbi-database-on-indian-economy",
+  "name": "RBI Database on Indian Economy",
+  "topic": "financial-markets",
+  "country": "in",
+  "url": "https://data.rbi.org.in/",
+  "description": "The central bank's statistical warehouse covering money supply, banking aggregates, interest rates, exchange rates, balance of payments and state finances.",
+  "provider": "Reserve Bank of India",
+  "formats": [
+    "CSV",
+    "XLSX",
+    "Web query"
+  ],
+  "size": "Multi-GB",
+  "records": "Thousands of macro-financial series",
+  "license": "Free reuse with attribution to RBI",
+  "license_url": "https://www.rbi.org.in/Scripts/Copyright.aspx",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Reserve Bank of India, Database on Indian Economy"
+}

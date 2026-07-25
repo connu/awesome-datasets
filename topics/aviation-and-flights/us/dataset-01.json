@@ -1,0 +1,20 @@
+{
+  "id": "bts-on-time-performance",
+  "name": "BTS On-Time Performance",
+  "topic": "aviation-and-flights",
+  "country": "us",
+  "url": "https://www.transtats.bts.gov/ontime/",
+  "description": "Every scheduled domestic flight by a reporting US carrier with departure and arrival delay, cancellation, diversion and delay-cause breakdown.",
+  "provider": "Bureau of Transportation Statistics",
+  "formats": [
+    "CSV",
+    "ZIP"
+  ],
+  "size": "~30 GB",
+  "records": "200 million+ flights since 1987",
+  "license": "US Government public domain",
+  "license_url": "https://www.bts.gov/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Bureau of Transportation Statistics, Airline On-Time Performance Data"
+}

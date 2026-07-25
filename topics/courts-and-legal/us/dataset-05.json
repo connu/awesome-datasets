@@ -1,0 +1,21 @@
+{
+  "id": "govinfo-bulk-data",
+  "name": "GovInfo Bulk Data",
+  "topic": "courts-and-legal",
+  "country": "us",
+  "url": "https://www.govinfo.gov/bulkdata",
+  "description": "Structured XML of federal statutes, the Code of Federal Regulations, the Federal Register, congressional bills and the US Code.",
+  "provider": "US Government Publishing Office",
+  "formats": [
+    "XML",
+    "ZIP",
+    "REST API"
+  ],
+  "size": "~200 GB",
+  "records": "Full federal legislative and regulatory corpus",
+  "license": "US Government public domain",
+  "license_url": "https://www.govinfo.gov/about/policies",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "GovInfo, US Government Publishing Office"
+}

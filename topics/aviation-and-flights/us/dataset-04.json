@@ -1,0 +1,22 @@
+{
+  "id": "ntsb-aviation-accident-database",
+  "name": "NTSB Aviation Accident Database",
+  "topic": "aviation-and-flights",
+  "country": "us",
+  "url": "https://www.ntsb.gov/Pages/AviationQueryV2.aspx",
+  "description": "Investigated civil aviation accidents and incidents since 1962 with aircraft, operation type, injuries, weather, phase of flight and probable cause.",
+  "provider": "National Transportation Safety Board",
+  "formats": [
+    "CSV",
+    "JSON",
+    "XML",
+    "Access DB"
+  ],
+  "size": "~1 GB",
+  "records": "90,000+ investigated events",
+  "license": "US Government public domain",
+  "license_url": "https://www.ntsb.gov/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "National Transportation Safety Board, Aviation Accident Database"
+}

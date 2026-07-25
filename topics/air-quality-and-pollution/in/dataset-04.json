@@ -1,0 +1,22 @@
+{
+  "id": "nasa-earthdata-air-quality",
+  "name": "NASA Earthdata Air Quality",
+  "topic": "air-quality-and-pollution",
+  "country": "in",
+  "url": "https://www.earthdata.nasa.gov/topics/atmosphere/air-quality",
+  "description": "Satellite-derived aerosol optical depth, NO2 and particulate estimates with global coverage, widely used to fill gaps where ground monitors are sparse.",
+  "provider": "NASA",
+  "formats": [
+    "HDF",
+    "NetCDF",
+    "GeoTIFF",
+    "REST API"
+  ],
+  "size": "TB-scale",
+  "records": "Daily global coverage since 2000",
+  "license": "NASA open data policy, free and open",
+  "license_url": "https://www.earthdata.nasa.gov/engage/open-data-services-software-policies",
+  "access": "registration",
+  "commercial_use": "yes",
+  "cite": "NASA Earthdata"
+}

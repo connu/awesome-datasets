@@ -1,0 +1,22 @@
+{
+  "id": "portal-brasileiro-de-dados-abertos",
+  "name": "Portal Brasileiro de Dados Abertos",
+  "topic": "ecommerce-and-retail",
+  "country": "br",
+  "url": "https://dados.gov.br/",
+  "description": "Federal open data catalogue aggregating datasets from every ministry, including commerce, consumer complaints, tax and procurement records.",
+  "provider": "Government of Brazil",
+  "formats": [
+    "CSV",
+    "JSON",
+    "XML",
+    "REST API"
+  ],
+  "size": "Varies by dataset",
+  "records": "10,000+ datasets",
+  "license": "Varies by publisher; commonly CC BY",
+  "license_url": "https://dados.gov.br/",
+  "access": "open",
+  "commercial_use": "check",
+  "cite": "Portal Brasileiro de Dados Abertos"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "hmda-loan-application-register",
+  "name": "HMDA Loan Application Register",
+  "topic": "real-estate-and-housing",
+  "country": "us",
+  "url": "https://ffiec.cfpb.gov/data-browser/",
+  "description": "Every reported mortgage application in the country with loan amount, purpose, outcome, applicant demographics and census-tract location.",
+  "provider": "Consumer Financial Protection Bureau",
+  "formats": [
+    "CSV",
+    "REST API"
+  ],
+  "size": "~10 GB per year",
+  "records": "~15 million applications per year",
+  "license": "US Government public domain",
+  "license_url": "https://ffiec.cfpb.gov/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Home Mortgage Disclosure Act data, CFPB"
+}

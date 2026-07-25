@@ -1,0 +1,21 @@
+{
+  "id": "fmcsa-motor-carrier-safety-data",
+  "name": "FMCSA Motor Carrier Safety Data",
+  "topic": "road-safety-and-accidents",
+  "country": "us",
+  "url": "https://data.transportation.gov/",
+  "description": "Commercial vehicle safety records covering carrier registrations, roadside inspections, violations and large-truck crash involvement.",
+  "provider": "Federal Motor Carrier Safety Administration",
+  "formats": [
+    "CSV",
+    "JSON",
+    "REST API"
+  ],
+  "size": "Multi-GB",
+  "records": "Millions of inspection and crash records",
+  "license": "US Government public domain",
+  "license_url": "https://data.transportation.gov/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "US DOT, data.transportation.gov"
+}

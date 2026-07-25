@@ -1,0 +1,21 @@
+{
+  "id": "treasury-fiscal-service-federal-spending",
+  "name": "Treasury Fiscal Service Federal Spending",
+  "topic": "government-spending-and-budgets",
+  "country": "us",
+  "url": "https://fiscaldata.treasury.gov/datasets/",
+  "description": "Authoritative fiscal datasets including the monthly treasury statement, debt to the penny, federal revenue collections and outlays by function.",
+  "provider": "US Department of the Treasury",
+  "formats": [
+    "REST API",
+    "CSV",
+    "JSON"
+  ],
+  "size": "API and bulk files",
+  "records": "80+ fiscal datasets",
+  "license": "US Government public domain",
+  "license_url": "https://fiscaldata.treasury.gov/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Fiscal Data, US Department of the Treasury"
+}

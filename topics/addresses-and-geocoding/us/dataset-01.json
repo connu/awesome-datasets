@@ -1,0 +1,20 @@
+{
+  "id": "census-geocoder",
+  "name": "Census Geocoder",
+  "topic": "addresses-and-geocoding",
+  "country": "us",
+  "url": "https://geocoding.geo.census.gov/geocoder/",
+  "description": "A free official geocoding service returning coordinates plus census tract, block and congressional district for any US address, in single or batch mode.",
+  "provider": "US Census Bureau",
+  "formats": [
+    "REST API",
+    "CSV"
+  ],
+  "size": "API",
+  "records": "National address coverage",
+  "license": "US Government public domain",
+  "license_url": "https://www.census.gov/about/policies/open-gov.html",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "US Census Bureau Geocoding Services"
+}

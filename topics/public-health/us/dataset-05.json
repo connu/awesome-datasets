@@ -1,0 +1,20 @@
+{
+  "id": "nhanes",
+  "name": "NHANES",
+  "topic": "public-health",
+  "country": "us",
+  "url": "https://www.cdc.gov/nchs/nhanes/index.htm",
+  "description": "Survey combining interviews with physical examinations and laboratory tests, giving objectively measured biomarkers, diet and body composition for a national sample.",
+  "provider": "National Center for Health Statistics",
+  "formats": [
+    "SAS XPORT",
+    "CSV"
+  ],
+  "size": "~20 GB",
+  "records": "~5,000 examined participants per year",
+  "license": "US Government public domain",
+  "license_url": "https://www.cdc.gov/nchs/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "CDC National Center for Health Statistics, NHANES"
+}

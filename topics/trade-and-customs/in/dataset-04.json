@@ -1,0 +1,21 @@
+{
+  "id": "rbi-balance-of-payments-and-trade-statistics",
+  "name": "RBI Balance of Payments and Trade Statistics",
+  "topic": "trade-and-customs",
+  "country": "in",
+  "url": "https://data.rbi.org.in/",
+  "description": "Central bank statistics on merchandise and invisible trade, balance of payments, external debt and foreign investment flows.",
+  "provider": "Reserve Bank of India",
+  "formats": [
+    "CSV",
+    "XLSX",
+    "Web query"
+  ],
+  "size": "Multi-GB",
+  "records": "Quarterly and annual series since 1949",
+  "license": "Free reuse with attribution to RBI",
+  "license_url": "https://www.rbi.org.in/Scripts/Copyright.aspx",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Reserve Bank of India, Database on Indian Economy"
+}

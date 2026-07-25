@@ -1,0 +1,20 @@
+{
+  "id": "nhs-business-services-authority-prescription-data",
+  "name": "NHS Business Services Authority Prescription Data",
+  "topic": "public-health",
+  "country": "gb",
+  "url": "https://opendata.nhsbsa.net/",
+  "description": "Every prescription item dispensed in English primary care, by practice, BNF chemical, quantity and cost, published monthly.",
+  "provider": "NHS Business Services Authority",
+  "formats": [
+    "CSV",
+    "REST API"
+  ],
+  "size": "~50 GB",
+  "records": "1 billion+ prescription items per year",
+  "license": "Open Government Licence v3.0",
+  "license_url": "https://opendata.nhsbsa.net/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "NHS Business Services Authority Open Data Portal"
+}

@@ -1,0 +1,56 @@
+name: Broken link or wrong metadata
+description: A URL is dead, or a license, size or record count is wrong.
+title: "[fix] "
+labels: ["correction"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Corrections are as valuable as additions. If you know the right value,
+        a pull request editing the JSON file is very welcome.
+
+  - type: input
+    id: file
+    attributes:
+      label: Which entry?
+      description: The JSON file path, or the dataset name if you are not sure.
+      placeholder: topics/vehicles-and-car-sales/in/dataset-01.json
+    validations:
+      required: true
+
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What is wrong?
+      options:
+        - The URL is dead or redirects somewhere unrelated
+        - The license is wrong or has changed
+        - The size or record count is wrong
+        - The description is inaccurate
+        - The dataset is no longer publicly available
+        - Something else
+    validations:
+      required: true
+
+  - type: textarea
+    id: detail
+    attributes:
+      label: What did you see?
+      description: What you expected, what happened, and the correct value if you know it.
+    validations:
+      required: true
+
+  - type: input
+    id: evidence
+    attributes:
+      label: Source for the correct value
+      description: A link showing the new license, new URL, or updated figure.
+    validations:
+      required: false
+
+  - type: markdown
+    attributes:
+      value: |
+        **Note:** the automated link checker deliberately skips hosts that block
+        bots (Kaggle, FRED, NSE and a few others). A failing check on those is
+        expected and is not a bug.

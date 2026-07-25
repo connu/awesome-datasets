@@ -1,0 +1,21 @@
+{
+  "id": "nyc-tlc-licensed-vehicles-and-drivers",
+  "name": "NYC TLC Licensed Vehicles and Drivers",
+  "topic": "taxi-and-ride-hailing",
+  "country": "us",
+  "url": "https://data.cityofnewyork.us/Transportation/TLC-Vehicle-Licenses/pkmi-4kfn",
+  "description": "The register of licensed for-hire vehicles and medallions with base affiliation, vehicle type, wheelchair accessibility and licence expiry.",
+  "provider": "NYC Taxi and Limousine Commission",
+  "formats": [
+    "CSV",
+    "JSON",
+    "REST API"
+  ],
+  "size": "~500 MB",
+  "records": "100,000+ licensed vehicles",
+  "license": "NYC Open Data Terms of Use",
+  "license_url": "https://opendata.cityofnewyork.us/overview/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "NYC Open Data, TLC Vehicle Licenses"
+}

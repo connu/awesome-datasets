@@ -1,0 +1,21 @@
+{
+  "id": "fars-fatality-analysis-reporting-system",
+  "name": "FARS Fatality Analysis Reporting System",
+  "topic": "road-safety-and-accidents",
+  "country": "us",
+  "url": "https://www.nhtsa.gov/research-data/fatality-analysis-reporting-system-fars",
+  "description": "A census of every fatal traffic crash on US public roads since 1975, with over a hundred coded variables per crash, vehicle and person involved.",
+  "provider": "National Highway Traffic Safety Administration",
+  "formats": [
+    "CSV",
+    "SAS",
+    "DBF"
+  ],
+  "size": "~5 GB full archive",
+  "records": "~35,000 fatal crashes per year since 1975",
+  "license": "US Government public domain",
+  "license_url": "https://www.nhtsa.gov/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "NHTSA, Fatality Analysis Reporting System"
+}

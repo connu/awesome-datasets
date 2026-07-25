@@ -1,0 +1,21 @@
+{
+  "id": "mospi-national-statistics",
+  "name": "MoSPI National Statistics",
+  "topic": "census-and-demographics",
+  "country": "in",
+  "url": "https://www.mospi.gov.in/",
+  "description": "India's central statistics office publishing national accounts, consumption expenditure, periodic labour force and price index data.",
+  "provider": "Ministry of Statistics and Programme Implementation",
+  "formats": [
+    "XLSX",
+    "CSV",
+    "PDF"
+  ],
+  "size": "Varies by release",
+  "records": "Hundreds of statistical releases",
+  "license": "Government Open Data License - India",
+  "license_url": "https://www.data.gov.in/government-open-data-license-india",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Ministry of Statistics and Programme Implementation, Government of India"
+}

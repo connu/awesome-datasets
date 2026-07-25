@@ -1,0 +1,21 @@
+{
+  "id": "dgft-trade-notifications-and-data",
+  "name": "DGFT Trade Notifications and Data",
+  "topic": "trade-and-customs",
+  "country": "in",
+  "url": "https://www.dgft.gov.in/CP/",
+  "description": "Foreign trade policy, export incentive schemes, import and export licensing data and the ITC-HS commodity classification schedules.",
+  "provider": "Directorate General of Foreign Trade",
+  "formats": [
+    "PDF",
+    "XLSX",
+    "Web"
+  ],
+  "size": "~2 GB",
+  "records": "Policy and licensing records",
+  "license": "Government Open Data License - India",
+  "license_url": "https://www.data.gov.in/government-open-data-license-india",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Directorate General of Foreign Trade, Ministry of Commerce and Industry"
+}

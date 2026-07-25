@@ -1,0 +1,21 @@
+{
+  "id": "smard-strommarktdaten",
+  "name": "SMARD Strommarktdaten",
+  "topic": "energy-and-electricity",
+  "country": "de",
+  "url": "https://www.smard.de/en",
+  "description": "The German regulator's electricity market platform publishing quarter-hourly generation by source, consumption, cross-border flows and wholesale prices.",
+  "provider": "Bundesnetzagentur",
+  "formats": [
+    "CSV",
+    "XLSX",
+    "REST API"
+  ],
+  "size": "Multi-GB",
+  "records": "Quarter-hourly series from 2015",
+  "license": "CC BY 4.0",
+  "license_url": "https://www.smard.de/en/datennutzung",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Bundesnetzagentur, SMARD.de"
+}

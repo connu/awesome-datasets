@@ -1,0 +1,21 @@
+{
+  "id": "ofcom-spectrum-information-system",
+  "name": "Ofcom Spectrum Information System",
+  "topic": "telecom-and-broadband",
+  "country": "gb",
+  "url": "https://www.ofcom.org.uk/spectrum/frequencies/spectrum-information-portal",
+  "description": "Register of UK spectrum licences and transmitter sites with frequency, location, power and licensee, including the wireless telegraphy register.",
+  "provider": "Ofcom",
+  "formats": [
+    "CSV",
+    "XLSX",
+    "Web"
+  ],
+  "size": "~2 GB",
+  "records": "Hundreds of thousands of licence records",
+  "license": "Open Government Licence v3.0",
+  "license_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Ofcom Spectrum Information System"
+}

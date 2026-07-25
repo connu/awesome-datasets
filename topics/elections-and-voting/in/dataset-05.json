@@ -1,0 +1,21 @@
+{
+  "id": "shrug-socioeconomic-high-resolution-rural-urban-geographic-platform",
+  "name": "SHRUG Socioeconomic High-resolution Rural-Urban Geographic Platform",
+  "topic": "elections-and-voting",
+  "country": "in",
+  "url": "https://www.devdatalab.org/shrug",
+  "description": "Village and town level panel linking census, economic census, night lights, election results and administrative data through consistent geographic keys.",
+  "provider": "Development Data Lab",
+  "formats": [
+    "CSV",
+    "Stata",
+    "Shapefile"
+  ],
+  "size": "~10 GB",
+  "records": "600,000+ villages and towns",
+  "license": "Open for research use; see data agreement",
+  "license_url": "https://www.devdatalab.org/shrug_download/",
+  "access": "registration",
+  "commercial_use": "check",
+  "cite": "Asher, Lunt, Matsuura & Novosad (2021), Development Research at High Geographic Resolution. World Bank Economic Review"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "sfmta-and-datasf-mobility-data",
+  "name": "SFMTA and DataSF Mobility Data",
+  "topic": "taxi-and-ride-hailing",
+  "country": "us",
+  "url": "https://datasf.org/opendata/",
+  "description": "San Francisco open data covering taxi trips, parking, curb regulations, scooter permits and transit performance.",
+  "provider": "City and County of San Francisco",
+  "formats": [
+    "CSV",
+    "GeoJSON",
+    "REST API"
+  ],
+  "size": "Varies by dataset",
+  "records": "600+ published datasets",
+  "license": "San Francisco open data terms, public domain",
+  "license_url": "https://datasf.org/opendata/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "DataSF, San Francisco Open Data"
+}

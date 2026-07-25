@@ -1,0 +1,21 @@
+{
+  "id": "jal-jeevan-mission-dashboard",
+  "name": "Jal Jeevan Mission Dashboard",
+  "topic": "water-and-sanitation",
+  "country": "in",
+  "url": "https://ejalshakti.gov.in/jjmreport/JJMIndia.aspx",
+  "description": "Village-level progress data on rural piped water supply coverage, functional household tap connections and scheme status across every state.",
+  "provider": "Department of Drinking Water and Sanitation",
+  "formats": [
+    "Web dashboard",
+    "XLSX",
+    "CSV"
+  ],
+  "size": "Varies by report",
+  "records": "600,000+ villages tracked",
+  "license": "Government Open Data License - India",
+  "license_url": "https://www.data.gov.in/government-open-data-license-india",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Jal Jeevan Mission, Department of Drinking Water and Sanitation"
+}

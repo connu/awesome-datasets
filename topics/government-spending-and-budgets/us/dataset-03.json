@@ -1,0 +1,23 @@
+{
+  "id": "data-gov",
+  "name": "Data.gov",
+  "topic": "government-spending-and-budgets",
+  "country": "us",
+  "url": "https://data.gov/",
+  "description": "The United States' central open data catalogue, aggregating datasets from every federal agency plus many state and local governments.",
+  "provider": "US General Services Administration",
+  "formats": [
+    "CSV",
+    "JSON",
+    "XML",
+    "GeoJSON",
+    "REST API"
+  ],
+  "size": "Varies by dataset",
+  "records": "300,000+ datasets",
+  "license": "Varies by publisher; federal data is public domain",
+  "license_url": "https://data.gov/privacy-policy/#data_policy",
+  "access": "open",
+  "commercial_use": "check",
+  "cite": "Data.gov, US General Services Administration"
+}

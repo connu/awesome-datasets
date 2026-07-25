@@ -1,0 +1,20 @@
+{
+  "id": "fcc-measuring-broadband-america",
+  "name": "FCC Measuring Broadband America",
+  "topic": "telecom-and-broadband",
+  "country": "us",
+  "url": "https://www.fcc.gov/general/measuring-broadband-america",
+  "description": "Panel measurements of actual delivered speed, latency, packet loss and web loading time from instrumented home routers across major ISPs.",
+  "provider": "Federal Communications Commission",
+  "formats": [
+    "CSV",
+    "SQL"
+  ],
+  "size": "~50 GB",
+  "records": "Millions of measurements per year since 2011",
+  "license": "US Government public domain",
+  "license_url": "https://www.fcc.gov/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "FCC Measuring Broadband America"
+}

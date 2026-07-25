@@ -1,0 +1,22 @@
+{
+  "id": "data-gov-in-education-sector",
+  "name": "data.gov.in Education Sector",
+  "topic": "education-and-schools",
+  "country": "in",
+  "url": "https://www.data.gov.in/sector/education",
+  "description": "Open government catalogue of education datasets covering literacy rates, dropout rates, school infrastructure, scholarships and examination results.",
+  "provider": "National Informatics Centre",
+  "formats": [
+    "CSV",
+    "XLSX",
+    "JSON",
+    "REST API"
+  ],
+  "size": "Varies by resource",
+  "records": "5,000+ education resources",
+  "license": "Government Open Data License - India",
+  "license_url": "https://www.data.gov.in/government-open-data-license-india",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Open Government Data Platform India"
+}

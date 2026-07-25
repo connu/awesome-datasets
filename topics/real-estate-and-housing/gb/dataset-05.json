@@ -1,0 +1,22 @@
+{
+  "id": "ordnance-survey-open-data",
+  "name": "Ordnance Survey Open Data",
+  "topic": "real-estate-and-housing",
+  "country": "gb",
+  "url": "https://osdatahub.os.uk/downloads/open",
+  "description": "Free national mapping products including building outlines, postcode centroids, road networks and administrative boundaries, the geographic base layer for UK property analysis.",
+  "provider": "Ordnance Survey",
+  "formats": [
+    "GeoPackage",
+    "Shapefile",
+    "CSV",
+    "Vector tiles"
+  ],
+  "size": "Up to ~20 GB per product",
+  "records": "National coverage of Great Britain",
+  "license": "Open Government Licence v3.0 with OS attribution",
+  "license_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Ordnance Survey OS OpenData, Crown copyright and database right"
+}

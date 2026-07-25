@@ -1,0 +1,20 @@
+{
+  "id": "eba-risk-dashboard-and-transparency-exercise",
+  "name": "EBA Risk Dashboard and Transparency Exercise",
+  "topic": "banking-and-payments",
+  "country": "de",
+  "url": "https://www.eba.europa.eu/risk-and-data-analysis/risk-analysis/risk-monitoring",
+  "description": "Bank-by-bank capital, asset quality, profitability and exposure data from EU-wide transparency exercises and stress tests, including German institutions.",
+  "provider": "European Banking Authority",
+  "formats": [
+    "XLSX",
+    "CSV"
+  ],
+  "size": "~5 GB",
+  "records": "100+ banks reported per exercise",
+  "license": "EBA terms, free reuse with attribution",
+  "license_url": "https://www.eba.europa.eu/legal-notice",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "European Banking Authority, EU-wide Transparency Exercise"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "college-scorecard",
+  "name": "College Scorecard",
+  "topic": "education-and-schools",
+  "country": "us",
+  "url": "https://collegescorecard.ed.gov/data/",
+  "description": "Institution-level and field-of-study earnings, debt, completion and repayment outcomes linked from federal financial aid and tax records.",
+  "provider": "US Department of Education",
+  "formats": [
+    "CSV",
+    "REST API"
+  ],
+  "size": "~2 GB",
+  "records": "6,500+ institutions, 200,000+ field-of-study rows",
+  "license": "US Government public domain",
+  "license_url": "https://collegescorecard.ed.gov/data/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "US Department of Education, College Scorecard"
+}

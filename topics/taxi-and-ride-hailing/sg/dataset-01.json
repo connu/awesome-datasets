@@ -1,0 +1,22 @@
+{
+  "id": "lta-datamall",
+  "name": "LTA DataMall",
+  "topic": "taxi-and-ride-hailing",
+  "country": "sg",
+  "url": "https://datamall.lta.gov.sg/content/datamall/en.html",
+  "description": "Singapore's transport data platform with real-time taxi availability, bus arrivals, traffic incidents, carpark availability, ERP rates and passenger volumes.",
+  "provider": "Land Transport Authority",
+  "formats": [
+    "REST API",
+    "JSON",
+    "CSV",
+    "Shapefile"
+  ],
+  "size": "Varies by API",
+  "records": "60+ real-time and static datasets",
+  "license": "Singapore Open Data Licence",
+  "license_url": "https://datamall.lta.gov.sg/content/datamall/en/SingaporeOpenDataLicence.html",
+  "access": "registration",
+  "commercial_use": "yes",
+  "cite": "Land Transport Authority, LTA DataMall"
+}

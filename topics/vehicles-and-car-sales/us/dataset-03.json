@@ -1,0 +1,21 @@
+{
+  "id": "epa-fuel-economy-data",
+  "name": "EPA Fuel Economy Data",
+  "topic": "vehicles-and-car-sales",
+  "country": "us",
+  "url": "https://www.fueleconomy.gov/feg/download.shtml",
+  "description": "Official city, highway and combined MPG ratings plus emissions and cost estimates for every vehicle sold in the US since 1984.",
+  "provider": "US EPA and Department of Energy",
+  "formats": [
+    "CSV",
+    "XML",
+    "REST API"
+  ],
+  "size": "~20 MB",
+  "records": "48,000+ vehicle configurations since 1984",
+  "license": "US Government public domain",
+  "license_url": "https://www.fueleconomy.gov/feg/download.shtml",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "fueleconomy.gov, US DOE and EPA"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "fhwa-highway-performance-monitoring-system",
+  "name": "FHWA Highway Performance Monitoring System",
+  "topic": "road-safety-and-accidents",
+  "country": "us",
+  "url": "https://www.fhwa.dot.gov/policyinformation/hpms.cfm",
+  "description": "National inventory of road extent, condition, geometry and traffic volume used for federal apportionment and exposure-adjusted safety analysis.",
+  "provider": "Federal Highway Administration",
+  "formats": [
+    "Shapefile",
+    "CSV",
+    "Geodatabase"
+  ],
+  "size": "~10 GB",
+  "records": "National road network with annual updates",
+  "license": "US Government public domain",
+  "license_url": "https://www.fhwa.dot.gov/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "FHWA, Highway Performance Monitoring System"
+}

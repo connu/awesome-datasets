@@ -1,0 +1,21 @@
+{
+  "id": "mta-open-data",
+  "name": "MTA Open Data",
+  "topic": "public-transit",
+  "country": "us",
+  "url": "https://data.ny.gov/browse?Dataset-Information_Agency=Metropolitan+Transportation+Authority",
+  "description": "New York's subway, bus, commuter rail and bridge data including turnstile entries, hourly ridership, service alerts and on-time performance.",
+  "provider": "Metropolitan Transportation Authority",
+  "formats": [
+    "CSV",
+    "JSON",
+    "REST API"
+  ],
+  "size": "Multi-GB",
+  "records": "Hundreds of datasets",
+  "license": "NY State open data terms",
+  "license_url": "https://data.ny.gov/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "MTA Open Data, data.ny.gov"
+}

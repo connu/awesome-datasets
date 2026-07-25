@@ -1,0 +1,20 @@
+{
+  "id": "ons-crime-in-england-and-wales",
+  "name": "ONS Crime in England and Wales",
+  "topic": "crime-and-policing",
+  "country": "gb",
+  "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice",
+  "description": "National crime statistics combining police recorded crime with the Crime Survey for England and Wales, covering trends, victim characteristics and fraud.",
+  "provider": "Office for National Statistics",
+  "formats": [
+    "CSV",
+    "XLSX"
+  ],
+  "size": "Varies by release",
+  "records": "Quarterly and annual series",
+  "license": "Open Government Licence v3.0",
+  "license_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Office for National Statistics, Crime and Justice"
+}

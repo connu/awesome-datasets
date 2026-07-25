@@ -1,0 +1,20 @@
+{
+  "id": "insee-code-officiel-g-ographique",
+  "name": "INSEE Code Officiel Géographique",
+  "topic": "addresses-and-geocoding",
+  "country": "fr",
+  "url": "https://www.insee.fr/fr/information/2560452",
+  "description": "The official register of French communes, departments, regions and countries with historical changes, the canonical join key for French administrative data.",
+  "provider": "Institut national de la statistique et des études économiques",
+  "formats": [
+    "CSV",
+    "XLSX"
+  ],
+  "size": "~50 MB",
+  "records": "35,000+ communes with historical revisions",
+  "license": "Licence Ouverte 2.0",
+  "license_url": "https://www.etalab.gouv.fr/licence-ouverte-open-licence/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "INSEE, Code officiel géographique"
+}

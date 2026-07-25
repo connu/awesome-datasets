@@ -1,0 +1,21 @@
+{
+  "id": "landsat-collection-2-on-aws",
+  "name": "Landsat Collection 2 on AWS",
+  "topic": "satellite-and-earth-observation",
+  "country": "us",
+  "url": "https://registry.opendata.aws/usgs-landsat/",
+  "description": "The full Landsat Collection 2 Level-1 and Level-2 archive staged in cloud object storage as cloud-optimised GeoTIFFs with a STAC catalogue.",
+  "provider": "USGS and AWS Open Data",
+  "formats": [
+    "COG",
+    "STAC",
+    "JSON"
+  ],
+  "size": "~2 PB",
+  "records": "Full Landsat 1-9 archive",
+  "license": "US Government public domain",
+  "license_url": "https://www.usgs.gov/information-policies-and-instructions/copyrights-and-credits",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "USGS Landsat Collection 2, AWS Open Data Registry"
+}

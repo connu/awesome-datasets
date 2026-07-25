@@ -1,0 +1,21 @@
+{
+  "id": "system-of-air-quality-and-weather-forecasting-safar",
+  "name": "System of Air Quality and Weather Forecasting (SAFAR)",
+  "topic": "air-quality-and-pollution",
+  "country": "in",
+  "url": "https://www.tropmet.res.in/",
+  "description": "Research-grade air quality and weather forecasting outputs for major Indian metros, produced by the Indian Institute of Tropical Meteorology.",
+  "provider": "Indian Institute of Tropical Meteorology",
+  "formats": [
+    "CSV",
+    "PDF",
+    "Web dashboard"
+  ],
+  "size": "Varies by product",
+  "records": "Multi-city forecast and observation series",
+  "license": "Research use; attribution requested",
+  "license_url": "https://www.tropmet.res.in/",
+  "access": "open",
+  "commercial_use": "check",
+  "cite": "Indian Institute of Tropical Meteorology, SAFAR"
+}

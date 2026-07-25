@@ -1,0 +1,22 @@
+{
+  "id": "data-gov-sg",
+  "name": "data.gov.sg",
+  "topic": "taxi-and-ride-hailing",
+  "country": "sg",
+  "url": "https://data.gov.sg/",
+  "description": "Singapore's central open data portal covering transport, housing, economy, environment and population, with a consistent API across datasets.",
+  "provider": "Government Technology Agency of Singapore",
+  "formats": [
+    "CSV",
+    "JSON",
+    "GeoJSON",
+    "REST API"
+  ],
+  "size": "Varies by dataset",
+  "records": "3,000+ datasets",
+  "license": "Singapore Open Data Licence 1.0",
+  "license_url": "https://data.gov.sg/open-data-licence",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "data.gov.sg, Government of Singapore"
+}

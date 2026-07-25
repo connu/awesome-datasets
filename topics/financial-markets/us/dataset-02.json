@@ -1,0 +1,20 @@
+{
+  "id": "sec-financial-statement-data-sets",
+  "name": "SEC Financial Statement Data Sets",
+  "topic": "financial-markets",
+  "country": "us",
+  "url": "https://www.sec.gov/data-research/financial-statement-data-sets",
+  "description": "Quarterly flat files extracting every numeric fact from XBRL exhibits in corporate filings, letting you build a fundamentals database without parsing XBRL yourself.",
+  "provider": "US Securities and Exchange Commission",
+  "formats": [
+    "TSV",
+    "ZIP"
+  ],
+  "size": "~20 GB",
+  "records": "Quarterly sets from 2009 onward",
+  "license": "US Government public domain",
+  "license_url": "https://www.sec.gov/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "SEC Financial Statement Data Sets"
+}

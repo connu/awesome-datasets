@@ -1,0 +1,20 @@
+{
+  "id": "uk-house-price-index",
+  "name": "UK House Price Index",
+  "topic": "real-estate-and-housing",
+  "country": "gb",
+  "url": "https://www.gov.uk/government/collections/uk-house-price-index-reports",
+  "description": "Official monthly hedonic house price index down to local authority level, split by property type, buyer status and funding method.",
+  "provider": "HM Land Registry and ONS",
+  "formats": [
+    "CSV",
+    "Linked Data"
+  ],
+  "size": "~200 MB",
+  "records": "Monthly series from 1968",
+  "license": "Open Government Licence v3.0",
+  "license_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "UK House Price Index, HM Land Registry"
+}

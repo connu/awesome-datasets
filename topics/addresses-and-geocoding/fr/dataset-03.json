@@ -1,0 +1,23 @@
+{
+  "id": "ign-g-oservices",
+  "name": "IGN Géoservices",
+  "topic": "addresses-and-geocoding",
+  "country": "fr",
+  "url": "https://geoservices.ign.fr/",
+  "description": "National mapping agency data including cadastral parcels, topographic databases, orthophotography, elevation models and administrative boundaries.",
+  "provider": "Institut national de l'information géographique et forestière",
+  "formats": [
+    "Shapefile",
+    "GeoPackage",
+    "GeoTIFF",
+    "WMS",
+    "WFS"
+  ],
+  "size": "Terabyte-scale",
+  "records": "National coverage of France and overseas territories",
+  "license": "Licence Ouverte 2.0 for open products",
+  "license_url": "https://geoservices.ign.fr/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "IGN Géoservices"
+}

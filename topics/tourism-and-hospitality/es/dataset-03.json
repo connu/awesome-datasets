@@ -1,0 +1,20 @@
+{
+  "id": "inside-airbnb-spain-cities",
+  "name": "Inside Airbnb Spain Cities",
+  "topic": "tourism-and-hospitality",
+  "country": "es",
+  "url": "https://insideairbnb.com/get-the-data/",
+  "description": "Scraped and cleaned snapshots of Airbnb listings for Barcelona, Madrid, Mallorca, Seville, Valencia and other cities, with price, availability, reviews and geography.",
+  "provider": "Inside Airbnb",
+  "formats": [
+    "CSV",
+    "GeoJSON"
+  ],
+  "size": "~10 GB across cities",
+  "records": "Millions of listing snapshots worldwide",
+  "license": "CC0 1.0",
+  "license_url": "https://insideairbnb.com/data-policies/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Inside Airbnb, http://insideairbnb.com/"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "ofcom-connected-nations",
+  "name": "Ofcom Connected Nations",
+  "topic": "telecom-and-broadband",
+  "country": "gb",
+  "url": "https://www.ofcom.org.uk/research-and-data/multi-sector-research/infrastructure-research",
+  "description": "Postcode-level fixed broadband and mobile coverage reporting by technology and speed band, published twice a year with underlying open data files.",
+  "provider": "Ofcom",
+  "formats": [
+    "CSV",
+    "XLSX"
+  ],
+  "size": "~5 GB",
+  "records": "All UK postcodes, biannual since 2013",
+  "license": "Open Government Licence v3.0",
+  "license_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Ofcom, Connected Nations"
+}

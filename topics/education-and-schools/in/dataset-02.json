@@ -1,0 +1,20 @@
+{
+  "id": "all-india-survey-on-higher-education",
+  "name": "All India Survey on Higher Education",
+  "topic": "education-and-schools",
+  "country": "in",
+  "url": "https://aishe.gov.in/aishe/home",
+  "description": "Annual census of Indian higher education institutions covering enrolment by level and discipline, faculty, infrastructure and finances.",
+  "provider": "Ministry of Education",
+  "formats": [
+    "PDF",
+    "XLSX"
+  ],
+  "size": "~1 GB",
+  "records": "1,100+ universities, 45,000+ colleges",
+  "license": "Government Open Data License - India",
+  "license_url": "https://www.data.gov.in/government-open-data-license-india",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "All India Survey on Higher Education, Ministry of Education"
+}

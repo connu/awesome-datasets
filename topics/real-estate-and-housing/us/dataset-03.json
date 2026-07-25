@@ -1,0 +1,22 @@
+{
+  "id": "hud-open-data",
+  "name": "HUD Open Data",
+  "topic": "real-estate-and-housing",
+  "country": "us",
+  "url": "https://hudgis-hud.opendata.arcgis.com/",
+  "description": "Geospatial and tabular housing data covering public housing developments, fair market rents, low-income housing tax credit properties and homelessness counts.",
+  "provider": "US Department of Housing and Urban Development",
+  "formats": [
+    "GeoJSON",
+    "Shapefile",
+    "CSV",
+    "REST API"
+  ],
+  "size": "Varies by layer",
+  "records": "200+ published datasets",
+  "license": "US Government public domain",
+  "license_url": "https://www.hud.gov/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "HUD Open Data Portal"
+}

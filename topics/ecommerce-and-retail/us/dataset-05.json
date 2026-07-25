@@ -1,0 +1,22 @@
+{
+  "id": "open-food-facts",
+  "name": "Open Food Facts",
+  "topic": "ecommerce-and-retail",
+  "country": "us",
+  "url": "https://world.openfoodfacts.org/data",
+  "description": "Crowd-sourced product database with barcodes, ingredients, allergens, nutrition facts, packaging and photos, downloadable in full.",
+  "provider": "Open Food Facts",
+  "formats": [
+    "CSV",
+    "JSONL",
+    "MongoDB dump",
+    "Parquet"
+  ],
+  "size": "~10 GB",
+  "records": "3 million+ products worldwide",
+  "license": "ODbL 1.0 (database), CC BY-SA 3.0 (contents)",
+  "license_url": "https://world.openfoodfacts.org/terms-of-use",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Open Food Facts contributors"
+}

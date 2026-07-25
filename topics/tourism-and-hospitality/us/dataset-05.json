@@ -1,0 +1,20 @@
+{
+  "id": "bts-airline-origin-and-destination-survey",
+  "name": "BTS Airline Origin and Destination Survey",
+  "topic": "tourism-and-hospitality",
+  "country": "us",
+  "url": "https://www.transtats.bts.gov/",
+  "description": "A 10 percent sample of airline tickets with itinerary, fare, carrier and coupon detail, the standard source for US air travel demand and pricing research.",
+  "provider": "Bureau of Transportation Statistics",
+  "formats": [
+    "CSV",
+    "ZIP"
+  ],
+  "size": "~50 GB",
+  "records": "Quarterly samples since 1993",
+  "license": "US Government public domain",
+  "license_url": "https://www.bts.gov/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Bureau of Transportation Statistics, Airline Origin and Destination Survey (DB1B)"
+}

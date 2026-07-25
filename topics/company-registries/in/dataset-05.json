@@ -1,0 +1,21 @@
+{
+  "id": "annual-survey-of-industries",
+  "name": "Annual Survey of Industries",
+  "topic": "company-registries",
+  "country": "in",
+  "url": "https://www.mospi.gov.in/web/mospi/annual-survey-of-industries",
+  "description": "The principal source of Indian factory-sector statistics, reporting output, inputs, capital, employment and wages by industry and state.",
+  "provider": "Ministry of Statistics and Programme Implementation",
+  "formats": [
+    "PDF",
+    "XLSX",
+    "CSV"
+  ],
+  "size": "~2 GB",
+  "records": "200,000+ factories surveyed annually",
+  "license": "Government Open Data License - India",
+  "license_url": "https://www.data.gov.in/government-open-data-license-india",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "MoSPI, Annual Survey of Industries"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "destatis-genesis-online",
+  "name": "DESTATIS GENESIS-Online",
+  "topic": "banking-and-payments",
+  "country": "de",
+  "url": "https://genesis.destatis.de/datenbank/online/",
+  "description": "Germany's official statistics database covering finance, prices, business, population and trade, with a documented REST and SOAP API.",
+  "provider": "Statistisches Bundesamt",
+  "formats": [
+    "CSV",
+    "XLSX",
+    "REST API"
+  ],
+  "size": "Varies by table",
+  "records": "Hundreds of thousands of statistical tables",
+  "license": "DL-DE-BY-2.0",
+  "license_url": "https://www.govdata.de/dl-de/by-2-0",
+  "access": "registration",
+  "commercial_use": "yes",
+  "cite": "Statistisches Bundesamt (Destatis), GENESIS-Online"
+}

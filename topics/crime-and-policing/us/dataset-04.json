@@ -1,0 +1,22 @@
+{
+  "id": "chicago-crimes-dataset",
+  "name": "Chicago Crimes Dataset",
+  "topic": "crime-and-policing",
+  "country": "us",
+  "url": "https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2",
+  "description": "Reported crimes in Chicago from 2001 onward with block-level location, IUCR offence code, arrest flag, beat, district and community area.",
+  "provider": "City of Chicago",
+  "formats": [
+    "CSV",
+    "JSON",
+    "GeoJSON",
+    "REST API"
+  ],
+  "size": "~2 GB",
+  "records": "8 million+ reported crimes",
+  "license": "City of Chicago open data terms",
+  "license_url": "https://www.chicago.gov/city/en/narr/foia/data_disclaimer.html",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Chicago Data Portal, Crimes 2001 to Present"
+}

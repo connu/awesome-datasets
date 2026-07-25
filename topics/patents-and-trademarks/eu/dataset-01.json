@@ -1,0 +1,21 @@
+{
+  "id": "epo-open-patent-services",
+  "name": "EPO Open Patent Services",
+  "topic": "patents-and-trademarks",
+  "country": "eu",
+  "url": "https://www.epo.org/en/searching-for-patents/data/web-services/ops",
+  "description": "The European Patent Office's REST API for bibliographic data, full text, legal status, families and citations across worldwide patent collections.",
+  "provider": "European Patent Office",
+  "formats": [
+    "REST API",
+    "XML",
+    "JSON"
+  ],
+  "size": "API",
+  "records": "140 million+ patent documents",
+  "license": "EPO terms of use; free tier with registration",
+  "license_url": "https://www.epo.org/en",
+  "access": "registration",
+  "commercial_use": "check",
+  "cite": "European Patent Office, Open Patent Services"
+}

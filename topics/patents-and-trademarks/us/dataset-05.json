@@ -1,0 +1,19 @@
+{
+  "id": "google-patents-public-data-on-bigquery",
+  "name": "Google Patents Public Data on BigQuery",
+  "topic": "patents-and-trademarks",
+  "country": "us",
+  "url": "https://console.cloud.google.com/marketplace/product/google_patents_public_datasets/google-patents-public-data",
+  "description": "Normalised worldwide patent bibliographic and full-text data joined across offices, queryable in BigQuery with citation and family linkages.",
+  "provider": "Google and IFI CLAIMS",
+  "formats": [
+    "BigQuery"
+  ],
+  "size": "Multi-TB",
+  "records": "120 million+ patent publications worldwide",
+  "license": "CC BY 4.0 for the public dataset components",
+  "license_url": "https://console.cloud.google.com/marketplace/product/google_patents_public_datasets/google-patents-public-data",
+  "access": "registration",
+  "commercial_use": "check",
+  "cite": "Google Patents Public Datasets, Google Cloud"
+}

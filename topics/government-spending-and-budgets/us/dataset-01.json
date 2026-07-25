@@ -1,0 +1,21 @@
+{
+  "id": "usaspending-gov",
+  "name": "USAspending.gov",
+  "topic": "government-spending-and-budgets",
+  "country": "us",
+  "url": "https://www.usaspending.gov/",
+  "description": "Every federal contract, grant, loan and direct payment with recipient, amount, awarding agency, place of performance and program code, exposed through a full REST API.",
+  "provider": "US Department of the Treasury",
+  "formats": [
+    "CSV",
+    "REST API",
+    "JSON"
+  ],
+  "size": "~1 TB full archive",
+  "records": "100 million+ award transactions since 2008",
+  "license": "US Government public domain",
+  "license_url": "https://www.usaspending.gov/about",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "USAspending.gov, US Department of the Treasury"
+}

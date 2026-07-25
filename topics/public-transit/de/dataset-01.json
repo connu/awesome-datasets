@@ -1,0 +1,23 @@
+{
+  "id": "mobilithek",
+  "name": "Mobilithek",
+  "topic": "public-transit",
+  "country": "de",
+  "url": "https://mobilithek.info/",
+  "description": "Germany's national access point for mobility data, brokering GTFS timetables, real-time feeds, roadworks, parking and traffic data from federal and state providers.",
+  "provider": "Bundesministerium für Digitales und Verkehr",
+  "formats": [
+    "GTFS",
+    "GTFS-RT",
+    "DATEX II",
+    "NeTEx",
+    "REST API"
+  ],
+  "size": "Varies by feed",
+  "records": "Hundreds of mobility data offers",
+  "license": "Varies by provider; commonly CC BY 4.0 or DL-DE-BY",
+  "license_url": "https://mobilithek.info/",
+  "access": "registration",
+  "commercial_use": "check",
+  "cite": "Mobilithek, BMDV"
+}

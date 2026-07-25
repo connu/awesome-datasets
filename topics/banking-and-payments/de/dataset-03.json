@@ -1,0 +1,21 @@
+{
+  "id": "bafin-company-database",
+  "name": "BaFin Company Database",
+  "topic": "banking-and-payments",
+  "country": "de",
+  "url": "https://portal.mvp.bafin.de/database/InstInfo/",
+  "description": "The register of authorised German banks, insurers, investment firms and payment institutions with licence scope and identifiers.",
+  "provider": "Bundesanstalt für Finanzdienstleistungsaufsicht",
+  "formats": [
+    "Web",
+    "CSV",
+    "XLSX"
+  ],
+  "size": "~200 MB",
+  "records": "Thousands of supervised institutions",
+  "license": "Free reuse with attribution to BaFin",
+  "license_url": "https://www.bafin.de/EN/Homepage/homepage_node.html",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "BaFin Company Database"
+}

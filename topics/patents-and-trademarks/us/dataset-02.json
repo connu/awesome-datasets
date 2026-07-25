@@ -1,0 +1,22 @@
+{
+  "id": "uspto-open-data-portal",
+  "name": "USPTO Open Data Portal",
+  "topic": "patents-and-trademarks",
+  "country": "us",
+  "url": "https://developer.uspto.gov/",
+  "description": "Official APIs and bulk products covering patent and trademark full text, examination file wrappers, assignments, and PTAB proceedings.",
+  "provider": "US Patent and Trademark Office",
+  "formats": [
+    "REST API",
+    "XML",
+    "JSON",
+    "ZIP"
+  ],
+  "size": "Multi-TB",
+  "records": "Full US patent and trademark corpus",
+  "license": "US Government public domain",
+  "license_url": "https://developer.uspto.gov/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "USPTO Open Data Portal"
+}

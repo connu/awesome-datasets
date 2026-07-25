@@ -1,0 +1,21 @@
+{
+  "id": "us-courts-statistics-and-reports",
+  "name": "US Courts Statistics and Reports",
+  "topic": "courts-and-legal",
+  "country": "us",
+  "url": "https://www.uscourts.gov/data-news",
+  "description": "Official judiciary caseload statistics covering filings, terminations, pending cases, bankruptcy and probation, by district and circuit.",
+  "provider": "Administrative Office of the US Courts",
+  "formats": [
+    "XLSX",
+    "PDF",
+    "CSV"
+  ],
+  "size": "~1 GB",
+  "records": "Quarterly and annual tables",
+  "license": "US Government public domain",
+  "license_url": "https://www.uscourts.gov/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Administrative Office of the US Courts, Judicial Business"
+}

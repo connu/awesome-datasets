@@ -1,0 +1,21 @@
+{
+  "id": "election-commission-of-india-statistical-reports",
+  "name": "Election Commission of India Statistical Reports",
+  "topic": "elections-and-voting",
+  "country": "in",
+  "url": "https://www.eci.gov.in/statistical-reports",
+  "description": "Official constituency-level results for every general and state assembly election, with candidate votes, party affiliation, electors and turnout.",
+  "provider": "Election Commission of India",
+  "formats": [
+    "PDF",
+    "XLSX",
+    "CSV"
+  ],
+  "size": "~10 GB full archive",
+  "records": "All national and state elections since 1951",
+  "license": "Government Open Data License - India",
+  "license_url": "https://www.data.gov.in/government-open-data-license-india",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Election Commission of India, Statistical Reports"
+}

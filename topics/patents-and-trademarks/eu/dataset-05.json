@@ -1,0 +1,21 @@
+{
+  "id": "espacenet-bulk-and-linked-data",
+  "name": "Espacenet Bulk and Linked Data",
+  "topic": "patents-and-trademarks",
+  "country": "eu",
+  "url": "https://worldwide.espacenet.com/",
+  "description": "The EPO's public patent search covering worldwide collections with full-text, family and legal-status views, backed by downloadable result sets.",
+  "provider": "European Patent Office",
+  "formats": [
+    "XML",
+    "CSV",
+    "PDF"
+  ],
+  "size": "Varies by query",
+  "records": "150 million+ patent documents",
+  "license": "EPO terms of use",
+  "license_url": "https://www.epo.org/en",
+  "access": "open",
+  "commercial_use": "check",
+  "cite": "Espacenet, European Patent Office"
+}

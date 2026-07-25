@@ -1,0 +1,21 @@
+{
+  "id": "chicago-taxi-trips",
+  "name": "Chicago Taxi Trips",
+  "topic": "taxi-and-ride-hailing",
+  "country": "us",
+  "url": "https://data.cityofchicago.org/Transportation/Taxi-Trips-2013-2023-/wrvz-psew",
+  "description": "Reported Chicago taxi trips with anonymised taxi identifier, timestamps, census tract, fare, tips, tolls and payment type.",
+  "provider": "City of Chicago",
+  "formats": [
+    "CSV",
+    "JSON",
+    "REST API"
+  ],
+  "size": "~40 GB",
+  "records": "200 million+ trips",
+  "license": "City of Chicago open data terms",
+  "license_url": "https://www.chicago.gov/city/en/narr/foia/data_disclaimer.html",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Chicago Data Portal, Taxi Trips"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "companies-house-public-data-product",
+  "name": "Companies House Public Data Product",
+  "topic": "company-registries",
+  "country": "gb",
+  "url": "https://download.companieshouse.gov.uk/en_output.html",
+  "description": "A monthly snapshot of every live company on the UK register with company number, registered address, SIC codes, incorporation date, status and accounts dates.",
+  "provider": "Companies House",
+  "formats": [
+    "CSV",
+    "ZIP"
+  ],
+  "size": "~2 GB",
+  "records": "5 million+ live companies",
+  "license": "Open Government Licence v3.0",
+  "license_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Companies House, Free Company Data Product"
+}

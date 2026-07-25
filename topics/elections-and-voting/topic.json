@@ -1,0 +1,9 @@
+{
+  "slug": "elections-and-voting",
+  "title": "Elections & Voting",
+  "description": "Candidate results, constituency boundaries, turnout, campaign finance and electoral roll statistics.",
+  "countries": [
+    "in",
+    "us"
+  ]
+}

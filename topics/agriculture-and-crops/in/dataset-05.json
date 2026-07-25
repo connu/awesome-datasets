@@ -1,0 +1,21 @@
+{
+  "id": "faostat-india",
+  "name": "FAOSTAT India",
+  "topic": "agriculture-and-crops",
+  "country": "in",
+  "url": "https://www.fao.org/faostat/en/",
+  "description": "Harmonised international agricultural statistics covering production, trade, food balance sheets, land use, emissions and prices for India and 245 other territories.",
+  "provider": "Food and Agriculture Organization of the United Nations",
+  "formats": [
+    "CSV",
+    "REST API",
+    "ZIP"
+  ],
+  "size": "~20 GB",
+  "records": "245 territories, 1961 onward",
+  "license": "CC BY 4.0",
+  "license_url": "https://www.fao.org/contact-us/terms/en/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "FAOSTAT, Food and Agriculture Organization of the United Nations"
+}

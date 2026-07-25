@@ -1,0 +1,21 @@
+{
+  "id": "federal-reserve-payments-study",
+  "name": "Federal Reserve Payments Study",
+  "topic": "banking-and-payments",
+  "country": "us",
+  "url": "https://www.federalreserve.gov/paymentsystems/fr-payments-study.htm",
+  "description": "Triennial and annual measurement of US noncash payment volumes and values across cards, ACH, checks and their fraud rates.",
+  "provider": "Board of Governors of the Federal Reserve System",
+  "formats": [
+    "XLSX",
+    "CSV",
+    "PDF"
+  ],
+  "size": "~500 MB",
+  "records": "Payment aggregates since 2000",
+  "license": "US Government public domain",
+  "license_url": "https://www.federalreserve.gov/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Federal Reserve Payments Study"
+}

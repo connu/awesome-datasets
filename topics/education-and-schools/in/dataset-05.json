@@ -1,0 +1,21 @@
+{
+  "id": "aser-annual-status-of-education-report",
+  "name": "ASER Annual Status of Education Report",
+  "topic": "education-and-schools",
+  "country": "in",
+  "url": "https://asercentre.org/",
+  "description": "Household-based survey measuring basic reading and arithmetic ability of rural Indian children, run annually across nearly every rural district.",
+  "provider": "ASER Centre, Pratham",
+  "formats": [
+    "PDF",
+    "XLSX",
+    "Stata"
+  ],
+  "size": "~500 MB",
+  "records": "600,000+ children surveyed per round",
+  "license": "Free for research and non-commercial use with attribution",
+  "license_url": "https://asercentre.org/",
+  "access": "open",
+  "commercial_use": "no",
+  "cite": "ASER Centre, Annual Status of Education Report"
+}

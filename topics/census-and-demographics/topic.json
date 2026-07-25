@@ -1,0 +1,9 @@
+{
+  "slug": "census-and-demographics",
+  "title": "Census & Demographics",
+  "description": "Population counts, household composition, migration and small-area socioeconomic characteristics.",
+  "countries": [
+    "in",
+    "us"
+  ]
+}

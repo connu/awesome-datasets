@@ -1,0 +1,21 @@
+{
+  "id": "ministry-of-commerce-export-import-data-bank",
+  "name": "Ministry of Commerce Export Import Data Bank",
+  "topic": "trade-and-customs",
+  "country": "in",
+  "url": "https://tradestat.commerce.gov.in/",
+  "description": "Official Indian merchandise trade statistics queryable by commodity, country, port and time period, with HS-level detail.",
+  "provider": "Ministry of Commerce and Industry",
+  "formats": [
+    "XLSX",
+    "CSV",
+    "Web query"
+  ],
+  "size": "Multi-GB",
+  "records": "Monthly HS-level trade data since 1996",
+  "license": "Government Open Data License - India",
+  "license_url": "https://www.data.gov.in/government-open-data-license-india",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Department of Commerce, Export Import Data Bank, Government of India"
+}

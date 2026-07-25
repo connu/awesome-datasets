@@ -1,0 +1,22 @@
+{
+  "id": "nhtsa-vpic-api",
+  "name": "NHTSA vPIC API",
+  "topic": "vehicles-and-car-sales",
+  "country": "us",
+  "url": "https://vpic.nhtsa.dot.gov/api/",
+  "description": "Decodes any North American VIN into make, model, year, body class, engine and plant, and lists every manufacturer and equipment type on record.",
+  "provider": "National Highway Traffic Safety Administration",
+  "formats": [
+    "REST API",
+    "JSON",
+    "XML",
+    "CSV"
+  ],
+  "size": "API; full DB export ~1 GB",
+  "records": "27,000+ makes and models",
+  "license": "US Government public domain",
+  "license_url": "https://www.nhtsa.gov/nhtsa-datasets-and-apis",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "NHTSA Product Information Catalog and Vehicle Listing (vPIC)"
+}

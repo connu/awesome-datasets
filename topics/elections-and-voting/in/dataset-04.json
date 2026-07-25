@@ -1,0 +1,22 @@
+{
+  "id": "eci-electoral-statistics-on-data-gov-in",
+  "name": "ECI Electoral Statistics on data.gov.in",
+  "topic": "elections-and-voting",
+  "country": "in",
+  "url": "https://www.data.gov.in/catalogs",
+  "description": "Machine-readable electoral datasets published through the national open data catalogue, covering electors, polling stations and results summaries.",
+  "provider": "National Informatics Centre",
+  "formats": [
+    "CSV",
+    "XLSX",
+    "JSON",
+    "REST API"
+  ],
+  "size": "Varies by resource",
+  "records": "Thousands of catalogued resources",
+  "license": "Government Open Data License - India",
+  "license_url": "https://www.data.gov.in/government-open-data-license-india",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Open Government Data Platform India"
+}

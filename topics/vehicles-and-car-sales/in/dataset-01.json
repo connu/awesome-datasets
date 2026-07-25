@@ -1,0 +1,20 @@
+{
+  "id": "vahan-dashboard",
+  "name": "Vahan Dashboard",
+  "topic": "vehicles-and-car-sales",
+  "country": "in",
+  "url": "https://vahan.parivahan.gov.in/vahan4dashboard/",
+  "description": "Live national vehicle registration counts sliceable by state, RTO, maker, fuel type and vehicle class, sourced from the registration system itself.",
+  "provider": "Ministry of Road Transport and Highways",
+  "formats": [
+    "Web dashboard",
+    "XLSX"
+  ],
+  "size": "Varies by query",
+  "records": "350 million+ registered vehicles",
+  "license": "Government Open Data License - India",
+  "license_url": "https://www.data.gov.in/government-open-data-license-india",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Vahan Dashboard, Ministry of Road Transport and Highways"
+}

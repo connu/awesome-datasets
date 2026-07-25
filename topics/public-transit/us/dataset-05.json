@@ -1,0 +1,21 @@
+{
+  "id": "sfmta-open-data",
+  "name": "SFMTA Open Data",
+  "topic": "public-transit",
+  "country": "us",
+  "url": "https://data.sfgov.org/browse?tags=sfmta",
+  "description": "San Francisco transit and streets data including Muni routes, stops, passenger counts, speed data, parking meters and taxi trips.",
+  "provider": "San Francisco Municipal Transportation Agency",
+  "formats": [
+    "CSV",
+    "GeoJSON",
+    "REST API"
+  ],
+  "size": "Varies by dataset",
+  "records": "100+ transport datasets",
+  "license": "San Francisco open data terms, public domain",
+  "license_url": "https://datasf.org/opendata/terms-of-use/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "DataSF, San Francisco Open Data Portal"
+}

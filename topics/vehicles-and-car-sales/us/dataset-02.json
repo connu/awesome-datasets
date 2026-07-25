@@ -1,0 +1,21 @@
+{
+  "id": "nhtsa-datasets-and-apis",
+  "name": "NHTSA Datasets and APIs",
+  "topic": "vehicles-and-car-sales",
+  "country": "us",
+  "url": "https://www.nhtsa.gov/nhtsa-datasets-and-apis",
+  "description": "Central index of federal vehicle safety data covering recalls, complaints, crash test ratings, investigations and child seat inspections.",
+  "provider": "National Highway Traffic Safety Administration",
+  "formats": [
+    "REST API",
+    "CSV",
+    "JSON"
+  ],
+  "size": "Varies by feed",
+  "records": "Millions of complaints and recall records",
+  "license": "US Government public domain",
+  "license_url": "https://www.nhtsa.gov/nhtsa-datasets-and-apis",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "NHTSA Datasets and APIs"
+}

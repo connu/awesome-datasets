@@ -1,0 +1,21 @@
+{
+  "id": "mca-corporate-filings-data",
+  "name": "MCA Corporate Filings Data",
+  "topic": "financial-markets",
+  "country": "in",
+  "url": "https://www.mca.gov.in/content/mca/global/en/data-and-reports/company-statistics.html",
+  "description": "Statistics and open datasets on registered Indian companies including incorporations, closures, sector distribution and authorised capital.",
+  "provider": "Ministry of Corporate Affairs",
+  "formats": [
+    "CSV",
+    "XLSX",
+    "PDF"
+  ],
+  "size": "~2 GB",
+  "records": "2 million+ registered companies",
+  "license": "Government Open Data License - India",
+  "license_url": "https://www.data.gov.in/government-open-data-license-india",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Ministry of Corporate Affairs, Government of India"
+}

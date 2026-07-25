@@ -1,0 +1,22 @@
+{
+  "id": "data-gov-in-environment-sector",
+  "name": "data.gov.in Environment Sector",
+  "topic": "air-quality-and-pollution",
+  "country": "in",
+  "url": "https://www.data.gov.in/sector/environment-and-forest",
+  "description": "Open government catalogue of environmental datasets covering ambient air quality by city and year, forest cover, water quality and pollution complaints.",
+  "provider": "National Informatics Centre",
+  "formats": [
+    "CSV",
+    "XLSX",
+    "JSON",
+    "REST API"
+  ],
+  "size": "Varies by resource",
+  "records": "2,000+ environment resources",
+  "license": "Government Open Data License - India",
+  "license_url": "https://www.data.gov.in/government-open-data-license-india",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Open Government Data Platform India"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "upag-unified-portal-for-agricultural-statistics",
+  "name": "UPAg Unified Portal for Agricultural Statistics",
+  "topic": "agriculture-and-crops",
+  "country": "in",
+  "url": "https://upag.gov.in/",
+  "description": "India's unified agricultural statistics portal consolidating crop area, production, yield, price, procurement and stock data from multiple ministries into one analytical interface.",
+  "provider": "Ministry of Agriculture and Farmers Welfare",
+  "formats": [
+    "CSV",
+    "XLSX",
+    "Web dashboard"
+  ],
+  "size": "Varies by report",
+  "records": "Crop-wise series across states and seasons",
+  "license": "Government Open Data License - India",
+  "license_url": "https://www.data.gov.in/government-open-data-license-india",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "UPAg Portal, Ministry of Agriculture and Farmers Welfare, Government of India"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "development-data-lab-indian-judicial-data",
+  "name": "Development Data Lab Indian Judicial Data",
+  "topic": "courts-and-legal",
+  "country": "in",
+  "url": "https://www.devdatalab.org/judicial-data",
+  "description": "Cleaned and anonymised metadata for tens of millions of district court cases scraped from eCourts, with judge, party, act, section and outcome fields.",
+  "provider": "Development Data Lab",
+  "formats": [
+    "CSV",
+    "Parquet",
+    "Stata"
+  ],
+  "size": "~50 GB",
+  "records": "77 million+ case records (2010-2018)",
+  "license": "Open for research use with attribution",
+  "license_url": "https://www.devdatalab.org/judicial-data",
+  "access": "open",
+  "commercial_use": "check",
+  "cite": "Ash, Asher, Bhowmick et al., In-group Bias in the Indian Judiciary, Development Data Lab"
+}

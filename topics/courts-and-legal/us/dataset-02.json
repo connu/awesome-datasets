@@ -1,0 +1,21 @@
+{
+  "id": "federal-judicial-center-integrated-database",
+  "name": "Federal Judicial Center Integrated Database",
+  "topic": "courts-and-legal",
+  "country": "us",
+  "url": "https://www.fjc.gov/research/idb",
+  "description": "Docket-level records of every civil and criminal case filed in US district courts since 1970, with nature of suit, jurisdiction, disposition and duration.",
+  "provider": "Federal Judicial Center",
+  "formats": [
+    "CSV",
+    "SAS",
+    "TXT"
+  ],
+  "size": "~5 GB",
+  "records": "Millions of case records since 1970",
+  "license": "US Government public domain",
+  "license_url": "https://www.fjc.gov/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Federal Judicial Center, Integrated Database"
+}

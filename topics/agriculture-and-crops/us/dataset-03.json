@@ -1,0 +1,21 @@
+{
+  "id": "usda-economic-research-service-data-products",
+  "name": "USDA Economic Research Service Data Products",
+  "topic": "agriculture-and-crops",
+  "country": "us",
+  "url": "https://www.ers.usda.gov/data-products",
+  "description": "Curated economic datasets covering farm income, food prices, food security, rural demographics, commodity outlook and international agricultural trade.",
+  "provider": "USDA Economic Research Service",
+  "formats": [
+    "CSV",
+    "XLSX",
+    "REST API"
+  ],
+  "size": "Multi-GB",
+  "records": "200+ data products",
+  "license": "US Government public domain",
+  "license_url": "https://www.ers.usda.gov/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "USDA Economic Research Service Data Products"
+}

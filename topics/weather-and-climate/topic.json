@@ -1,0 +1,9 @@
+{
+  "slug": "weather-and-climate",
+  "title": "Weather & Climate",
+  "description": "Station observations, gridded reanalysis, forecasts and long-run climate records.",
+  "countries": [
+    "au",
+    "us"
+  ]
+}

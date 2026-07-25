@@ -1,0 +1,9 @@
+{
+  "slug": "taxi-and-ride-hailing",
+  "title": "Taxi & Ride-Hailing",
+  "description": "Trip records, vehicle availability, fares and licensing for taxis and for-hire vehicles.",
+  "countries": [
+    "sg",
+    "us"
+  ]
+}

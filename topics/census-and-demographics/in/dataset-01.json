@@ -1,0 +1,21 @@
+{
+  "id": "census-of-india",
+  "name": "Census of India",
+  "topic": "census-and-demographics",
+  "country": "in",
+  "url": "https://censusindia.gov.in/census.website/",
+  "description": "Decennial national census tables covering population, literacy, household amenities, migration, language and occupation down to village and ward level.",
+  "provider": "Office of the Registrar General and Census Commissioner",
+  "formats": [
+    "XLSX",
+    "PDF",
+    "CSV"
+  ],
+  "size": "~20 GB full tables",
+  "records": "1.2 billion+ people enumerated in 2011",
+  "license": "Government Open Data License - India",
+  "license_url": "https://www.data.gov.in/government-open-data-license-india",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Census of India, Office of the Registrar General"
+}

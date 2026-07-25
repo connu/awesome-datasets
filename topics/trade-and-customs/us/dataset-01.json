@@ -1,0 +1,21 @@
+{
+  "id": "census-usa-trade-online-and-api",
+  "name": "Census USA Trade Online and API",
+  "topic": "trade-and-customs",
+  "country": "us",
+  "url": "https://www.census.gov/foreign-trade/data/index.html",
+  "description": "Official US merchandise import and export statistics by commodity, country, district and port at monthly frequency.",
+  "provider": "US Census Bureau",
+  "formats": [
+    "CSV",
+    "REST API",
+    "XLSX"
+  ],
+  "size": "~50 GB",
+  "records": "Monthly detail by HS10 commodity since 1992",
+  "license": "US Government public domain",
+  "license_url": "https://www.census.gov/about/policies/open-gov.html",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "US Census Bureau, Foreign Trade Statistics"
+}

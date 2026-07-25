@@ -1,0 +1,22 @@
+{
+  "id": "ecb-data-portal",
+  "name": "ECB Data Portal",
+  "topic": "banking-and-payments",
+  "country": "de",
+  "url": "https://data.ecb.europa.eu/",
+  "description": "Euro area monetary, financial, banking supervision and payment statistics with an SDMX API, covering Germany alongside all euro area members.",
+  "provider": "European Central Bank",
+  "formats": [
+    "CSV",
+    "SDMX",
+    "REST API",
+    "JSON"
+  ],
+  "size": "Multi-GB",
+  "records": "Millions of series across 60+ datasets",
+  "license": "ECB terms, free reuse with attribution",
+  "license_url": "https://www.ecb.europa.eu/services/disclaimer/html/index.en.html",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "European Central Bank Data Portal"
+}

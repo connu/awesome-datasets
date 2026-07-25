@@ -1,0 +1,21 @@
+{
+  "id": "fec-campaign-finance-data",
+  "name": "FEC Campaign Finance Data",
+  "topic": "elections-and-voting",
+  "country": "us",
+  "url": "https://www.fec.gov/data/",
+  "description": "Every federal campaign contribution, expenditure and committee filing, with itemised donor records, independent expenditures and candidate summaries.",
+  "provider": "Federal Election Commission",
+  "formats": [
+    "CSV",
+    "REST API",
+    "Fixed-width"
+  ],
+  "size": "~100 GB",
+  "records": "Hundreds of millions of contribution records since 1980",
+  "license": "US Government public domain",
+  "license_url": "https://www.fec.gov/",
+  "access": "registration",
+  "commercial_use": "yes",
+  "cite": "Federal Election Commission, campaign finance data"
+}

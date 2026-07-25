@@ -1,0 +1,21 @@
+{
+  "id": "open-power-system-data",
+  "name": "Open Power System Data",
+  "topic": "energy-and-electricity",
+  "country": "de",
+  "url": "https://open-power-system-data.org/",
+  "description": "Cleaned and harmonised European power system data packages covering time series, conventional power plants, renewable installations and weather, ready for modelling.",
+  "provider": "Open Power System Data consortium",
+  "formats": [
+    "CSV",
+    "SQLite",
+    "XLSX"
+  ],
+  "size": "~5 GB",
+  "records": "Multiple curated data packages",
+  "license": "MIT and CC BY 4.0 depending on package",
+  "license_url": "https://open-power-system-data.org/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Open Power System Data, https://open-power-system-data.org/"
+}

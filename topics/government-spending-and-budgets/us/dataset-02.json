@@ -1,0 +1,22 @@
+{
+  "id": "sam-gov-contract-opportunities",
+  "name": "SAM.gov Contract Opportunities",
+  "topic": "government-spending-and-budgets",
+  "country": "us",
+  "url": "https://sam.gov/data-services",
+  "description": "Federal contract opportunities, entity registrations, exclusions and wage determinations, with bulk extracts and an API for procurement pipelines.",
+  "provider": "US General Services Administration",
+  "formats": [
+    "CSV",
+    "JSON",
+    "XML",
+    "REST API"
+  ],
+  "size": "Multi-GB",
+  "records": "Millions of opportunity and entity records",
+  "license": "US Government public domain",
+  "license_url": "https://sam.gov/",
+  "access": "registration",
+  "commercial_use": "yes",
+  "cite": "SAM.gov Data Services, US General Services Administration"
+}

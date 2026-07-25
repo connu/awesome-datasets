@@ -1,0 +1,21 @@
+{
+  "id": "us-census-bureau-data-api",
+  "name": "US Census Bureau Data API",
+  "topic": "census-and-demographics",
+  "country": "us",
+  "url": "https://www.census.gov/data/developers/data-sets.html",
+  "description": "Programmatic access to the decennial census, American Community Survey, population estimates and economic surveys down to block group level.",
+  "provider": "US Census Bureau",
+  "formats": [
+    "REST API",
+    "JSON",
+    "CSV"
+  ],
+  "size": "API",
+  "records": "Hundreds of datasets, thousands of variables",
+  "license": "US Government public domain",
+  "license_url": "https://www.census.gov/about/policies/open-gov.html",
+  "access": "registration",
+  "commercial_use": "yes",
+  "cite": "US Census Bureau Data API"
+}

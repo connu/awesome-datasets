@@ -1,0 +1,22 @@
+{
+  "id": "digital-earth-australia",
+  "name": "Digital Earth Australia",
+  "topic": "weather-and-climate",
+  "country": "au",
+  "url": "https://www.dea.ga.gov.au/",
+  "description": "Analysis-ready satellite imagery and derived products for the Australian continent, including surface reflectance, water observations and coastline change.",
+  "provider": "Geoscience Australia",
+  "formats": [
+    "GeoTIFF",
+    "NetCDF",
+    "Zarr",
+    "STAC API"
+  ],
+  "size": "Petabyte-scale",
+  "records": "Continental coverage from 1986",
+  "license": "CC BY 4.0",
+  "license_url": "https://www.ga.gov.au/copyright",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Geoscience Australia, Digital Earth Australia"
+}

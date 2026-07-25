@@ -1,0 +1,950 @@
+{
+  "$schema": "./schema.json",
+  "version": "2.0.0",
+  "updated": "2026-07-26",
+  "topics": [
+    {
+      "slug": "source-code",
+      "title": "Source Code & Software Repositories",
+      "description": "Corpora of source code and repository activity used to train code models and study how software is built."
+    },
+    {
+      "slug": "software-defects",
+      "title": "Software Defects & Testing",
+      "description": "Reproducible bugs, regressions and failing builds used for automated program repair, fault localisation and test-generation research."
+    },
+    {
+      "slug": "security-vulnerabilities",
+      "title": "Security & Vulnerabilities",
+      "description": "Authoritative feeds of publicly disclosed software vulnerabilities and their severity metadata."
+    },
+    {
+      "slug": "network-traffic",
+      "title": "Network Traffic & Intrusion Detection",
+      "description": "Labelled packet captures and flow records used to build and benchmark intrusion detection systems."
+    },
+    {
+      "slug": "logs-observability",
+      "title": "Logs & Observability",
+      "description": "Production system logs and workload traces for log parsing, anomaly detection and performance benchmarking."
+    },
+    {
+      "slug": "databases-benchmarks",
+      "title": "Databases & Query Benchmarking",
+      "description": "Standard schemas, data generators and query workloads for comparing analytical and transactional database engines."
+    },
+    {
+      "slug": "web-crawl",
+      "title": "Web Crawl & Internet-Scale Text",
+      "description": "Petabyte-scale crawls of the public web and the cleaned text corpora derived from them."
+    },
+    {
+      "slug": "nlp",
+      "title": "Natural Language Processing",
+      "description": "Annotated text corpora for classification, question answering and language-understanding benchmarks."
+    },
+    {
+      "slug": "computer-vision",
+      "title": "Computer Vision",
+      "description": "Labelled image collections for classification, detection and segmentation."
+    },
+    {
+      "slug": "speech-audio",
+      "title": "Speech & Audio",
+      "description": "Transcribed speech corpora for automatic speech recognition and text-to-speech."
+    },
+    {
+      "slug": "recommender-systems",
+      "title": "Recommender Systems",
+      "description": "User-item interaction logs and reviews for collaborative filtering and ranking research."
+    },
+    {
+      "slug": "search-ir",
+      "title": "Search & Information Retrieval",
+      "description": "Query-document relevance judgements for training and evaluating retrieval and reranking systems."
+    },
+    {
+      "slug": "tabular-ml",
+      "title": "Tabular Machine Learning",
+      "description": "Curated repositories of small-to-medium tabular datasets used as standard classification and regression benchmarks."
+    },
+    {
+      "slug": "time-series",
+      "title": "Time Series & Forecasting",
+      "description": "Large collections of time series with held-out horizons for reproducible forecasting evaluation."
+    },
+    {
+      "slug": "fraud-anomaly",
+      "title": "Fraud & Anomaly Detection",
+      "description": "Heavily imbalanced transaction datasets for fraud scoring and rare-event detection."
+    },
+    {
+      "slug": "graphs-networks",
+      "title": "Graphs & Networks",
+      "description": "Social, citation and web graphs for network analysis and graph neural network benchmarks."
+    },
+    {
+      "slug": "geospatial",
+      "title": "Geospatial & Mapping",
+      "description": "Open map data and cartographic base layers for geocoding, routing and visualisation."
+    },
+    {
+      "slug": "finance-economics",
+      "title": "Finance & Economics",
+      "description": "Official macroeconomic and development indicators published by central banks and international bodies."
+    },
+    {
+      "slug": "ecommerce-retail",
+      "title": "E-commerce & Retail",
+      "description": "Transaction and basket data for demand forecasting, market basket analysis and customer segmentation."
+    },
+    {
+      "slug": "transportation-mobility",
+      "title": "Transportation & Mobility",
+      "description": "Trip records and transit schedules for routing, demand modelling and urban analytics."
+    }
+  ],
+  "datasets": [
+    {
+      "id": "codesearchnet",
+      "name": "CodeSearchNet Corpus",
+      "topic": "source-code",
+      "url": "https://github.com/github/CodeSearchNet",
+      "description": "Two million functions from open-source projects in six languages, each paired with its natural-language docstring, for code search and code-summarisation models.",
+      "provider": "GitHub",
+      "formats": [
+        "JSONL",
+        "GZIP"
+      ],
+      "size": "~20 GB",
+      "records": "2,000,000 functions",
+      "languages": [
+        "Go",
+        "Java",
+        "JavaScript",
+        "PHP",
+        "Python",
+        "Ruby"
+      ],
+      "license": "MIT (tooling); individual functions retain their upstream repository licenses",
+      "license_url": "https://github.com/github/CodeSearchNet/blob/master/LICENSE",
+      "access": "open",
+      "commercial_use": "check",
+      "cite": "Husain et al. (2019), CodeSearchNet Challenge: Evaluating the State of Semantic Code Search. arXiv:1909.09436"
+    },
+    {
+      "id": "gh-archive",
+      "name": "GH Archive",
+      "topic": "source-code",
+      "url": "https://www.gharchive.org/",
+      "description": "Every public GitHub event since 2011, archived hourly and queryable in BigQuery, covering pushes, pull requests, issues and stars.",
+      "provider": "GH Archive (Ilya Grigorik)",
+      "formats": [
+        "JSON",
+        "GZIP",
+        "BigQuery"
+      ],
+      "size": "Multi-TB, grows continuously",
+      "records": "Billions of events",
+      "languages": [],
+      "license": "MIT (project); event data derived from the GitHub public timeline",
+      "license_url": "https://github.com/igrigorik/gharchive.org/blob/master/LICENSE.md",
+      "access": "open",
+      "commercial_use": "check",
+      "cite": "GH Archive, https://www.gharchive.org/"
+    },
+    {
+      "id": "defects4j",
+      "name": "Defects4J",
+      "topic": "software-defects",
+      "url": "https://github.com/rjust/defects4j",
+      "description": "A reproducible collection of real Java bugs, each with a buggy and fixed revision plus the tests that expose the failure, and a harness that checks out and builds any of them on demand.",
+      "provider": "René Just et al.",
+      "formats": [
+        "Git",
+        "Java",
+        "Shell"
+      ],
+      "size": "~2 GB after setup",
+      "records": "800+ bugs across 17 open-source Java projects",
+      "languages": [
+        "Java"
+      ],
+      "license": "MIT",
+      "license_url": "https://github.com/rjust/defects4j/blob/master/license.txt",
+      "access": "open",
+      "commercial_use": "yes",
+      "cite": "Just, Jalali & Ernst (2014), Defects4J: A Database of Existing Faults to Enable Controlled Testing Studies for Java Programs. ISSTA 2014"
+    },
+    {
+      "id": "bugswarm",
+      "name": "BugSwarm",
+      "topic": "software-defects",
+      "url": "https://www.bugswarm.org/",
+      "description": "Fail-pass pairs of real continuous-integration builds packaged as Docker images, so a historical build failure and its fix can be reproduced exactly years later.",
+      "provider": "UC Davis DECAL Lab",
+      "formats": [
+        "Docker images",
+        "JSON"
+      ],
+      "size": "Varies per artifact",
+      "records": "3,000+ reproducible artifacts",
+      "languages": [
+        "Java",
+        "Python"
+      ],
+      "license": "MIT (client tooling); artifacts retain upstream project licenses",
+      "license_url": "https://github.com/BugSwarm/bugswarm/blob/master/LICENSE",
+      "access": "open",
+      "commercial_use": "check",
+      "cite": "Tomassi et al. (2019), BugSwarm: Mining and Continuously Growing a Dataset of Reproducible Failures and Fixes. ICSE 2019"
+    },
+    {
+      "id": "nvd-feeds",
+      "name": "NVD Vulnerability Data Feeds",
+      "topic": "security-vulnerabilities",
+      "url": "https://nvd.nist.gov/vuln/data-feeds",
+      "description": "The US National Vulnerability Database's enriched view of every CVE, adding CVSS severity scores, CWE weakness classes and CPE product identifiers.",
+      "provider": "NIST",
+      "formats": [
+        "JSON",
+        "API"
+      ],
+      "size": "~10 GB uncompressed",
+      "records": "290,000+ CVE records",
+      "languages": [],
+      "license": "US Government public domain",
+      "license_url": "https://nvd.nist.gov/general/FAQ-Sections/General-FAQs",
+      "access": "open",
+      "commercial_use": "yes",
+      "cite": "National Vulnerability Database, NIST"
+    },
+    {
+      "id": "cve-list-v5",
+      "name": "CVE List V5",
+      "topic": "security-vulnerabilities",
+      "url": "https://github.com/CVEProject/cvelistV5",
+      "description": "The authoritative CVE Program record set in JSON 5.0 format, published directly to Git so every vulnerability disclosure has a full commit history.",
+      "provider": "CVE Program / MITRE",
+      "formats": [
+        "JSON",
+        "Git"
+      ],
+      "size": "~5 GB",
+      "records": "290,000+ CVE records",
+      "languages": [],
+      "license": "CVE Program Terms of Use",
+      "license_url": "https://www.cve.org/Legal/TermsOfUse",
+      "access": "open",
+      "commercial_use": "yes",
+      "cite": "CVE Program, https://www.cve.org/"
+    },
+    {
+      "id": "cic-ids2017",
+      "name": "CIC-IDS2017",
+      "topic": "network-traffic",
+      "url": "https://www.unb.ca/cic/datasets/ids-2017.html",
+      "description": "Five days of realistic background traffic interleaved with labelled brute-force, DoS, web-attack, infiltration and botnet scenarios, published as both raw PCAPs and extracted flow features.",
+      "provider": "Canadian Institute for Cybersecurity, University of New Brunswick",
+      "formats": [
+        "PCAP",
+        "CSV"
+      ],
+      "size": "~50 GB",
+      "records": "2,800,000+ labelled flows",
+      "languages": [],
+      "license": "Free for research use with citation",
+      "license_url": "https://www.unb.ca/cic/datasets/ids-2017.html",
+      "access": "registration",
+      "commercial_use": "no",
+      "cite": "Sharafaldin, Lashkari & Ghorbani (2018), Toward Generating a New Intrusion Detection Dataset and Intrusion Traffic Characterization. ICISSP 2018"
+    },
+    {
+      "id": "unsw-nb15",
+      "name": "UNSW-NB15",
+      "topic": "network-traffic",
+      "url": "https://research.unsw.edu.au/projects/unsw-nb15-dataset",
+      "description": "Synthetic-but-realistic network traffic covering nine attack families, with 49 engineered flow features and a fixed train/test split that has become a standard IDS benchmark.",
+      "provider": "UNSW Canberra Cyber",
+      "formats": [
+        "PCAP",
+        "CSV"
+      ],
+      "size": "~100 GB raw, ~500 MB feature CSVs",
+      "records": "2,540,044 flow records",
+      "languages": [],
+      "license": "Free for academic research with citation",
+      "license_url": "https://research.unsw.edu.au/projects/unsw-nb15-dataset",
+      "access": "open",
+      "commercial_use": "no",
+      "cite": "Moustafa & Slay (2015), UNSW-NB15: A Comprehensive Data Set for Network Intrusion Detection Systems. MilCIS 2015"
+    },
+    {
+      "id": "loghub",
+      "name": "Loghub",
+      "topic": "logs-observability",
+      "url": "https://github.com/logpai/loghub",
+      "description": "System logs from distributed systems, supercomputers, operating systems, mobile devices and servers, with hand-labelled templates for a subset, aimed at log parsing and anomaly detection.",
+      "provider": "LogPAI",
+      "formats": [
+        "Plain text",
+        "CSV"
+      ],
+      "size": "~77 GB",
+      "records": "16 log collections, billions of lines",
+      "languages": [],
+      "license": "Freely available for research; individual collections retain source terms",
+      "license_url": "https://github.com/logpai/loghub#license",
+      "access": "open",
+      "commercial_use": "check",
+      "cite": "He et al. (2020), Loghub: A Large Collection of System Log Datasets towards Automated Log Analytics. arXiv:2008.06448"
+    },
+    {
+      "id": "rally-tracks",
+      "name": "Elasticsearch Rally Tracks",
+      "topic": "logs-observability",
+      "url": "https://github.com/elastic/rally-tracks",
+      "description": "The standard benchmarking workloads for Elasticsearch, bundling real document corpora such as HTTP server logs, geonames and NYC taxi rides with the query mixes run against them.",
+      "provider": "Elastic",
+      "formats": [
+        "JSON",
+        "Bzip2"
+      ],
+      "size": "Up to ~200 GB per track",
+      "records": "Varies by track (millions to billions of documents)",
+      "languages": [],
+      "license": "No single license; chosen per track, typically matching the terms of the source data",
+      "license_url": "https://github.com/elastic/rally-tracks",
+      "access": "open",
+      "commercial_use": "check",
+      "cite": "Elastic Rally, https://github.com/elastic/rally-tracks"
+    },
+    {
+      "id": "tpc-h",
+      "name": "TPC-H",
+      "topic": "databases-benchmarks",
+      "url": "https://www.tpc.org/tpch/",
+      "description": "The decision-support benchmark that defines a fixed eight-table schema, a scalable data generator and 22 analytical queries, used to compare query engines at scale factors from 1 GB to 100 TB.",
+      "provider": "Transaction Processing Performance Council",
+      "formats": [
+        "Data generator (C)",
+        "SQL"
+      ],
+      "size": "Configurable (1 GB to 100 TB)",
+      "records": "~8.7M rows at scale factor 1",
+      "languages": [],
+      "license": "TPC End User License Agreement (free download)",
+      "license_url": "https://www.tpc.org/tpc_documents_current_versions/current_specifications5.asp",
+      "access": "open",
+      "commercial_use": "check",
+      "cite": "Transaction Processing Performance Council, TPC Benchmark H"
+    },
+    {
+      "id": "clickbench",
+      "name": "ClickBench",
+      "topic": "databases-benchmarks",
+      "url": "https://github.com/ClickHouse/ClickBench",
+      "description": "A single wide table of anonymised web analytics hits plus 43 typical aggregation queries, designed to compare analytical databases on realistic clickstream workloads.",
+      "provider": "ClickHouse",
+      "formats": [
+        "Parquet",
+        "CSV",
+        "TSV"
+      ],
+      "size": "~15 GB Parquet (~75 GB raw)",
+      "records": "99,997,497 rows",
+      "languages": [],
+      "license": "Apache-2.0",
+      "license_url": "https://github.com/ClickHouse/ClickBench/blob/main/LICENSE",
+      "access": "open",
+      "commercial_use": "yes",
+      "cite": "ClickBench, https://benchmark.clickhouse.com/"
+    },
+    {
+      "id": "common-crawl",
+      "name": "Common Crawl",
+      "topic": "web-crawl",
+      "url": "https://commoncrawl.org/",
+      "description": "A monthly crawl of the public web hosted free on S3, published as raw WARC responses plus extracted plain text and link graphs, and the upstream source for most open LLM pretraining corpora.",
+      "provider": "Common Crawl Foundation",
+      "formats": [
+        "WARC",
+        "WET",
+        "WAT",
+        "Parquet"
+      ],
+      "size": "~100 TB per monthly crawl",
+      "records": "~3 billion pages per crawl",
+      "languages": [],
+      "license": "Common Crawl Terms of Use",
+      "license_url": "https://commoncrawl.org/terms-of-use",
+      "access": "open",
+      "commercial_use": "check",
+      "cite": "Common Crawl Foundation, https://commoncrawl.org/"
+    },
+    {
+      "id": "c4",
+      "name": "C4 (Colossal Clean Crawled Corpus)",
+      "topic": "web-crawl",
+      "url": "https://huggingface.co/datasets/allenai/c4",
+      "description": "A heavily filtered English subset of Common Crawl created for training T5, with deduplication, boilerplate removal and language detection already applied.",
+      "provider": "Google / AllenAI",
+      "formats": [
+        "JSON",
+        "GZIP",
+        "Parquet"
+      ],
+      "size": "~305 GB (en)",
+      "records": "~365 million documents (en)",
+      "languages": [
+        "English",
+        "multilingual variant available"
+      ],
+      "license": "ODC-BY 1.0; underlying text subject to Common Crawl terms",
+      "license_url": "https://huggingface.co/datasets/allenai/c4#license",
+      "access": "open",
+      "commercial_use": "check",
+      "cite": "Raffel et al. (2020), Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer. JMLR 21(140)"
+    },
+    {
+      "id": "imdb-reviews",
+      "name": "Large Movie Review Dataset (IMDB)",
+      "topic": "nlp",
+      "url": "https://ai.stanford.edu/~amaas/data/sentiment/",
+      "description": "Polar movie reviews split evenly into positive and negative classes with a balanced train/test partition, the default smoke test for text classification pipelines.",
+      "provider": "Stanford AI Lab",
+      "formats": [
+        "Plain text",
+        "TAR.GZ"
+      ],
+      "size": "~80 MB",
+      "records": "50,000 labelled reviews plus 50,000 unlabelled",
+      "languages": [
+        "English"
+      ],
+      "license": "Research use; see dataset README",
+      "license_url": "https://ai.stanford.edu/~amaas/data/sentiment/",
+      "access": "open",
+      "commercial_use": "check",
+      "cite": "Maas et al. (2011), Learning Word Vectors for Sentiment Analysis. ACL 2011"
+    },
+    {
+      "id": "squad-v2",
+      "name": "SQuAD 2.0",
+      "topic": "nlp",
+      "url": "https://rajpurkar.github.io/SQuAD-explorer/",
+      "description": "Crowd-written questions over Wikipedia paragraphs, combining answerable questions with adversarially written unanswerable ones so models must learn to abstain.",
+      "provider": "Stanford NLP Group",
+      "formats": [
+        "JSON"
+      ],
+      "size": "~45 MB",
+      "records": "150,000 questions (100,000 answerable, 50,000 unanswerable)",
+      "languages": [
+        "English"
+      ],
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "access": "open",
+      "commercial_use": "yes",
+      "cite": "Rajpurkar, Jia & Liang (2018), Know What You Don't Know: Unanswerable Questions for SQuAD. ACL 2018"
+    },
+    {
+      "id": "coco",
+      "name": "COCO (Common Objects in Context)",
+      "topic": "computer-vision",
+      "url": "https://cocodataset.org/",
+      "description": "Everyday scenes annotated with object instance masks, keypoints, panoptic segments and five captions per image, the reference benchmark for detection and segmentation.",
+      "provider": "COCO Consortium",
+      "formats": [
+        "JPEG",
+        "JSON"
+      ],
+      "size": "~25 GB (2017 splits)",
+      "records": "330,000 images, 1.5 million object instances, 80 categories",
+      "languages": [
+        "English (captions)"
+      ],
+      "license": "CC BY 4.0 (annotations); images subject to their original Flickr terms",
+      "license_url": "https://cocodataset.org/#termsofuse",
+      "access": "open",
+      "commercial_use": "check",
+      "cite": "Lin et al. (2014), Microsoft COCO: Common Objects in Context. ECCV 2014"
+    },
+    {
+      "id": "cifar-10",
+      "name": "CIFAR-10 / CIFAR-100",
+      "topic": "computer-vision",
+      "url": "https://www.cs.toronto.edu/~kriz/cifar.html",
+      "description": "Small 32x32 colour images across 10 or 100 balanced classes, small enough to iterate on in minutes and still the standard sanity check for new architectures.",
+      "provider": "University of Toronto",
+      "formats": [
+        "Pickle",
+        "Binary",
+        "TAR.GZ"
+      ],
+      "size": "~170 MB each",
+      "records": "60,000 images per variant",
+      "languages": [],
+      "license": "Research use; attribution requested",
+      "license_url": "https://www.cs.toronto.edu/~kriz/cifar.html",
+      "access": "open",
+      "commercial_use": "check",
+      "cite": "Krizhevsky (2009), Learning Multiple Layers of Features from Tiny Images. Technical Report, University of Toronto"
+    },
+    {
+      "id": "common-voice",
+      "name": "Mozilla Common Voice",
+      "topic": "speech-audio",
+      "url": "https://commonvoice.mozilla.org/en/datasets",
+      "description": "Crowd-donated and crowd-validated read speech released into the public domain, covering more than a hundred languages including many with little other ASR data.",
+      "provider": "Mozilla Foundation",
+      "formats": [
+        "MP3",
+        "TSV"
+      ],
+      "size": "Varies by language (tens of GB for English)",
+      "records": "30,000+ validated hours across 130+ languages",
+      "languages": [
+        "130+ languages"
+      ],
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "access": "registration",
+      "commercial_use": "yes",
+      "cite": "Ardila et al. (2020), Common Voice: A Massively-Multilingual Speech Corpus. LREC 2020"
+    },
+    {
+      "id": "librispeech",
+      "name": "LibriSpeech",
+      "topic": "speech-audio",
+      "url": "https://www.openslr.org/12",
+      "description": "Read English audiobook speech from LibriVox, force-aligned to its Project Gutenberg source text and split into clean and noisy subsets that define the standard ASR difficulty tiers.",
+      "provider": "Johns Hopkins University / OpenSLR",
+      "formats": [
+        "FLAC",
+        "TXT",
+        "TAR.GZ"
+      ],
+      "size": "~60 GB (all training subsets)",
+      "records": "1,000 hours of 16 kHz speech",
+      "languages": [
+        "English"
+      ],
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "access": "open",
+      "commercial_use": "yes",
+      "cite": "Panayotov et al. (2015), Librispeech: An ASR Corpus Based on Public Domain Audio Books. ICASSP 2015"
+    },
+    {
+      "id": "movielens-25m",
+      "name": "MovieLens 25M",
+      "topic": "recommender-systems",
+      "url": "https://grouplens.org/datasets/movielens/",
+      "description": "Star ratings and free-text tags collected from the MovieLens service over 24 years, the most widely used benchmark for collaborative filtering.",
+      "provider": "GroupLens Research, University of Minnesota",
+      "formats": [
+        "CSV",
+        "ZIP"
+      ],
+      "size": "~250 MB",
+      "records": "25,000,095 ratings from 162,541 users on 62,423 movies",
+      "languages": [],
+      "license": "GroupLens usage license: research use only, no redistribution, no commercial use without permission",
+      "license_url": "https://files.grouplens.org/datasets/movielens/ml-25m-README.html",
+      "access": "open",
+      "commercial_use": "no",
+      "cite": "Harper & Konstan (2015), The MovieLens Datasets: History and Context. ACM TiiS 5(4)"
+    },
+    {
+      "id": "amazon-reviews-2023",
+      "name": "Amazon Reviews 2023",
+      "topic": "recommender-systems",
+      "url": "https://amazon-reviews-2023.github.io/",
+      "description": "Product reviews spanning 1996 to 2023 with ratings, review text, images and rich item metadata, organised into 33 product categories for large-scale recommendation research.",
+      "provider": "McAuley Lab, UC San Diego",
+      "formats": [
+        "JSONL",
+        "Parquet"
+      ],
+      "size": "~200 GB",
+      "records": "571.54 million reviews, 48.19 million items",
+      "languages": [
+        "English"
+      ],
+      "license": "Research use; cite the source papers",
+      "license_url": "https://amazon-reviews-2023.github.io/",
+      "access": "open",
+      "commercial_use": "no",
+      "cite": "Hou et al. (2024), Bridging Language and Items for Retrieval and Recommendation. arXiv:2403.03952"
+    },
+    {
+      "id": "ms-marco",
+      "name": "MS MARCO",
+      "topic": "search-ir",
+      "url": "https://microsoft.github.io/msmarco/",
+      "description": "Real anonymised Bing queries paired with human-judged passages and documents, the dataset that made neural ranking models practical to train at scale.",
+      "provider": "Microsoft",
+      "formats": [
+        "TSV",
+        "JSON"
+      ],
+      "size": "~20 GB",
+      "records": "1,010,916 queries, 8.8 million passages",
+      "languages": [
+        "English"
+      ],
+      "license": "MS MARCO non-commercial research license",
+      "license_url": "https://microsoft.github.io/msmarco/",
+      "access": "open",
+      "commercial_use": "no",
+      "cite": "Bajaj et al. (2016), MS MARCO: A Human Generated MAchine Reading COmprehension Dataset. arXiv:1611.09268"
+    },
+    {
+      "id": "beir",
+      "name": "BEIR",
+      "topic": "search-ir",
+      "url": "https://github.com/beir-cellar/beir",
+      "description": "A heterogeneous zero-shot retrieval benchmark that wraps 18 existing IR datasets behind one loader and evaluation protocol, so a retriever can be scored across domains without per-dataset plumbing.",
+      "provider": "UKP Lab, TU Darmstadt",
+      "formats": [
+        "JSONL",
+        "TSV"
+      ],
+      "size": "~50 GB for all subsets",
+      "records": "18 datasets across 9 retrieval tasks",
+      "languages": [
+        "English"
+      ],
+      "license": "Apache-2.0 (toolkit); each subset retains its own license",
+      "license_url": "https://github.com/beir-cellar/beir/blob/main/LICENSE",
+      "access": "open",
+      "commercial_use": "check",
+      "cite": "Thakur et al. (2021), BEIR: A Heterogeneous Benchmark for Zero-shot Evaluation of Information Retrieval Models. NeurIPS 2021 Datasets and Benchmarks"
+    },
+    {
+      "id": "uci-ml-repo",
+      "name": "UCI Machine Learning Repository",
+      "topic": "tabular-ml",
+      "url": "https://archive.ics.uci.edu/",
+      "description": "The longest-running public collection of machine learning datasets, hosting the small tabular classics such as Iris, Adult, Wine Quality and Covertype behind a consistent Python API.",
+      "provider": "University of California, Irvine",
+      "formats": [
+        "CSV",
+        "ARFF",
+        "Python API"
+      ],
+      "size": "Mostly under 100 MB per dataset",
+      "records": "670+ datasets",
+      "languages": [],
+      "license": "CC BY 4.0 for most datasets; check per dataset",
+      "license_url": "https://archive.ics.uci.edu/",
+      "access": "open",
+      "commercial_use": "check",
+      "cite": "Kelly, Longjohn & Nottingham, The UCI Machine Learning Repository, https://archive.ics.uci.edu"
+    },
+    {
+      "id": "openml",
+      "name": "OpenML",
+      "topic": "tabular-ml",
+      "url": "https://www.openml.org/search?type=benchmark",
+      "description": "Datasets, tasks, flows and millions of recorded experiment runs behind one REST API, including the curated CC-18 and AutoML benchmark suites for reproducible model comparison.",
+      "provider": "OpenML Foundation",
+      "formats": [
+        "ARFF",
+        "Parquet",
+        "REST API"
+      ],
+      "size": "Varies by dataset",
+      "records": "5,000+ curated datasets, 100M+ recorded runs",
+      "languages": [],
+      "license": "Varies per dataset; mostly CC BY or public domain",
+      "license_url": "https://www.openml.org/terms",
+      "access": "open",
+      "commercial_use": "check",
+      "cite": "Vanschoren et al. (2013), OpenML: Networked Science in Machine Learning. SIGKDD Explorations 15(2)"
+    },
+    {
+      "id": "m4",
+      "name": "M4 Competition Dataset",
+      "topic": "time-series",
+      "url": "https://github.com/Mcompetitions/M4-methods",
+      "description": "One hundred thousand real series at yearly through hourly frequencies drawn from demographics, finance, industry and macro sources, with held-out horizons and every competitor's submitted forecasts.",
+      "provider": "Makridakis Open Forecasting Center",
+      "formats": [
+        "CSV"
+      ],
+      "size": "~500 MB",
+      "records": "100,000 time series",
+      "languages": [],
+      "license": "Open for research and benchmarking; see repository",
+      "license_url": "https://github.com/Mcompetitions/M4-methods",
+      "access": "open",
+      "commercial_use": "check",
+      "cite": "Makridakis, Spiliotis & Assimakopoulos (2020), The M4 Competition: 100,000 Time Series and 61 Forecasting Methods. International Journal of Forecasting 36(1)"
+    },
+    {
+      "id": "monash-tsf",
+      "name": "Monash Time Series Forecasting Archive",
+      "topic": "time-series",
+      "url": "https://forecastingdata.org/",
+      "description": "Thirty forecasting datasets normalised into a single .tsf format with baseline results for statistical and deep models, covering tourism, traffic, electricity, weather and web traffic.",
+      "provider": "Monash University",
+      "formats": [
+        "TSF",
+        "CSV",
+        "Zenodo archives"
+      ],
+      "size": "~10 GB",
+      "records": "30 datasets, 100,000+ series",
+      "languages": [],
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "access": "open",
+      "commercial_use": "yes",
+      "cite": "Godahewa et al. (2021), Monash Time Series Forecasting Archive. NeurIPS 2021 Datasets and Benchmarks"
+    },
+    {
+      "id": "creditcard-fraud",
+      "name": "Credit Card Fraud Detection",
+      "topic": "fraud-anomaly",
+      "url": "https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud",
+      "description": "Two days of European cardholder transactions with PCA-anonymised features and a 0.172% positive rate, the canonical teaching example for extreme class imbalance.",
+      "provider": "Machine Learning Group, ULB / Worldline",
+      "formats": [
+        "CSV"
+      ],
+      "size": "~150 MB",
+      "records": "284,807 transactions, 492 frauds",
+      "languages": [],
+      "license": "Database Contents License (DbCL) v1.0",
+      "license_url": "https://opendatacommons.org/licenses/dbcl/1-0/",
+      "access": "registration",
+      "commercial_use": "check",
+      "cite": "Dal Pozzolo et al. (2015), Calibrating Probability with Undersampling for Unbalanced Classification. IEEE SSCI 2015"
+    },
+    {
+      "id": "ieee-cis-fraud",
+      "name": "IEEE-CIS Fraud Detection",
+      "topic": "fraud-anomaly",
+      "url": "https://www.kaggle.com/competitions/ieee-fraud-detection",
+      "description": "Real e-commerce transactions from Vesta with 400+ engineered features spanning device, card, address and identity signals, plus a separately joined identity table.",
+      "provider": "IEEE Computational Intelligence Society / Vesta Corporation",
+      "formats": [
+        "CSV"
+      ],
+      "size": "~1.2 GB",
+      "records": "590,540 training transactions",
+      "languages": [],
+      "license": "Competition rules; non-commercial research use",
+      "license_url": "https://www.kaggle.com/competitions/ieee-fraud-detection/rules",
+      "access": "registration",
+      "commercial_use": "no",
+      "cite": "IEEE-CIS Fraud Detection, Kaggle (2019)"
+    },
+    {
+      "id": "snap",
+      "name": "SNAP Large Network Dataset Collection",
+      "topic": "graphs-networks",
+      "url": "https://snap.stanford.edu/data/",
+      "description": "Social, citation, collaboration, web, road and communication networks in a uniform edge-list format, ranging from thousands to billions of edges.",
+      "provider": "Stanford Network Analysis Project",
+      "formats": [
+        "Edge list",
+        "TXT.GZ"
+      ],
+      "size": "KB to hundreds of GB per network",
+      "records": "100+ network datasets",
+      "languages": [],
+      "license": "BSD-3-Clause (library); datasets vary, cite the source paper",
+      "license_url": "https://snap.stanford.edu/snap/license.html",
+      "access": "open",
+      "commercial_use": "check",
+      "cite": "Leskovec & Krevl (2014), SNAP Datasets: Stanford Large Network Dataset Collection"
+    },
+    {
+      "id": "ogb",
+      "name": "Open Graph Benchmark",
+      "topic": "graphs-networks",
+      "url": "https://ogb.stanford.edu/",
+      "description": "Large realistic graph benchmarks for node, link and graph property prediction, shipping with standardised non-random splits and an automated evaluator to stop leaderboard drift.",
+      "provider": "Stanford University",
+      "formats": [
+        "Python package",
+        "NPZ",
+        "CSV"
+      ],
+      "size": "MB to ~100 GB (OGB-LSC)",
+      "records": "15+ datasets up to 100M+ nodes",
+      "languages": [],
+      "license": "MIT (package); datasets carry individual licenses such as ODC-BY and CC BY",
+      "license_url": "https://github.com/snap-stanford/ogb/blob/master/LICENSE",
+      "access": "open",
+      "commercial_use": "check",
+      "cite": "Hu et al. (2020), Open Graph Benchmark: Datasets for Machine Learning on Graphs. NeurIPS 2020"
+    },
+    {
+      "id": "osm-planet",
+      "name": "OpenStreetMap Planet",
+      "topic": "geospatial",
+      "url": "https://planet.openstreetmap.org/",
+      "description": "The complete crowd-mapped world as a single weekly export of nodes, ways and relations, plus daily and minutely diffs for keeping a local mirror current.",
+      "provider": "OpenStreetMap Foundation",
+      "formats": [
+        "PBF",
+        "XML.BZ2"
+      ],
+      "size": "~80 GB (PBF)",
+      "records": "9 billion+ nodes",
+      "languages": [],
+      "license": "ODbL 1.0 (share-alike; attribution required)",
+      "license_url": "https://www.openstreetmap.org/copyright",
+      "access": "open",
+      "commercial_use": "yes",
+      "cite": "OpenStreetMap contributors, https://www.openstreetmap.org/copyright"
+    },
+    {
+      "id": "natural-earth",
+      "name": "Natural Earth",
+      "topic": "geospatial",
+      "url": "https://www.naturalearthdata.com/downloads/",
+      "description": "Public-domain vector and raster base maps at three cartographic scales, with boundaries, coastlines, rivers, cities and shaded relief built to line up cleanly across layers.",
+      "provider": "Natural Earth / NACIS",
+      "formats": [
+        "Shapefile",
+        "GeoPackage",
+        "GeoTIFF"
+      ],
+      "size": "~1 GB for the full set",
+      "records": "Vector and raster layers at 1:10m, 1:50m and 1:110m",
+      "languages": [],
+      "license": "Public domain",
+      "license_url": "https://www.naturalearthdata.com/about/terms-of-use/",
+      "access": "open",
+      "commercial_use": "yes",
+      "cite": "Made with Natural Earth, https://www.naturalearthdata.com/"
+    },
+    {
+      "id": "fred",
+      "name": "FRED (Federal Reserve Economic Data)",
+      "topic": "finance-economics",
+      "url": "https://fred.stlouisfed.org/",
+      "description": "Macroeconomic time series aggregated from more than a hundred official sources, covering rates, employment, prices and output, with a well-documented REST API and vintage-aware ALFRED archive.",
+      "provider": "Federal Reserve Bank of St. Louis",
+      "formats": [
+        "CSV",
+        "XLS",
+        "REST API"
+      ],
+      "size": "Varies by series",
+      "records": "800,000+ time series",
+      "languages": [],
+      "license": "FRED Terms of Use; many series carry upstream copyright restrictions",
+      "license_url": "https://fred.stlouisfed.org/legal/",
+      "access": "open",
+      "commercial_use": "check",
+      "cite": "Federal Reserve Bank of St. Louis, FRED, https://fred.stlouisfed.org/"
+    },
+    {
+      "id": "world-bank-open-data",
+      "name": "World Bank Open Data",
+      "topic": "finance-economics",
+      "url": "https://data.worldbank.org/",
+      "description": "Development indicators for every country from 1960 onward, covering GDP, population, health, education, energy and trade, all available in bulk and through a free API.",
+      "provider": "The World Bank",
+      "formats": [
+        "CSV",
+        "XML",
+        "REST API"
+      ],
+      "size": "~200 MB for the full WDI archive",
+      "records": "1,400+ indicators, 217 economies",
+      "languages": [],
+      "license": "CC BY 4.0",
+      "license_url": "https://datacatalog.worldbank.org/public-licenses",
+      "access": "open",
+      "commercial_use": "yes",
+      "cite": "World Bank Open Data, https://data.worldbank.org/"
+    },
+    {
+      "id": "online-retail-ii",
+      "name": "Online Retail II",
+      "topic": "ecommerce-retail",
+      "url": "https://archive.ics.uci.edu/dataset/502/online+retail+ii",
+      "description": "Every transaction of a UK online gift retailer over two years, with invoice, product, quantity, price, customer and country columns, widely used for RFM segmentation and basket analysis.",
+      "provider": "UCI Machine Learning Repository",
+      "formats": [
+        "XLSX",
+        "CSV"
+      ],
+      "size": "~45 MB",
+      "records": "1,067,371 transactions (Dec 2009 - Dec 2011)",
+      "languages": [],
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "access": "open",
+      "commercial_use": "yes",
+      "cite": "Chen, D. (2019), Online Retail II. UCI Machine Learning Repository"
+    },
+    {
+      "id": "instacart",
+      "name": "Instacart Market Basket Analysis",
+      "topic": "ecommerce-retail",
+      "url": "https://www.kaggle.com/c/instacart-market-basket-analysis",
+      "description": "Anonymised grocery orders with per-order product sequences, reorder flags, aisle and department taxonomies, and day-of-week and hour-of-day signals for next-basket prediction.",
+      "provider": "Instacart",
+      "formats": [
+        "CSV"
+      ],
+      "size": "~700 MB",
+      "records": "3.4 million orders from 200,000+ users",
+      "languages": [],
+      "license": "Instacart Data Sharing Agreement; non-commercial use",
+      "license_url": "https://www.kaggle.com/c/instacart-market-basket-analysis/rules",
+      "access": "registration",
+      "commercial_use": "no",
+      "cite": "The Instacart Online Grocery Shopping Dataset 2017, accessed via Kaggle"
+    },
+    {
+      "id": "nyc-tlc",
+      "name": "NYC TLC Trip Record Data",
+      "topic": "transportation-mobility",
+      "url": "https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page",
+      "description": "Every yellow taxi, green taxi, for-hire and high-volume for-hire trip in New York City since 2009, with pickup and dropoff timestamps, zones, distances and fare breakdowns.",
+      "provider": "NYC Taxi and Limousine Commission",
+      "formats": [
+        "Parquet"
+      ],
+      "size": "~50 GB for the full history",
+      "records": "Billions of trips since 2009",
+      "languages": [],
+      "license": "NYC Open Data Terms of Use",
+      "license_url": "https://www.nyc.gov/home/terms-of-use.page",
+      "access": "open",
+      "commercial_use": "yes",
+      "cite": "NYC Taxi and Limousine Commission, TLC Trip Record Data"
+    },
+    {
+      "id": "mobility-database",
+      "name": "Mobility Database",
+      "topic": "transportation-mobility",
+      "url": "https://mobilitydatabase.org/",
+      "description": "A catalogue of public transit feeds worldwide in GTFS and GTFS-Realtime, with a stable API and validation reports so schedule and vehicle-position data can be pulled without hunting agency websites.",
+      "provider": "MobilityData",
+      "formats": [
+        "GTFS",
+        "GTFS-RT",
+        "REST API"
+      ],
+      "size": "Varies by feed",
+      "records": "2,000+ transit feeds worldwide",
+      "languages": [],
+      "license": "Catalogue CC0; individual feeds carry their agency licenses",
+      "license_url": "https://mobilitydatabase.org/terms-and-conditions",
+      "access": "registration",
+      "commercial_use": "check",
+      "cite": "MobilityData, Mobility Database, https://mobilitydatabase.org/"
+    }
+  ]
+}

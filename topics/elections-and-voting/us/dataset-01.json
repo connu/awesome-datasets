@@ -1,0 +1,21 @@
+{
+  "id": "mit-election-data-and-science-lab",
+  "name": "MIT Election Data and Science Lab",
+  "topic": "elections-and-voting",
+  "country": "us",
+  "url": "https://electionlab.mit.edu/data",
+  "description": "Cleaned and validated returns for presidential, senate, house and state elections at county and precinct level, harmonised across states and decades.",
+  "provider": "MIT Election Data and Science Lab",
+  "formats": [
+    "CSV",
+    "Stata",
+    "RDS"
+  ],
+  "size": "~5 GB",
+  "records": "County and precinct returns from 1976 onward",
+  "license": "CC BY 4.0 with dataset-specific terms",
+  "license_url": "https://electionlab.mit.edu/data",
+  "access": "open",
+  "commercial_use": "check",
+  "cite": "MIT Election Data and Science Lab, Harvard Dataverse"
+}

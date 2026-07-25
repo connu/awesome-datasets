@@ -1,0 +1,21 @@
+{
+  "id": "tiger-line-shapefiles",
+  "name": "TIGER/Line Shapefiles",
+  "topic": "census-and-demographics",
+  "country": "us",
+  "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html",
+  "description": "The official geographic boundary files for states, counties, tracts, block groups, blocks, ZCTAs, roads and legislative districts, updated annually.",
+  "provider": "US Census Bureau",
+  "formats": [
+    "Shapefile",
+    "GeoDatabase",
+    "GeoJSON"
+  ],
+  "size": "~30 GB full set",
+  "records": "National coverage at every census geography level",
+  "license": "US Government public domain",
+  "license_url": "https://www.census.gov/about/policies/open-gov.html",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "US Census Bureau, TIGER/Line Shapefiles"
+}

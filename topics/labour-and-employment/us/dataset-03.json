@@ -1,0 +1,22 @@
+{
+  "id": "o-net-database",
+  "name": "O*NET Database",
+  "topic": "labour-and-employment",
+  "country": "us",
+  "url": "https://www.onetcenter.org/database.html",
+  "description": "Structured descriptions of nearly a thousand occupations covering required skills, knowledge, abilities, work activities, tools, technologies and job zones.",
+  "provider": "US Department of Labor",
+  "formats": [
+    "CSV",
+    "SQL",
+    "XLSX",
+    "REST API"
+  ],
+  "size": "~200 MB",
+  "records": "900+ occupations with 250+ descriptors each",
+  "license": "CC BY 4.0",
+  "license_url": "https://www.onetcenter.org/license_db.html",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "O*NET Database, US Department of Labor, Employment and Training Administration"
+}

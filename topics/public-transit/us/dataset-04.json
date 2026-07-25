@@ -1,0 +1,21 @@
+{
+  "id": "bts-transit-profiles",
+  "name": "BTS Transit Profiles",
+  "topic": "public-transit",
+  "country": "us",
+  "url": "https://www.bts.gov/browse-statistical-products-and-data",
+  "description": "Cross-modal statistical products covering passenger travel, transit performance, freight movement and transportation economics.",
+  "provider": "Bureau of Transportation Statistics",
+  "formats": [
+    "CSV",
+    "XLSX",
+    "REST API"
+  ],
+  "size": "Varies by product",
+  "records": "Hundreds of statistical products",
+  "license": "US Government public domain",
+  "license_url": "https://www.bts.gov/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Bureau of Transportation Statistics"
+}

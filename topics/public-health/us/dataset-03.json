@@ -1,0 +1,21 @@
+{
+  "id": "cdc-brfss",
+  "name": "CDC BRFSS",
+  "topic": "public-health",
+  "country": "us",
+  "url": "https://www.cdc.gov/brfss/index.html",
+  "description": "The world's largest continuously conducted health survey, collecting risk behaviours, chronic conditions and preventive service use from US adults by state.",
+  "provider": "Centers for Disease Control and Prevention",
+  "formats": [
+    "SAS",
+    "ASCII",
+    "CSV"
+  ],
+  "size": "~10 GB",
+  "records": "400,000+ interviews per year since 1984",
+  "license": "US Government public domain",
+  "license_url": "https://www.cdc.gov/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "CDC, Behavioral Risk Factor Surveillance System"
+}

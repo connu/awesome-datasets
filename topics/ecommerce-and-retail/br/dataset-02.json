@@ -1,0 +1,21 @@
+{
+  "id": "ibge-pesquisa-mensal-de-com-rcio",
+  "name": "IBGE Pesquisa Mensal de Comércio",
+  "topic": "ecommerce-and-retail",
+  "country": "br",
+  "url": "https://www.ibge.gov.br/estatisticas/economicas/comercio.html",
+  "description": "Official monthly retail trade volume and revenue indices by activity and state, Brazil's headline retail indicator.",
+  "provider": "Instituto Brasileiro de Geografia e Estatística",
+  "formats": [
+    "XLSX",
+    "CSV",
+    "REST API"
+  ],
+  "size": "Varies by series",
+  "records": "Monthly series from 2000",
+  "license": "Free use with attribution to IBGE",
+  "license_url": "https://www.ibge.gov.br/acesso-informacao/institucional/copyright.html",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "IBGE, Pesquisa Mensal de Comércio"
+}

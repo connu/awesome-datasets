@@ -1,0 +1,21 @@
+{
+  "id": "onemap-api",
+  "name": "OneMap API",
+  "topic": "taxi-and-ride-hailing",
+  "country": "sg",
+  "url": "https://www.onemap.gov.sg/apidocs/",
+  "description": "Singapore's authoritative mapping API providing geocoding, routing, planning-area boundaries, population queries and themed map layers.",
+  "provider": "Singapore Land Authority",
+  "formats": [
+    "REST API",
+    "JSON",
+    "GeoJSON"
+  ],
+  "size": "API",
+  "records": "National address and boundary coverage",
+  "license": "Singapore Open Data Licence with SLA attribution",
+  "license_url": "https://www.onemap.gov.sg/legal/opendatalicence.html",
+  "access": "registration",
+  "commercial_use": "yes",
+  "cite": "OneMap, Singapore Land Authority"
+}

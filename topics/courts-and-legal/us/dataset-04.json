@@ -1,0 +1,22 @@
+{
+  "id": "caselaw-access-project",
+  "name": "Caselaw Access Project",
+  "topic": "courts-and-legal",
+  "country": "us",
+  "url": "https://case.law/",
+  "description": "Digitised and structured US case law from 1658 to 2020, covering every officially published state and federal volume from the Harvard Law School Library.",
+  "provider": "Harvard Law School Library Innovation Lab",
+  "formats": [
+    "JSON",
+    "CSV",
+    "XML",
+    "Static files"
+  ],
+  "size": "~1 TB",
+  "records": "6.9 million cases, 40 million pages",
+  "license": "CC0 1.0 for case text",
+  "license_url": "https://case.law/about/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Caselaw Access Project, Harvard Law School Library Innovation Lab"
+}

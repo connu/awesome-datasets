@@ -1,0 +1,9 @@
+{
+  "slug": "satellite-and-earth-observation",
+  "title": "Satellite & Earth Observation",
+  "description": "Optical and radar satellite imagery, land cover products and analysis-ready geospatial rasters.",
+  "countries": [
+    "eu",
+    "us"
+  ]
+}

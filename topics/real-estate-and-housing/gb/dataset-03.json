@@ -1,0 +1,20 @@
+{
+  "id": "energy-performance-of-buildings-data",
+  "name": "Energy Performance of Buildings Data",
+  "topic": "real-estate-and-housing",
+  "country": "gb",
+  "url": "https://epc.opendatacommunities.org/",
+  "description": "Energy performance certificates for domestic and non-domestic buildings, giving floor area, construction age, heating type, insulation and efficiency ratings by address.",
+  "provider": "Department for Levelling Up, Housing and Communities",
+  "formats": [
+    "CSV",
+    "REST API"
+  ],
+  "size": "~10 GB",
+  "records": "25 million+ certificates",
+  "license": "Open Government Licence v3.0",
+  "license_url": "https://epc.opendatacommunities.org/docs/copyright",
+  "access": "registration",
+  "commercial_use": "yes",
+  "cite": "Energy Performance of Buildings Data England and Wales"
+}

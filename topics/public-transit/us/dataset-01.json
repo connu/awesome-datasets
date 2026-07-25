@@ -1,0 +1,20 @@
+{
+  "id": "national-transit-database",
+  "name": "National Transit Database",
+  "topic": "public-transit",
+  "country": "us",
+  "url": "https://www.transit.dot.gov/ntd",
+  "description": "Mandatory annual and monthly reporting from every federally funded transit agency, covering ridership, revenue miles, fleet, safety events and operating cost.",
+  "provider": "Federal Transit Administration",
+  "formats": [
+    "XLSX",
+    "CSV"
+  ],
+  "size": "~1 GB",
+  "records": "3,000+ reporting agencies",
+  "license": "US Government public domain",
+  "license_url": "https://www.transit.dot.gov/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Federal Transit Administration, National Transit Database"
+}

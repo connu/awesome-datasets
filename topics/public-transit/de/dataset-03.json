@@ -1,0 +1,20 @@
+{
+  "id": "gtfs-de-feeds",
+  "name": "GTFS.de Feeds",
+  "topic": "public-transit",
+  "country": "de",
+  "url": "https://gtfs.de/",
+  "description": "Consolidated GTFS feeds covering long-distance, regional and local public transport across Germany, rebuilt regularly from official sources.",
+  "provider": "gtfs.de",
+  "formats": [
+    "GTFS",
+    "GTFS-RT"
+  ],
+  "size": "~500 MB per full feed",
+  "records": "National coverage of German public transport",
+  "license": "CC BY 4.0",
+  "license_url": "https://gtfs.de/en/feeds/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "gtfs.de, Germany-wide GTFS feeds"
+}

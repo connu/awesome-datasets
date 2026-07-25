@@ -1,0 +1,21 @@
+{
+  "id": "e-stat-portal-of-official-statistics-of-japan",
+  "name": "e-Stat Portal of Official Statistics of Japan",
+  "topic": "earthquakes-and-natural-hazards",
+  "country": "jp",
+  "url": "https://www.e-stat.go.jp/en",
+  "description": "Japan's unified statistics portal covering population, economy, disaster damage, housing and land use, with a documented API and bulk downloads.",
+  "provider": "Statistics Bureau of Japan",
+  "formats": [
+    "CSV",
+    "XLSX",
+    "REST API"
+  ],
+  "size": "Varies by table",
+  "records": "Hundreds of thousands of statistical tables",
+  "license": "Japan Government Standard Terms of Use, CC BY compatible",
+  "license_url": "https://www.e-stat.go.jp/en/terms-of-use",
+  "access": "registration",
+  "commercial_use": "yes",
+  "cite": "e-Stat, Statistics Bureau of Japan"
+}

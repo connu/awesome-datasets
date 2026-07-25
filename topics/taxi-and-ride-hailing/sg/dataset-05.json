@@ -1,0 +1,21 @@
+{
+  "id": "singapore-department-of-statistics-tablebuilder",
+  "name": "Singapore Department of Statistics Tablebuilder",
+  "topic": "taxi-and-ride-hailing",
+  "country": "sg",
+  "url": "https://tablebuilder.singstat.gov.sg/",
+  "description": "Official statistics tables covering transport expenditure, household vehicle ownership, population and economic indicators, with an open API.",
+  "provider": "Department of Statistics Singapore",
+  "formats": [
+    "REST API",
+    "CSV",
+    "XLSX"
+  ],
+  "size": "Varies by table",
+  "records": "Thousands of statistical tables",
+  "license": "Singapore Open Data Licence",
+  "license_url": "https://www.singstat.gov.sg/terms-of-use",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Department of Statistics Singapore, SingStat Table Builder"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "hm-treasury-spending-data",
+  "name": "HM Treasury Spending Data",
+  "topic": "government-spending-and-budgets",
+  "country": "gb",
+  "url": "https://www.gov.uk/government/collections/spending-over-25-000",
+  "description": "Departmental transparency releases listing every payment over £25,000, with supplier, date, amount and expense type.",
+  "provider": "HM Treasury",
+  "formats": [
+    "CSV",
+    "XLSX"
+  ],
+  "size": "~2 GB across departments",
+  "records": "Monthly releases since 2010",
+  "license": "Open Government Licence v3.0",
+  "license_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "HM Treasury spend over £25,000"
+}

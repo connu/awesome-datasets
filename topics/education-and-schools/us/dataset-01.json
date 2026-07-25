@@ -1,0 +1,21 @@
+{
+  "id": "ipeds-integrated-postsecondary-education-data-system",
+  "name": "IPEDS Integrated Postsecondary Education Data System",
+  "topic": "education-and-schools",
+  "country": "us",
+  "url": "https://nces.ed.gov/ipeds/",
+  "description": "Mandatory annual reporting from every US college and university covering enrolment, completions, tuition, financial aid, staffing and institutional finance.",
+  "provider": "National Center for Education Statistics",
+  "formats": [
+    "CSV",
+    "Access DB",
+    "REST API"
+  ],
+  "size": "~5 GB",
+  "records": "6,000+ institutions reporting annually since 1980",
+  "license": "US Government public domain",
+  "license_url": "https://nces.ed.gov/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "National Center for Education Statistics, IPEDS"
+}

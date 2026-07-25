@@ -1,0 +1,21 @@
+{
+  "id": "cdc-wonder",
+  "name": "CDC WONDER",
+  "topic": "census-and-demographics",
+  "country": "us",
+  "url": "https://wonder.cdc.gov/",
+  "description": "Query system over national births, deaths, cancer incidence and population estimates, aggregated by geography, demographic group and cause.",
+  "provider": "Centers for Disease Control and Prevention",
+  "formats": [
+    "TXT",
+    "CSV",
+    "REST API"
+  ],
+  "size": "Varies by query",
+  "records": "Decades of vital statistics",
+  "license": "US Government public domain, with small-cell suppression rules",
+  "license_url": "https://wonder.cdc.gov/datause.html",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "CDC WONDER, Centers for Disease Control and Prevention"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "nasa-firms-active-fire-data",
+  "name": "NASA FIRMS Active Fire Data",
+  "topic": "earthquakes-and-natural-hazards",
+  "country": "us",
+  "url": "https://firms.modaps.eosdis.nasa.gov/",
+  "description": "Near-real-time satellite detections of active fires and thermal anomalies from MODIS and VIIRS, with archive downloads and a fire information API.",
+  "provider": "NASA",
+  "formats": [
+    "CSV",
+    "Shapefile",
+    "KML",
+    "REST API"
+  ],
+  "size": "~100 GB archive",
+  "records": "Global detections since 2000",
+  "license": "NASA open data policy, free and open",
+  "license_url": "https://firms.modaps.eosdis.nasa.gov/",
+  "access": "registration",
+  "commercial_use": "yes",
+  "cite": "NASA FIRMS, Fire Information for Resource Management System"
+}

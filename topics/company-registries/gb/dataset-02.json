@@ -1,0 +1,20 @@
+{
+  "id": "companies-house-public-data-api",
+  "name": "Companies House Public Data API",
+  "topic": "company-registries",
+  "country": "gb",
+  "url": "https://developer.company-information.service.gov.uk/",
+  "description": "REST access to company profiles, officers, persons with significant control, filing history, charges and insolvency records.",
+  "provider": "Companies House",
+  "formats": [
+    "REST API",
+    "JSON"
+  ],
+  "size": "API",
+  "records": "5 million+ companies, 12 million+ officers",
+  "license": "Open Government Licence v3.0",
+  "license_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "access": "registration",
+  "commercial_use": "yes",
+  "cite": "Companies House Public Data API"
+}

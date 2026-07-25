@@ -1,0 +1,9 @@
+{
+  "slug": "public-health",
+  "title": "Public Health",
+  "description": "Disease surveillance, hospital activity, mortality, prescribing and health system performance.",
+  "countries": [
+    "gb",
+    "us"
+  ]
+}

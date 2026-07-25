@@ -1,0 +1,20 @@
+{
+  "id": "dvsa-mot-testing-data",
+  "name": "DVSA MOT Testing Data",
+  "topic": "road-safety-and-accidents",
+  "country": "gb",
+  "url": "https://www.data.gov.uk/dataset/e3939ef8-30c7-4ca8-9c7c-ad9475cc9b2f/anonymised-mot-tests-and-results",
+  "description": "Anonymised results of every MOT roadworthiness test, with make, model, mileage, test outcome and the specific defects recorded.",
+  "provider": "Driver and Vehicle Standards Agency",
+  "formats": [
+    "CSV",
+    "TXT"
+  ],
+  "size": "~20 GB",
+  "records": "500 million+ tests since 2005",
+  "license": "Open Government Licence v3.0",
+  "license_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "DVSA, Anonymised MOT tests and results"
+}

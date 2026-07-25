@@ -1,0 +1,23 @@
+{
+  "id": "nasa-earthdata-search",
+  "name": "NASA Earthdata Search",
+  "topic": "satellite-and-earth-observation",
+  "country": "us",
+  "url": "https://search.earthdata.nasa.gov/",
+  "description": "Unified search and download across NASA's Earth science data centres covering atmosphere, land, ocean, cryosphere and human dimensions.",
+  "provider": "NASA",
+  "formats": [
+    "HDF",
+    "NetCDF",
+    "GeoTIFF",
+    "Zarr",
+    "STAC API"
+  ],
+  "size": "Tens of petabytes",
+  "records": "10,000+ data collections",
+  "license": "NASA open data policy, free and open",
+  "license_url": "https://www.earthdata.nasa.gov/engage/open-data-services-software-policies",
+  "access": "registration",
+  "commercial_use": "yes",
+  "cite": "NASA Earthdata"
+}

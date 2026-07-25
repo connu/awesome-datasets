@@ -1,0 +1,20 @@
+{
+  "id": "siam-industry-statistics",
+  "name": "SIAM Industry Statistics",
+  "topic": "vehicles-and-car-sales",
+  "country": "in",
+  "url": "https://www.siam.in/statistics.aspx",
+  "description": "Industry-body figures for domestic sales, production and exports of passenger vehicles, two-wheelers, three-wheelers and commercial vehicles.",
+  "provider": "Society of Indian Automobile Manufacturers",
+  "formats": [
+    "XLSX",
+    "PDF"
+  ],
+  "size": "Small tabular files",
+  "records": "Monthly and annual series by segment",
+  "license": "Free for reference; redistribution requires permission",
+  "license_url": "https://www.siam.in/",
+  "access": "open",
+  "commercial_use": "no",
+  "cite": "Society of Indian Automobile Manufacturers, Industry Statistics"
+}

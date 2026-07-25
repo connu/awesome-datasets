@@ -1,0 +1,20 @@
+{
+  "id": "gst-portal-taxpayer-search",
+  "name": "GST Portal Taxpayer Search",
+  "topic": "company-registries",
+  "country": "in",
+  "url": "https://www.gst.gov.in/",
+  "description": "Registry lookup of GST-registered businesses with legal name, trade name, registration date, constitution, jurisdiction and filing status.",
+  "provider": "Goods and Services Tax Network",
+  "formats": [
+    "Web",
+    "REST API"
+  ],
+  "size": "Varies by query",
+  "records": "14 million+ registered taxpayers",
+  "license": "Government terms of use; API access via GSP licensing",
+  "license_url": "https://www.gst.gov.in/",
+  "access": "registration",
+  "commercial_use": "check",
+  "cite": "Goods and Services Tax Network, Government of India"
+}

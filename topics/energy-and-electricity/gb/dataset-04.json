@@ -1,0 +1,21 @@
+{
+  "id": "desnz-energy-statistics",
+  "name": "DESNZ Energy Statistics",
+  "topic": "energy-and-electricity",
+  "country": "gb",
+  "url": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero/about/statistics",
+  "description": "Official UK energy statistics including the Digest of UK Energy Statistics, sub-national gas and electricity consumption, and renewable capacity by technology.",
+  "provider": "Department for Energy Security and Net Zero",
+  "formats": [
+    "XLSX",
+    "CSV",
+    "ODS"
+  ],
+  "size": "~2 GB",
+  "records": "Annual and quarterly series from 1970",
+  "license": "Open Government Licence v3.0",
+  "license_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Department for Energy Security and Net Zero, Energy Statistics"
+}

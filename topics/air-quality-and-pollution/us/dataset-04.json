@@ -1,0 +1,21 @@
+{
+  "id": "epa-envirofacts",
+  "name": "EPA Envirofacts",
+  "topic": "air-quality-and-pollution",
+  "country": "us",
+  "url": "https://enviro.epa.gov/",
+  "description": "Unified query and API layer over EPA's regulatory databases covering air permits, toxic releases, water discharges, hazardous waste and facility compliance.",
+  "provider": "US Environmental Protection Agency",
+  "formats": [
+    "REST API",
+    "CSV",
+    "JSON"
+  ],
+  "size": "Varies by system",
+  "records": "Millions of regulated facility records",
+  "license": "US Government public domain",
+  "license_url": "https://www.epa.gov/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "US EPA Envirofacts"
+}

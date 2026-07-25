@@ -1,0 +1,23 @@
+{
+  "id": "data-gouv-fr",
+  "name": "data.gouv.fr",
+  "topic": "addresses-and-geocoding",
+  "country": "fr",
+  "url": "https://www.data.gouv.fr/",
+  "description": "France's central open data platform hosting government, local authority and community datasets across every policy domain with a full API.",
+  "provider": "DINUM / Etalab",
+  "formats": [
+    "CSV",
+    "JSON",
+    "GeoJSON",
+    "Shapefile",
+    "REST API"
+  ],
+  "size": "Varies by dataset",
+  "records": "50,000+ datasets",
+  "license": "Mostly Licence Ouverte 2.0",
+  "license_url": "https://www.etalab.gouv.fr/licence-ouverte-open-licence/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "data.gouv.fr, Etalab"
+}

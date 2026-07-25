@@ -1,0 +1,23 @@
+{
+  "id": "data-gov-in-open-government-data-platform",
+  "name": "data.gov.in Open Government Data Platform",
+  "topic": "census-and-demographics",
+  "country": "in",
+  "url": "https://www.data.gov.in/",
+  "description": "India's central open data catalogue spanning every ministry, with a resource API and datasets covering demographics, agriculture, health and infrastructure.",
+  "provider": "National Informatics Centre",
+  "formats": [
+    "CSV",
+    "XLSX",
+    "JSON",
+    "XML",
+    "REST API"
+  ],
+  "size": "Varies by resource",
+  "records": "600,000+ resources",
+  "license": "Government Open Data License - India",
+  "license_url": "https://www.data.gov.in/government-open-data-license-india",
+  "access": "registration",
+  "commercial_use": "yes",
+  "cite": "Open Government Data Platform India"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "uspto-open-data-bulk-products",
+  "name": "USPTO Open Data Bulk Products",
+  "topic": "patents-and-trademarks",
+  "country": "us",
+  "url": "https://data.uspto.gov/",
+  "description": "Weekly full-text XML dumps of granted patents, published applications, trademark registrations and assignment records for local ingestion.",
+  "provider": "US Patent and Trademark Office",
+  "formats": [
+    "XML",
+    "ZIP",
+    "DTD"
+  ],
+  "size": "~5 TB full archive",
+  "records": "Weekly issues since 1976",
+  "license": "US Government public domain",
+  "license_url": "https://data.uspto.gov/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "USPTO Bulk Data Storage System"
+}

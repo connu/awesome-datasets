@@ -1,0 +1,20 @@
+{
+  "id": "nhs-england-statistics",
+  "name": "NHS England Statistics",
+  "topic": "public-health",
+  "country": "gb",
+  "url": "https://www.england.nhs.uk/statistics/",
+  "description": "Monthly operational statistics for the English NHS covering A&E attendances, referral to treatment waits, diagnostics, cancer waiting times and bed occupancy.",
+  "provider": "NHS England",
+  "formats": [
+    "CSV",
+    "XLSX"
+  ],
+  "size": "Multi-GB",
+  "records": "Monthly series by trust and commissioner",
+  "license": "Open Government Licence v3.0",
+  "license_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "NHS England Statistics"
+}

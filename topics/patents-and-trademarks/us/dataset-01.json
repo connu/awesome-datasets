@@ -1,0 +1,22 @@
+{
+  "id": "uspto-patentsview",
+  "name": "USPTO PatentsView",
+  "topic": "patents-and-trademarks",
+  "country": "us",
+  "url": "https://patentsview.org/",
+  "description": "A normalised relational database of US patents with disambiguated inventors and assignees, citations, CPC classifications and geocoded locations.",
+  "provider": "USPTO and PatentsView",
+  "formats": [
+    "CSV",
+    "TSV",
+    "REST API",
+    "PostgreSQL dump"
+  ],
+  "size": "~100 GB",
+  "records": "8 million+ granted patents since 1976",
+  "license": "CC BY 4.0",
+  "license_url": "https://patentsview.org/",
+  "access": "registration",
+  "commercial_use": "yes",
+  "cite": "PatentsView, US Patent and Trademark Office"
+}

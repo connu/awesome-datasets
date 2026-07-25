@@ -1,0 +1,21 @@
+{
+  "id": "american-housing-survey",
+  "name": "American Housing Survey",
+  "topic": "real-estate-and-housing",
+  "country": "us",
+  "url": "https://www.census.gov/programs-surveys/ahs.html",
+  "description": "Detailed microdata on housing units and their occupants covering size, age, condition, costs, mortgages, neighbourhood quality and recent moves.",
+  "provider": "US Census Bureau and HUD",
+  "formats": [
+    "CSV",
+    "SAS",
+    "DAT"
+  ],
+  "size": "~2 GB per biennial wave",
+  "records": "~60,000 housing units per wave",
+  "license": "US Government public domain",
+  "license_url": "https://www.census.gov/about/policies/open-gov.html",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "US Census Bureau, American Housing Survey"
+}

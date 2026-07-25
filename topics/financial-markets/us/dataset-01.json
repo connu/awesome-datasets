@@ -1,0 +1,22 @@
+{
+  "id": "sec-edgar-full-text-search-and-filings",
+  "name": "SEC EDGAR Full-Text Search and Filings",
+  "topic": "financial-markets",
+  "country": "us",
+  "url": "https://www.sec.gov/search-filings",
+  "description": "Every registration statement, annual report, quarterly report and insider transaction filed with the SEC, with structured XBRL financial statement data.",
+  "provider": "US Securities and Exchange Commission",
+  "formats": [
+    "HTML",
+    "XBRL",
+    "JSON",
+    "REST API"
+  ],
+  "size": "~5 TB full archive",
+  "records": "20 million+ filings since 1993",
+  "license": "US Government public domain",
+  "license_url": "https://www.sec.gov/privacy#dissemination",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "US Securities and Exchange Commission, EDGAR"
+}

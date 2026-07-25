@@ -1,0 +1,21 @@
+{
+  "id": "geonames",
+  "name": "GeoNames",
+  "topic": "addresses-and-geocoding",
+  "country": "us",
+  "url": "https://www.geonames.org/",
+  "description": "A global gazetteer of place names with coordinates, population, elevation, feature class, alternate names and administrative hierarchy, free to download in full.",
+  "provider": "GeoNames",
+  "formats": [
+    "TXT",
+    "ZIP",
+    "REST API"
+  ],
+  "size": "~2 GB",
+  "records": "12 million+ place names worldwide",
+  "license": "CC BY 4.0",
+  "license_url": "https://www.geonames.org/about.html",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "GeoNames geographical database"
+}

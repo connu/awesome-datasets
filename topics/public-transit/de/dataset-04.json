@@ -1,0 +1,22 @@
+{
+  "id": "govdata-germany",
+  "name": "GovData Germany",
+  "topic": "public-transit",
+  "country": "de",
+  "url": "https://www.govdata.de/",
+  "description": "Federal open data portal aggregating datasets from all sixteen states, with transport, environment, population and administration categories.",
+  "provider": "Bundesministerium des Innern",
+  "formats": [
+    "CSV",
+    "JSON",
+    "XML",
+    "WMS"
+  ],
+  "size": "Varies by dataset",
+  "records": "100,000+ datasets",
+  "license": "Varies; commonly DL-DE-BY-2.0 or CC BY 4.0",
+  "license_url": "https://www.govdata.de/informationen/lizenzen",
+  "access": "open",
+  "commercial_use": "check",
+  "cite": "GovData, Datenportal für Deutschland"
+}

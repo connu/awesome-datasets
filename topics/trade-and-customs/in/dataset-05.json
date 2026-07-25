@@ -1,0 +1,21 @@
+{
+  "id": "world-integrated-trade-solution",
+  "name": "World Integrated Trade Solution",
+  "topic": "trade-and-customs",
+  "country": "in",
+  "url": "https://wits.worldbank.org/",
+  "description": "Combined trade, tariff and non-tariff measure data for India and 200 other economies, drawing on Comtrade, TRAINS and WTO sources.",
+  "provider": "World Bank, UNCTAD and WTO",
+  "formats": [
+    "CSV",
+    "REST API",
+    "XLSX"
+  ],
+  "size": "~100 GB",
+  "records": "Trade and tariff data from 1988",
+  "license": "World Bank terms of use; CC BY 4.0 for most content",
+  "license_url": "https://wits.worldbank.org/",
+  "access": "registration",
+  "commercial_use": "check",
+  "cite": "World Integrated Trade Solution (WITS), World Bank"
+}

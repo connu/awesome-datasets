@@ -1,0 +1,20 @@
+{
+  "id": "overture-maps-foundation-data",
+  "name": "Overture Maps Foundation Data",
+  "topic": "addresses-and-geocoding",
+  "country": "us",
+  "url": "https://overturemaps.org/",
+  "description": "Open map data releases covering places, buildings, transportation, addresses and administrative divisions, published as cloud-native GeoParquet.",
+  "provider": "Overture Maps Foundation",
+  "formats": [
+    "GeoParquet",
+    "PMTiles"
+  ],
+  "size": "~500 GB",
+  "records": "Billions of features worldwide",
+  "license": "CDLA Permissive 2.0 and ODbL depending on theme",
+  "license_url": "https://docs.overturemaps.org/attribution/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Overture Maps Foundation"
+}

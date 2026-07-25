@@ -1,0 +1,20 @@
+{
+  "id": "myneta-candidate-affidavits",
+  "name": "Myneta Candidate Affidavits",
+  "topic": "elections-and-voting",
+  "country": "in",
+  "url": "https://myneta.info/",
+  "description": "Structured extracts from candidate self-declared affidavits covering assets, liabilities, criminal cases and education for national and state elections.",
+  "provider": "Association for Democratic Reforms",
+  "formats": [
+    "CSV",
+    "Web"
+  ],
+  "size": "~2 GB",
+  "records": "100,000+ candidate affidavits",
+  "license": "Free for non-commercial use with attribution",
+  "license_url": "https://myneta.info/",
+  "access": "open",
+  "commercial_use": "no",
+  "cite": "Association for Democratic Reforms, MyNeta"
+}

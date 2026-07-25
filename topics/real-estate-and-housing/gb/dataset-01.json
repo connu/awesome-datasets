@@ -1,0 +1,20 @@
+{
+  "id": "hm-land-registry-price-paid-data",
+  "name": "HM Land Registry Price Paid Data",
+  "topic": "real-estate-and-housing",
+  "country": "gb",
+  "url": "https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads",
+  "description": "Every residential property sale registered in England and Wales since 1995, with full address, price, date, property type and tenure.",
+  "provider": "HM Land Registry",
+  "formats": [
+    "CSV",
+    "Linked Data API"
+  ],
+  "size": "~4 GB complete file",
+  "records": "28 million+ transactions since 1995",
+  "license": "Open Government Licence v3.0",
+  "license_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "HM Land Registry Price Paid Data, contains HM Land Registry data Crown copyright"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "noaa-goes-satellite-imagery",
+  "name": "NOAA GOES Satellite Imagery",
+  "topic": "satellite-and-earth-observation",
+  "country": "us",
+  "url": "https://registry.opendata.aws/noaa-goes/",
+  "description": "Full-disk, continental and mesoscale imagery from the GOES-16 through GOES-19 geostationary satellites at up to 30-second refresh.",
+  "provider": "NOAA and AWS Open Data",
+  "formats": [
+    "NetCDF",
+    "COG"
+  ],
+  "size": "Petabyte-scale",
+  "records": "Continuous imagery since 2017",
+  "license": "US Government public domain",
+  "license_url": "https://www.noaa.gov/information-technology/open-data-dissemination",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "NOAA GOES on AWS, NOAA Open Data Dissemination"
+}

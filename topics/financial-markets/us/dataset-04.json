@@ -1,0 +1,20 @@
+{
+  "id": "finra-and-sec-market-structure-data",
+  "name": "FINRA and SEC Market Structure Data",
+  "topic": "financial-markets",
+  "country": "us",
+  "url": "https://www.sec.gov/data-research/market-structure",
+  "description": "Aggregated equity market metrics on trade sizes, speeds, hidden liquidity, odd lots and off-exchange volume, derived from consolidated audit trail sources.",
+  "provider": "US Securities and Exchange Commission",
+  "formats": [
+    "CSV",
+    "ZIP"
+  ],
+  "size": "~50 GB",
+  "records": "Daily security-level metrics since 2012",
+  "license": "US Government public domain",
+  "license_url": "https://www.sec.gov/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "SEC Market Structure data, Division of Economic and Risk Analysis"
+}

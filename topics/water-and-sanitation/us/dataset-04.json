@@ -1,0 +1,21 @@
+{
+  "id": "noaa-national-water-model",
+  "name": "NOAA National Water Model",
+  "topic": "water-and-sanitation",
+  "country": "us",
+  "url": "https://water.noaa.gov/about/nwm",
+  "description": "Hourly operational hydrologic forecasts of streamflow and soil moisture for millions of river reaches across the continental United States.",
+  "provider": "NOAA",
+  "formats": [
+    "NetCDF",
+    "Zarr",
+    "REST API"
+  ],
+  "size": "Petabyte-scale archive",
+  "records": "2.7 million river reaches, hourly forecasts",
+  "license": "US Government public domain",
+  "license_url": "https://www.noaa.gov/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "NOAA National Water Model"
+}

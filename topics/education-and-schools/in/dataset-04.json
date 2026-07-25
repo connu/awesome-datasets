@@ -1,0 +1,20 @@
+{
+  "id": "nirf-india-rankings-data",
+  "name": "NIRF India Rankings Data",
+  "topic": "education-and-schools",
+  "country": "in",
+  "url": "https://www.nirfindia.org/Rankings/2024/Ranking.html",
+  "description": "Official ranking framework data for Indian institutions with underlying scores for teaching, research, graduation outcomes, outreach and perception.",
+  "provider": "National Institutional Ranking Framework, Ministry of Education",
+  "formats": [
+    "PDF",
+    "XLSX"
+  ],
+  "size": "~200 MB",
+  "records": "Annual rankings across 13 categories",
+  "license": "Government Open Data License - India",
+  "license_url": "https://www.data.gov.in/government-open-data-license-india",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "National Institutional Ranking Framework, Ministry of Education"
+}

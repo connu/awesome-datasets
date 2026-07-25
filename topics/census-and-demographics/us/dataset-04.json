@@ -1,0 +1,23 @@
+{
+  "id": "ipums-usa",
+  "name": "IPUMS USA",
+  "topic": "census-and-demographics",
+  "country": "us",
+  "url": "https://usa.ipums.org/usa/",
+  "description": "Harmonised US census and ACS microdata from 1850 to the present, with consistent variable coding across 170 years that the raw files do not provide.",
+  "provider": "IPUMS, University of Minnesota",
+  "formats": [
+    "CSV",
+    "Stata",
+    "SPSS",
+    "SAS",
+    "Parquet"
+  ],
+  "size": "Varies by extract",
+  "records": "Billions of person records across samples",
+  "license": "Free for research and education; redistribution prohibited",
+  "license_url": "https://usa.ipums.org/usa/terms.shtml",
+  "access": "registration",
+  "commercial_use": "no",
+  "cite": "Ruggles et al., IPUMS USA. Minneapolis, MN: IPUMS"
+}

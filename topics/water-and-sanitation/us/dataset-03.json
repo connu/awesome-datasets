@@ -1,0 +1,21 @@
+{
+  "id": "water-quality-portal",
+  "name": "Water Quality Portal",
+  "topic": "water-and-sanitation",
+  "country": "us",
+  "url": "https://www.waterqualitydata.us/",
+  "description": "A federated warehouse combining EPA, USGS and state water quality monitoring results into one query interface and download service.",
+  "provider": "USGS, EPA and NWQMC",
+  "formats": [
+    "CSV",
+    "TSV",
+    "REST API"
+  ],
+  "size": "~200 GB",
+  "records": "400 million+ water quality results",
+  "license": "US Government public domain",
+  "license_url": "https://www.waterqualitydata.us/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Water Quality Portal, National Water Quality Monitoring Council"
+}

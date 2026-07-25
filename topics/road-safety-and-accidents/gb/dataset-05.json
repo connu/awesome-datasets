@@ -1,0 +1,22 @@
+{
+  "id": "data-gov-uk-transport",
+  "name": "data.gov.uk Transport",
+  "topic": "road-safety-and-accidents",
+  "country": "gb",
+  "url": "https://www.data.gov.uk/search?filters%5Btopic%5D=Transport",
+  "description": "National open data catalogue filtered to transport, covering traffic counts, cycling infrastructure, bus punctuality and local authority road data.",
+  "provider": "Cabinet Office",
+  "formats": [
+    "CSV",
+    "JSON",
+    "GeoJSON",
+    "WMS"
+  ],
+  "size": "Varies by dataset",
+  "records": "3,000+ transport datasets",
+  "license": "Open Government Licence v3.0",
+  "license_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "data.gov.uk"
+}

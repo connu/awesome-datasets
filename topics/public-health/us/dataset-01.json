@@ -1,0 +1,21 @@
+{
+  "id": "cms-medicare-provider-data",
+  "name": "CMS Medicare Provider Data",
+  "topic": "public-health",
+  "country": "us",
+  "url": "https://data.cms.gov/",
+  "description": "Open Medicare data covering provider utilisation and payments, hospital quality measures, drug spending, nursing home ratings and enrolment.",
+  "provider": "Centers for Medicare and Medicaid Services",
+  "formats": [
+    "CSV",
+    "JSON",
+    "REST API"
+  ],
+  "size": "Multi-GB",
+  "records": "Hundreds of datasets, billions of claim-derived rows",
+  "license": "US Government public domain",
+  "license_url": "https://data.cms.gov/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Centers for Medicare and Medicaid Services, data.cms.gov"
+}

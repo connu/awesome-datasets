@@ -1,0 +1,22 @@
+{
+  "id": "nyc-police-complaint-data",
+  "name": "NYC Police Complaint Data",
+  "topic": "crime-and-policing",
+  "country": "us",
+  "url": "https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i",
+  "description": "Every felony, misdemeanour and violation complaint reported to the NYPD since 2006, with offence classification, coordinates, premises type and suspect and victim demographics.",
+  "provider": "New York City Police Department",
+  "formats": [
+    "CSV",
+    "JSON",
+    "GeoJSON",
+    "REST API"
+  ],
+  "size": "~2 GB",
+  "records": "9 million+ complaints since 2006",
+  "license": "NYC Open Data Terms of Use",
+  "license_url": "https://opendata.cityofnewyork.us/overview/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "NYC Open Data, NYPD Complaint Data Historic"
+}

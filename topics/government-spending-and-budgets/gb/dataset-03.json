@@ -1,0 +1,23 @@
+{
+  "id": "data-gov-uk",
+  "name": "data.gov.uk",
+  "topic": "government-spending-and-budgets",
+  "country": "gb",
+  "url": "https://www.data.gov.uk/",
+  "description": "The UK's central open data catalogue covering spending, health, environment, transport, mapping and business data from central and local government.",
+  "provider": "Cabinet Office",
+  "formats": [
+    "CSV",
+    "JSON",
+    "XML",
+    "WMS",
+    "REST API"
+  ],
+  "size": "Varies by dataset",
+  "records": "50,000+ datasets",
+  "license": "Mostly Open Government Licence v3.0",
+  "license_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "access": "open",
+  "commercial_use": "check",
+  "cite": "data.gov.uk, Cabinet Office"
+}

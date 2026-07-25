@@ -1,0 +1,21 @@
+{
+  "id": "eurostat-tourism-database",
+  "name": "Eurostat Tourism Database",
+  "topic": "tourism-and-hospitality",
+  "country": "es",
+  "url": "https://ec.europa.eu/eurostat/web/tourism/database",
+  "description": "Harmonised European tourism statistics covering nights spent, occupancy, capacity and trips, comparable across all member states including Spain.",
+  "provider": "Eurostat",
+  "formats": [
+    "TSV",
+    "SDMX",
+    "REST API"
+  ],
+  "size": "~5 GB",
+  "records": "Monthly and annual series for all EU countries",
+  "license": "Eurostat reuse policy, free with attribution",
+  "license_url": "https://ec.europa.eu/eurostat/web/main/help/copyright-notice",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Eurostat, tourism statistics"
+}

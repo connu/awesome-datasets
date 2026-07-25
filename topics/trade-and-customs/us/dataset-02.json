@@ -1,0 +1,21 @@
+{
+  "id": "usitc-dataweb",
+  "name": "USITC DataWeb",
+  "topic": "trade-and-customs",
+  "country": "us",
+  "url": "https://dataweb.usitc.gov/",
+  "description": "Query interface over US trade and tariff data with import, export, tariff rate and trade balance detail, plus the Harmonized Tariff Schedule.",
+  "provider": "US International Trade Commission",
+  "formats": [
+    "CSV",
+    "XLSX",
+    "REST API"
+  ],
+  "size": "Multi-GB",
+  "records": "Trade data from 1989 onward",
+  "license": "US Government public domain",
+  "license_url": "https://www.usitc.gov/",
+  "access": "registration",
+  "commercial_use": "yes",
+  "cite": "US International Trade Commission, DataWeb"
+}

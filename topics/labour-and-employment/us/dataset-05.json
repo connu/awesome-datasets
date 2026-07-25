@@ -1,0 +1,20 @@
+{
+  "id": "census-lehd-lodes",
+  "name": "Census LEHD LODES",
+  "topic": "labour-and-employment",
+  "country": "us",
+  "url": "https://lehd.ces.census.gov/data/",
+  "description": "Origin-destination employment statistics linking where workers live to where they work at census block level, with job counts by age, earnings and industry.",
+  "provider": "US Census Bureau",
+  "formats": [
+    "CSV",
+    "GZIP"
+  ],
+  "size": "~50 GB",
+  "records": "Block-level job flows for all states since 2002",
+  "license": "US Government public domain",
+  "license_url": "https://lehd.ces.census.gov/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "US Census Bureau, LEHD Origin-Destination Employment Statistics"
+}

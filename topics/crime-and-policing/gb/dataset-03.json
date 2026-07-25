@@ -1,0 +1,21 @@
+{
+  "id": "ministry-of-justice-statistics",
+  "name": "Ministry of Justice Statistics",
+  "topic": "crime-and-policing",
+  "country": "gb",
+  "url": "https://www.gov.uk/government/organisations/ministry-of-justice/about/statistics",
+  "description": "Criminal justice system statistics covering court proceedings, sentencing, prison population, probation, reoffending and legal aid.",
+  "provider": "Ministry of Justice",
+  "formats": [
+    "CSV",
+    "XLSX",
+    "ODS"
+  ],
+  "size": "Multi-GB",
+  "records": "Quarterly and annual series",
+  "license": "Open Government Licence v3.0",
+  "license_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Ministry of Justice statistics"
+}

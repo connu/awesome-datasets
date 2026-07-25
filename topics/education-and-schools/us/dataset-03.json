@@ -1,0 +1,21 @@
+{
+  "id": "common-core-of-data",
+  "name": "Common Core of Data",
+  "topic": "education-and-schools",
+  "country": "us",
+  "url": "https://nces.ed.gov/ccd/",
+  "description": "The universe of US public schools and districts with enrolment by grade, race and gender, staffing counts, free lunch eligibility and geographic identifiers.",
+  "provider": "National Center for Education Statistics",
+  "formats": [
+    "CSV",
+    "SAS",
+    "Fixed-width"
+  ],
+  "size": "~10 GB",
+  "records": "100,000+ schools, 18,000+ districts annually",
+  "license": "US Government public domain",
+  "license_url": "https://nces.ed.gov/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "National Center for Education Statistics, Common Core of Data"
+}

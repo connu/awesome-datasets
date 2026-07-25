@@ -1,0 +1,20 @@
+{
+  "id": "cpcb-central-control-room-for-air-quality",
+  "name": "CPCB Central Control Room for Air Quality",
+  "topic": "air-quality-and-pollution",
+  "country": "in",
+  "url": "https://airquality.cpcb.gov.in/ccr/",
+  "description": "Live and historical readings from India's continuous ambient air quality monitoring network, reporting PM2.5, PM10, NO2, SO2, CO and ozone per station.",
+  "provider": "Central Pollution Control Board",
+  "formats": [
+    "CSV",
+    "Web dashboard"
+  ],
+  "size": "Varies by query",
+  "records": "500+ monitoring stations across 250+ cities",
+  "license": "Government Open Data License - India",
+  "license_url": "https://www.data.gov.in/government-open-data-license-india",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Central Pollution Control Board, Central Control Room for Air Quality Management"
+}

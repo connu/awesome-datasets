@@ -1,0 +1,21 @@
+{
+  "id": "usda-risk-management-agency-crop-insurance-data",
+  "name": "USDA Risk Management Agency Crop Insurance Data",
+  "topic": "agriculture-and-crops",
+  "country": "us",
+  "url": "https://www.rma.usda.gov/tools-reports/summary-business",
+  "description": "Summary of business files reporting insured acres, liability, premium, subsidy and indemnity payments by county, crop, practice and cause of loss.",
+  "provider": "USDA Risk Management Agency",
+  "formats": [
+    "TXT",
+    "CSV",
+    "ZIP"
+  ],
+  "size": "~10 GB",
+  "records": "County-crop records since 1989",
+  "license": "US Government public domain",
+  "license_url": "https://www.rma.usda.gov/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "USDA Risk Management Agency, Summary of Business"
+}

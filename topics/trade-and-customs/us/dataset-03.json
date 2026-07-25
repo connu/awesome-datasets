@@ -1,0 +1,21 @@
+{
+  "id": "cbp-trade-statistics",
+  "name": "CBP Trade Statistics",
+  "topic": "trade-and-customs",
+  "country": "us",
+  "url": "https://www.cbp.gov/newsroom/stats",
+  "description": "Border and port operational statistics covering cargo volumes, entries processed, seizures and traveller crossings.",
+  "provider": "US Customs and Border Protection",
+  "formats": [
+    "CSV",
+    "XLSX",
+    "Dashboard"
+  ],
+  "size": "~1 GB",
+  "records": "Monthly series by port of entry",
+  "license": "US Government public domain",
+  "license_url": "https://www.cbp.gov/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "US Customs and Border Protection, Newsroom Statistics"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "national-judicial-data-grid",
+  "name": "National Judicial Data Grid",
+  "topic": "courts-and-legal",
+  "country": "in",
+  "url": "https://njdg.ecourts.gov.in/",
+  "description": "Live monitoring dashboard of pending and disposed cases across Indian district and high courts, broken down by case type, age and stage.",
+  "provider": "eCourts, Department of Justice",
+  "formats": [
+    "Web dashboard",
+    "PDF",
+    "CSV"
+  ],
+  "size": "Varies by query",
+  "records": "50 million+ pending and disposed cases",
+  "license": "Government Open Data License - India",
+  "license_url": "https://www.data.gov.in/government-open-data-license-india",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "National Judicial Data Grid, eCourts Project"
+}

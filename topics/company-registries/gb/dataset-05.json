@@ -1,0 +1,21 @@
+{
+  "id": "opencorporates",
+  "name": "OpenCorporates",
+  "topic": "company-registries",
+  "country": "gb",
+  "url": "https://opencorporates.com/",
+  "description": "The largest open database of companies worldwide, normalising registry records from 140+ jurisdictions into consistent entity and officer schemas.",
+  "provider": "OpenCorporates",
+  "formats": [
+    "REST API",
+    "CSV",
+    "JSON"
+  ],
+  "size": "Multi-TB",
+  "records": "200 million+ companies",
+  "license": "Free API tier for open data reuse; bulk data requires a licence",
+  "license_url": "https://opencorporates.com/",
+  "access": "registration",
+  "commercial_use": "check",
+  "cite": "OpenCorporates, https://opencorporates.com/"
+}

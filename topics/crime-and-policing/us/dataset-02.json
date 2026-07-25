@@ -1,0 +1,22 @@
+{
+  "id": "bureau-of-justice-statistics-data-collections",
+  "name": "Bureau of Justice Statistics Data Collections",
+  "topic": "crime-and-policing",
+  "country": "us",
+  "url": "https://bjs.ojp.gov/data-collections",
+  "description": "National surveys and censuses of victimisation, prisons, jails, courts, prosecution and law enforcement agencies, with downloadable microdata.",
+  "provider": "Bureau of Justice Statistics",
+  "formats": [
+    "CSV",
+    "SAS",
+    "Stata",
+    "ASCII"
+  ],
+  "size": "Multi-GB",
+  "records": "50+ ongoing data collections",
+  "license": "US Government public domain",
+  "license_url": "https://bjs.ojp.gov/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Bureau of Justice Statistics, US Department of Justice"
+}

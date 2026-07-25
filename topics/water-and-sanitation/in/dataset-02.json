@@ -1,0 +1,21 @@
+{
+  "id": "central-ground-water-board-data",
+  "name": "Central Ground Water Board Data",
+  "topic": "water-and-sanitation",
+  "country": "in",
+  "url": "https://cgwb.gov.in/",
+  "description": "Groundwater level monitoring, aquifer mapping, resource assessment and quality reports for districts and blocks across India.",
+  "provider": "Central Ground Water Board",
+  "formats": [
+    "PDF",
+    "XLSX",
+    "CSV"
+  ],
+  "size": "~5 GB",
+  "records": "25,000+ monitoring wells",
+  "license": "Government Open Data License - India",
+  "license_url": "https://www.data.gov.in/government-open-data-license-india",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Central Ground Water Board, Ministry of Jal Shakti"
+}

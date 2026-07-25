@@ -1,0 +1,22 @@
+{
+  "id": "gsi-geospatial-information-authority-of-japan",
+  "name": "GSI Geospatial Information Authority of Japan",
+  "topic": "earthquakes-and-natural-hazards",
+  "country": "jp",
+  "url": "https://www.gsi.go.jp/ENGLISH/index.html",
+  "description": "National mapping data including elevation models, base maps, crustal deformation observations from GNSS and hazard-related geospatial layers.",
+  "provider": "Geospatial Information Authority of Japan",
+  "formats": [
+    "GeoTIFF",
+    "Shapefile",
+    "XML",
+    "Tiles"
+  ],
+  "size": "Terabyte-scale",
+  "records": "National coverage of Japan",
+  "license": "GSI terms of use, free reuse with attribution",
+  "license_url": "https://www.gsi.go.jp/ENGLISH/page_e30286.html",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Geospatial Information Authority of Japan"
+}

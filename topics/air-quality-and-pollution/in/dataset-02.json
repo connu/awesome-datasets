@@ -1,0 +1,21 @@
+{
+  "id": "openaq-india",
+  "name": "OpenAQ India",
+  "topic": "air-quality-and-pollution",
+  "country": "in",
+  "url": "https://openaq.org/",
+  "description": "Aggregated and normalised air quality measurements from government and research monitors worldwide, with India among the best-covered countries, exposed through an open API.",
+  "provider": "OpenAQ",
+  "formats": [
+    "REST API",
+    "CSV",
+    "Parquet"
+  ],
+  "size": "Multi-TB archive on S3",
+  "records": "2 billion+ measurements globally",
+  "license": "CC BY 4.0",
+  "license_url": "https://docs.openaq.org/",
+  "access": "registration",
+  "commercial_use": "yes",
+  "cite": "OpenAQ, https://openaq.org/"
+}

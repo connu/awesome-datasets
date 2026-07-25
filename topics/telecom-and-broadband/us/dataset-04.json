@@ -1,0 +1,21 @@
+{
+  "id": "fcc-universal-licensing-system",
+  "name": "FCC Universal Licensing System",
+  "topic": "telecom-and-broadband",
+  "country": "us",
+  "url": "https://www.fcc.gov/wireless/systems-utilities/universal-licensing-system",
+  "description": "The authoritative register of US wireless spectrum licences with licensee, frequency, geography, expiry and transaction history.",
+  "provider": "Federal Communications Commission",
+  "formats": [
+    "Fixed-width",
+    "CSV",
+    "ZIP"
+  ],
+  "size": "~20 GB",
+  "records": "Millions of active and historical licences",
+  "license": "US Government public domain",
+  "license_url": "https://www.fcc.gov/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "FCC Universal Licensing System"
+}

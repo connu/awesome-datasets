@@ -1,0 +1,22 @@
+{
+  "id": "deutsche-bundesbank-time-series-database",
+  "name": "Deutsche Bundesbank Time Series Database",
+  "topic": "banking-and-payments",
+  "country": "de",
+  "url": "https://www.bundesbank.de/en/statistics",
+  "description": "The German central bank's statistical database covering money and banking, interest rates, balance of payments, securities holdings and payment systems.",
+  "provider": "Deutsche Bundesbank",
+  "formats": [
+    "CSV",
+    "XLSX",
+    "SDMX",
+    "REST API"
+  ],
+  "size": "Multi-GB",
+  "records": "100,000+ time series",
+  "license": "Free reuse with attribution to Deutsche Bundesbank",
+  "license_url": "https://www.bundesbank.de/en",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Deutsche Bundesbank, Time series databases"
+}

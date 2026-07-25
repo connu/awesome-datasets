@@ -1,0 +1,20 @@
+{
+  "id": "openfda",
+  "name": "openFDA",
+  "topic": "public-health",
+  "country": "us",
+  "url": "https://open.fda.gov/",
+  "description": "APIs over FDA adverse event reports, drug labels, recalls, device reports and NDC product listings, with full historical downloads.",
+  "provider": "US Food and Drug Administration",
+  "formats": [
+    "REST API",
+    "JSON"
+  ],
+  "size": "~100 GB full downloads",
+  "records": "20 million+ adverse event reports",
+  "license": "US Government public domain, CC0-equivalent",
+  "license_url": "https://open.fda.gov/license/",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "openFDA, US Food and Drug Administration"
+}

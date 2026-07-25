@@ -1,0 +1,19 @@
+{
+  "id": "bom-australian-climate-observations-reference-network",
+  "name": "BOM Australian Climate Observations Reference Network",
+  "topic": "weather-and-climate",
+  "country": "au",
+  "url": "https://www.bom.gov.au/climate/data/acorn-sat/",
+  "description": "The homogenised long-term temperature reference network used for official Australian climate trend analysis, with documented adjustments.",
+  "provider": "Bureau of Meteorology",
+  "formats": [
+    "CSV"
+  ],
+  "size": "~100 MB",
+  "records": "112 reference stations from 1910",
+  "license": "CC BY 4.0",
+  "license_url": "https://www.bom.gov.au/other/copyright.shtml",
+  "access": "open",
+  "commercial_use": "yes",
+  "cite": "Bureau of Meteorology, ACORN-SAT"
+}

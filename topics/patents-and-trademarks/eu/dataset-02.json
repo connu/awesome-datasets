@@ -1,0 +1,20 @@
+{
+  "id": "epo-worldwide-patent-statistical-database-patstat",
+  "name": "EPO Worldwide Patent Statistical Database (PATSTAT)",
+  "topic": "patents-and-trademarks",
+  "country": "eu",
+  "url": "https://www.epo.org/en/searching-for-patents/business/patstat",
+  "description": "The reference bibliographic database for patent statistics research, with harmonised applicants, citations, families and legal events across 100+ offices.",
+  "provider": "European Patent Office",
+  "formats": [
+    "SQL dump",
+    "CSV"
+  ],
+  "size": "~500 GB",
+  "records": "100 million+ patent applications",
+  "license": "EPO licence; free online edition for academic use, paid for full editions",
+  "license_url": "https://www.epo.org/en/searching-for-patents/business/patstat",
+  "access": "agreement",
+  "commercial_use": "check",
+  "cite": "EPO Worldwide Patent Statistical Database (PATSTAT)"
+}

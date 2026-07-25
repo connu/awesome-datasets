@@ -1,0 +1,21 @@
+{
+  "id": "copernicus-land-monitoring-service",
+  "name": "Copernicus Land Monitoring Service",
+  "topic": "satellite-and-earth-observation",
+  "country": "eu",
+  "url": "https://land.copernicus.eu/en",
+  "description": "Pan-European land cover and land use products including CORINE Land Cover, imperviousness, forest type and high-resolution vegetation layers.",
+  "provider": "European Environment Agency",
+  "formats": [
+    "GeoTIFF",
+    "Shapefile",
+    "GeoPackage"
+  ],
+  "size": "~10 TB",
+  "records": "Pan-European coverage from 1990",
+  "license": "Copernicus open licence, free reuse with attribution",
+  "license_url": "https://land.copernicus.eu/en",
+  "access": "registration",
+  "commercial_use": "yes",
+  "cite": "Copernicus Land Monitoring Service, European Environment Agency"
+}

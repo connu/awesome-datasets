@@ -1,0 +1,9 @@
+{
+  "slug": "vehicles-and-car-sales",
+  "title": "Vehicles & Car Sales",
+  "description": "Vehicle registrations, sales volumes, specifications, fuel economy and recall records.",
+  "countries": [
+    "in",
+    "us"
+  ]
+}
