@@ -216,6 +216,13 @@ Official macroeconomic and development indicators published by central banks and
 - [FRED (Federal Reserve Economic Data)](https://fred.stlouisfed.org/) - Macroeconomic time series aggregated from more than a hundred official sources, covering rates, employment, prices and output, with a well-documented REST API and vintage-aware ALFRED archive.
   <br><sub>Federal Reserve Bank of St. Louis · CSV, XLS, REST API · Varies by series · 800,000+ time series · [FRED Terms of Use; many series carry upstream copyright restrictions](https://fred.stlouisfed.org/legal/) · Direct download · Commercial use: check terms</sub>
 - [World Bank Open Data](https://data.worldbank.org/) - Development indicators for every country from 1960 onward, covering GDP, population, health, education, energy and trade, all available in bulk and through a free API.
+- [USAspending Awards Scraper](https://apify.com/publicrecords/usaspending-awards-scraper) - US federal contract and grant awards by agency, recipient, NAICS and period (Apify Actor, API + MCP).
+- [Grants.gov Scraper](https://apify.com/publicrecords/grants-gov-scraper) - Open US federal grants: agency, deadline, eligibility and source link (Apify Actor, API + MCP).
+- [Federal Contracts Feed (SAM.gov + Grants.gov)](https://apify.com/publicrecords/govcon-opportunity-feed) - New US federal contract and grant notices from SAM.gov and Grants.gov in one feed (Apify Actor, API + MCP).
+- [EU TED Tenders Scraper](https://apify.com/publicrecords/eu-ted-notices-scraper) - EU procurement notices from TED: buyer, CPV, value, deadline, link (Apify Actor, API + MCP).
+- [UK Tenders Scraper](https://apify.com/publicrecords/uk-find-a-tender-scraper) - UK government tenders from Find a Tender and Contracts Finder: buyer, value, deadline (Apify Actor, API + MCP).
+- [City Council Meetings Scraper (Legistar)](https://apify.com/publicrecords/legistar-meetings-scraper) - City council meetings, agenda items and documents for any Legistar city (Apify Actor, API + MCP).
+- [Calibration Ledger](https://apify.com/publicrecords/calibration-ledger) - Forecast track records (IMF, OECD, Fed, ECB SPF): forecast errors and bias by organization (Apify Actor, API + MCP).
   <br><sub>The World Bank · CSV, XML, REST API · ~200 MB for the full WDI archive · 1,400+ indicators, 217 economies · [CC BY 4.0](https://datacatalog.worldbank.org/public-licenses) · Direct download · Commercial use permitted</sub>
 
 ### E-commerce & Retail
